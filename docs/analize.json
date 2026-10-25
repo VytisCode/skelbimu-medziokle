@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T19:13:36Z",
+ "sugeneruota": "2026-10-25T19:15:49Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -852,8 +852,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "ideali bukle. beveik nenaudota",
+   "bukle": "Naudota",
    "modelis": "kindle-paperwhite",
    "raktas": "kindle-paperwhite",
    "palyginamu": 4,
@@ -933,7 +933,7 @@
      "nenaudotas"
     ],
     "aprasymo_ilgis": 30,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -3754,8 +3754,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Nintendo switch oled Ekranas be defektu. Visada su stikliuku. Priedai visi yra. Kartu Minecraft žaidimas. Vilnius arba per Vinted.",
+   "bukle": "Naudota",
    "modelis": "switch-oled",
    "raktas": "switch-oled",
    "palyginamu": 4,
@@ -3834,7 +3834,7 @@
     ],
     "privalumai": [],
     "aprasymo_ilgis": 130,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -7977,8 +7977,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Bosch tvarkingas makita vargo mate bet veikia .uz viska 100e",
+   "bukle": "Naudota",
    "modelis": "makita-kita",
    "raktas": "makita-kita",
    "palyginamu": 11,
@@ -8091,7 +8091,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 60,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -8207,8 +8207,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Dji goggles v1-140€ Skyzone-160€",
+   "bukle": "Naudota",
    "modelis": "dji-kita",
    "raktas": "dji-kita",
    "palyginamu": 5,
@@ -8291,7 +8291,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 32,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -8594,8 +8594,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Milwaukee siaurapjuklis M18 FBJS Viskas veikia. be defektu. 100€ Siunciu kupiškis",
+   "bukle": "Naudota",
    "modelis": "milwaukee-kita",
    "raktas": "milwaukee-kita",
    "palyginamu": 12,
@@ -8710,7 +8710,7 @@
     ],
     "privalumai": [],
     "aprasymo_ilgis": 81,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 3,
@@ -9887,8 +9887,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "max akhl1250 KOMPRESORIAI nuo 700€ Kompresoriai Max akhl 1250 modelis Max akhl 1260 modelis Max gipso suktuvas-200€ dvi bat,kroviklis Hilti st1800-a22 su sdt 9 su stovu 350€ Hilti nuron gipso-450€ naujas su 4ah HILTI St1800-a22 laidinis naujas-80€ Kempi minarch evo 180-400€ kaip nauja Festool tg-lhs225- rinkinys su dėže žirafai-prailginimai su petnešom-210€naujas Paslode im100xi -550€ Protool rgp80-8e šlifuoklis betonui-200€ Eibenstock betono šlifuoklis-250€ Festool pjūklas axt 50la-230€ Hikoki diskinis 36v-140€ Hikoki multitulsas-80€ Milwaulee m18-fpd3-165€ Stihl kma130 su galvom-400€ Hikoki ds 18dc su 4ah impaktas-265€ Makita 40v.td 002gz01-170€ impaktas japan su dviem 2.5,krovikliu-350€ HILTI Ec1 pilnas idealus-550€ Makita dtw1002 naujas-250€ plikas Makita dtw700-195€ plikas nauji Flex siurblis su nupurtymu-400€ SPIT siurblis su nupurtymu H raide-530€ M18 fquid su 3 ah highoutpoot bat-320€ Makita 40v. td001 su 2,5ah-320€ naujas Makita pūstvas 40v-140€ Nilfisk attix 33-2h pc siurblis-550€ Hiki hidraulinis impaktas-260€ Į kitus mano skelbimus nuoroda apačioj",
+   "bukle": "Naudota",
    "modelis": "makita-kita",
    "raktas": "makita-kita",
    "palyginamu": 11,
@@ -9999,9 +9999,14 @@
    "priezastis": "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 146,
-    "pilnas": false
+    "privalumai": [
+     "ideali būklė",
+     "nauja",
+     "naujas",
+     "su dėže"
+    ],
+    "aprasymo_ilgis": 1075,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 3,
@@ -10011,7 +10016,7 @@
     "mediana": 150.0,
     "nuolaida": 0.3
    },
-   "kodel": "3-as pigiausias iš 12 (kiti 60 €–250 €, mediana 150 €), 30% pigiau už medianą.",
+   "kodel": "3-as pigiausias iš 12 (kiti 60 €–250 €, mediana 150 €), 30% pigiau už medianą. Privalumai: ideali būklė, nauja, naujas, su dėže.",
    "visi_palyginami": [
     {
      "kaina": 60.0,

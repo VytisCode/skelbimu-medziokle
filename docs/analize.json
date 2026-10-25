@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T20:57:47Z",
+ "sugeneruota": "2026-10-25T23:21:02Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -38,7 +38,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 437,
+ "skelbimu_istorijoje": 442,
  "radiniai": [
   {
    "id": "87829808",
@@ -4502,8 +4502,8 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu „Dyson“ plaukų džiovintuvą, pilkos ir aukso spalvos, su 4 priedais plaukams džiovinti ir formuoti. Modernus ir stilingas dizainas Komplekte – 4 priedai Tinka įvairiems plaukų formavimo būdams Patogus naudoti kasdien",
+   "bukle": "Nauja",
    "modelis": "dyson-kita",
    "raktas": "dyson-kita",
    "palyginamu": 12,
@@ -4611,14 +4611,15 @@
    "pelnas_per_val": 80,
    "sprendimas": "tikrinti",
    "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
-   "balas": 48,
+   "balas": 51,
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
+     "komplektas",
      "nauja"
     ],
-    "aprasymo_ilgis": 140,
-    "pilnas": false
+    "aprasymo_ilgis": 224,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -4628,7 +4629,7 @@
     "mediana": 260.0,
     "nuolaida": 0.42
    },
-   "kodel": "2-as pigiausias iš 13 (kiti 140 €–620 €, mediana 260 €), 42% pigiau už medianą. Privalumai: nauja.",
+   "kodel": "2-as pigiausias iš 13 (kiti 140 €–620 €, mediana 260 €), 42% pigiau už medianą. Privalumai: komplektas, nauja.",
    "visi_palyginami": [
     {
      "kaina": 140.0,
@@ -4753,7 +4754,7 @@
    "uz": [
     "Iš 13 panašių skelbimų pigesnis tik vienas; įprasta kaina ~260 €, šis 42 % pigesnis.",
     "Pelnas ~80 € (53 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
-    "Aprašyme: nauja."
+    "Aprašyme: komplektas, nauja."
    ],
    "pries": [
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
@@ -5683,8 +5684,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "viskas puikiai veikia nedaug naudota!",
+   "bukle": "Naudota",
    "modelis": "dyson-kita",
    "raktas": "dyson-kita",
    "palyginamu": 12,
@@ -5797,7 +5798,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 37,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 3,
@@ -7424,8 +7425,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Akumuliatorinis lapų pūstuvas Makita DUB363ZV, be akumuliatoriaus mazai naudotas viskas yra Labai galingas Gali smulkinti/siurbti lapus i maisa Bukle kaip naujas Kaina galutine, nederinama. - Prekės gamintojo kodas DUB363ZV Gamintojas Makita Brūkšninis kodas 0088381889773 Svoris 7.7 kg Akumuliatoriaus įtampa 2x18 V Bendras svoris su pakuote 7.7 kg Maks. oro srovės greitis 65 m/sec Įrankio matmenys 737 - 836x193x415 mm Oro srautas 804.000 m³/h",
+   "bukle": "Naudota",
    "modelis": "makita-dub363",
    "raktas": "makita-dub363",
    "palyginamu": 0,
@@ -7474,12 +7475,14 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
-     "mažai naudotas"
+     "mažai naudotas",
+     "nauja",
+     "naujas"
     ],
-    "aprasymo_ilgis": 148,
-    "pilnas": false
+    "aprasymo_ilgis": 446,
+    "pilnas": true
    },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
+   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas, nauja, naujas.",
    "visi_palyginami": [],
    "amzius_d": 2,
    "derybos": null,
@@ -7487,7 +7490,7 @@
    "zingsniai": [],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: mažai naudotas."
+    "Aprašyme: mažai naudotas, nauja, naujas."
    ],
    "pries": [
     "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -12920,8 +12923,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodamas tvarkingas, puikiai veikiantis ir nepakartojamas KitchenAid virtuvinis kombainas. Parduodamas su visais priedais, kartu ir nauju pagrindiniu indu. Yra ir originali dėžė. Nuoroda naujo: https://www.kulina.lt/virtuv-s-kombainas-amatininkas-juodas-kitchenaid/ Galiu siųsti. Vilnius, Pilaitė.",
+   "bukle": "Naudota",
    "modelis": "kitchenaid-artisan",
    "raktas": "kitchenaid-artisan",
    "palyginamu": 2,
@@ -12982,9 +12985,11 @@
    "balas": 0,
    "aprasymas_analize": {
     "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 149,
-    "pilnas": false
+    "privalumai": [
+     "su dėže"
+    ],
+    "aprasymo_ilgis": 300,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -12994,7 +12999,7 @@
     "mediana": 344.5,
     "nuolaida": 0.42
    },
-   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 259 €–430 €, mediana 344,5 €), 42% pigiau už medianą.",
+   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 259 €–430 €, mediana 344,5 €), 42% pigiau už medianą. Privalumai: su dėže.",
    "visi_palyginami": [
     {
      "kaina": 259.0,
@@ -13019,7 +13024,8 @@
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~344,5 €, šis 42 % pigesnis."
+    "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~344,5 €, šis 42 % pigesnis.",
+    "Aprašyme: su dėže."
    ],
    "pries": [
     "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -21486,12 +21492,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 6,
-   "mediana": 31,
+   "palyginamu": 7,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "6 panašių skelbimų mediana 31 €"
+    "7 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -21529,6 +21535,12 @@
      "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
+     "pavadinimas": "Mario Kart 8 Deluxe Nintendo Switch",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-kart-8-deluxe-nintendo-switch-87842652.html",
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
      "pavadinimas": "Splatoon Raiders (Nintendo Switch 2)",
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon-raiders-nintendo-switch-2-87802834.html",
@@ -21560,11 +21572,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
     }
    ],
-   "tiketina_pardavimo": 28,
-   "pelnas": -21,
-   "roi": -0.47,
-   "max_pirkimo": 4,
-   "pelnas_per_val": -14,
+   "tiketina_pardavimo": 32,
+   "pelnas": -18,
+   "roi": -0.39,
+   "max_pirkimo": 8,
+   "pelnas_per_val": -12,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -21578,14 +21590,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 5,
-    "is": 7,
+    "vieta": 6,
+    "is": 8,
     "min": 15.0,
     "max": 50.0,
-    "mediana": 31.0,
-    "nuolaida": -0.45
+    "mediana": 35.0,
+    "nuolaida": -0.29
    },
-   "kodel": "5-as pigiausias iš 7 (kiti 15 €–50 €, mediana 31 €), 45% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "6-as pigiausias iš 8 (kiti 15 €–50 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -21616,6 +21628,13 @@
      "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-kart-8-deluxe-nintendo-switch-87842652.html",
+     "pavadinimas": "Mario Kart 8 Deluxe Nintendo Switch",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon-raiders-nintendo-switch-2-87802834.html",
      "pavadinimas": "Splatoon Raiders (Nintendo Switch 2)",
@@ -21634,21 +21653,21 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 6 vnt., kainos 15 €–50 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
+    "Panašūs skelbimai (switch-priedai): 7 vnt., kainos 15 €–50 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 27,9 € − 45 € − 4 € = -21,1 € (-47% pirkimo kainos)",
-    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
-    "Laikas ~1.5 val. → -14,1 €/val."
+    "Pelnas = 31,5 € − 45 € − 4 € = -17,5 € (-39% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
+    "Laikas ~1.5 val. → -11,7 €/val."
    ],
-   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-21 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -39 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -22014,12 +22033,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 6,
-   "mediana": 31,
+   "palyginamu": 7,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "6 panašių skelbimų mediana 31 €"
+    "7 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -22055,6 +22074,12 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
      "vieta_laikas": "Kauno r., prieš 51 min."
+    },
+    {
+     "pavadinimas": "Mario Kart 8 Deluxe Nintendo Switch",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-kart-8-deluxe-nintendo-switch-87842652.html",
+     "vieta_laikas": "Vilnius, prieš 2 val."
     },
     {
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -22088,11 +22113,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
     }
    ],
-   "tiketina_pardavimo": 28,
-   "pelnas": -26,
-   "roi": -0.52,
-   "max_pirkimo": 4,
-   "pelnas_per_val": -17,
+   "tiketina_pardavimo": 32,
+   "pelnas": -22,
+   "roi": -0.45,
+   "max_pirkimo": 8,
+   "pelnas_per_val": -15,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -22103,14 +22128,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 7,
-    "is": 7,
+    "vieta": 8,
+    "is": 8,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 31.0,
-    "nuolaida": -0.61
+    "mediana": 35.0,
+    "nuolaida": -0.43
    },
-   "kodel": "7-as pigiausias iš 7 (kiti 15 €–45 €, mediana 31 €), 61% brangiau už medianą.",
+   "kodel": "8-as pigiausias iš 8 (kiti 15 €–45 €, mediana 35 €), 43% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -22141,6 +22166,13 @@
      "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-kart-8-deluxe-nintendo-switch-87842652.html",
+     "pavadinimas": "Mario Kart 8 Deluxe Nintendo Switch",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -22159,19 +22191,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 6 vnt., kainos 15 €–45 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
+    "Panašūs skelbimai (switch-priedai): 7 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 27,9 € − 50 € − 4 € = -26,1 € (-52% pirkimo kainos)",
-    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
-    "Laikas ~1.5 val. → -17,4 €/val."
+    "Pelnas = 31,5 € − 50 € − 4 € = -22,5 € (-45% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
+    "Laikas ~1.5 val. → -15 €/val."
    ],
-   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 7; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-26 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -52 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 8 panašių skelbimų pigesnių yra 7; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-22 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -45 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -22203,12 +22235,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 6,
-   "mediana": 31,
+   "palyginamu": 7,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "6 panašių skelbimų mediana 31 €"
+    "7 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -22246,6 +22278,12 @@
      "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
+     "pavadinimas": "Mario Kart 8 Deluxe Nintendo Switch",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-kart-8-deluxe-nintendo-switch-87842652.html",
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
@@ -22277,11 +22315,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
     }
    ],
-   "tiketina_pardavimo": 28,
-   "pelnas": -21,
-   "roi": -0.47,
-   "max_pirkimo": 4,
-   "pelnas_per_val": -14,
+   "tiketina_pardavimo": 32,
+   "pelnas": -18,
+   "roi": -0.39,
+   "max_pirkimo": 8,
+   "pelnas_per_val": -12,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -22292,14 +22330,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 5,
-    "is": 7,
+    "vieta": 6,
+    "is": 8,
     "min": 15.0,
     "max": 50.0,
-    "mediana": 31.0,
-    "nuolaida": -0.45
+    "mediana": 35.0,
+    "nuolaida": -0.29
    },
-   "kodel": "5-as pigiausias iš 7 (kiti 15 €–50 €, mediana 31 €), 45% brangiau už medianą.",
+   "kodel": "6-as pigiausias iš 8 (kiti 15 €–50 €, mediana 35 €), 29% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -22330,6 +22368,13 @@
      "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-kart-8-deluxe-nintendo-switch-87842652.html",
+     "pavadinimas": "Mario Kart 8 Deluxe Nintendo Switch",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -22348,19 +22393,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 6 vnt., kainos 15 €–50 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
+    "Panašūs skelbimai (switch-priedai): 7 vnt., kainos 15 €–50 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 27,9 € − 45 € − 4 € = -21,1 € (-47% pirkimo kainos)",
-    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
-    "Laikas ~1.5 val. → -14,1 €/val."
+    "Pelnas = 31,5 € − 45 € − 4 € = -17,5 € (-39% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
+    "Laikas ~1.5 val. → -11,7 €/val."
    ],
-   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-21 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -39 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -32547,8 +32592,8 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Bosch sodo įrankiai nauji orginalus Akumuliatorinis lapų pūstuvas PRO GBL 18V-750 Kaina 140€ https://www.bosch-professional.com/lt/lt/products/gbl-18v-750-06008D2000 Akumuliatorinis lapų pūstuvas PRO GBL 18V-800 Kaina 150€ https://www.bosch-professional.com/lt/lt/products/gbl-18v-800-06008D2200 Akumuliatorinės gyvatvorių žirklės PRO GHE 18V-50 Kaina 120 € https://www.bosch-professional.com/lt/lt/products/ghe-18v-50-06008C9500 Akumuliatorinis genėjimo pjūklas PRO GKE 18V-15 Kaina 140€ https://www.bosch-professional.com/lt/lt/products/gke-18v-15-06008D7000 Akumuliatorinis genėjimo pjūklas PRO GKE 18V-20 Kaina 160€ https://www.bosch-professional.com/lt/lt/products/gke-18v-20-06008D7100 Akumuliatorinis grandininis pjūklas PRO GKE18V-30 Kaina 180€ https://www.bosch-professional.com/lt/lt/products/gke18v-30-06008D3200 Akumuliatorinis grandininis pjūklas PRO GKE 18V-40 Kaina 210€ https://www.bosch-professional.com/lt/lt/products/gke-18v-40-06008D3000 Akumuliatorinė krūmapjovė PRO GFR 18V-23 Kaina 190€ https://www.bosch-professional.com/lt/lt/products/gfr-18v-23-06008D1000 Krūmapjovė PRO GFR18V-25BH Kaina 220€ https://www.bosch-professional.com/lt/lt/products/gfr18v-25bh-06008D1200 Akumuliatorinė žoliapjovė PRO GRT 18V-33 Kaina 170€ https://www.bosch-professional.com/lt/lt/products/grt-18v-33-06008D0000 Akumuliatorinė žoliapjovė PRO GRT 18V-40 Kaina 200€ https://www.bosch-professional.com/lt/lt/products/grt-18v-40-06008D0200 Akumuliatorius BOSCH PROFESSIONAL GBA ProCore, 18 V, 5,5 Ah Li-ion 80€ Akumuliatorius Bosch ProCORE; 18 V; 8,0 Ah; Li-ion 110€ +37067875157",
+   "bukle": "Nauja",
    "modelis": "bosch-kita",
    "raktas": "bosch-kita",
    "palyginamu": 4,
@@ -32626,8 +32671,8 @@
     "privalumai": [
      "nauja"
     ],
-    "aprasymo_ilgis": 144,
-    "pilnas": false
+    "aprasymo_ilgis": 1580,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 3,
@@ -33221,12 +33266,12 @@
    "bukle": null,
    "modelis": "steamdeck-lcd-256",
    "raktas": "steamdeck-lcd-256",
-   "palyginamu": 3,
-   "mediana": 355,
+   "palyginamu": 4,
+   "mediana": 352,
    "naujo_kaina": null,
-   "patikimumas": "žemas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
-    "3 panašių skelbimų mediana 355 €"
+    "4 panašių skelbimų mediana 352,5 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Tauragės r.",
@@ -33244,6 +33289,12 @@
      "kaina": 330.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-lcd-256gb-87455228.html",
      "vieta_laikas": "Vilniaus r., spalio 04 d."
+    },
+    {
+     "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+     "vieta_laikas": "Kaunas, rugsėjo 19 d."
     },
     {
      "pavadinimas": "Steamdeck LCD 256gb",
@@ -33277,11 +33328,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=steamdeck+lcd+256"
     }
    ],
-   "tiketina_pardavimo": 320,
-   "pelnas": -120,
+   "tiketina_pardavimo": 317,
+   "pelnas": -122,
    "roi": -0.28,
-   "max_pirkimo": 233,
-   "pelnas_per_val": -120,
+   "max_pirkimo": 232,
+   "pelnas_per_val": -122,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -33292,14 +33343,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 4,
-    "is": 4,
+    "vieta": 5,
+    "is": 5,
     "min": 330.0,
     "max": 369.0,
-    "mediana": 355.0,
+    "mediana": 352.5,
     "nuolaida": -0.23
    },
-   "kodel": "4-as pigiausias iš 4 (kiti 330 €–369 €, mediana 355 €), 23% brangiau už medianą.",
+   "kodel": "5-as pigiausias iš 5 (kiti 330 €–369 €, mediana 352,5 €), 23% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 330.0,
@@ -33307,6 +33358,13 @@
      "pavadinimas": "Steam Deck LCD 256gb",
      "rizikos": [],
      "vieta_laikas": "Vilniaus r., spalio 04 d."
+    },
+    {
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+     "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, rugsėjo 19 d."
     },
     {
      "kaina": 355.0,
@@ -33327,19 +33385,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (steamdeck-lcd-256): 3 vnt., kainos 330 €–369 €, mediana 355 € × 0.90 (realiai parduodama pigiau nei prašoma) = 319,5 €",
+    "Panašūs skelbimai (steamdeck-lcd-256): 4 vnt., kainos 330 €–369 €, mediana 352,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 317,2 €",
     "Kaštai: siunta į paštomatą iš Tauragės r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 319,5 € − 435 € − 4,5 € = -120 € (-28% pirkimo kainos)",
-    "Mokėti ne daugiau: min((319,5 € − 4,5 €) / 1.35; 319,5 € − 4,5 € − 20 €) = 233,3 €",
-    "Laikas ~1.0 val. → -120 €/val."
+    "Pelnas = 317,2 € − 435 € − 4,5 € = -122,2 € (-28% pirkimo kainos)",
+    "Mokėti ne daugiau: min((317,2 € − 4,5 €) / 1.35; 317,2 € − 4,5 € − 20 €) = 231,7 €",
+    "Laikas ~1.0 val. → -122,2 €/val."
    ],
-   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnių yra 3; įprasta kaina ~355 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~352,5 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 4 panašių skelbimų pigesnių yra 3; įprasta kaina ~355 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-120 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -28 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+    "Iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~352,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-122 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -28 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Siunta į paštomatą iš Tauragės r.: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -33706,12 +33763,12 @@
    "bukle": null,
    "modelis": "steamdeck-lcd-256",
    "raktas": "steamdeck-lcd-256",
-   "palyginamu": 3,
-   "mediana": 369,
+   "palyginamu": 4,
+   "mediana": 362,
    "naujo_kaina": null,
-   "patikimumas": "žemas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
-    "3 panašių skelbimų mediana 369 €"
+    "4 panašių skelbimų mediana 362 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilniaus r.)",
@@ -33724,6 +33781,12 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+     "vieta_laikas": "Kaunas, rugsėjo 19 d."
+    },
     {
      "pavadinimas": "Steamdeck LCD 256gb",
      "kaina": 355.0,
@@ -33762,11 +33825,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=steamdeck+lcd+256"
     }
    ],
-   "tiketina_pardavimo": 332,
-   "pelnas": -2,
-   "roi": -0.01,
-   "max_pirkimo": 243,
-   "pelnas_per_val": -1,
+   "tiketina_pardavimo": 326,
+   "pelnas": -8,
+   "roi": -0.02,
+   "max_pirkimo": 238,
+   "pelnas_per_val": -5,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -33780,14 +33843,21 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 4,
-    "min": 355.0,
+    "is": 5,
+    "min": 350.0,
     "max": 435.0,
-    "mediana": 369.0,
-    "nuolaida": 0.11
+    "mediana": 362.0,
+    "nuolaida": 0.09
    },
-   "kodel": "Pigiausias iš 4 to paties modelio skelbimų (kiti 355 €–435 €, mediana 369 €), 11% pigiau už medianą. Privalumai: mažai naudotas.",
+   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 350 €–435 €, mediana 362 €), 9% pigiau už medianą. Privalumai: mažai naudotas.",
    "visi_palyginami": [
+    {
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+     "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, rugsėjo 19 d."
+    },
     {
      "kaina": 355.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/steamdeck-lcd-256gb-87394750.html",
@@ -33814,21 +33884,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (steamdeck-lcd-256): 3 vnt., kainos 355 €–435 €, mediana 369 € × 0.90 (realiai parduodama pigiau nei prašoma) = 332,1 €",
+    "Panašūs skelbimai (steamdeck-lcd-256): 4 vnt., kainos 350 €–435 €, mediana 362 € × 0.90 (realiai parduodama pigiau nei prašoma) = 325,8 €",
     "Kaštai: atsiimti vietoje (Vilniaus r.) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 332,1 € − 330 € − 4 € = -1,9 € (-1% pirkimo kainos)",
-    "Mokėti ne daugiau: min((332,1 € − 4 €) / 1.35; 332,1 € − 4 € − 20 €) = 243 €",
-    "Laikas ~1.5 val. → -1,3 €/val."
+    "Pelnas = 325,8 € − 330 € − 4 € = -8,2 € (-2% pirkimo kainos)",
+    "Mokėti ne daugiau: min((325,8 € − 4 €) / 1.35; 325,8 € − 4 € − 20 €) = 238,4 €",
+    "Laikas ~1.5 val. → -5,5 €/val."
    ],
-   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~369 €, šis 11 % pigesnis.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnio nėra; įprasta kaina ~362 €, šis 9 % pigesnis.",
    "uz": [
     "Aprašyme: mažai naudotas."
    ],
    "pries": [
-    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~369 €, šis 11 % pigesnis.",
-    "Pelnas būtų tik ~-2 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -1 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+    "Iš 5 panašių skelbimų pigesnio nėra; įprasta kaina ~362 €, šis 9 % pigesnis.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -2 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Atsiimti vietoje (Vilniaus r.): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -33859,12 +33928,12 @@
    "bukle": null,
    "modelis": "steamdeck-lcd-256",
    "raktas": "steamdeck-lcd-256",
-   "palyginamu": 3,
-   "mediana": 355,
+   "palyginamu": 4,
+   "mediana": 352,
    "naujo_kaina": null,
-   "patikimumas": "žemas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
-    "3 panašių skelbimų mediana 355 €"
+    "4 panašių skelbimų mediana 352,5 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -33882,6 +33951,12 @@
      "kaina": 330.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-lcd-256gb-87455228.html",
      "vieta_laikas": "Vilniaus r., spalio 04 d."
+    },
+    {
+     "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+     "vieta_laikas": "Kaunas, rugsėjo 19 d."
     },
     {
      "pavadinimas": "Steamdeck LCD 256gb",
@@ -33915,11 +33990,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=steamdeck+lcd+256"
     }
    ],
-   "tiketina_pardavimo": 320,
-   "pelnas": -54,
-   "roi": -0.14,
-   "max_pirkimo": 234,
-   "pelnas_per_val": -36,
+   "tiketina_pardavimo": 317,
+   "pelnas": -56,
+   "roi": -0.15,
+   "max_pirkimo": 232,
+   "pelnas_per_val": -37,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -33935,14 +34010,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 3,
-    "is": 4,
+    "vieta": 4,
+    "is": 5,
     "min": 330.0,
     "max": 435.0,
-    "mediana": 355.0,
-    "nuolaida": -0.04
+    "mediana": 352.5,
+    "nuolaida": -0.05
    },
-   "kodel": "3-as pigiausias iš 4 (kiti 330 €–435 €, mediana 355 €), 4% brangiau už medianą. Privalumai: ideali būklė, komplektas, nauja, naujas.",
+   "kodel": "4-as pigiausias iš 5 (kiti 330 €–435 €, mediana 352,5 €), 5% brangiau už medianą. Privalumai: ideali būklė, komplektas, nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 330.0,
@@ -33950,6 +34025,13 @@
      "pavadinimas": "Steam Deck LCD 256gb",
      "rizikos": [],
      "vieta_laikas": "Vilniaus r., spalio 04 d."
+    },
+    {
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+     "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, rugsėjo 19 d."
     },
     {
      "kaina": 355.0,
@@ -33970,21 +34052,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (steamdeck-lcd-256): 3 vnt., kainos 330 €–435 €, mediana 355 € × 0.90 (realiai parduodama pigiau nei prašoma) = 319,5 €",
+    "Panašūs skelbimai (steamdeck-lcd-256): 4 vnt., kainos 330 €–435 €, mediana 352,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 317,2 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 319,5 € − 369 € − 4 € = -53,5 € (-14% pirkimo kainos)",
-    "Mokėti ne daugiau: min((319,5 € − 4 €) / 1.35; 319,5 € − 4 € − 20 €) = 233,7 €",
-    "Laikas ~1.5 val. → -35,7 €/val."
+    "Pelnas = 317,2 € − 369 € − 4 € = -55,8 € (-15% pirkimo kainos)",
+    "Mokėti ne daugiau: min((317,2 € − 4 €) / 1.35; 317,2 € − 4 € − 20 €) = 232 €",
+    "Laikas ~1.5 val. → -37,2 €/val."
    ],
-   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnių yra 2; įprasta kaina ~355 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~352,5 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: ideali būklė, komplektas, nauja, naujas."
    ],
    "pries": [
-    "Iš 4 panašių skelbimų pigesnių yra 2; įprasta kaina ~355 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-54 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -14 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~352,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-56 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -15 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -34517,6 +34598,269 @@
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
+  },
+  {
+   "id": "87842708",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/joolz-vezimelis-2in1-87842708.html",
+   "pavadinimas": "Joolz vežimėlis 2in1",
+   "kaina": 90.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5286007230/joolz-vezimelis-2in1.jpg",
+   "aprasymas": "Parduodu mėlynos spalvos „Joolz“ vežimėlį su lopšiu ir sportine dalimi. Sportinė sėdimoji dalis galima montuoti į abi puses, kad vaikas...",
+   "vieta_laikas": "Kita, prieš 1 val.",
+   "paieska": "Vežimėliai",
+   "pastebetas": "2026-10-25T23:19:56Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "joolz-vezimelis2",
+   "raktas": "joolz-vezimelis2",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kita",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": true,
+    "nepervezamas": true
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=joolz+vezimelis2"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=joolz+vezimelis2"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=joolz+vezimelis2"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=joolz+vezimelis2"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "praleisti",
+   "balas": 0,
+   "priezastis": "didelis daiktas Kita – netelpa į siuntą, važiuoti neapsimoka",
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 138,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti.",
+   "visi_palyginami": [],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "didelis daiktas Kita – netelpa į siuntą, važiuoti neapsimoka"
+   ],
+   "isvada": "Praleisk: rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).",
+    "Didelis daiktas Kita – netelpa į paštomatą, o važiuoti neapsimoka."
+   ],
+   "logistika": null,
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87151134",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-steam-deck-lcd-256gb-87151134.html",
+   "pavadinimas": "Parduodu Steam Deck LCD 256gb",
+   "kaina": 350.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5177898240/parduodu-steam-deck-lcd-256gb.jpg",
+   "aprasymas": "Parduodu STEAM DECK LCD 256GB Kompiuteris veikia puikiai, susitvarko su visais žaidimais puikiai. Buklė puiki, mažai naudotas. Komplektacijoj...",
+   "vieta_laikas": "Kaunas, rugsėjo 19 d.",
+   "paieska": "Steam Deck",
+   "pastebetas": "2026-10-25T23:19:56Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "steamdeck-lcd-256",
+   "raktas": "steamdeck-lcd-256",
+   "palyginamu": 4,
+   "mediana": 362,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "4 panašių skelbimų mediana 362 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Steam Deck LCD 256gb",
+     "kaina": 330.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-lcd-256gb-87455228.html",
+     "vieta_laikas": "Vilniaus r., spalio 04 d."
+    },
+    {
+     "pavadinimas": "Steamdeck LCD 256gb",
+     "kaina": 355.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steamdeck-lcd-256gb-87394750.html",
+     "vieta_laikas": "Vilnius, spalio 01 d."
+    },
+    {
+     "pavadinimas": "Kaip naujas! Steam Deck LCD 256gb + Dock",
+     "kaina": 369.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kaip-naujas-steam-deck-lcd-256gb-dock-87353218.html",
+     "vieta_laikas": "Vilnius, rugsėjo 29 d."
+    },
+    {
+     "pavadinimas": "256gb LCD Steam deck su Jsaux mod case + kita",
+     "kaina": 435.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/256gb-lcd-steam-deck-su-jsaux-mod-case-kita-87754446.html",
+     "vieta_laikas": "Tauragės r., spalio 21 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=steamdeck+lcd+256"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=steamdeck+lcd+256"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=steamdeck+lcd+256"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=steamdeck+lcd+256"
+    }
+   ],
+   "tiketina_pardavimo": 326,
+   "pelnas": -29,
+   "roi": -0.08,
+   "max_pirkimo": 238,
+   "pelnas_per_val": -29,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "komplektas",
+     "mažai naudotas"
+    ],
+    "aprasymo_ilgis": 144,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 2,
+    "is": 5,
+    "min": 330.0,
+    "max": 435.0,
+    "mediana": 362.0,
+    "nuolaida": 0.03
+   },
+   "kodel": "2-as pigiausias iš 5 (kiti 330 €–435 €, mediana 362 €), 3% pigiau už medianą. Privalumai: komplektas, mažai naudotas.",
+   "visi_palyginami": [
+    {
+     "kaina": 330.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-lcd-256gb-87455228.html",
+     "pavadinimas": "Steam Deck LCD 256gb",
+     "rizikos": [],
+     "vieta_laikas": "Vilniaus r., spalio 04 d."
+    },
+    {
+     "kaina": 355.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steamdeck-lcd-256gb-87394750.html",
+     "pavadinimas": "Steamdeck LCD 256gb",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, spalio 01 d."
+    },
+    {
+     "kaina": 369.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kaip-naujas-steam-deck-lcd-256gb-dock-87353218.html",
+     "pavadinimas": "Kaip naujas! Steam Deck LCD 256gb + Dock",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, rugsėjo 29 d."
+    },
+    {
+     "kaina": 435.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/256gb-lcd-steam-deck-su-jsaux-mod-case-kita-87754446.html",
+     "pavadinimas": "256gb LCD Steam deck su Jsaux mod case + kita",
+     "rizikos": [],
+     "vieta_laikas": "Tauragės r., spalio 21 d."
+    }
+   ],
+   "amzius_d": 36,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (steamdeck-lcd-256): 4 vnt., kainos 330 €–435 €, mediana 362 € × 0.90 (realiai parduodama pigiau nei prašoma) = 325,8 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 325,8 € − 350 € − 4,5 € = -28,7 € (-8% pirkimo kainos)",
+    "Mokėti ne daugiau: min((325,8 € − 4,5 €) / 1.35; 325,8 € − 4,5 € − 20 €) = 238 €",
+    "Laikas ~1.0 val. → -28,7 €/val."
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~362 €, šis 3 % pigesnis.",
+   "uz": [
+    "Aprašyme: komplektas, mažai naudotas."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~362 €, šis 3 % pigesnis.",
+    "Pelnas būtų tik ~-29 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "didelė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Suma didelė (350 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
   }
  ],
  "kalibracija": {
@@ -34569,7 +34913,7 @@
    "max": 200.0
   },
   "switch-priedai": {
-   "n": 7,
+   "n": 8,
    "mediana": 35,
    "min": 15.0,
    "max": 50.0
@@ -34791,10 +35135,10 @@
    "max": 640.0
   },
   "foto-kita": {
-   "n": 20,
-   "mediana": 122,
+   "n": 22,
+   "mediana": 142,
    "min": 15.0,
-   "max": 350.0
+   "max": 680.0
   },
   "bosch-kita": {
    "n": 9,
@@ -34827,8 +35171,8 @@
    "max": 650.0
   },
   "steamdeck-lcd-256": {
-   "n": 4,
-   "mediana": 362,
+   "n": 5,
+   "mediana": 355,
    "min": 330.0,
    "max": 435.0
   },

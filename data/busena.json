@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-25T20:56:41Z",
+ "paleista": "2026-10-25T23:19:56Z",
  "proxy": true,
  "paieskos": [
   {
@@ -9,8 +9,8 @@
    "puslapio_pavadinimas": "makita skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Lego",
@@ -19,8 +19,8 @@
    "puslapio_pavadinimas": "lego skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 4,
-   "atrinkta_nauju": 2
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Nintendo Switch",
@@ -49,8 +49,8 @@
    "puslapio_pavadinimas": "dewalt skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Milwaukee įrankiai",
@@ -69,7 +69,7 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -99,7 +99,7 @@
    "puslapio_pavadinimas": "dji skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -149,8 +149,8 @@
    "puslapio_pavadinimas": "robotas siurblys skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "iPad",
@@ -169,7 +169,7 @@
    "puslapio_pavadinimas": "fotoaparatas skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 2,
    "atrinkta_nauju": 0
   },
   {
@@ -190,7 +190,7 @@
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
    "nauju": 1,
-   "atrinkta_nauju": 0
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Steam Deck",
@@ -199,8 +199,8 @@
    "puslapio_pavadinimas": "steam deck skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   }
  ],
  "detales": {

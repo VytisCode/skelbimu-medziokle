@@ -104,23 +104,27 @@ def main():
     msg["From"], msg["To"] = formataddr((str(Header("Skelbimų medžioklė", "utf-8")), user)), to
     klaidos = []
     for bandymas in range(3):
+        etapas = "jungiamasi"
         try:
             if bandymas == 1:  # atsarginis kelias – STARTTLS per 587
-                with smtplib.SMTP("smtp.gmail.com", 587, timeout=60) as s:
-                    s.starttls(); s.login(user, pw); s.sendmail(user, [to], msg.as_string())
+                s = smtplib.SMTP("smtp.gmail.com", 587, timeout=60)
+                etapas = "starttls"; s.starttls()
             else:
-                with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as s:
-                    s.login(user, pw); s.sendmail(user, [to], msg.as_string())
+                s = smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60)
+            etapas = "prisijungimas"; s.login(user, pw)
+            etapas = "siuntimas"; s.sendmail(user, [to], msg.as_string())
+            s.quit()
             break
         except smtplib.SMTPAuthenticationError as e:
             print("Gmail atmetė prisijungimą – patikrink GMAIL_USER ir GMAIL_PASSWORD (reikia App password):", e.smtp_code)
             sys.exit(0)
         except Exception as e:
-            klaidos.append(f"{type(e).__name__}: {e}")
+            klaidos.append(f"{etapas}: {type(e).__name__}: {e}")
             time.sleep(5)
     else:
         print("Laiško išsiųsti nepavyko:", "; ".join(klaidos))
         sys.exit(0)
+    print("Išsiųsta.")
     pranesta.update(str(r["id"]) for r in nauji)
     PRANESTA.write_text(json.dumps(sorted(pranesta), ensure_ascii=False))
     print(f"Išsiųsta apie {len(nauji)} radinius.")

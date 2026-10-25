@@ -115,12 +115,14 @@ function reasons(r) {
 
 // ---------- Radinio kortelė ----------
 function card(r, big) {
-  const c = el("article", "card" + (big ? " big" : ""));
+  const local = r.kastai && r.kastai.vietinis;
+  const c = el("article", "card" + (big ? " big" : "") + (local ? " local" : ""));
   const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer";
   img.onerror = () => img.style.visibility = "hidden"; if (r.nuotrauka) img.src = r.nuotrauka;
   const head = el("div", "head"); const tt = el("div", "tt");
   tt.append(link(r.nuoroda, r.pavadinimas || "(be pavadinimo)"), el("span", "verdict v-" + r.sprendimas, LABEL[r.sprendimas] || r.sprendimas));
   head.append(img, tt);
+  if (local) { const lb = el("div", "localtag", "📍 Atsiimk gyvai – " + ((r.kastai.budas.match(/\(([^)]+)\)/) || [])[1] || "vietinis")); head.append(lb); }
   const body = el("div", "body");
   body.append(el("p", "isvada", r.isvada || r.priezastis || ""));
   const nums = el("div", "nums");
@@ -172,8 +174,10 @@ function render() {
   $("tiles").replaceChildren(...[["verta", "Pirkti", cnt("verta")], ["derėtis", "Derėtis", cnt("derėtis")], ["tikrinti", "Patikrinti", cnt("tikrinti")], ["verta", "Galimas pelnas", fmt(profit)]]
     .map(([k, t, v]) => { const b = el("button", "tile"); b.type = "button"; b.append(el("span", "eyebrow", t), el("b", "", v));
       b.onclick = () => { filter = k; render(); $("radiniai").scrollIntoView({behavior: "smooth"}); }; return b; }));
-  $("tabs").replaceChildren(...["verta", "derėtis", "tikrinti", "nežinoma", "praleisti", "visi"].map(k => {
-    const b = el("button", "", (LABEL[k] || "Visi") + " (" + (k === "visi" ? R.length : cnt(k)) + ")");
+  const isLocal = r => r.kastai && r.kastai.vietinis;
+  const goodLocal = R.filter(r => isLocal(r) && ["verta", "derėtis", "tikrinti"].includes(r.sprendimas));
+  $("tabs").replaceChildren(...["verta", "derėtis", "tikrinti", "vietiniai", "nežinoma", "praleisti", "visi"].map(k => {
+    const b = el("button", "", (k === "vietiniai" ? "📍 Vietiniai" : LABEL[k] || "Visi") + " (" + (k === "visi" ? R.length : k === "vietiniai" ? goodLocal.length : cnt(k)) + ")");
     b.type = "button"; b.setAttribute("aria-pressed", k === filter); b.onclick = () => { filter = k; render(); }; return b;
   }));
   // piltuvas: kiek peržiūrėta ir kodėl atmesta – kad būtų matyti, jog tikrinama plačiai
@@ -186,7 +190,7 @@ function render() {
   const kat = new Set(R.map(r => r.paieska)).size;
   fu.textContent = `Dabar stebima ${R.length} skelbimų iš ${kat} kategorijų (${(B && B.paieskos || []).length} paieškos). Atmesta ar laukia: ` +
     Object.entries(why).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k} – ${v}`).join(", ") + ". Kiekvieno priežastis – kortelėje.";
-  const rows = R.filter(r => filter === "visi" || r.sprendimas === filter);
+  const rows = filter === "vietiniai" ? goodLocal.sort((a, b) => b.balas - a.balas) : R.filter(r => filter === "visi" || r.sprendimas === filter);
   $("cards").replaceChildren(...(rows.length ? rows.map(r => card(r)) : [el("p", "note", "Šioje grupėje šiuo metu nieko nėra.")]));
 }
 

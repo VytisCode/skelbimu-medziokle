@@ -1,11 +1,11 @@
 /* Vienas stulpelis telefonui: suvestinė → sprendimų filtrai → radinių kortelės pagal balą → rinkos kainos */
 :root{
   --bg:#f3f4f2;--panel:#fff;--fg:#1d2321;--muted:#5d6763;--line:#d9ddd9;--accent:#c4421a;
-  --ok:#2f7a4a;--okbg:#e3f1e7;--warn:#9a6a00;--warnbg:#fbf0d4;--skip:#8a8f8c;--new:#2a62b8;
+  --ok:#2f7a4a;--okbg:#e3f1e7;--warn:#9a6a00;--warnbg:#fbf0d4;--skip:#8a8f8c;--new:#2a62b8;--loc:#1f6fb2;--locbg:#eaf3fb;
   --display:"Barlow Condensed","Arial Narrow",sans-serif;--body:"Source Sans 3",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace;
   color-scheme:light
 }
-@media (prefers-color-scheme:dark){:root{--bg:#151918;--panel:#1d2321;--fg:#e8ebe9;--muted:#9aa39f;--line:#2e3633;--accent:#f0703f;--ok:#6cc58c;--okbg:#1f3428;--warn:#e0b44a;--warnbg:#3a3020;--skip:#7d8582;--new:#7aa7f0;color-scheme:dark}}
+@media (prefers-color-scheme:dark){:root{--bg:#151918;--panel:#1d2321;--fg:#e8ebe9;--muted:#9aa39f;--line:#2e3633;--accent:#f0703f;--ok:#6cc58c;--okbg:#1f3428;--warn:#e0b44a;--warnbg:#3a3020;--skip:#7d8582;--new:#7aa7f0;--loc:#7ab8ef;--locbg:#16283a;color-scheme:dark}}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.45 var(--body)}
@@ -134,3 +134,8 @@ td.t{white-space:normal;min-width:160px}
 .axis .tick span{position:absolute;top:24px;transform:translateX(-50%);font-size:.68rem;color:var(--muted);white-space:nowrap}
 .safe{border-left:4px solid var(--ok);padding-left:8px}.safe.s-vidutinė{border-color:var(--warn)}.safe.s-didelė{border-color:var(--accent)}
 .safe.s-didelė summary{color:var(--accent);font-weight:600}.safe.s-vidutinė summary{color:var(--warn);font-weight:600}
+.card.local{background:var(--locbg);border-color:var(--loc);border-left-width:6px}
+.best .card.local{border-color:var(--loc)}
+.localtag{grid-column:1/-1;justify-self:start;font:700 .8rem var(--body);color:#fff;background:var(--loc);border-radius:999px;padding:3px 10px}
+@media (prefers-color-scheme:dark){.localtag{color:#0b1a28}}
+.card.local .axisbox,.card.local pre{background:var(--panel)}

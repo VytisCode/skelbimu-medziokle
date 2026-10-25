@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T19:15:49Z",
+ "sugeneruota": "2026-10-25T19:18:28Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -3922,8 +3922,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Originalus akumuliatorinis smūginis suktuvas Makita DTD152Z, 18 V Naudotas, bet veikia gerai. Be pašalinių garsų.",
+   "bukle": "Naudota",
    "modelis": "makita-dtd152",
    "raktas": "makita-dtd152",
    "palyginamu": 1,
@@ -3980,7 +3980,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 113,
-    "pilnas": false
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [
@@ -4014,8 +4014,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Originalus akumuliatorinis smūginis gręžtuvas Makita DHP484Z, 18 V. Naudotas, bet veikia gerai. Be pašalinių garsų.",
+   "bukle": "Naudota",
    "modelis": "makita-dhp484",
    "raktas": "makita-dhp484",
    "palyginamu": 0,
@@ -4065,7 +4065,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 115,
-    "pilnas": false
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
@@ -4087,8 +4087,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "18V be defektu. Akumuliatoriaus ir kroviklio nėra. Vietoj galiu duot pasitikrint akumuliatoriu. Galiu siųsti paštomatu, autobusu siuntomis Kaina 20€",
+   "bukle": "Naudota",
    "modelis": "makita-dtd152",
    "raktas": "makita-dtd152",
    "palyginamu": 1,
@@ -4146,8 +4146,8 @@
      "defektas"
     ],
     "privalumai": [],
-    "aprasymo_ilgis": 147,
-    "pilnas": false
+    "aprasymo_ilgis": 148,
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Aprašyme: defektas.",
    "visi_palyginami": [
@@ -8364,8 +8364,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Makita irankiai,tvarkingi.",
+   "bukle": "Naudota",
    "modelis": "makita-kita",
    "raktas": "makita-kita",
    "palyginamu": 11,
@@ -8478,7 +8478,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 26,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 4,
@@ -15853,8 +15853,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "007 James bond first light puiki būklė",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 11,
@@ -15967,7 +15967,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 38,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 4,
@@ -18874,8 +18874,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotas",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 11,
@@ -18988,7 +18988,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 8,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 4,

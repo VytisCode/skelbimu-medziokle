@@ -1,0 +1,47 @@
+{
+ "paleista": "2026-10-25T17:36:10Z",
+ "proxy": true,
+ "paieskos": [
+  {
+   "pavadinimas": "Makita įrankiai",
+   "kodas": 200,
+   "kb_per_proxy": 141.3,
+   "puslapio_pavadinimas": "makita skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 24,
+   "atrinkta_nauju": 15
+  },
+  {
+   "pavadinimas": "Lego",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "lego skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 24,
+   "atrinkta_nauju": 8
+  },
+  {
+   "pavadinimas": "Nintendo Switch",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "nintendo switch skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 24,
+   "atrinkta_nauju": 17
+  },
+  {
+   "pavadinimas": "Garmin laikrodžiai",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 24,
+   "atrinkta_nauju": 8
+  }
+ ],
+ "kb_per_proxy_viso": 588.0
+}

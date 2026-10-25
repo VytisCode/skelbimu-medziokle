@@ -35,11 +35,16 @@ jobs:
         id: paieska
         continue-on-error: true
         run: xvfb-run -a python -u skelbiu.py
+      - name: Analizė svetainei
+        if: always()
+        run: |
+          python -u analize.py data/vertinimai.json docs/analize.json
+          cp data/busena.json docs/busena.json
       - name: Išsaugoti istoriją
         run: |
           git config user.name "skelbimu-robotas"
           git config user.email "actions@users.noreply.github.com"
-          git add data/
+          git add data/ docs/
           git diff --cached --quiet || git commit -m "Paieška $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase -q origin "${GITHUB_REF_NAME}" || true
           git push

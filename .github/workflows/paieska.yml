@@ -3,9 +3,10 @@ name: Skelbiu.lt paieška
 # Kas valandą (:23, ne apvalia minute, nes GitHub per pilnas valandas vėlina paleidimus).
 # Viena lengva HTTP užklausa kiekvienai paieškai per Proxy-Cheap, be naršyklės ir be nuotraukų.
 # Repo viešas, todėl Actions minutės nemokamos. Ranka: Actions → "Skelbiu.lt paieška" → Run workflow.
+# Grafikas išjungtas 2026-10-25: Skelbiu.lt (Cloudflare) blokuoja paprastas HTTP užklausas (403).
 on:
-  schedule:
-    - cron: "23 * * * *"
+  # schedule:
+  #   - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:

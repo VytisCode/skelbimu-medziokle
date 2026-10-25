@@ -47,6 +47,9 @@ def pastraipos(r):
         p.append("Derybos: " + planas[0])
     if r.get("logistika"):
         p.append(r["logistika"])
+    g = r.get("saugumas")
+    if g:
+        p.append(f"Sukčių rizika: {g['lygis']}. {g['zingsniai'][0]}")
     return p
 
 

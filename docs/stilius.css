@@ -132,3 +132,5 @@ td.t{white-space:normal;min-width:160px}
 .axt tr.me td{font-weight:700}
 .axis .tick{position:absolute;top:52px;height:8px;border-left:1px solid var(--muted)}
 .axis .tick span{position:absolute;top:24px;transform:translateX(-50%);font-size:.68rem;color:var(--muted);white-space:nowrap}
+.safe{border-left:4px solid var(--ok);padding-left:8px}.safe.s-vidutinė{border-color:var(--warn)}.safe.s-didelė{border-color:var(--accent)}
+.safe.s-didelė summary{color:var(--accent);font-weight:600}.safe.s-vidutinė summary{color:var(--warn);font-weight:600}

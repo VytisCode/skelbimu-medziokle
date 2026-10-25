@@ -81,7 +81,7 @@ function coach(r, open) {
   const ol = el("ol", "plan"); d.planas.forEach(t => ol.append(el("li", "", t))); det.append(ol);
   const local = r.kastai && r.kastai.vietinis;
   const txt = `Laba diena, ar „${r.pavadinimas}“ dar parduodamas? Ar viskas veikia, nėra defektų? Kas įeina į komplektą? ` +
-    `Galėčiau sumokėti ${d.siulymas} € ` + (local ? "ir atsiimti greitai." : "– siuntimą į paštomatą apmokėčiau pats.") + " Ačiū!";
+    `Galėčiau sumokėti ${d.siulymas} € ` + (local ? "ir atsiimti greitai." : "– jei išsiųstumėte išperkamąja siunta, sumokėčiau atsiimdamas.") + " Ačiū!";
   const pre = el("pre", "", txt); const btn = el("button", "copy", "Kopijuoti pirmą žinutę"); btn.type = "button";
   btn.onclick = () => navigator.clipboard.writeText(txt).then(() => btn.textContent = "Nukopijuota – įklijuok Skelbiu.lt žinutėje", () => getSelection().selectAllChildren(pre));
   det.append(pre, btn);
@@ -90,6 +90,17 @@ function coach(r, open) {
     det.append(el("div", "sub", "Jei pardavėjas nenori leisti – paminėk:"));
     const ul = el("ul", "comps"); d.argumentai.forEach(a => { const li = el("li"); if (a.url) li.append(link(a.url, a.t)); else li.textContent = a.t; ul.append(li); }); det.append(ul);
   }
+  return det;
+}
+
+// ---------- Apsauga nuo sukčių ----------
+function safety(r, open) {
+  const g = r.saugumas; if (!g) return null;
+  const det = el("details", "safe s-" + g.lygis); det.open = !!open && g.lygis !== "maža";
+  det.append(el("summary", "", `Sukčių rizika: ${g.lygis}. Kaip apsisaugoti`));
+  const ol = el("ol", "plan"); g.zingsniai.forEach(t => ol.append(el("li", "", t))); det.append(ol);
+  if (g.zinute) { const pre = el("pre", "", g.zinute); const b = el("button", "copy", "Kopijuoti klausimą pardavėjui"); b.type = "button";
+    b.onclick = () => navigator.clipboard.writeText(g.zinute).then(() => b.textContent = "Nukopijuota", () => getSelection().selectAllChildren(pre)); det.append(pre, b); }
   return det;
 }
 
@@ -120,6 +131,7 @@ function card(r, big) {
   body.append(nums, reasons(r));
   const axb = priceAxis(r); if (axb) body.append(axb);
   if (r.bukle) body.append(el("div", "meta", "Būklė: " + r.bukle));
+  const sf = safety(r, big); if (sf) body.append(sf);
   const co = coach(r, big); if (co) body.append(co);
   body.append(el("div", "meta", [r.modelis, "kainos patikimumas: " + r.patikimumas, r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
   if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES su siuntimu pigesnis nei LT skelbimuose."));

@@ -375,7 +375,40 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
             r["balas"] = min(100, r["balas"] + 5)
     r["zingsniai"] = zingsniai
     r.update(paaiskinimas(s, r, istartinas))
+    r["saugumas"] = saugumas(s, r, istartinas)
     return r
+
+
+APPLE = ("ipad", "iphone", "macbook", "apple watch", "airpods")
+
+
+def saugumas(s: dict, r: dict, istartinas) -> dict:
+    """Kaip apsisaugoti nuo sukčių: rizikos lygis ir konkretūs žingsniai šiam skelbimui."""
+    kaina = s.get("kaina") or 0
+    k = r.get("kastai") or {}
+    pav = be_diakritiku(s.get("pavadinimas"))
+    if k.get("vietinis"):
+        lygis = "didelė" if istartinas else "maža"
+        zingsniai = ["Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+                     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+                     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“."]
+    else:
+        lygis = "didelė" if istartinas or kaina > 150 else "vidutinė"
+        zingsniai = ["Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+                     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+                     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+                     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+                     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę."]
+        if kaina > 150:
+            zingsniai.append(f"Suma didelė ({eur(kaina)}). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.")
+    if any(z in pav for z in APPLE):
+        zingsniai.append("Apple daiktai: paprašyk serijos numerio ir patikrink checkcoverage.apple.com. Prieš mokėdamas įsitikink, kad išjungtas „Find My“ (iCloud užraktas).")
+    if istartinas:
+        zingsniai.insert(0, "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.")
+    zingsniai.append("Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt.")
+    zinute = ("Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. "
+              "Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?") if not k.get("vietinis") else None
+    return {"lygis": lygis, "zingsniai": zingsniai, "zinute": zinute}
 
 
 def paaiskinimas(s: dict, r: dict, istartinas) -> dict:

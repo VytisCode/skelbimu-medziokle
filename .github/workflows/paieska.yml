@@ -1,12 +1,12 @@
 name: Skelbiu.lt paieška
 
 # Kas valandą (:23, ne apvalia minute, nes GitHub per pilnas valandas vėlina paleidimus).
-# Viena lengva HTTP užklausa kiekvienai paieškai per Proxy-Cheap, be naršyklės ir be nuotraukų.
+# Skelbiu.lt saugo Cloudflare (paprastos HTTP užklausos gauna 403), todėl tikra Chromium naršyklė per
+# Proxy-Cheap, po vieną puslapį kiekvienai paieškai, be nuotraukų, stilių ir reklamų.
 # Repo viešas, todėl Actions minutės nemokamos. Ranka: Actions → "Skelbiu.lt paieška" → Run workflow.
-# Grafikas išjungtas 2026-10-25: Skelbiu.lt (Cloudflare) blokuoja paprastas HTTP užklausas (403).
 on:
-  # schedule:
-  #   - cron: "23 * * * *"
+  schedule:
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,10 +29,12 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+      - name: Naršyklė
+        run: pip install -q playwright && python -m playwright install --with-deps chromium
       - name: Paieška
         id: paieska
         continue-on-error: true
-        run: python -u skelbiu.py
+        run: xvfb-run -a python -u skelbiu.py
       - name: Išsaugoti istoriją
         run: |
           git config user.name "skelbimu-robotas"

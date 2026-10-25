@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T18:29:57Z",
+ "sugeneruota": "2026-10-25T18:42:38Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -36,7 +36,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 219,
+ "skelbimu_istorijoje": 220,
  "radiniai": [
   {
    "id": "80962451",
@@ -146,12 +146,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 170,
+   "palyginamu": 6,
+   "mediana": 165,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 170 €"
+    "6 panašių skelbimų mediana 165 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -199,12 +199,6 @@
      "kaina": 200.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
      "vieta_laikas": "Klaipėda, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -226,20 +220,20 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 153,
-   "pelnas": 58,
-   "roi": 0.65,
-   "max_pirkimo": 110,
-   "pelnas_per_val": 58,
+   "tiketina_pardavimo": 148,
+   "pelnas": 54,
+   "roi": 0.6,
+   "max_pirkimo": 107,
+   "pelnas_per_val": 54,
    "sprendimas": "verta",
-   "priezastis": "pelnas ~58,5 € (65%), siunta į paštomatą iš Kaunas",
-   "balas": 67,
+   "priezastis": "pelnas ~54 € (60%), siunta į paštomatą iš Kaunas",
+   "balas": 62,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 100 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 100 €–200 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 153 € − 90 € − 4,5 € = 58,5 € (65% pirkimo kainos)",
-    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
-    "Laikas ~1.0 val. → 58,5 €/val."
+    "Pelnas = 148,5 € − 90 € − 4,5 € = 54 € (60% pirkimo kainos)",
+    "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
+    "Laikas ~1.0 val. → 54 €/val."
    ]
   },
   {
@@ -257,12 +251,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 170,
+   "palyginamu": 6,
+   "mediana": 165,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 170 €"
+    "6 panašių skelbimų mediana 165 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Ukmergės r.",
@@ -310,12 +304,6 @@
      "kaina": 200.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
      "vieta_laikas": "Klaipėda, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -337,20 +325,149 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 153,
-   "pelnas": 48,
-   "roi": 0.48,
-   "max_pirkimo": 110,
-   "pelnas_per_val": 48,
+   "tiketina_pardavimo": 148,
+   "pelnas": 44,
+   "roi": 0.44,
+   "max_pirkimo": 107,
+   "pelnas_per_val": 44,
    "sprendimas": "verta",
-   "priezastis": "pelnas ~48,5 € (48%), siunta į paštomatą iš Ukmergės r.",
-   "balas": 55,
+   "priezastis": "pelnas ~44 € (44%), siunta į paštomatą iš Ukmergės r.",
+   "balas": 49,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 90 €–200 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
     "Kaštai: siunta į paštomatą iš Ukmergės r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 153 € − 100 € − 4,5 € = 48,5 € (48% pirkimo kainos)",
-    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
-    "Laikas ~1.0 val. → 48,5 €/val."
+    "Pelnas = 148,5 € − 100 € − 4,5 € = 44 € (44% pirkimo kainos)",
+    "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
+    "Laikas ~1.0 val. → 44 €/val."
+   ]
+  },
+  {
+   "id": "87840262",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+   "pavadinimas": "Horizon Forbiden West ps5 disc",
+   "kaina": 20.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285933568/horizon-forbiden-west-ps5-disc.jpg",
+   "aprasymas": "Naujas neišpakuotas žaidimas pirktas ps4 bet aktyvuojasi ir ant ps5",
+   "vieta_laikas": "Vilnius, prieš 12 min.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-25T18:41:56Z",
+   "parametrai": [
+    "Būklė: Nauja"
+   ],
+   "modelis": "ps5",
+   "raktas": "ps5",
+   "palyginamu": 10,
+   "mediana": 39,
+   "naujo_kaina": null,
+   "patikimumas": "aukštas",
+   "saltiniai": [
+    "10 panašių skelbimų mediana 39 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "007 James bond first light ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Wolverine ps5 disc",
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Parduodu ps5 first light",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Saros Ps5",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Ps5 silent hill town fall",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "pavadinimas": "Star wars zero company ps5",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=ps5"
+    }
+   ],
+   "tiketina_pardavimo": 35,
+   "pelnas": 11,
+   "roi": 0.56,
+   "max_pirkimo": 11,
+   "pelnas_per_val": 7,
+   "sprendimas": "derėtis",
+   "priezastis": "verta tik nusiderėjus iki 11,1 €",
+   "balas": 26,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 39 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,1 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 35,1 € − 20 € − 4 € = 11,1 € (56% pirkimo kainos)",
+    "Mokėti ne daugiau: min((35,1 € − 4 €) / 1.35; 35,1 € − 4 € − 20 €) = 11,1 €",
+    "Laikas ~1.5 val. → 7,4 €/val."
    ]
   },
   {
@@ -486,16 +603,16 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -3780,6 +3897,68 @@
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
    "balas": 0,
    "zingsniai": []
+  },
+  {
+   "id": "87832098",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
+   "pavadinimas": "Mortal shell 2",
+   "kaina": 35.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285612122/mortal-shell-2.jpg",
+   "aprasymas": "Parduodamas mortal shell2 ps5, naudotas bet kaip naujas.",
+   "vieta_laikas": "Vilnius, prieš 8 val.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "modelis": "ps5-kita",
+   "raktas": "ps5-kita",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Mortal+shell+2"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Mortal+shell+2"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Mortal+shell+2"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Mortal+shell+2"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "zingsniai": [
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
+   ]
   },
   {
    "id": "83450675",
@@ -7350,12 +7529,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 170,
+   "palyginamu": 6,
+   "mediana": 165,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 170 €"
+    "6 panašių skelbimų mediana 165 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -7403,12 +7582,6 @@
      "kaina": 200.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
      "vieta_laikas": "Klaipėda, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -7430,20 +7603,20 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 153,
-   "pelnas": -2,
-   "roi": -0.01,
-   "max_pirkimo": 110,
-   "pelnas_per_val": -2,
+   "tiketina_pardavimo": 148,
+   "pelnas": -6,
+   "roi": -0.04,
+   "max_pirkimo": 107,
+   "pelnas_per_val": -6,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 90 €–200 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 153 € − 150 € − 4,5 € = -1,5 € (-1% pirkimo kainos)",
-    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
-    "Laikas ~1.0 val. → -1,5 €/val."
+    "Pelnas = 148,5 € − 150 € − 4,5 € = -6 € (-4% pirkimo kainos)",
+    "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
+    "Laikas ~1.0 val. → -6 €/val."
    ]
   },
   {
@@ -7461,12 +7634,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 160,
+   "palyginamu": 6,
+   "mediana": 155,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 160 €"
+    "6 panašių skelbimų mediana 155 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -7514,12 +7687,6 @@
      "kaina": 180.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
      "vieta_laikas": "Kauno r., prieš 3 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -7541,20 +7708,20 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 144,
-   "pelnas": -60,
-   "roi": -0.3,
-   "max_pirkimo": 103,
-   "pelnas_per_val": -60,
+   "tiketina_pardavimo": 140,
+   "pelnas": -65,
+   "roi": -0.33,
+   "max_pirkimo": 100,
+   "pelnas_per_val": -65,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 90 €–180 €, mediana 155 € × 0.90 (realiai parduodama pigiau nei prašoma) = 139,5 €",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 144 € − 200 € − 4,5 € = -60,5 € (-30% pirkimo kainos)",
-    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
-    "Laikas ~1.0 val. → -60,5 €/val."
+    "Pelnas = 139,5 € − 200 € − 4,5 € = -65 € (-32% pirkimo kainos)",
+    "Mokėti ne daugiau: min((139,5 € − 4,5 €) / 1.35; 139,5 € − 4,5 € − 20 €) = 100 €",
+    "Laikas ~1.0 val. → -65 €/val."
    ]
   },
   {
@@ -7572,12 +7739,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 160,
+   "palyginamu": 6,
+   "mediana": 155,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 160 €"
+    "6 panašių skelbimų mediana 155 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -7625,12 +7792,6 @@
      "kaina": 200.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
      "vieta_laikas": "Klaipėda, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -7652,20 +7813,20 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 144,
-   "pelnas": -30,
-   "roi": -0.18,
-   "max_pirkimo": 104,
-   "pelnas_per_val": -20,
+   "tiketina_pardavimo": 140,
+   "pelnas": -34,
+   "roi": -0.2,
+   "max_pirkimo": 100,
+   "pelnas_per_val": -23,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 90 €–200 €, mediana 155 € × 0.90 (realiai parduodama pigiau nei prašoma) = 139,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 144 € − 170 € − 4 € = -30 € (-18% pirkimo kainos)",
-    "Mokėti ne daugiau: min((144 € − 4 €) / 1.35; 144 € − 4 € − 20 €) = 103,7 €",
-    "Laikas ~1.5 val. → -20 €/val."
+    "Pelnas = 139,5 € − 170 € − 4 € = -34,5 € (-20% pirkimo kainos)",
+    "Mokėti ne daugiau: min((139,5 € − 4 €) / 1.35; 139,5 € − 4 € − 20 €) = 100,4 €",
+    "Laikas ~1.5 val. → -23 €/val."
    ]
   },
   {
@@ -7683,12 +7844,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 160,
+   "palyginamu": 6,
+   "mediana": 155,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 160 €"
+    "6 panašių skelbimų mediana 155 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kauno r.",
@@ -7736,12 +7897,6 @@
      "kaina": 200.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
      "vieta_laikas": "Klaipėda, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -7763,20 +7918,20 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 144,
-   "pelnas": -40,
-   "roi": -0.23,
-   "max_pirkimo": 103,
-   "pelnas_per_val": -40,
+   "tiketina_pardavimo": 140,
+   "pelnas": -45,
+   "roi": -0.25,
+   "max_pirkimo": 100,
+   "pelnas_per_val": -45,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 90 €–200 €, mediana 155 € × 0.90 (realiai parduodama pigiau nei prašoma) = 139,5 €",
     "Kaštai: siunta į paštomatą iš Kauno r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 144 € − 180 € − 4,5 € = -40,5 € (-22% pirkimo kainos)",
-    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
-    "Laikas ~1.0 val. → -40,5 €/val."
+    "Pelnas = 139,5 € − 180 € − 4,5 € = -45 € (-25% pirkimo kainos)",
+    "Mokėti ne daugiau: min((139,5 € − 4,5 €) / 1.35; 139,5 € − 4,5 € − 20 €) = 100 €",
+    "Laikas ~1.0 val. → -45 €/val."
    ]
   },
   {
@@ -7887,12 +8042,12 @@
    ],
    "modelis": "switch-v1",
    "raktas": "switch-v1",
-   "palyginamu": 7,
-   "mediana": 170,
+   "palyginamu": 6,
+   "mediana": 160,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "7 panašių skelbimų mediana 170 €"
+    "6 panašių skelbimų mediana 160 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -7940,12 +8095,6 @@
      "kaina": 200.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
      "vieta_laikas": "Klaipėda, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Retroid pocket 5 konsole nauja",
-     "kaina": 240.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
     }
    ],
    "parduotuves": [],
@@ -7967,20 +8116,20 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
     }
    ],
-   "tiketina_pardavimo": 153,
-   "pelnas": -12,
-   "roi": -0.07,
-   "max_pirkimo": 110,
-   "pelnas_per_val": -12,
+   "tiketina_pardavimo": 144,
+   "pelnas": -20,
+   "roi": -0.13,
+   "max_pirkimo": 103,
+   "pelnas_per_val": -20,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
    "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 90 €–200 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 153 € − 160 € − 4,5 € = -11,5 € (-7% pirkimo kainos)",
-    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
-    "Laikas ~1.0 val. → -11,5 €/val."
+    "Pelnas = 144 € − 160 € − 4,5 € = -20,5 € (-13% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
+    "Laikas ~1.0 val. → -20,5 €/val."
    ]
   },
   {
@@ -9180,7 +9329,7 @@
    "palyginamu": 10,
    "mediana": 39,
    "naujo_kaina": null,
-   "patikimumas": "aukštas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
     "10 panašių skelbimų mediana 39 €"
    ],
@@ -9202,6 +9351,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -9212,12 +9367,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Parduodu Marvel's Wolverine ps5",
@@ -9309,7 +9458,7 @@
    "palyginamu": 10,
    "mediana": 38,
    "naujo_kaina": null,
-   "patikimumas": "aukštas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
     "10 panašių skelbimų mediana 37,5 €"
    ],
@@ -9331,6 +9480,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -9341,12 +9496,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -9438,7 +9587,7 @@
    "palyginamu": 10,
    "mediana": 38,
    "naujo_kaina": null,
-   "patikimumas": "aukštas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
     "10 panašių skelbimų mediana 38,5 €"
    ],
@@ -9460,6 +9609,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -9470,12 +9625,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -9567,7 +9716,7 @@
    "palyginamu": 10,
    "mediana": 39,
    "naujo_kaina": null,
-   "patikimumas": "aukštas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
     "10 panašių skelbimų mediana 39 €"
    ],
@@ -9589,145 +9738,16 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
-     "pavadinimas": "Mafia The Old Country Ps5",
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Parduodu ps5 first light",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Saros Ps5",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "The Blood of Dawnwalker Ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Ps5 silent hill town fall",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=ps5"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=ps5"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=ps5"
-    }
-   ],
-   "tiketina_pardavimo": 35,
-   "pelnas": -4,
-   "roi": -0.11,
-   "max_pirkimo": 11,
-   "pelnas_per_val": -3,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 0,
-   "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 39 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,1 €",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 35,1 € − 35 € − 4 € = -3,9 € (-11% pirkimo kainos)",
-    "Mokėti ne daugiau: min((35,1 € − 4 €) / 1.35; 35,1 € − 4 € − 20 €) = 11,1 €",
-    "Laikas ~1.5 val. → -2,6 €/val."
-   ]
-  },
-  {
-   "id": "87832098",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-   "pavadinimas": "Mortal shell 2",
-   "kaina": 35.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285612122/mortal-shell-2.jpg",
-   "aprasymas": "Parduodamas mortal shell2 ps5, naudotas bet kaip naujas.",
-   "vieta_laikas": "Vilnius, prieš 8 val.",
-   "paieska": "PlayStation 5",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "modelis": "ps5",
-   "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 39,
-   "naujo_kaina": null,
-   "patikimumas": "aukštas",
-   "saltiniai": [
-    "10 panašių skelbimų mediana 39 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "vieta_laikas": "Vilnius, prieš 11 val."
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
     },
     {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
      "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "007 James bond first light ps5",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -9847,6 +9867,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -9857,12 +9883,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -9976,6 +9996,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -9986,12 +10012,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -10105,6 +10125,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -10115,12 +10141,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -10212,7 +10232,7 @@
    "palyginamu": 10,
    "mediana": 38,
    "naujo_kaina": null,
-   "patikimumas": "aukštas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
     "10 panašių skelbimų mediana 37,5 €"
    ],
@@ -10234,6 +10254,12 @@
      "vieta_laikas": "Vilnius, prieš 11 val."
     },
     {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
      "pavadinimas": "Mafia The Old Country Ps5",
      "kaina": 25.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
@@ -10244,12 +10270,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -11507,10 +11527,10 @@
    "max": 250.0
   },
   "switch-v1": {
-   "n": 9,
-   "mediana": 160,
+   "n": 8,
+   "mediana": 155,
    "min": 25.0,
-   "max": 240.0
+   "max": 200.0
   },
   "switch-priedai": {
    "n": 6,

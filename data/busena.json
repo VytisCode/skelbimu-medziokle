@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-25T18:29:25Z",
+ "paleista": "2026-10-25T18:41:56Z",
  "proxy": true,
  "paieskos": [
   {
@@ -9,8 +9,8 @@
    "puslapio_pavadinimas": "makita skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Lego",
@@ -39,8 +39,8 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "DeWalt įrankiai",
@@ -49,8 +49,8 @@
    "puslapio_pavadinimas": "dewalt skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 15,
-   "atrinkta_nauju": 6
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Milwaukee įrankiai",
@@ -59,8 +59,8 @@
    "puslapio_pavadinimas": "milwaukee skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 16,
-   "atrinkta_nauju": 13
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "PlayStation 5",
@@ -69,8 +69,8 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 23,
-   "atrinkta_nauju": 11
+   "nauju": 1,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Kindle skaityklės",
@@ -79,8 +79,8 @@
    "puslapio_pavadinimas": "kindle skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 18,
-   "nauju": 18,
-   "atrinkta_nauju": 11
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "GoPro kameros",
@@ -89,8 +89,8 @@
    "puslapio_pavadinimas": "gopro skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 24,
-   "atrinkta_nauju": 13
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "DJI dronai",
@@ -99,9 +99,13 @@
    "puslapio_pavadinimas": "dji skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 24,
-   "atrinkta_nauju": 16
+   "nauju": 0,
+   "atrinkta_nauju": 0
   }
  ],
+ "detales": {
+  "atidaryta": 6,
+  "kb_per_proxy": 1182.6
+ },
  "kb_per_proxy_viso": 1481.4
 }

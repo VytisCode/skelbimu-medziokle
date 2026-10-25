@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Rinkos kainos</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="stilius.css">
+</head>
+<body>
+<div class="wrap">
+  <header style="display:grid;gap:10px">
+    <div class="eyebrow">Skelbiu.lt radiniai · atnaujinama kas valandą</div>
+    <h1>Rinkos kainos</h1>
+    <nav class="nav"><a href="index.html">Radiniai</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html" aria-current="page">Rinkos kainos</a></nav>
+  </header>
+  <div id="vmiTop"></div>
+  <div class="status" id="status"></div>
+  <section style="display:grid;gap:10px" id="rinka">
+    <h2>Rinkos kainos pagal modelį</h2>
+    <p class="note">Prašomų kainų mediana iš visų sukauptų skelbimų. Kuo daugiau skelbimų, tuo tikslesnis vertinimas.</p>
+    <div class="scroll"><table><thead><tr><th>Modelis</th><th>Skelbimų</th><th>Mediana</th><th>Nuo–iki</th></tr></thead><tbody id="market"></tbody></table></div>
+  </section>
+  <p class="note" id="assumptions"></p>
+</div>
+<datalist id="kategorijos"><option>Nintendo Switch</option><option>PlayStation 5</option><option>Lego</option><option>Makita</option><option>DeWalt</option><option>Milwaukee</option><option>Garmin</option><option>Kindle</option><option>GoPro</option><option>DJI</option></datalist>
+<script src="app.js"></script>
+</body>
+</html>

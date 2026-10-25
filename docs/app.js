@@ -75,6 +75,17 @@ function card(r, big) {
     (ap.privalumai || []).forEach(z => f.append(el("span", "flag plus", "✓ " + z)));
     body.append(f);
   }
+  if (r.kaina_sumazejo) { const f = el("div", "flags"); f.append(el("span", "flag plus", "↓ kaina sumažinta nuo " + fmt(r.kaina_sumazejo.nuo) + " – pardavėjas linkęs derėtis")); body.append(f); }
+  if ((r.sprendimas === "verta" || r.sprendimas === "derėtis" || r.sprendimas === "tikrinti") && r.kaina) {
+    const offer = Math.max(5, Math.floor(Math.min(r.kaina * 0.85, r.max_pirkimo || r.kaina) / 5) * 5);
+    const local = r.kastai && r.kastai.vietinis;
+    const txt = `Laba diena, ar „${r.pavadinimas}“ dar aktualus? ` + (r.sprendimas === "tikrinti" || !(r.pilnas_aprasymas) ? "Ar viskas veikia, ar nėra defektų, kas įeina į komplektą? " : "") +
+      `Galėčiau sumokėti ${offer} € ` + (local ? "ir atsiimti pats." : "su siuntimu į paštomatą (siuntimą apmokėčiau). ") + "Ačiū!";
+    const d = el("details"); d.append(el("summary", "", "Derybų žinutė (siūlyk " + offer + " €)"));
+    const pre = el("pre", "", txt); const btn = el("button", "copy", "Kopijuoti"); btn.type = "button";
+    btn.onclick = () => navigator.clipboard.writeText(txt).then(() => btn.textContent = "Nukopijuota – įklijuok Skelbiu.lt žinutėje", () => getSelection().selectAllChildren(pre));
+    d.append(pre, btn); body.append(d);
+  }
   body.append(el("div", "meta", [r.modelis, "patikimumas: " + r.patikimumas, r.kastai && r.kastai.budas,
     r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
   if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES su siuntimu pigesnis nei LT skelbimuose."));
@@ -109,13 +120,19 @@ function card(r, big) {
     d.append(pre, btn); body.append(d);
   }
   const buy = el("button", "copy", "Pirkau → į žurnalą"); buy.type = "button";
-  buy.onclick = () => openForm(null, r);
+  buy.onclick = () => { try { localStorage.setItem("pirkau", JSON.stringify(r)); } catch {} location.href = "zurnalas.html#naujas"; };
   body.append(buy);
   c.append(img, body); return c;
 }
 
 function render() {
   const R = D.radiniai;
+  if ($("market")) {
+    const m = Object.entries(D.rinka).sort((x, y) => y[1].n - x[1].n);
+    $("market").replaceChildren(...m.map(([k, v]) => { const tr = el("tr"); tr.append(el("td", "", k), el("td", "n", v.n), el("td", "n", fmt(v.mediana)), el("td", "n", fmt(v.min) + "–" + fmt(v.max))); return tr; }));
+    assumptions();
+  }
+  if (!$("cards")) return;
   const cnt = k => R.filter(r => r.sprendimas === k).length;
   const best = R.filter(r => r.sprendimas === "verta" || r.sprendimas === "derėtis").sort((a, b) => b.balas - a.balas).slice(0, 3);
   $("bestWrap").hidden = !best.length;
@@ -130,8 +147,9 @@ function render() {
   }));
   const rows = R.filter(r => filter === "visi" || r.sprendimas === filter);
   $("cards").replaceChildren(...(rows.length ? rows.map(r => card(r)) : [el("p", "note", "Šioje grupėje šiuo metu nieko nėra.")]));
-  const m = Object.entries(D.rinka).sort((x, y) => y[1].n - x[1].n);
-  $("market").replaceChildren(...m.map(([k, v]) => { const tr = el("tr"); tr.append(el("td", "", k), el("td", "n", v.n), el("td", "n", fmt(v.mediana)), el("td", "n", fmt(v.min) + "–" + fmt(v.max))); return tr; }));
+}
+
+function assumptions() {
   const p = D.prielaidos;
   $("assumptions").textContent =
     `Prielaidos: vietiniai miestai ${p.vietiniai_miestai.join(", ")} (atsiėmimas ${fmt(p.atsiemimas_vietoje_eur)}, ~${p.laikas_vietoje_val} val.), kiti – siunta į paštomatą ${fmt(p.siunta_i_mane_eur)} (~${p.laikas_siunta_val} val.), dideli daiktai iš kitų miestų praleidžiami. ` +
@@ -140,7 +158,7 @@ function render() {
 }
 
 function renderStatus() {
-  const st = $("status"); st.replaceChildren();
+  const st = $("status"); if (!st) return; st.replaceChildren();
   const t = new Date(B.paleista).toLocaleString("lt-LT", {timeZone: "Europe/Vilnius", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
   st.append(el("span", "chip " + (Date.now() - new Date(B.paleista) > 3 * 3600e3 ? "bad" : "ok"), "Paieška " + t));
   const bad = B.paieskos.filter(p => p.kodas !== 200);
@@ -175,12 +193,21 @@ async function saveLedger(note) {
   const body = {message: note, content: b64(JSON.stringify({sandoriai: items}, null, 1) + "\n"), branch: "main"};
   if (sha) body.sha = sha;
   const r = await fetch(`https://api.github.com/repos/${REPO}/contents/${ZFAILAS}`, {method: "PUT", headers: {Authorization: "Bearer " + token(), Accept: "application/vnd.github+json"}, body: JSON.stringify(body)});
-  if (r.status === 409 || r.status === 422) { await loadLedger(); throw new Error("žurnalas ką tik pasikeitė kitur – pakartok"); }
+  if (r.status === 409 || r.status === 422) { await loadLedger().then(() => {
+  if (location.hash === "#naujas" && $("form")) {
+    let r = null; try { r = JSON.parse(localStorage.getItem("pirkau")); localStorage.removeItem("pirkau"); } catch {}
+    if (r) openForm(null, r);
+  }
+  if (location.hash === "#raktas" && $("tokenPanel")) { $("tokenPanel").hidden = false; $("tokenPanel").scrollIntoView(); }
+}); throw new Error("žurnalas ką tik pasikeitė kitur – pakartok"); }
   if (!r.ok) throw new Error("HTTP " + r.status);
   sha = (await r.json()).content.sha;
 }
 
 function renderLedger() {
+  remind();
+  vmi();
+  if (!$("kpis")) return;
   const done = items.filter(s => s.busena !== "atsargose"), stock = items.filter(s => s.busena === "atsargose");
   const realized = done.reduce((a, s) => a + profit(s), 0);
   const cash = done.reduce((a, s) => a + (s.pardavimo_kaina || 0) - (s.pardavimo_kastai || 0), 0) - items.reduce((a, s) => a + cost(s), 0);
@@ -199,20 +226,6 @@ function renderLedger() {
     ["Prognozės paklaida", errs.length ? Math.round(errs.reduce((a, e) => a + e, 0) / errs.length * 100) + " %" : "—", "", "tikėtina vs. tikra kaina"],
   ];
   $("kpis").replaceChildren(...K.map(([t, v, c, s]) => { const d = el("div", "kpi"); d.append(el("span", "eyebrow", t), el("b", c, v), el("small", "", s)); return d; }));
-
-  // VMI priminimas: šių metų pardavimų suma ir skaičius
-  const y = today().slice(0, 4);
-  const ys = items.filter(s => s.busena === "parduota" && (s.pardavimo_data || "").startsWith(y));
-  const sum = ys.reduce((a, s) => a + (s.pardavimo_kaina || 0), 0);
-  const lvl = sum >= VMI_RIBA || ys.length >= PLATFORMU_RIBA ? "alert" : sum >= VMI_RIBA * 0.75 || ys.length >= PLATFORMU_RIBA * 0.75 ? "warn" : "";
-  const v = el("div", "vmi " + lvl);
-  v.append(el("div", "row", null));
-  v.firstChild.append(el("b", "", lvl === "alert" ? "Laikas registruotis VMI" : "VMI registracijos riba"), el("span", "mono", fmt(sum) + " / " + fmt(VMI_RIBA)));
-  const bar = el("div", "bar"); const i = el("i"); i.style.width = Math.min(100, sum / VMI_RIBA * 100) + "%"; bar.append(i); v.append(bar);
-  v.append(el("div", "note", `${y} m. pardavimai: ${ys.length} vnt. (platformos praneša VMI nuo ${PLATFORMU_RIBA} pardavimų arba 2000 €). ` +
-    (lvl === "alert" ? "Pasiekei savo ribą – registruok individualią veiklą (pažyma arba verslo liudijimas) ir pasitikrink VMI." : lvl === "warn" ? "Artėji prie ribos – pasiruošk registracijai." : "Priminsiu, kai artėsi prie ribos.")));
-  $("vmi").replaceChildren(v);
-  $("vmiTop").replaceChildren(...(lvl ? [v.cloneNode(true)] : []));
 
   const rows = [...items].map((s, i) => [s, i]).sort((a, b) => (b[0].pirkimo_data || "").localeCompare(a[0].pirkimo_data || ""));
   $("rows").replaceChildren(...(rows.length ? rows.map(([s, i]) => {
@@ -233,6 +246,36 @@ function renderLedger() {
   }
   $("months").replaceChildren(...Object.keys(M).sort().reverse().map(m => { const v = M[m]; const tr = el("tr");
     tr.append(el("td", "", m), el("td", "n", v.n), el("td", "n", fmt(v.in)), el("td", "n", fmt(v.out)), el("td", "n " + (v.in - v.out >= 0 ? "pos" : "neg"), fmt(v.in - v.out)), el("td", "n", v.h.toFixed(1).replace(".", ","))); return tr; }));
+}
+
+function vmi() {
+  // VMI priminimas: šių metų pardavimų suma ir skaičius
+  const y = today().slice(0, 4);
+  const ys = items.filter(s => s.busena === "parduota" && (s.pardavimo_data || "").startsWith(y));
+  const sum = ys.reduce((a, s) => a + (s.pardavimo_kaina || 0), 0);
+  const lvl = sum >= VMI_RIBA || ys.length >= PLATFORMU_RIBA ? "alert" : sum >= VMI_RIBA * 0.75 || ys.length >= PLATFORMU_RIBA * 0.75 ? "warn" : "";
+  const v = el("div", "vmi " + lvl);
+  v.append(el("div", "row", null));
+  v.firstChild.append(el("b", "", lvl === "alert" ? "Laikas registruotis VMI" : "VMI registracijos riba"), el("span", "mono", fmt(sum) + " / " + fmt(VMI_RIBA)));
+  const bar = el("div", "bar"); const i = el("i"); i.style.width = Math.min(100, sum / VMI_RIBA * 100) + "%"; bar.append(i); v.append(bar);
+  v.append(el("div", "note", `${y} m. pardavimai: ${ys.length} vnt. (platformos praneša VMI nuo ${PLATFORMU_RIBA} pardavimų arba 2000 €). ` +
+    (lvl === "alert" ? "Pasiekei savo ribą – registruok individualią veiklą (pažyma arba verslo liudijimas) ir pasitikrink VMI." : lvl === "warn" ? "Artėji prie ribos – pasiruošk registracijai." : "Priminsiu, kai artėsi prie ribos.")));
+  if ($("vmi")) $("vmi").replaceChildren(v);
+  if ($("vmiTop")) $("vmiTop").replaceChildren(...(lvl ? [v.cloneNode(true)] : []));
+
+}
+
+function remind() {
+  const box = $("remind"); if (!box) return;
+  const stock = items.filter(s => s.busena === "atsargose");
+  const r = el("div", "remind");
+  r.append(el("div", "", "Nupirkai? Prie skelbimo spausk „Pirkau → į žurnalą“ – užfiksuos kainą, aprašymą ir įrankio vertinimą kaip įrodymą."));
+  if (!token()) { const d = el("div", "note", "Pirmą kartą prireiks GitHub rakto (~2 min.) – "); const a = el("a", "", "instrukcija žurnale"); a.href = "zurnalas.html#raktas"; d.append(a); r.append(d); }
+  if (stock.length) {
+    const old = Math.max(...stock.map(s => s.pirkimo_data ? days(s.pirkimo_data, today()) : 0));
+    const d = el("div", "", `Atsargose ${stock.length} daiktai (seniausias ${old} d.). Pardavei? `); const a = el("a", "", "Atnaujink žurnalą"); a.href = "zurnalas.html"; d.append(a); r.append(d);
+  }
+  box.replaceChildren(r);
 }
 
 function showEvidence() {
@@ -263,6 +306,7 @@ function openForm(idx, r) {
   $("formPanel").hidden = false; $("formPanel").scrollIntoView({behavior: "smooth"});
   if (!token()) $("tokenPanel").hidden = false;
 }
+if ($("form")) {
 $("addBtn").onclick = () => openForm(null);
 $("closeForm").onclick = () => { $("formPanel").hidden = true; };
 $("form").onsubmit = async e => {
@@ -291,7 +335,13 @@ $("delBtn").onclick = async () => {
 $("tokenForm").onsubmit = async e => {
   e.preventDefault();
   try { localStorage.setItem("gh_token", $("tokenInput").value.trim()); } catch { msg("Naršyklė neleidžia išsaugoti rakto."); return; }
-  $("tokenInput").value = ""; $("tokenPanel").hidden = true; await loadLedger();
+  $("tokenInput").value = ""; $("tokenPanel").hidden = true; await loadLedger().then(() => {
+  if (location.hash === "#naujas" && $("form")) {
+    let r = null; try { r = JSON.parse(localStorage.getItem("pirkau")); localStorage.removeItem("pirkau"); } catch {}
+    if (r) openForm(null, r);
+  }
+  if (location.hash === "#raktas" && $("tokenPanel")) { $("tokenPanel").hidden = false; $("tokenPanel").scrollIntoView(); }
+});
 };
 const csvCell = v => { const s = v == null ? "" : String(v); return /[";\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
 $("csvBtn").onclick = () => {
@@ -303,7 +353,15 @@ $("csvBtn").onclick = () => {
   a.download = "perpardavimas-" + today() + ".csv"; a.click();
 };
 
+}
+
 Promise.all([fetch("analize.json", {cache: "no-store"}).then(r => r.json()), fetch("busena.json", {cache: "no-store"}).then(r => r.json())])
   .then(([d, b]) => { D = d; B = b; renderStatus(); render(); })
   .catch(() => { $("status").replaceChildren(el("span", "chip bad", "Nepavyko įkelti radinių. Pabandyk po kelių minučių.")); });
-loadLedger();
+loadLedger().then(() => {
+  if (location.hash === "#naujas" && $("form")) {
+    let r = null; try { r = JSON.parse(localStorage.getItem("pirkau")); localStorage.removeItem("pirkau"); } catch {}
+    if (r) openForm(null, r);
+  }
+  if (location.hash === "#raktas" && $("tokenPanel")) { $("tokenPanel").hidden = false; $("tokenPanel").scrollIntoView(); }
+});

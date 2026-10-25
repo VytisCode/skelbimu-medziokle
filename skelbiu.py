@@ -283,6 +283,7 @@ def apdoroti(nar, i, p, cfg, istorija, busena, laikas):
         if senas:
             senas["paskutini_karta_matytas"] = laikas
             if s["kaina"] is not None and s["kaina"] != senas.get("kaina"):
+                senas.setdefault("pradine_kaina", senas.get("kaina"))
                 senas.setdefault("kainu_istorija", []).append([laikas, s["kaina"]])
                 senas["kaina"] = s["kaina"]
             continue

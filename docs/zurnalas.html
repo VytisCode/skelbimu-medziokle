@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Sandorių žurnalas</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="stilius.css">
+</head>
+<body>
+<div class="wrap">
+  <header style="display:grid;gap:10px">
+    <div class="eyebrow">Skelbiu.lt radiniai · atnaujinama kas valandą</div>
+    <h1>Sandorių žurnalas</h1>
+    <nav class="nav"><a href="index.html">Radiniai</a><a href="zurnalas.html" aria-current="page">Žurnalas</a><a href="rinka.html">Rinkos kainos</a></nav>
+  </header>
+  <div id="vmiTop"></div>
+  <section style="display:grid;gap:12px" id="zurnalas">
+    <div class="row"><span></span><button class="btn primary" type="button" id="addBtn">+ Naujas pirkinys</button></div>
+    <div class="msg" id="msg" hidden></div>
+    <div id="vmi"></div>
+    <div class="kpis" id="kpis"></div>
+    <section class="panel" id="formPanel" hidden>
+      <div class="row"><h2 id="formTitle">Naujas pirkinys</h2><button class="btn" type="button" id="closeForm">Uždaryti</button></div>
+      <form id="form">
+        <fieldset><legend>Daiktas</legend>
+          <div class="fgrid">
+            <label>Pavadinimas<input id="f_pavadinimas" required></label>
+            <label>Kategorija<input id="f_kategorija" list="kategorijos"></label>
+            <label>Skelbimo nuoroda<input id="f_nuoroda" type="url"></label>
+            <label>Būsena<select id="f_busena"><option value="atsargose">Atsargose</option><option value="parduota">Parduota</option><option value="nurasyta">Nurašyta (nuostolis)</option></select></label>
+          </div>
+          <div class="evidence" id="evidence"></div>
+        </fieldset>
+        <fieldset><legend>Pirkimas</legend>
+          <div class="fgrid">
+            <label>Data<input id="f_pirkimo_data" type="date" required></label>
+            <label>Kaina, €<input id="f_pirkimo_kaina" type="number" step="0.01" min="0" required></label>
+            <label>Atgabenimas, €<input id="f_pirkimo_kastai" type="number" step="0.01" min="0"></label>
+            <label>Tikėtina pardavimo kaina, €<input id="f_tiketina" type="number" step="0.01" min="0"></label>
+          </div>
+        </fieldset>
+        <fieldset><legend>Pardavimas</legend>
+          <div class="fgrid">
+            <label>Data<input id="f_pardavimo_data" type="date"></label>
+            <label>Kaina, €<input id="f_pardavimo_kaina" type="number" step="0.01" min="0"></label>
+            <label>Kaštai, € (pakuotė, siunta, mokesčiai)<input id="f_pardavimo_kastai" type="number" step="0.01" min="0"></label>
+            <label>Platforma<select id="f_platforma"><option>Skelbiu.lt</option><option>Vinted</option><option>Facebook</option><option>Kita</option></select></label>
+          </div>
+        </fieldset>
+        <fieldset><legend>Laikas ir pastabos</legend>
+          <div class="fgrid"><label>Sugaišta, min (viso)<input id="f_laikas_min" type="number" min="0" step="5"></label></div>
+          <label>Pastabos (be asmens duomenų)<textarea id="f_pastabos" rows="2"></textarea></label>
+        </fieldset>
+        <div class="row"><button class="btn" type="button" id="delBtn" hidden>Ištrinti</button><span></span><button class="btn primary" type="submit" id="saveBtn">Išsaugoti</button></div>
+      </form>
+    </section>
+    <section class="panel" id="tokenPanel" hidden>
+      <h2>Prisijungimas įrašymui (vieną kartą)</h2>
+      <p class="note">Žurnalas saugomas šiame repo faile docs/sandoriai.json. Kad svetainė galėtų jį įrašyti, reikia GitHub rakto, kuris leidžia keisti tik šį repo. Raktas lieka tik šioje naršyklėje.</p>
+      <ol class="note">
+        <li>Atsidaryk <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">naujo rakto kūrimą</a>.</li>
+        <li>Pavadinimas: „skelbimai-zurnalas“, galiojimas: 1 metai.</li>
+        <li>Repository access: „Only select repositories“ → skelbimu-medziokle.</li>
+        <li>Permissions → Repository → Contents: „Read and write“. Spausk „Generate token“ ir nukopijuok.</li>
+      </ol>
+      <form id="tokenForm"><label>GitHub raktas<input id="tokenInput" type="password" autocomplete="off" required></label>
+        <div class="row"><span></span><button class="btn primary" type="submit">Išsaugoti raktą</button></div></form>
+    </section>
+    <div class="scroll"><table>
+      <thead><tr><th>Daiktas</th><th>Būsena</th><th>Pirkta</th><th class="n">Pirkimas</th><th class="n">Pardavimas</th><th class="n">Pelnas</th><th class="n">€/val.</th><th class="n">Dienų</th><th class="n">Prognozės paklaida</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+    <div class="scroll"><table>
+      <thead><tr><th>Mėnuo</th><th class="n">Pardavimų</th><th class="n">Pajamos</th><th class="n">Išlaidos</th><th class="n">Grynai</th><th class="n">Valandos</th></tr></thead>
+      <tbody id="months"></tbody>
+    </table></div>
+    <div class="row"><span class="note">Ataskaita: visi sandoriai su įrodymais (skelbimo nuoroda, užfiksuota kaina ir aprašymas).</span><button class="btn" type="button" id="csvBtn">Atsisiųsti CSV</button></div>
+  </section>
+
+  </div>
+<datalist id="kategorijos"><option>Nintendo Switch</option><option>PlayStation 5</option><option>Lego</option><option>Makita</option><option>DeWalt</option><option>Milwaukee</option><option>Garmin</option><option>Kindle</option><option>GoPro</option><option>DJI</option></datalist>
+<script src="app.js"></script>
+</body>
+</html>

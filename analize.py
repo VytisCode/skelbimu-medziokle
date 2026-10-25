@@ -295,6 +295,10 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
     r["visi_palyginami"] = [{"kaina": x["kaina"], "nuoroda": x["nuoroda"], "pavadinimas": x["pavadinimas"][:60]} for x in komp[:40]]
     naujo_kainos = [p_["kaina"] for p_ in r["parduotuves"] if p_.get("kaina")]
     r["naujo_min"] = min(naujo_kainos) if naujo_kainos else (float(naujo) if naujo else None)
+    if s.get("pradine_kaina") and kaina and s["pradine_kaina"] > kaina:
+        r["kaina_sumazejo"] = {"nuo": s["pradine_kaina"], "iki": kaina}
+        if r.get("balas"):
+            r["balas"] = min(100, r["balas"] + 5)
     r["zingsniai"] = zingsniai
     return r
 

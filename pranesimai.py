@@ -93,6 +93,10 @@ def main():
     if not (user and pw and to):
         print("Gmail secrets nenustatyti – pranešimai nesiunčiami.")
         return
+    # App password Google rodo kaip „abcd efgh ijkl mnop“ – tarpai ir eilučių lūžiai tik kosmetika
+    pw = "".join(pw.split())
+    user = "".join(user.split())
+    print("Patikra: GMAIL_USER su @:", "@" in user, "| App password 16 raidžių:", len(pw) == 16 and pw.isalpha())
     pranesta = set(json.loads(PRANESTA.read_text())) if PRANESTA.exists() else set()
     radiniai = json.loads(ANALIZE.read_text()).get("radiniai", [])
     nauji = [r for r in radiniai if r.get("sprendimas") in SPRENDIMAI and str(r["id"]) not in pranesta]

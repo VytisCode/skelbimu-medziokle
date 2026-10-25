@@ -20,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      LUMINOR_PROXY_SERVER: ${{ secrets.LUMINOR_PROXY_SERVER }}
-      LUMINOR_PROXY_USERNAME: ${{ secrets.LUMINOR_PROXY_USERNAME }}
-      LUMINOR_PROXY_PASSWORD: ${{ secrets.LUMINOR_PROXY_PASSWORD }}
+      LUMINOR_PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
+      LUMINOR_PROXY_USERNAME: ${{ secrets.PROXY_USERNAME }}
+      LUMINOR_PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6

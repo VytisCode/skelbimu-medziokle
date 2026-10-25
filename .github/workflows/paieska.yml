@@ -1,0 +1,45 @@
+name: Skelbiu.lt paieška
+
+# Kas valandą (:23, ne apvalia minute, nes GitHub per pilnas valandas vėlina paleidimus).
+# Viena lengva HTTP užklausa kiekvienai paieškai per Proxy-Cheap, be naršyklės ir be nuotraukų.
+# Repo viešas, todėl Actions minutės nemokamos. Ranka: Actions → "Skelbiu.lt paieška" → Run workflow.
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: skelbiu-paieska
+  cancel-in-progress: false
+
+jobs:
+  paieska:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      LUMINOR_PROXY_SERVER: ${{ secrets.LUMINOR_PROXY_SERVER }}
+      LUMINOR_PROXY_USERNAME: ${{ secrets.LUMINOR_PROXY_USERNAME }}
+      LUMINOR_PROXY_PASSWORD: ${{ secrets.LUMINOR_PROXY_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Paieška
+        id: paieska
+        continue-on-error: true
+        run: python -u skelbiu.py
+      - name: Išsaugoti istoriją
+        run: |
+          git config user.name "skelbimu-robotas"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Paieška $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -q origin "${GITHUB_REF_NAME}" || true
+          git push
+      - name: Pažymėti nesėkmę
+        if: steps.paieska.outcome == 'failure'
+        run: exit 1

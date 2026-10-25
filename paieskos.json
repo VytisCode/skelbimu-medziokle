@@ -1,0 +1,86 @@
+{
+  "_paaiskinimas": "Kiekviena paieška: Skelbiu.lt nuoroda (nukopijuok iš naršyklės po paieškos), raktažodžiai (bent vienas turi būti pavadinime; tuščia = visi), kainų ribos eurais. 'isimti' žodžiai atmeta skelbimą.",
+  "visada_isimti": [
+    "šalmas",
+    "salmas",
+    "šalmą",
+    "kėdutė",
+    "kedute",
+    "automobilinė kėdutė",
+    "isofix",
+    "autokėdutė"
+  ],
+  "paieskos": [
+    {
+      "pavadinimas": "Elektriniai įrankiai (Makita, DeWalt, Milwaukee)",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=makita",
+      "raktazodziai": [
+        "makita",
+        "dewalt",
+        "milwaukee"
+      ],
+      "min_kaina": 15,
+      "max_kaina": 200,
+      "isimti": [
+        "dalims",
+        "neveikia",
+        "sugedęs",
+        "sugedes",
+        "pirksiu",
+        "perku"
+      ]
+    },
+    {
+      "pavadinimas": "Lego",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=lego",
+      "raktazodziai": [
+        "lego"
+      ],
+      "min_kaina": 10,
+      "max_kaina": 150,
+      "isimti": [
+        "pirksiu",
+        "perku",
+        "analogas",
+        "kopija",
+        "lepin"
+      ]
+    },
+    {
+      "pavadinimas": "Nintendo Switch",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=nintendo+switch",
+      "raktazodziai": [
+        "nintendo",
+        "switch"
+      ],
+      "min_kaina": 40,
+      "max_kaina": 250,
+      "isimti": [
+        "pirksiu",
+        "perku",
+        "užrakintas",
+        "uzrakintas",
+        "dalims",
+        "neveikia"
+      ]
+    },
+    {
+      "pavadinimas": "Garmin laikrodžiai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=garmin",
+      "raktazodziai": [
+        "garmin"
+      ],
+      "min_kaina": 30,
+      "max_kaina": 250,
+      "isimti": [
+        "pirksiu",
+        "perku",
+        "dalims",
+        "neveikia",
+        "dirželis",
+        "dirzelis",
+        "kroviklis"
+      ]
+    }
+  ]
+}

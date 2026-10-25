@@ -1,10 +1,40 @@
 {
- "sugeneruota": "2026-10-25T17:57:58Z",
+ "sugeneruota": "2026-10-25T18:28:49Z",
  "prielaidos": {
-  "kastai": 6.0,
-  "valandos": 1.5,
-  "min_pelnas": 20.0,
-  "min_roi": 0.35
+  "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
+  "vietiniai_miestai": [
+   "Vilnius",
+   "Vilniaus r.",
+   "Kėdainiai",
+   "Kėdainių r."
+  ],
+  "atsiemimas_vietoje_eur": 3.0,
+  "siunta_i_mane_eur": 3.5,
+  "pardavimo_kastai_eur": 1.0,
+  "laikas_vietoje_val": 1.5,
+  "laikas_siunta_val": 1.0,
+  "min_pelnas_eur": 20,
+  "min_roi": 0.35,
+  "nuolaida_pardavimui": 0.9,
+  "naujo_lubos": 0.85,
+  "dideli_daiktai": [
+   "vejapjov",
+   "žoliapjov",
+   "zoliapjov",
+   "dviratis",
+   "treniruokl",
+   "stalas",
+   "kompresor",
+   "generator",
+   "benzo pjūkl",
+   "benzininis pjūkl",
+   "grandininis pjūkl",
+   "katerio",
+   "spinta",
+   "lova",
+   "televizor"
+  ],
+  "sezono_daugiklis": 1.15
  },
  "skelbimu_istorijoje": 96,
  "radiniai": [
@@ -30,14 +60,94 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 170 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 153,
-   "pelnas": 57,
-   "roi": 0.63,
-   "max_pirkimo": 109,
-   "pelnas_per_val": 38,
+   "pelnas": 58,
+   "roi": 0.65,
+   "max_pirkimo": 110,
+   "pelnas_per_val": 58,
    "sprendimas": "verta",
-   "priezastis": "pelnas ~57 € (63%)",
-   "balas": 48
+   "priezastis": "pelnas ~58,5 € (65%), siunta į paštomatą iš Kaunas",
+   "balas": 67,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 100 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 153 € − 90 € − 4,5 € = 58,5 € (65% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
+    "Laikas ~1.0 val. → 58,5 €/val."
+   ]
   },
   {
    "id": "87829808",
@@ -61,14 +171,94 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 170 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Ukmergės r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo swtich",
+     "kaina": 90.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 153,
-   "pelnas": 47,
-   "roi": 0.47,
-   "max_pirkimo": 109,
-   "pelnas_per_val": 31,
+   "pelnas": 48,
+   "roi": 0.48,
+   "max_pirkimo": 110,
+   "pelnas_per_val": 48,
    "sprendimas": "verta",
-   "priezastis": "pelnas ~47 € (47%)",
-   "balas": 39
+   "priezastis": "pelnas ~48,5 € (48%), siunta į paštomatą iš Ukmergės r.",
+   "balas": 55,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Kaštai: siunta į paštomatą iš Ukmergės r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 153 € − 100 € − 4,5 € = 48,5 € (48% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
+    "Laikas ~1.0 val. → 48,5 €/val."
+   ]
   },
   {
    "id": "87798832",
@@ -90,47 +280,78 @@
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 248 €"
+    "4 panašių skelbimų mediana 247,5 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Parduodu nintendo switch Oled",
+     "kaina": 230.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-oled-87779562.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 245.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87822418.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87830022.html",
+     "vieta_laikas": "Klaipėda, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled + Super Mario",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-super-mario-87814116.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+oled"
+    }
    ],
    "tiketina_pardavimo": 223,
-   "pelnas": 17,
-   "roi": 0.08,
-   "max_pirkimo": 161,
-   "pelnas_per_val": 11,
+   "pelnas": 19,
+   "roi": 0.09,
+   "max_pirkimo": 162,
+   "pelnas_per_val": 12,
    "sprendimas": "derėtis",
-   "priezastis": "verta tik nusiderėjus iki 161 €",
-   "balas": 12
-  },
-  {
-   "id": "87828314",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/benzo-pjuklas-makita-87828314.html",
-   "pavadinimas": "Benzo pjūklas Makita.",
-   "kaina": 35.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285140368/tik-tai-kas-foto-variklis-geras.jpg",
-   "aprasymas": "Apardytas kompresija gera, įpilus Benzo į kolektorių vedasi.",
-   "vieta_laikas": "Klaipėdos r., prieš 11 val.",
-   "paieska": "Makita įrankiai",
-   "pastebetas": "2026-10-25T17:36:10Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "modelis": "makita-kita",
-   "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 140,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "12 panašių skelbimų mediana 140 €"
-   ],
-   "tiketina_pardavimo": 126,
-   "pelnas": 85,
-   "roi": 2.43,
-   "max_pirkimo": 89,
-   "pelnas_per_val": 57,
-   "sprendimas": "tikrinti",
-   "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink kainą pats",
-   "balas": 56
+   "priezastis": "verta tik nusiderėjus iki 162 €",
+   "balas": 13,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-oled): 4 vnt., kainos 230 €–250 €, mediana 247,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 222,8 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 222,8 € − 200 € − 4 € = 18,8 € (9% pirkimo kainos)",
+    "Mokėti ne daugiau: min((222,8 € − 4 €) / 1.35; 222,8 € − 4 € − 20 €) = 162 €",
+    "Laikas ~1.5 val. → 12,5 €/val."
+   ]
   },
   {
    "id": "87837760",
@@ -154,14 +375,113 @@
    "saltiniai": [
     "11 panašių skelbimų mediana 50 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834134.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834098.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834116.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834088.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834292.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834298.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834220.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lego",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=%C4%AEvair%C5%ABs+lego"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=%C4%AEvair%C5%ABs+lego"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=%C4%AEvair%C5%ABs+lego"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=%C4%AEvair%C5%ABs+lego"
+    }
+   ],
    "tiketina_pardavimo": 45,
-   "pelnas": 29,
-   "roi": 2.9,
-   "max_pirkimo": 19,
-   "pelnas_per_val": 19,
+   "pelnas": 30,
+   "roi": 3.05,
+   "max_pirkimo": 20,
+   "pelnas_per_val": 30,
    "sprendimas": "tikrinti",
-   "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink kainą pats",
-   "balas": 44
+   "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
+   "balas": 51,
+   "zingsniai": [
+    "Panašūs skelbimai (lego-rinkinys): 11 vnt., kainos 30 €–80 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 45 € − 10 € − 4,5 € = 30,5 € (305% pirkimo kainos)",
+    "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
+    "Laikas ~1.0 val. → 30,5 €/val."
+   ]
   },
   {
    "id": "87835252",
@@ -183,6 +503,43 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita Dtd152 impact",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-dtd152-impact-87833162.html",
+     "vieta_laikas": "Utenos r., prieš 6 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=makita+dtd152"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=makita+dtd152"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=makita+dtd152"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=makita+dtd152"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -190,7 +547,10 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ]
   },
   {
    "id": "87835062",
@@ -212,6 +572,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=makita+dhp484"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=makita+dhp484"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=makita+dhp484"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=makita+dhp484"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -219,7 +609,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87833162",
@@ -241,6 +632,43 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Utenos r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Akumuliatorinis smūginis suktuvas Makita Dtd152z",
+     "kaina": 39.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorinis-smuginis-suktuvas-makita-dtd152z-87835252.html",
+     "vieta_laikas": "Klaipėda, prieš 3 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=makita+dtd152"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=makita+dtd152"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=makita+dtd152"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=makita+dtd152"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -248,7 +676,10 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ]
   },
   {
    "id": "87828782",
@@ -270,6 +701,49 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Panevėžys",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Dyson - Parkside adapteris perėjimas V6 V7 V8",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-parkside-adapteris-perejimas-v6-v7-v8-87815940.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita baterija",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-87828648.html",
+     "vieta_laikas": "Šiauliai, prieš 10 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Suktuko+Makita+naujas+pakrovejas+ir+dvi+baterijos"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Suktuko+Makita+naujas+pakrovejas+ir+dvi+baterijos"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Suktuko+Makita+naujas+pakrovejas+ir+dvi+baterijos"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Suktuko+Makita+naujas+pakrovejas+ir+dvi+baterijos"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -277,7 +751,11 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
+   ]
   },
   {
    "id": "87828648",
@@ -299,6 +777,49 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Suktuko Makita naujas pakrovejas ir dvi baterijos",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/suktuko-makita-naujas-pakrovejas-ir-dvi-baterijos-87828782.html",
+     "vieta_laikas": "Panevėžys, prieš 10 val."
+    },
+    {
+     "pavadinimas": "Dyson - Parkside adapteris perėjimas V6 V7 V8",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-parkside-adapteris-perejimas-v6-v7-v8-87815940.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita+baterija"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita+baterija"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita+baterija"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita+baterija"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -306,7 +827,11 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
+   ]
   },
   {
    "id": "87804408",
@@ -328,6 +853,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kauno r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=makita+dub363"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=makita+dub363"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=makita+dub363"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=makita+dub363"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -335,7 +890,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87835610",
@@ -357,6 +913,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+71772"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+71772"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+71772"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+71772"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -364,7 +950,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87833506",
@@ -386,6 +973,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Širvintų r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+42125"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+42125"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+42125"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+42125"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -393,7 +1010,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87833530",
@@ -415,6 +1033,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Širvintų r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+42141"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+42141"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+42141"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+42141"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -422,7 +1070,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87814592",
@@ -444,6 +1093,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kauno r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+42130"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+42130"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+42130"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+42130"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -451,7 +1130,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87814570",
@@ -473,6 +1153,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kauno r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+910031"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+910031"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+910031"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+910031"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -480,7 +1190,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87814500",
@@ -502,6 +1213,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kauno r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+75323"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+75323"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+75323"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+75323"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -509,7 +1250,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87813376",
@@ -531,6 +1273,43 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -538,7 +1317,10 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ]
   },
   {
    "id": "87783020",
@@ -560,6 +1342,43 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo Switch Lite ružavas",
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -567,7 +1386,10 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ]
   },
   {
    "id": "87837804",
@@ -589,6 +1411,43 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Garmin Fenix 7x Sapphire Solar",
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-fenix-7x-sapphire-solar-87823848.html",
+     "vieta_laikas": "Kaunas, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+fenix+7x"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+fenix+7x"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+fenix+7x"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+fenix+7x"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -596,7 +1455,10 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ]
   },
   {
    "id": "87835338",
@@ -618,6 +1480,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+venu+3s"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+venu+3s"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+venu+3s"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+venu+3s"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -625,7 +1517,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87833858",
@@ -647,6 +1540,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+fenix+7"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+fenix+7"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+fenix+7"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+fenix+7"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -654,7 +1577,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87822316",
@@ -676,6 +1600,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+venu+3"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+venu+3"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+venu+3"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+venu+3"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -683,7 +1637,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87828640",
@@ -705,6 +1660,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+hrm+600"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+hrm+600"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+hrm+600"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+hrm+600"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -712,7 +1697,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87813576",
@@ -734,6 +1720,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+instinct+crossover"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+instinct+crossover"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+instinct+crossover"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+instinct+crossover"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -741,7 +1757,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87779754",
@@ -763,6 +1780,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+fenix+6"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+fenix+6"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+fenix+6"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+fenix+6"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -770,7 +1817,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87779456",
@@ -792,6 +1840,36 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+forerunner+55"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+forerunner+55"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+forerunner+55"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+forerunner+55"
+    }
+   ],
    "tiketina_pardavimo": null,
    "pelnas": null,
    "roi": null,
@@ -799,7 +1877,8 @@
    "pelnas_per_val": null,
    "sprendimas": "nežinoma",
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": []
   },
   {
    "id": "87822408",
@@ -823,45 +1902,114 @@
    "saltiniai": [
     "11 panašių skelbimų mediana 150 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita+bosch"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita+bosch"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita+bosch"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita+bosch"
+    }
+   ],
    "tiketina_pardavimo": 135,
-   "pelnas": 29,
-   "roi": 0.29,
-   "max_pirkimo": 96,
-   "pelnas_per_val": 19,
+   "pelnas": 30,
+   "roi": 0.3,
+   "max_pirkimo": 97,
+   "pelnas_per_val": 30,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 13
-  },
-  {
-   "id": "77901427",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
-   "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
-   "kaina": 105.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_4516239323/300-130.jpg",
-   "aprasymas": "Max akhl1250 KOMPRESORIAI nuo 700€ Kompresoriai Max akhl 1250 modelis Max akhl 1260 modelis Max gipso suktuvas-200€ dvi bat,kroviklis Hilti st1...",
-   "vieta_laikas": "Šiauliai, prieš 7 val.",
-   "paieska": "Makita įrankiai",
-   "pastebetas": "2026-10-25T17:36:10Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "modelis": "makita-kita",
-   "raktas": "makita-kita",
-   "palyginamu": 11,
-   "mediana": 150,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "11 panašių skelbimų mediana 150 €"
-   ],
-   "tiketina_pardavimo": 135,
-   "pelnas": 24,
-   "roi": 0.23,
-   "max_pirkimo": 96,
-   "pelnas_per_val": 16,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 10
+   "balas": 21,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 135 € − 100 € − 4,5 € = 30,5 € (30% pirkimo kainos)",
+    "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
+    "Laikas ~1.0 val. → 30,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ]
   },
   {
    "id": "87836066",
@@ -885,14 +2033,114 @@
    "saltiniai": [
     "11 panašių skelbimų mediana 150 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kretingos r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita"
+    }
+   ],
    "tiketina_pardavimo": 135,
-   "pelnas": 19,
-   "roi": 0.17,
-   "max_pirkimo": 96,
-   "pelnas_per_val": 13,
+   "pelnas": 20,
+   "roi": 0.19,
+   "max_pirkimo": 97,
+   "pelnas_per_val": 20,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 8
+   "balas": 14,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kretingos r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 135 € − 110 € − 4,5 € = 20,5 € (19% pirkimo kainos)",
+    "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
+    "Laikas ~1.0 val. → 20,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ]
   },
   {
    "id": "30038819",
@@ -914,16 +2162,116 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 128 €"
+    "12 panašių skelbimų mediana 127,5 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Bosch%2Cmakita%2Cdewalt%2Cmilwaukee%2Chikoki%2Cfiskars%2Chilti"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Bosch%2Cmakita%2Cdewalt%2Cmilwaukee%2Chikoki%2Cfiskars%2Chilti"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Bosch%2Cmakita%2Cdewalt%2Cmilwaukee%2Chikoki%2Cfiskars%2Chilti"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Bosch%2Cmakita%2Cdewalt%2Cmilwaukee%2Chikoki%2Cfiskars%2Chilti"
+    }
    ],
    "tiketina_pardavimo": 115,
-   "pelnas": -56,
-   "roi": -0.34,
-   "max_pirkimo": 81,
-   "pelnas_per_val": -38,
+   "pelnas": -55,
+   "roi": -0.33,
+   "max_pirkimo": 82,
+   "pelnas_per_val": -55,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 114,8 € − 165 € − 4,5 € = -54,8 € (-33% pirkimo kainos)",
+    "Mokėti ne daugiau: min((114,8 € − 4,5 €) / 1.35; 114,8 € − 4,5 € − 20 €) = 81,7 €",
+    "Laikas ~1.0 val. → -54,8 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ]
   },
   {
    "id": "32009643",
@@ -947,14 +2295,114 @@
    "saltiniai": [
     "12 panašių skelbimų mediana 140 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Dewalt%2Cbosch%2Cmilwaukee%2Cmakita+festool"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Dewalt%2Cbosch%2Cmilwaukee%2Cmakita+festool"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Dewalt%2Cbosch%2Cmilwaukee%2Cmakita+festool"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Dewalt%2Cbosch%2Cmilwaukee%2Cmakita+festool"
+    }
+   ],
    "tiketina_pardavimo": 126,
-   "pelnas": -5,
-   "roi": -0.04,
-   "max_pirkimo": 89,
-   "pelnas_per_val": -3,
+   "pelnas": -4,
+   "roi": -0.03,
+   "max_pirkimo": 90,
+   "pelnas_per_val": -4,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 126 € − 125 € − 4,5 € = -3,5 € (-3% pirkimo kainos)",
+    "Mokėti ne daugiau: min((126 € − 4,5 €) / 1.35; 126 € − 4,5 € − 20 €) = 90 €",
+    "Laikas ~1.0 val. → -3,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ]
   },
   {
    "id": "43267807",
@@ -976,16 +2424,366 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 128 €"
+    "12 panašių skelbimų mediana 127,5 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": true,
+    "nepervezamas": true
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Metabo%2Cmakita%2Cdewalt%2Cmilwaukee%2Chilti"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Metabo%2Cmakita%2Cdewalt%2Cmilwaukee%2Chilti"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Metabo%2Cmakita%2Cdewalt%2Cmilwaukee%2Chilti"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Metabo%2Cmakita%2Cdewalt%2Cmilwaukee%2Chilti"
+    }
    ],
    "tiketina_pardavimo": 115,
-   "pelnas": -41,
-   "roi": -0.28,
-   "max_pirkimo": 81,
-   "pelnas_per_val": -28,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
    "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "priezastis": "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka",
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka"
+   ]
+  },
+  {
+   "id": "77901427",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+   "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+   "kaina": 105.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_4516239323/300-130.jpg",
+   "aprasymas": "Max akhl1250 KOMPRESORIAI nuo 700€ Kompresoriai Max akhl 1250 modelis Max akhl 1260 modelis Max gipso suktuvas-200€ dvi bat,kroviklis Hilti st1...",
+   "vieta_laikas": "Šiauliai, prieš 7 val.",
+   "paieska": "Makita įrankiai",
+   "pastebetas": "2026-10-25T17:36:10Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "modelis": "makita-kita",
+   "raktas": "makita-kita",
+   "palyginamu": 11,
+   "mediana": 150,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "11 panašių skelbimų mediana 150 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": true,
+    "nepervezamas": true
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Paslode%2Cmax%2Cmilwaukee%2Cmakita%2Chilti%2Cmetabo%2Cwurth"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Paslode%2Cmax%2Cmilwaukee%2Cmakita%2Chilti%2Cmetabo%2Cwurth"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Paslode%2Cmax%2Cmilwaukee%2Cmakita%2Chilti%2Cmetabo%2Cwurth"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Paslode%2Cmax%2Cmilwaukee%2Cmakita%2Chilti%2Cmetabo%2Cwurth"
+    }
+   ],
+   "tiketina_pardavimo": 135,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "praleisti",
+   "balas": 0,
+   "priezastis": "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka",
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka"
+   ]
+  },
+  {
+   "id": "87828314",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/benzo-pjuklas-makita-87828314.html",
+   "pavadinimas": "Benzo pjūklas Makita.",
+   "kaina": 35.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285140368/tik-tai-kas-foto-variklis-geras.jpg",
+   "aprasymas": "Apardytas kompresija gera, įpilus Benzo į kolektorių vedasi.",
+   "vieta_laikas": "Klaipėdos r., prieš 11 val.",
+   "paieska": "Makita įrankiai",
+   "pastebetas": "2026-10-25T17:36:10Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "modelis": "makita-kita",
+   "raktas": "makita-kita",
+   "palyginamu": 12,
+   "mediana": 140,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "12 panašių skelbimų mediana 140 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėdos r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": true,
+    "nepervezamas": true
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Benzo+pj%C5%ABklas+Makita."
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Benzo+pj%C5%ABklas+Makita."
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Benzo+pj%C5%ABklas+Makita."
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Benzo+pj%C5%ABklas+Makita."
+    }
+   ],
+   "tiketina_pardavimo": 126,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "praleisti",
+   "balas": 0,
+   "priezastis": "didelis daiktas Klaipėdos r. – netelpa į siuntą, važiuoti neapsimoka",
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 60 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "didelis daiktas Klaipėdos r. – netelpa į siuntą, važiuoti neapsimoka"
+   ]
   },
   {
    "id": "87522456",
@@ -1007,16 +2805,116 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 138 €"
+    "12 panašių skelbimų mediana 137,5 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Festool+Ts+55+Rebq"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Festool+Ts+55+Rebq"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Festool+Ts+55+Rebq"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Festool+Ts+55+Rebq"
+    }
    ],
    "tiketina_pardavimo": 124,
-   "pelnas": -12,
-   "roi": -0.09,
-   "max_pirkimo": 87,
-   "pelnas_per_val": -8,
+   "pelnas": -11,
+   "roi": -0.08,
+   "max_pirkimo": 88,
+   "pelnas_per_val": -11,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 137,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 123,8 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 123,8 € − 130 € − 4,5 € = -10,8 € (-8% pirkimo kainos)",
+    "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
+    "Laikas ~1.0 val. → -10,8 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ]
   },
   {
    "id": "87816576",
@@ -1038,16 +2936,116 @@
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 128 €"
+    "12 panašių skelbimų mediana 127,5 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita+freza+siaurapj%C5%ABklis%2C+skardos+%C5%BEirkl%C4%97s"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita+freza+siaurapj%C5%ABklis%2C+skardos+%C5%BEirkl%C4%97s"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita+freza+siaurapj%C5%ABklis%2C+skardos+%C5%BEirkl%C4%97s"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita+freza+siaurapj%C5%ABklis%2C+skardos+%C5%BEirkl%C4%97s"
+    }
    ],
    "tiketina_pardavimo": 115,
-   "pelnas": -51,
-   "roi": -0.32,
-   "max_pirkimo": 81,
-   "pelnas_per_val": -34,
+   "pelnas": -50,
+   "roi": -0.31,
+   "max_pirkimo": 82,
+   "pelnas_per_val": -50,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 114,8 € − 160 € − 4,5 € = -49,8 € (-31% pirkimo kainos)",
+    "Mokėti ne daugiau: min((114,8 € − 4,5 €) / 1.35; 114,8 € − 4,5 € − 20 €) = 81,7 €",
+    "Laikas ~1.0 val. → -49,8 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ]
   },
   {
    "id": "87816920",
@@ -1071,14 +3069,113 @@
    "saltiniai": [
     "10 panašių skelbimų mediana 50 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Marijampolė",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834134.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834098.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834116.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834088.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834292.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834298.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834220.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Hario Poterio pilies kaladėlių konstruktorius",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/hario-poterio-pilies-kaladeliu-konstruktorius-87834036.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Lego"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Lego"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Lego"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Lego"
+    }
+   ],
    "tiketina_pardavimo": 45,
-   "pelnas": -11,
-   "roi": -0.22,
-   "max_pirkimo": 19,
-   "pelnas_per_val": -7,
+   "pelnas": -10,
+   "roi": -0.19,
+   "max_pirkimo": 20,
+   "pelnas_per_val": -10,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (lego-rinkinys): 10 vnt., kainos 30 €–80 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Marijampolė 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 45 € − 50 € − 4,5 € = -9,5 € (-19% pirkimo kainos)",
+    "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
+    "Laikas ~1.0 val. → -9,5 €/val."
+   ]
   },
   {
    "id": "87830022",
@@ -1100,16 +3197,78 @@
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 238 €"
+    "4 panašių skelbimų mediana 237,5 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Switch oled su Minecraft",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/switch-oled-su-minecraft-87798832.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Parduodu nintendo switch Oled",
+     "kaina": 230.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-oled-87779562.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 245.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87822418.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled + Super Mario",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-super-mario-87814116.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+oled"
+    }
    ],
    "tiketina_pardavimo": 214,
-   "pelnas": -42,
-   "roi": -0.17,
-   "max_pirkimo": 154,
-   "pelnas_per_val": -28,
+   "pelnas": -41,
+   "roi": -0.16,
+   "max_pirkimo": 155,
+   "pelnas_per_val": -41,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-oled): 4 vnt., kainos 200 €–250 €, mediana 237,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 213,8 €",
+    "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 213,8 € − 250 € − 4,5 € = -40,8 € (-16% pirkimo kainos)",
+    "Mokėti ne daugiau: min((213,8 € − 4,5 €) / 1.35; 213,8 € − 4,5 € − 20 €) = 155 €",
+    "Laikas ~1.0 val. → -40,8 €/val."
+   ]
   },
   {
    "id": "87824282",
@@ -1133,14 +3292,83 @@
    "saltiniai": [
     "5 panašių skelbimų mediana 27 €"
    ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo Switch žaidimai, priedai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-priedai-87755800.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Žaidimai",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-87781894.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nauji Nintendo Switch Pulteliai",
+     "kaina": 27.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nauji-nintendo-switch-pulteliai-87782102.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Splatoon Raiders (Nintendo Switch 2)",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon-raiders-nintendo-switch-2-87802834.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Zelda: Breath of the Wild – Switch 2 edition",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/zelda-breath-of-the-wild-switch-2-edition-87803044.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
+    }
+   ],
    "tiketina_pardavimo": 24,
-   "pelnas": -27,
-   "roi": -0.59,
+   "pelnas": -25,
+   "roi": -0.55,
    "max_pirkimo": 0,
-   "pelnas_per_val": -18,
+   "pelnas_per_val": -16,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-priedai): 5 vnt., kainos 15 €–50 €, mediana 27 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,3 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 24,3 € − 45 € − 4 € = -24,7 € (-55% pirkimo kainos)",
+    "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
+    "Laikas ~1.5 val. → -16,5 €/val."
+   ]
   },
   {
    "id": "87822418",
@@ -1164,14 +3392,76 @@
    "saltiniai": [
     "4 panašių skelbimų mediana 240 €"
    ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Switch oled su Minecraft",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/switch-oled-su-minecraft-87798832.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Parduodu nintendo switch Oled",
+     "kaina": 230.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-oled-87779562.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87830022.html",
+     "vieta_laikas": "Klaipėda, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled + Super Mario",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-super-mario-87814116.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+oled"
+    }
+   ],
    "tiketina_pardavimo": 216,
-   "pelnas": -35,
-   "roi": -0.14,
-   "max_pirkimo": 156,
-   "pelnas_per_val": -23,
+   "pelnas": -33,
+   "roi": -0.13,
+   "max_pirkimo": 157,
+   "pelnas_per_val": -22,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-oled): 4 vnt., kainos 200 €–250 €, mediana 240 € × 0.90 (realiai parduodama pigiau nei prašoma) = 216 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 216 € − 245 € − 4 € = -33 € (-13% pirkimo kainos)",
+    "Mokėti ne daugiau: min((216 € − 4 €) / 1.35; 216 € − 4 € − 20 €) = 157 €",
+    "Laikas ~1.5 val. → -22 €/val."
+   ]
   },
   {
    "id": "87814116",
@@ -1193,16 +3483,78 @@
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 238 €"
+    "4 panašių skelbimų mediana 237,5 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Switch oled su Minecraft",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/switch-oled-su-minecraft-87798832.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Parduodu nintendo switch Oled",
+     "kaina": 230.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-oled-87779562.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 245.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87822418.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87830022.html",
+     "vieta_laikas": "Klaipėda, prieš 8 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+oled"
+    }
    ],
    "tiketina_pardavimo": 214,
-   "pelnas": -42,
-   "roi": -0.17,
-   "max_pirkimo": 154,
-   "pelnas_per_val": -28,
+   "pelnas": -40,
+   "roi": -0.16,
+   "max_pirkimo": 155,
+   "pelnas_per_val": -27,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-oled): 4 vnt., kainos 200 €–250 €, mediana 237,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 213,8 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 213,8 € − 250 € − 4 € = -40,2 € (-16% pirkimo kainos)",
+    "Mokėti ne daugiau: min((213,8 € − 4 €) / 1.35; 213,8 € − 4 € − 20 €) = 155,4 €",
+    "Laikas ~1.5 val. → -26,8 €/val."
+   ]
   },
   {
    "id": "87803044",
@@ -1226,14 +3578,83 @@
    "saltiniai": [
     "5 panašių skelbimų mediana 27 €"
    ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo Switch žaidimai, priedai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-priedai-87755800.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Žaidimai",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-87781894.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nauji Nintendo Switch Pulteliai",
+     "kaina": 27.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nauji-nintendo-switch-pulteliai-87782102.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Splatoon Raiders (Nintendo Switch 2)",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon-raiders-nintendo-switch-2-87802834.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
+    }
+   ],
    "tiketina_pardavimo": 24,
-   "pelnas": -32,
-   "roi": -0.63,
+   "pelnas": -30,
+   "roi": -0.59,
    "max_pirkimo": 0,
-   "pelnas_per_val": -21,
+   "pelnas_per_val": -20,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-priedai): 5 vnt., kainos 15 €–45 €, mediana 27 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,3 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 24,3 € − 50 € − 4 € = -29,7 € (-59% pirkimo kainos)",
+    "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
+    "Laikas ~1.5 val. → -19,8 €/val."
+   ]
   },
   {
    "id": "87802834",
@@ -1257,14 +3678,83 @@
    "saltiniai": [
     "5 panašių skelbimų mediana 27 €"
    ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo Switch žaidimai, priedai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-priedai-87755800.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Žaidimai",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-87781894.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nauji Nintendo Switch Pulteliai",
+     "kaina": 27.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nauji-nintendo-switch-pulteliai-87782102.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Zelda: Breath of the Wild – Switch 2 edition",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/zelda-breath-of-the-wild-switch-2-edition-87803044.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
+    }
+   ],
    "tiketina_pardavimo": 24,
-   "pelnas": -27,
-   "roi": -0.59,
+   "pelnas": -25,
+   "roi": -0.55,
    "max_pirkimo": 0,
-   "pelnas_per_val": -18,
+   "pelnas_per_val": -16,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-priedai): 5 vnt., kainos 15 €–50 €, mediana 27 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,3 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 24,3 € − 45 € − 4 € = -24,7 € (-55% pirkimo kainos)",
+    "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
+    "Laikas ~1.5 val. → -16,5 €/val."
+   ]
   },
   {
    "id": "87800544",
@@ -1288,14 +3778,94 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 170 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo swtich",
+     "kaina": 90.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 153,
-   "pelnas": -3,
-   "roi": -0.02,
-   "max_pirkimo": 109,
+   "pelnas": -2,
+   "roi": -0.01,
+   "max_pirkimo": 110,
    "pelnas_per_val": -2,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 153 € − 150 € − 4,5 € = -1,5 € (-1% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
+    "Laikas ~1.0 val. → -1,5 €/val."
+   ]
   },
   {
    "id": "87799720",
@@ -1319,14 +3889,94 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 160 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo swtich",
+     "kaina": 90.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 144,
-   "pelnas": -62,
-   "roi": -0.31,
-   "max_pirkimo": 102,
-   "pelnas_per_val": -41,
+   "pelnas": -60,
+   "roi": -0.3,
+   "max_pirkimo": 103,
+   "pelnas_per_val": -60,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
+    "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 144 € − 200 € − 4,5 € = -60,5 € (-30% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
+    "Laikas ~1.0 val. → -60,5 €/val."
+   ]
   },
   {
    "id": "87783242",
@@ -1350,14 +4000,94 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 160 €"
    ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo swtich",
+     "kaina": 90.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 144,
-   "pelnas": -32,
-   "roi": -0.19,
-   "max_pirkimo": 102,
-   "pelnas_per_val": -21,
+   "pelnas": -30,
+   "roi": -0.18,
+   "max_pirkimo": 104,
+   "pelnas_per_val": -20,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 144 € − 170 € − 4 € = -30 € (-18% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4 €) / 1.35; 144 € − 4 € − 20 €) = 103,7 €",
+    "Laikas ~1.5 val. → -20 €/val."
+   ]
   },
   {
    "id": "87781792",
@@ -1381,14 +4111,94 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 160 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kauno r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo swtich",
+     "kaina": 90.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 144,
-   "pelnas": -42,
+   "pelnas": -40,
    "roi": -0.23,
-   "max_pirkimo": 102,
-   "pelnas_per_val": -28,
+   "max_pirkimo": 103,
+   "pelnas_per_val": -40,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
+    "Kaštai: siunta į paštomatą iš Kauno r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 144 € − 180 € − 4,5 € = -40,5 € (-22% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
+    "Laikas ~1.0 val. → -40,5 €/val."
+   ]
   },
   {
    "id": "87779562",
@@ -1410,16 +4220,78 @@
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 248 €"
+    "4 panašių skelbimų mediana 247,5 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Switch oled su Minecraft",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/switch-oled-su-minecraft-87798832.html",
+     "vieta_laikas": "Vilnius, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 245.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87822418.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-87830022.html",
+     "vieta_laikas": "Klaipėda, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Oled + Super Mario",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-oled-super-mario-87814116.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+oled"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+oled"
+    }
    ],
    "tiketina_pardavimo": 223,
-   "pelnas": -13,
-   "roi": -0.06,
-   "max_pirkimo": 161,
-   "pelnas_per_val": -9,
+   "pelnas": -11,
+   "roi": -0.05,
+   "max_pirkimo": 162,
+   "pelnas_per_val": -8,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-oled): 4 vnt., kainos 200 €–250 €, mediana 247,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 222,8 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 222,8 € − 230 € − 4 € = -11,2 € (-5% pirkimo kainos)",
+    "Mokėti ne daugiau: min((222,8 € − 4 €) / 1.35; 222,8 € − 4 € − 20 €) = 162 €",
+    "Laikas ~1.5 val. → -7,5 €/val."
+   ]
   },
   {
    "id": "87755174",
@@ -1443,68 +4315,174 @@
    "saltiniai": [
     "7 panašių skelbimų mediana 170 €"
    ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo swtich",
+     "kaina": 90.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Retroid pocket 5 konsole nauja",
+     "kaina": 240.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/retroid-pocket-5-konsole-nauja-87771140.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
    "tiketina_pardavimo": 153,
-   "pelnas": -13,
-   "roi": -0.08,
-   "max_pirkimo": 109,
-   "pelnas_per_val": -9,
+   "pelnas": -12,
+   "roi": -0.07,
+   "max_pirkimo": 110,
+   "pelnas_per_val": -12,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
-   "balas": 0
+   "balas": 0,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 7 vnt., kainos 90 €–240 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 153 € − 160 € − 4,5 € = -11,5 € (-7% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
+    "Laikas ~1.0 val. → -11,5 €/val."
+   ]
   }
  ],
  "rinka": {
   "makita-kita": {
    "n": 16,
-   "mediana": 128
+   "mediana": 128,
+   "min": 20.0,
+   "max": 333.0
   },
   "makita-dtd152": {
    "n": 2,
-   "mediana": 30
+   "mediana": 30,
+   "min": 20.0,
+   "max": 39.0
   },
   "makita-priedas": {
    "n": 4,
-   "mediana": 25
+   "mediana": 25,
+   "min": 5.0,
+   "max": 30.0
   },
   "lego-rinkinys": {
    "n": 17,
-   "mediana": 50
+   "mediana": 50,
+   "min": 5.0,
+   "max": 200.0
   },
   "switch-2": {
    "n": 2,
-   "mediana": 438
+   "mediana": 438,
+   "min": 425.0,
+   "max": 450.0
   },
   "switch-oled": {
    "n": 5,
-   "mediana": 245
+   "mediana": 245,
+   "min": 200.0,
+   "max": 250.0
   },
   "switch-v1": {
    "n": 9,
-   "mediana": 160
+   "mediana": 160,
+   "min": 25.0,
+   "max": 240.0
   },
   "switch-priedai": {
    "n": 6,
-   "mediana": 36
+   "mediana": 36,
+   "min": 15.0,
+   "max": 50.0
   },
   "switch-lite": {
    "n": 2,
-   "mediana": 115
+   "mediana": 115,
+   "min": 110.0,
+   "max": 120.0
   },
   "garmin-fenix-7x": {
    "n": 2,
-   "mediana": 300
+   "mediana": 300,
+   "min": 250.0,
+   "max": 350.0
   },
   "garmin-kita": {
    "n": 4,
-   "mediana": 185
+   "mediana": 185,
+   "min": 30.0,
+   "max": 18250.0
   },
   "garmin-fenix-8": {
    "n": 3,
-   "mediana": 600
+   "mediana": 600,
+   "min": 590.0,
+   "max": 680.0
   },
   "garmin-forerunner-965": {
    "n": 2,
-   "mediana": 365
+   "mediana": 365,
+   "min": 350.0,
+   "max": 380.0
   }
  }
 }

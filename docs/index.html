@@ -26,7 +26,8 @@ h1{font-size:2rem;line-height:1.05}h2{font-size:1.35rem}
 .chip{border:1px solid var(--line);border-radius:999px;padding:2px 10px;background:var(--panel);white-space:nowrap}
 .chip.ok{border-color:var(--ok);color:var(--ok)}.chip.bad{border-color:var(--accent);color:var(--accent)}
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
-.tile{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px;text-align:left;color:var(--fg);font:inherit;cursor:pointer}
+.tile:hover{border-color:var(--fg)}
 .tile b{display:block;font-family:var(--mono);font-size:1.4rem}
 .tabs{display:flex;gap:8px;flex-wrap:wrap}
 .tabs button{font:600 .9rem var(--body);border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;padding:6px 12px;cursor:pointer}
@@ -53,6 +54,15 @@ details pre{white-space:pre-wrap;background:var(--bg);border:1px solid var(--lin
 table{border-collapse:collapse;width:100%;font-size:.9rem;font-variant-numeric:tabular-nums}
 th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line)}td.n{text-align:right;font-family:var(--mono)}
 .scroll{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.best .card{border-color:var(--ok);border-width:2px}
+.steps{margin:6px 0;padding-left:20px;display:grid;gap:4px}
+.sub{font-size:.85rem;color:var(--muted);margin-top:6px}
+.comps{list-style:none;margin:4px 0;padding:0;display:grid;gap:3px}
+.comps a{color:var(--fg)}
+.shops{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.shops a{color:var(--fg);text-decoration:none}
+a.copy{display:inline-block;text-decoration:none;justify-self:start}
+summary{cursor:pointer;color:var(--muted)}
 .note{font-size:.85rem;color:var(--muted)}
 @media (max-width:480px){.card{grid-template-columns:72px 1fr}.card img{width:72px;height:72px}.nums{grid-template-columns:repeat(2,minmax(0,1fr))}}
 </style>
@@ -60,80 +70,115 @@ th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line)}td.n{t
 <body>
 <div class="wrap">
   <header>
-    <div class="eyebrow">Honda Africa Twin DCT fondas · 12 000 €</div>
+    <div class="eyebrow">Skelbiu.lt radiniai · atnaujinama kas valandą</div>
     <h1>Ką pirkti šiandien</h1>
   </header>
   <div class="status" id="status"><span class="chip">Kraunama…</span></div>
+  <section class="best" id="bestWrap" hidden>
+    <h2>Geriausi dabar</h2>
+    <div class="cards" id="best"></div>
+  </section>
   <div class="tiles" id="tiles"></div>
-  <section style="display:grid;gap:10px">
+  <section style="display:grid;gap:10px" id="listTop">
     <div class="tabs" id="tabs"></div>
     <div class="cards" id="cards"></div>
   </section>
   <section style="display:grid;gap:10px">
     <h2>Rinkos kainos pagal modelį</h2>
     <p class="note">Prašomų kainų mediana iš visų sukauptų skelbimų. Kuo daugiau skelbimų, tuo tikslesnis vertinimas.</p>
-    <div class="scroll"><table><thead><tr><th>Modelis</th><th>Skelbimų</th><th>Mediana</th></tr></thead><tbody id="market"></tbody></table></div>
+    <div class="scroll"><table><thead><tr><th>Modelis</th><th>Skelbimų</th><th>Mediana</th><th>Nuo–iki</th></tr></thead><tbody id="market"></tbody></table></div>
   </section>
   <p class="note" id="assumptions"></p>
 </div>
 <script>
-const fmt = n => n == null ? "—" : Math.round(n).toLocaleString("lt-LT") + " €";
+const ZURNALAS = "https://claude.ai/artifact/BnoZFVQTbE2ErNKnU8aGji";
+const fmt = n => n == null ? "—" : (Math.round(n * 10) / 10).toLocaleString("lt-LT") + " €";
 const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; };
+const link = (href, txt, cls) => { const a = el("a", cls || "", txt); a.href = href; a.target = "_blank"; a.rel = "noopener"; return a; };
 const LABEL = {verta: "Pirkti", derėtis: "Derėtis", tikrinti: "Patikrinti", nežinoma: "Laukia vertinimo", praleisti: "Praleisti"};
 let D, B, filter = "verta";
+
+function card(r, big) {
+  const c = el("article", "card" + (big ? " big" : ""));
+  const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer";
+  img.onerror = () => img.style.visibility = "hidden"; if (r.nuotrauka) img.src = r.nuotrauka;
+  const body = el("div", "body");
+  const top = el("div", "top");
+  top.append(link(r.nuoroda, r.pavadinimas || "(be pavadinimo)"), el("span", "verdict v-" + r.sprendimas, LABEL[r.sprendimas] || r.sprendimas));
+  const nums = el("div", "nums");
+  const n = (t, v, cls) => { const s = el("span", "", t); s.append(el("b", cls || "", v)); nums.append(s); };
+  n("Prašo", fmt(r.kaina)); n("Parduosi už ~", fmt(r.tiketina_pardavimo));
+  n("Pelnas", fmt(r.pelnas), r.pelnas > 0 ? "pos" : r.pelnas < 0 ? "neg" : "");
+  n("Mokėk ne daugiau", r.max_pirkimo ? fmt(r.max_pirkimo) : "—");
+  body.append(top, nums, el("div", "why", r.priezastis || ""));
+  body.append(el("div", "meta", [r.modelis, "patikimumas: " + r.patikimumas, r.kastai && r.kastai.budas,
+    r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
+  if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES su siuntimu pigesnis nei LT skelbimuose."));
+  if (r.rizikos) body.append(el("div", "meta", "Rizikos: " + r.rizikos));
+
+  const how = el("details"); how.append(el("summary", "", "Kaip apskaičiuota"));
+  const ol = el("ol", "steps"); (r.zingsniai || []).forEach(z => ol.append(el("li", "", z))); how.append(ol);
+  if (r.palyginami && r.palyginami.length) {
+    how.append(el("div", "sub", "Panašūs skelbimai (" + r.palyginamu + "):"));
+    const ul = el("ul", "comps");
+    r.palyginami.forEach(p => { const li = el("li"); li.append(link(p.nuoroda, p.pavadinimas), el("span", "mono", " " + fmt(p.kaina))); ul.append(li); });
+    how.append(ul);
+  }
+  body.append(how);
+
+  const shop = el("details"); shop.append(el("summary", "", r.parduotuves && r.parduotuves.length ? "Naujo kainos parduotuvėse (" + r.parduotuves.length + ")" : "Naujo kaina parduotuvėse"));
+  if (r.parduotuves && r.parduotuves.length) {
+    const ul = el("ul", "comps");
+    r.parduotuves.forEach(p => { const li = el("li"); li.append(link(p.url, p.parduotuve || p.pavadinimas || p.url), el("span", "mono", " " + fmt(p.kaina) + (p.su_siuntimu ? " su siuntimu" : ""))); ul.append(li); });
+    shop.append(ul);
+  } else shop.append(el("div", "sub", "Claude dar nepatikrino. Greita paieška:"));
+  const q = el("div", "shops"); (r.parduotuviu_paieska || []).forEach(p => q.append(link(p.url, p.pavadinimas, "chip"))); shop.append(q);
+  body.append(shop);
+
+  if (r.skelbimo_tekstas) {
+    const d = el("details"); d.append(el("summary", "", "Paruoštas skelbimo tekstas"));
+    const pre = el("pre", "", r.skelbimo_tekstas); const btn = el("button", "copy", "Kopijuoti"); btn.type = "button";
+    btn.onclick = () => navigator.clipboard.writeText(r.skelbimo_tekstas).then(() => btn.textContent = "Nukopijuota", () => getSelection().selectAllChildren(pre));
+    d.append(pre, btn); body.append(d);
+  }
+  if (ZURNALAS.startsWith("http")) {
+    const buy = link(ZURNALAS + "#p" + r.id, "Pirkau → į žurnalą", "copy");
+    buy.onclick = () => { try { navigator.clipboard.writeText(JSON.stringify({skelbimas: {id: r.id, nuoroda: r.nuoroda, pavadinimas: r.pavadinimas, kaina: r.kaina, vieta_laikas: r.vieta_laikas, aprasymas: r.aprasymas, nuotrauka: r.nuotrauka, pastebetas: r.pastebetas, tiketina_pardavimo: r.tiketina_pardavimo}})); } catch (e) {} };
+    body.append(buy);
+  }
+  c.append(img, body); return c;
+}
 
 function render() {
   const R = D.radiniai;
   const cnt = k => R.filter(r => r.sprendimas === k).length;
+  const best = R.filter(r => r.sprendimas === "verta" || r.sprendimas === "derėtis").sort((a, b) => b.balas - a.balas).slice(0, 3);
+  document.getElementById("bestWrap").hidden = !best.length;
+  document.getElementById("best").replaceChildren(...best.map(r => card(r, true)));
+
   const tiles = document.getElementById("tiles");
-  const best = R.filter(r => r.sprendimas === "verta").reduce((s, r) => s + (r.pelnas || 0), 0);
-  tiles.replaceChildren(...[["Pirkti", cnt("verta")], ["Derėtis", cnt("derėtis")], ["Patikrinti", cnt("tikrinti")], ["Galimas pelnas", fmt(best)]]
-    .map(([t, v]) => { const d = el("div", "tile"); d.append(el("span", "eyebrow", t), el("b", "", v)); return d; }));
+  const profit = R.filter(r => r.sprendimas === "verta").reduce((s, r) => s + (r.pelnas || 0), 0);
+  tiles.replaceChildren(...[["verta", "Pirkti", cnt("verta")], ["derėtis", "Derėtis", cnt("derėtis")], ["tikrinti", "Patikrinti", cnt("tikrinti")], ["verta", "Galimas pelnas", fmt(profit)]]
+    .map(([k, t, v]) => { const b = el("button", "tile"); b.type = "button"; b.append(el("span", "eyebrow", t), el("b", "", v));
+      b.onclick = () => { filter = k; render(); document.getElementById("listTop").scrollIntoView({behavior: "smooth"}); }; return b; }));
 
   const tabs = document.getElementById("tabs");
   tabs.replaceChildren(...["verta", "derėtis", "tikrinti", "nežinoma", "praleisti", "visi"].map(k => {
     const b = el("button", "", (LABEL[k] || "Visi") + " (" + (k === "visi" ? R.length : cnt(k)) + ")");
     b.type = "button"; b.setAttribute("aria-pressed", k === filter); b.onclick = () => { filter = k; render(); }; return b;
   }));
-
   const rows = R.filter(r => filter === "visi" || r.sprendimas === filter);
-  const cards = document.getElementById("cards");
-  if (!rows.length) cards.replaceChildren(el("p", "note", "Šioje grupėje šiuo metu nieko nėra."));
-  else cards.replaceChildren(...rows.map(r => {
-    const c = el("article", "card");
-    const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer"; img.onerror = () => img.style.visibility = "hidden"; if (r.nuotrauka) img.src = r.nuotrauka;
-    const body = el("div", "body");
-    const top = el("div", "top");
-    const a = el("a", "", r.pavadinimas || "(be pavadinimo)"); a.href = r.nuoroda; a.target = "_blank"; a.rel = "noopener";
-    top.append(a, el("span", "verdict v-" + r.sprendimas, LABEL[r.sprendimas] || r.sprendimas));
-    const nums = el("div", "nums");
-    const n = (t, v, cls) => { const s = el("span", "", t); const b = el("b", cls || "", v); s.append(b); nums.append(s); };
-    n("Prašo", fmt(r.kaina)); n("Parduosi už ~", fmt(r.tiketina_pardavimo));
-    n("Pelnas", fmt(r.pelnas), r.pelnas > 0 ? "pos" : r.pelnas < 0 ? "neg" : "");
-    n("Mokėk ne daugiau", r.max_pirkimo ? fmt(r.max_pirkimo) : "—");
-    body.append(top, nums, el("div", "why", r.priezastis || ""));
-    body.append(el("div", "meta", [r.modelis, "patikimumas: " + r.patikimumas, (r.saltiniai || []).join(", "),
-      r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
-    if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES pigesnis nei LT naudoti." + (r.naujo_saltinis ? " " : "")));
-    if (r.naujo_saltinis) { const l = el("a", "meta", "Naujo kaina: " + fmt(r.naujo_kaina)); l.href = r.naujo_saltinis; l.target = "_blank"; l.rel = "noopener"; body.append(l); }
-    if (r.rizikos) body.append(el("div", "meta", "Rizikos: " + r.rizikos));
-    if (r.skelbimo_tekstas) {
-      const d = el("details"); d.append(el("summary", "", "Paruoštas skelbimo tekstas"));
-      const pre = el("pre", "", r.skelbimo_tekstas); const btn = el("button", "copy", "Kopijuoti"); btn.type = "button";
-      btn.onclick = () => navigator.clipboard.writeText(r.skelbimo_tekstas).then(() => btn.textContent = "Nukopijuota", () => { getSelection().selectAllChildren(pre); });
-      d.append(pre, btn); body.append(d);
-    }
-    c.append(img, body); return c;
-  }));
+  document.getElementById("cards").replaceChildren(...(rows.length ? rows.map(r => card(r)) : [el("p", "note", "Šioje grupėje šiuo metu nieko nėra.")]));
 
   const m = Object.entries(D.rinka).sort((x, y) => y[1].n - x[1].n);
   document.getElementById("market").replaceChildren(...m.map(([k, v]) => {
-    const tr = el("tr"); tr.append(el("td", "", k), el("td", "n", v.n), el("td", "n", fmt(v.mediana))); return tr;
+    const tr = el("tr"); tr.append(el("td", "", k), el("td", "n", v.n), el("td", "n", fmt(v.mediana)), el("td", "n", fmt(v.min) + "–" + fmt(v.max))); return tr;
   }));
   const p = D.prielaidos;
   document.getElementById("assumptions").textContent =
-    `Prielaidos: kelionės ir siuntimo kaštai ${p.kastai} €, vienas sandoris ~${p.valandos} val., „Pirkti“ tik kai pelnas ≥ ${p.min_pelnas} € ir ≥ ${Math.round(p.min_roi * 100)} % pirkimo kainos. ` +
-    `Tikėtina kaina = 90 % panašių skelbimų medianos (realiai parduodama pigiau nei prašoma) arba Claude įvertinimas, bet ne daugiau 85 % naujo daikto kainos. Istorijoje ${D.skelbimu_istorijoje} skelbimų.`;
+    `Prielaidos: vietiniai miestai ${p.vietiniai_miestai.join(", ")} (atsiėmimas ${fmt(p.atsiemimas_vietoje_eur)}, ~${p.laikas_vietoje_val} val.), kiti – siunta į paštomatą ${fmt(p.siunta_i_mane_eur)} (~${p.laikas_siunta_val} val.), dideli daiktai iš kitų miestų praleidžiami. ` +
+    `Pakuotė / pardavimas ${fmt(p.pardavimo_kastai_eur)}. „Pirkti“ tik kai pelnas ≥ ${fmt(p.min_pelnas_eur)} ir ≥ ${Math.round(p.min_roi * 100)} % pirkimo kainos. ` +
+    `Tikėtina kaina = ${Math.round(p.nuolaida_pardavimui * 100)} % panašių skelbimų medianos arba Claude įvertinimas, bet ne daugiau ${Math.round(p.naujo_lubos * 100)} % naujo kainos. Istorijoje ${D.skelbimu_istorijoje} skelbimų.`;
 }
 
 function renderStatus() {
@@ -141,7 +186,8 @@ function renderStatus() {
   const t = new Date(B.paleista).toLocaleString("lt-LT", {timeZone: "Europe/Vilnius", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
   const old = Date.now() - new Date(B.paleista) > 3 * 3600e3;
   st.append(el("span", "chip " + (old ? "bad" : "ok"), "Paieška " + t));
-  for (const p of B.paieskos) st.append(el("span", "chip " + (p.kodas === 200 ? "" : "bad"), p.pavadinimas + (p.kodas === 200 ? "" : " ✗")));
+  const bad = B.paieskos.filter(p => p.kodas !== 200);
+  st.append(el("span", "chip " + (bad.length ? "bad" : ""), B.paieskos.length + " paieškos" + (bad.length ? ", nepavyko: " + bad.map(p => p.pavadinimas).join(", ") : "")));
 }
 
 Promise.all([fetch("analize.json", {cache: "no-store"}).then(r => r.json()), fetch("busena.json", {cache: "no-store"}).then(r => r.json())])

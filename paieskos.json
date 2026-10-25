@@ -1,5 +1,5 @@
 {
-  "_paaiskinimas": "Kiekviena paieška: Skelbiu.lt nuoroda (nukopijuok iš naršyklės po paieškos), raktažodžiai (bent vienas turi būti pavadinime; tuščia = visi), kainų ribos eurais. 'isimti' žodžiai atmeta skelbimą.",
+  "_paaiskinimas": "Kiekviena paieška: Skelbiu.lt nuoroda (nukopijuok iš naršyklės po paieškos), raktažodžiai (bent vienas turi būti pavadinime; tuščia = visi), kainų ribos eurais. 'isimti' žodžiai atmeta skelbimą. 'sezonas_menesiai' – mėnesiai, kai kategorija gauna aukštesnį balą (paklausa didesnė).",
   "visada_isimti": [
     "šalmas",
     "salmas",
@@ -35,6 +35,13 @@
         "sugedes",
         "pjovimas",
         "gręžimas"
+      ],
+      "sezonas_menesiai": [
+        3,
+        4,
+        5,
+        9,
+        10
       ]
     },
     {
@@ -49,6 +56,10 @@
         "analogas",
         "kopija",
         "lepin"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
       ]
     },
     {
@@ -65,6 +76,10 @@
         "uzrakintas",
         "dalims",
         "neveikia"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
       ]
     },
     {
@@ -81,6 +96,143 @@
         "dirželis",
         "dirzelis",
         "kroviklis"
+      ],
+      "sezonas_menesiai": [
+        3,
+        4,
+        5,
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "DeWalt įrankiai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=dewalt&orderBy=1",
+      "raktazodziai": [
+        "dewalt"
+      ],
+      "min_kaina": 15,
+      "max_kaina": 200,
+      "isimti": [
+        "dalims",
+        "dalys",
+        "neveikia",
+        "sugedęs",
+        "sugedes"
+      ],
+      "sezonas_menesiai": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ]
+    },
+    {
+      "pavadinimas": "Milwaukee įrankiai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=milwaukee&orderBy=1",
+      "raktazodziai": [
+        "milwaukee"
+      ],
+      "min_kaina": 15,
+      "max_kaina": 250,
+      "isimti": [
+        "dalims",
+        "dalys",
+        "neveikia",
+        "sugedęs",
+        "sugedes"
+      ],
+      "sezonas_menesiai": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ]
+    },
+    {
+      "pavadinimas": "PlayStation 5",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=ps5&orderBy=1",
+      "raktazodziai": [
+        "ps5",
+        "playstation 5",
+        "playstation5"
+      ],
+      "min_kaina": 20,
+      "max_kaina": 380,
+      "isimti": [
+        "dalims",
+        "neveikia",
+        "nuoma",
+        "užrakint"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "Kindle skaityklės",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=kindle&orderBy=1",
+      "raktazodziai": [
+        "kindle"
+      ],
+      "min_kaina": 15,
+      "max_kaina": 150,
+      "isimti": [
+        "dalims",
+        "neveikia",
+        "dėklas",
+        "deklas"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "GoPro kameros",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=gopro&orderBy=1",
+      "raktazodziai": [
+        "gopro"
+      ],
+      "min_kaina": 30,
+      "max_kaina": 300,
+      "isimti": [
+        "dalims",
+        "neveikia",
+        "laikiklis",
+        "dėklas"
+      ],
+      "sezonas_menesiai": [
+        4,
+        5,
+        6,
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "DJI dronai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=dji&orderBy=1",
+      "raktazodziai": [
+        "dji"
+      ],
+      "min_kaina": 60,
+      "max_kaina": 450,
+      "isimti": [
+        "dalims",
+        "neveikia",
+        "propeler",
+        "baterij"
+      ],
+      "sezonas_menesiai": [
+        4,
+        5,
+        6,
+        11,
+        12
       ]
     }
   ]

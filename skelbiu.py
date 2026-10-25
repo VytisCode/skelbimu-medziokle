@@ -165,6 +165,8 @@ def tinka(s: dict, p: dict, visada_isimti: list[str]) -> tuple[bool, str]:
     for z in visada_isimti + p.get("isimti", []):
         if z.lower() in tekstas:
             return False, f"išimtas žodis „{z}“"
+    if re.search(r"\b(ieškau|ieskau|ieško|iesko|ieškom|ieskom|domina|nupirksiu|pirkčiau|pirkciau|reikalingas|reikalinga)\b", s["pavadinimas"].lower()):
+        return False, "pirkimo skelbimas (ieško, ne parduoda)"
     rz = [z.lower() for z in p.get("raktazodziai", [])]
     if rz and not any(z in tekstas for z in rz):
         return False, "nėra raktažodžio"

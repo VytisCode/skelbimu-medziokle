@@ -218,9 +218,17 @@ def kastai(s: dict) -> dict:
             "nepervezamas": didelis and not vietinis}
 
 
+PERKA = re.compile(r"\b(perku|pirksiu|pirkciau|nupirksiu|supirk|ieskau|iesko|ieskom|domina|reikalingas|reikalinga)\b")
+
+
+def perka(s: dict) -> bool:
+    """Pirkimo / paieškos skelbimai („Ieškau Steam Deck“) – ne pasiūla, nei radinys, nei palyginimas."""
+    return bool(PERKA.search(be_diakritiku(s.get("pavadinimas"))))
+
+
 def palyginami(raktas: str, sid: str, visi: list[dict]) -> list[dict]:
     komp = [s for s in visi if s["_raktas"] == raktas and s["id"] != sid and s.get("kaina")
-            and not re.search(r"\b(perku|pirksiu|pirkciau|supirk)", be_diakritiku(s["pavadinimas"]))]
+            and not perka(s)]
     if len(komp) >= 3:                      # išmetame aiškias išskirtis (klaidingos kainos, rinkiniai)
         med = statistics.median(k["kaina"] for k in komp)
         komp = [k for k in komp if med / 3 <= k["kaina"] <= med * 3]
@@ -536,7 +544,7 @@ def main() -> int:
     except (OSError, ValueError):
         vertinimai = {}
     kal = kalibracija()
-    visi = list(istorija.values())
+    visi = [s for s in istorija.values() if not perka(s)]
     for s in visi:
         s["_raktas"] = modelio_raktas(s)
     riba = (datetime.now(timezone.utc) - timedelta(hours=SVIEZUMAS_VAL)).strftime("%Y-%m-%dT%H:%M:%SZ")

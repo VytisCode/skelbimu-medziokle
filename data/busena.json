@@ -1,6 +1,58 @@
 {
- "paleista": "2026-10-25T17:27:18Z",
- "proxy": false,
- "paieskos": [],
- "klaida": "proxy nenurodytas"
+ "paleista": "2026-10-25T17:32:10Z",
+ "proxy": true,
+ "paieskos": [
+  {
+   "pavadinimas": "Elektriniai įrankiai (Makita, DeWalt, Milwaukee)",
+   "kodas": 403,
+   "kb_per_proxy": 13.1,
+   "puslapio_pavadinimas": "Skelbiu.lt",
+   "blokavimo_zymes": [
+    "challenge-platform",
+    "cf_chl_"
+   ],
+   "rasta_skelbimu": 0,
+   "nauju": 0,
+   "atrinkta_nauju": 0
+  },
+  {
+   "pavadinimas": "Lego",
+   "kodas": 403,
+   "kb_per_proxy": 13.1,
+   "puslapio_pavadinimas": "Skelbiu.lt",
+   "blokavimo_zymes": [
+    "challenge-platform",
+    "cf_chl_"
+   ],
+   "rasta_skelbimu": 0,
+   "nauju": 0,
+   "atrinkta_nauju": 0
+  },
+  {
+   "pavadinimas": "Nintendo Switch",
+   "kodas": 403,
+   "kb_per_proxy": 13.1,
+   "puslapio_pavadinimas": "Skelbiu.lt",
+   "blokavimo_zymes": [
+    "challenge-platform",
+    "cf_chl_"
+   ],
+   "rasta_skelbimu": 0,
+   "nauju": 0,
+   "atrinkta_nauju": 0
+  },
+  {
+   "pavadinimas": "Garmin laikrodžiai",
+   "kodas": 403,
+   "kb_per_proxy": 13.1,
+   "puslapio_pavadinimas": "Skelbiu.lt",
+   "blokavimo_zymes": [
+    "challenge-platform",
+    "cf_chl_"
+   ],
+   "rasta_skelbimu": 0,
+   "nauju": 0,
+   "atrinkta_nauju": 0
+  }
+ ]
 }

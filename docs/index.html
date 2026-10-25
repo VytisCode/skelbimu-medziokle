@@ -114,6 +114,8 @@ function render() {
     body.append(top, nums, el("div", "why", r.priezastis || ""));
     body.append(el("div", "meta", [r.modelis, "patikimumas: " + r.patikimumas, (r.saltiniai || []).join(", "),
       r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
+    if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES pigesnis nei LT naudoti." + (r.naujo_saltinis ? " " : "")));
+    if (r.naujo_saltinis) { const l = el("a", "meta", "Naujo kaina: " + fmt(r.naujo_kaina)); l.href = r.naujo_saltinis; l.target = "_blank"; l.rel = "noopener"; body.append(l); }
     if (r.rizikos) body.append(el("div", "meta", "Rizikos: " + r.rizikos));
     if (r.skelbimo_tekstas) {
       const d = el("details"); d.append(el("summary", "", "Paruoštas skelbimo tekstas"));

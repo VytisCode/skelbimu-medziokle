@@ -146,7 +146,7 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
                  max_pirkimo=round(max_pirkimo) if max_pirkimo > 0 else 0,
                  pelnas_per_val=round(pelnas / VALANDOS), sprendimas=spr, priezastis=prz, balas=round(balas))
     if claude:
-        for k in ("sprendimas", "priezastis", "skelbimo_tekstas", "rizikos", "ivertinta"):
+        for k in ("sprendimas", "priezastis", "skelbimo_tekstas", "rizikos", "ivertinta", "stovas", "naujo_saltinis"):
             if claude.get(k):
                 r[k] = claude[k]
     return r

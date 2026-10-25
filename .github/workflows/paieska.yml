@@ -40,6 +40,14 @@ jobs:
         run: |
           python -u analize.py data/vertinimai.json docs/analize.json
           cp data/busena.json docs/busena.json
+      - name: Gmail pranešimai
+        if: always()
+        continue-on-error: true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python -u pranesimai.py
       - name: Išsaugoti istoriją
         run: |
           git config user.name "skelbimu-robotas"

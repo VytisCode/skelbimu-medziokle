@@ -11,44 +11,52 @@ const num = v => v === "" || v == null ? null : Number(v);
 const LABEL = {verta: "Pirkti", derėtis: "Derėtis", tikrinti: "Patikrinti", nežinoma: "Laukia vertinimo", praleisti: "Praleisti"};
 let D, B, filter = "verta", items = [], sha = null, editIdx = null, evidence = null;
 
-// ---------- Kainų skalė ----------
-const SVG = "http://www.w3.org/2000/svg";
-const sv = (tag, attrs, parent) => { const e = document.createElementNS(SVG, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.append(e); return e; };
-function scale(r) {
-  const others = (r.visi_palyginami || []).map(p => p.kaina);
-  const marks = [r.kaina, r.tiketina_pardavimo, r.max_pirkimo || null, r.naujo_min].filter(v => v != null && v > 0);
-  const all = others.concat(marks);
-  if (!r.kaina || others.length < 2) return null;
-  const lo = Math.min(...all), hi = Math.max(...all), W = 320, L = 12, R = 308, Y = 34;
-  const x = v => hi === lo ? (L + R) / 2 : L + (v - lo) / (hi - lo) * (R - L);
-  const svg = sv("svg", {viewBox: "0 0 320 64", class: "scale", role: "img", "aria-label": "Kainų palyginimas"});
-  sv("line", {x1: L, x2: R, y1: Y, y2: Y, class: "axis"}, svg);
-  if (r.mediana) { sv("line", {x1: x(r.mediana), x2: x(r.mediana), y1: Y - 14, y2: Y + 14, class: "med"}, svg); }
-  if (r.max_pirkimo) { sv("line", {x1: x(r.max_pirkimo), x2: x(r.max_pirkimo), y1: Y - 10, y2: Y + 10, class: "maxb"}, svg); }
-  // kiti skelbimai – kiekvienas taškas yra nuoroda; vienodos kainos išdėstomos vertikaliai
-  const seen = {};
-  (r.visi_palyginami || []).forEach(p => {
-    const k = Math.round(x(p.kaina)); const n = seen[k] = (seen[k] || 0) + 1;
-    const a = sv("a", {href: p.nuoroda, target: "_blank", rel: "noopener"}, svg);
-    sv("title", {}, a).textContent = p.pavadinimas + " – " + fmt(p.kaina);
-    sv("circle", {cx: x(p.kaina), cy: Y + (n % 2 ? -1 : 1) * Math.floor(n / 2) * 7, r: 4.5, class: "other"}, a);
-  });
-  if (r.tiketina_pardavimo) sv("path", {d: `M${x(r.tiketina_pardavimo)} ${Y - 18} l-5 -8 h10z`, class: "sell"}, svg);
-  if (r.naujo_min) sv("rect", {x: x(r.naujo_min) - 5, y: Y + 13, width: 10, height: 10, transform: `rotate(45 ${x(r.naujo_min)} ${Y + 18})`, class: "new"}, svg);
-  sv("circle", {cx: x(r.kaina), cy: Y, r: 7, class: "me"}, svg);
-  sv("text", {x: L, y: 62}, svg).textContent = fmt(lo);
-  sv("text", {x: R, y: 62, "text-anchor": "end"}, svg).textContent = fmt(hi);
-  const box = el("div");
-  const lg = el("div", "legend");
-  const item = (color, t, shape, w) => { const s = el("span"); const i = el("i"); i.style.background = `var(${color})`; if (shape) i.style.borderRadius = shape; if (w) i.style.width = w; s.append(i, document.createTextNode(t)); lg.append(s); };
-  item("--accent", "šis " + fmt(r.kaina));
-  item("--skip", "kiti skelbimai (" + others.length + ", spausk tašką)");
-  if (r.mediana) item("--fg", "mediana " + fmt(r.mediana), "1px", "3px");
-  if (r.tiketina_pardavimo) item("--ok", "▼ parduosi ~" + fmt(r.tiketina_pardavimo), "0", "0");
-  if (r.max_pirkimo) item("--ok", "mokėk ≤ " + fmt(r.max_pirkimo), "1px", "3px");
-  if (r.naujo_min) item("--warn", "naujas nuo " + fmt(r.naujo_min), "2px");
-  box.append(svg, lg);
+// ---------- Kainų palyginimas: eilutės nuo brangiausios, 100 % = naujo kaina (arba mediana) ----------
+function ladder(r) {
+  const comps = r.visi_palyginami || [];
+  if (!r.kaina || (!comps.length && !r.naujo_min)) return null;
+  const base = r.naujo_min || r.mediana || Math.max(...comps.map(c => c.kaina), r.kaina);
+  const baseTxt = r.naujo_min ? "100 % = naujo kaina " + fmt(r.naujo_min) : "Naujo kaina dar nežinoma (Claude ieško kas rytą) – 100 % = " + (r.mediana ? "skelbimų mediana " + fmt(r.mediana) : "brangiausias skelbimas");
+  // iki 8 kitų skelbimų: tolygiai per kainų intervalą, visada pigiausias ir brangiausias
+  let pick = comps;
+  if (comps.length > 8) { const st = (comps.length - 1) / 7; pick = [...new Set(Array.from({length: 8}, (_, i) => Math.round(i * st)))].map(i => comps[i]); }
+  const rows = pick.map(c => ({kind: "other", label: c.pavadinimas, url: c.nuoroda, v: c.kaina, risk: c.rizikos || []}));
+  rows.push({kind: "me", label: "ŠIS SKELBIMAS", url: r.nuoroda, v: r.kaina});
+  if (r.naujo_min) { const sh = (r.parduotuves || []).find(p => p.kaina === r.naujo_min) || {}; rows.push({kind: "new", label: "Naujas" + (sh.parduotuve ? " – " + sh.parduotuve : ""), url: sh.url || r.naujo_saltinis, v: r.naujo_min}); }
+  if (r.tiketina_pardavimo) rows.push({kind: "sell", label: "Tu parduosi už ~", v: r.tiketina_pardavimo});
+  if (r.max_pirkimo) rows.push({kind: "max", label: "Mokėk ne daugiau", v: r.max_pirkimo});
+  rows.sort((a, b) => b.v - a.v);
+  const top = Math.max(...rows.map(x => x.v));
+  const box = el("div", "ladder");
+  box.append(el("div", "lhead", baseTxt));
+  for (const x of rows) {
+    const row = el("div", "lrow l-" + x.kind);
+    const lab = el("div", "llab");
+    if (x.url) lab.append(link(x.url, x.label)); else lab.append(el("span", "", x.label));
+    (x.risk || []).forEach(z => lab.append(el("span", "flag risk", "⚠ " + z)));
+    const bar = el("div", "lbar"); const i = el("i"); i.style.width = Math.max(2, x.v / top * 100) + "%"; bar.append(i);
+    row.append(lab, bar, el("div", "lval mono", fmt(x.v) + " · " + Math.round(x.v / base * 100) + " %"));
+    box.append(row);
+  }
+  if (comps.length > pick.length) box.append(el("div", "sub", `Rodoma ${pick.length} iš ${comps.length} panašių skelbimų – visi „Kaip apskaičiuota“.`));
   return box;
+}
+
+function coach(r) {
+  const d = r.derybos; if (!d) return null;
+  const det = el("details", "coach"); det.append(el("summary", "", `Derybų suflerys: siūlyk ${fmt(d.siulymas)}, riba ${d.riba ? fmt(d.riba) : "—"}`));
+  det.append(el("p", "", "Kodėl derėtis: " + d.kodel));
+  det.append(el("div", "sub", "Argumentai (su įrodymais):"));
+  const ul = el("ul", "comps"); d.argumentai.forEach(a => { const li = el("li"); if (a.url) li.append(link(a.url, a.t)); else li.textContent = a.t; ul.append(li); }); det.append(ul);
+  det.append(el("div", "sub", "Kaip:"));
+  const ol = el("ol", "steps"); d.kaip.forEach(t => ol.append(el("li", "", t))); det.append(ol);
+  const local = r.kastai && r.kastai.vietinis;
+  const txt = `Laba diena, ar „${r.pavadinimas}“ dar aktualus? Ar viskas veikia, ar nėra defektų, kas įeina į komplektą? ` +
+    `Galėčiau sumokėti ${d.siulymas} € ` + (local ? "ir atsiimti greitai." : "– siuntimą į paštomatą apmokėčiau pats.") + " Ačiū!";
+  const pre = el("pre", "", txt); const btn = el("button", "copy", "Kopijuoti pirmą žinutę"); btn.type = "button";
+  btn.onclick = () => navigator.clipboard.writeText(txt).then(() => btn.textContent = "Nukopijuota – įklijuok Skelbiu.lt žinutėje", () => getSelection().selectAllChildren(pre));
+  det.append(pre, btn);
+  return det;
 }
 
 // ---------- Radinio kortelė ----------
@@ -66,7 +74,7 @@ function card(r, big) {
   n("Mokėk ne daugiau", r.max_pirkimo ? fmt(r.max_pirkimo) : "—");
   body.append(top, nums);
   if (r.kodel) body.append(el("div", "kodel", r.kodel));
-  const sc = scale(r); if (sc) body.append(sc);
+  const lad = ladder(r); if (lad) body.append(lad);
   const ap = r.aprasymas_analize || {};
   if ((ap.rizikos_zodziai || []).length || (ap.privalumai || []).length || r.bukle) {
     const f = el("div", "flags");
@@ -76,16 +84,7 @@ function card(r, big) {
     body.append(f);
   }
   if (r.kaina_sumazejo) { const f = el("div", "flags"); f.append(el("span", "flag plus", "↓ kaina sumažinta nuo " + fmt(r.kaina_sumazejo.nuo) + " – pardavėjas linkęs derėtis")); body.append(f); }
-  if ((r.sprendimas === "verta" || r.sprendimas === "derėtis" || r.sprendimas === "tikrinti") && r.kaina) {
-    const offer = Math.max(5, Math.floor(Math.min(r.kaina * 0.85, r.max_pirkimo || r.kaina) / 5) * 5);
-    const local = r.kastai && r.kastai.vietinis;
-    const txt = `Laba diena, ar „${r.pavadinimas}“ dar aktualus? ` + (r.sprendimas === "tikrinti" || !(r.pilnas_aprasymas) ? "Ar viskas veikia, ar nėra defektų, kas įeina į komplektą? " : "") +
-      `Galėčiau sumokėti ${offer} € ` + (local ? "ir atsiimti pats." : "su siuntimu į paštomatą (siuntimą apmokėčiau). ") + "Ačiū!";
-    const d = el("details"); d.append(el("summary", "", "Derybų žinutė (siūlyk " + offer + " €)"));
-    const pre = el("pre", "", txt); const btn = el("button", "copy", "Kopijuoti"); btn.type = "button";
-    btn.onclick = () => navigator.clipboard.writeText(txt).then(() => btn.textContent = "Nukopijuota – įklijuok Skelbiu.lt žinutėje", () => getSelection().selectAllChildren(pre));
-    d.append(pre, btn); body.append(d);
-  }
+  const co = coach(r); if (co) body.append(co);
   body.append(el("div", "meta", [r.modelis, "patikimumas: " + r.patikimumas, r.kastai && r.kastai.budas,
     r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
   if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES su siuntimu pigesnis nei LT skelbimuose."));
@@ -154,7 +153,8 @@ function assumptions() {
   $("assumptions").textContent =
     `Prielaidos: vietiniai miestai ${p.vietiniai_miestai.join(", ")} (atsiėmimas ${fmt(p.atsiemimas_vietoje_eur)}, ~${p.laikas_vietoje_val} val.), kiti – siunta į paštomatą ${fmt(p.siunta_i_mane_eur)} (~${p.laikas_siunta_val} val.), dideli daiktai iš kitų miestų praleidžiami. ` +
     `Pakuotė / pardavimas ${fmt(p.pardavimo_kastai_eur)}. „Pirkti“ tik kai pelnas ≥ ${fmt(p.min_pelnas_eur)} ir ≥ ${Math.round(p.min_roi * 100)} % pirkimo kainos, be įtartinų žodžių aprašyme. ` +
-    `Tikėtina kaina = ${Math.round(p.nuolaida_pardavimui * 100)} % panašių skelbimų medianos arba Claude įvertinimas, bet ne daugiau ${Math.round(p.naujo_lubos * 100)} % naujo kainos. Istorijoje ${D.skelbimu_istorijoje} skelbimų.`;
+    `Tikėtina kaina = ${Math.round(p.nuolaida_pardavimui * 100)} % panašių skelbimų medianos arba Claude įvertinimas, bet ne daugiau ${Math.round(p.naujo_lubos * 100)} % naujo kainos. Istorijoje ${D.skelbimu_istorijoje} skelbimų. ` +
+    (D.kalibracija && D.kalibracija.pardavimu >= 5 ? `Pardavimo nuolaida kalibruota pagal ${D.kalibracija.pardavimu} tavo pardavimus.` : `Savikalibracija įsijungs po 5 pardavimų (dabar ${D.kalibracija ? D.kalibracija.pardavimu : 0}).`);
 }
 
 function renderStatus() {
@@ -204,9 +204,29 @@ async function saveLedger(note) {
   sha = (await r.json()).content.sha;
 }
 
+function sellHelp() {
+  const box = $("sell"); if (!box) return;
+  const stock = items.filter(s => s.busena === "atsargose");
+  if (!stock.length || !D) { box.replaceChildren(); return; }
+  const P = D.pardavimas || {};
+  box.replaceChildren(el("h2", "", "Atsargų pardavimas"), ...stock.map(s => {
+    const p = P[s.id] || {}; const c = el("div", "panel");
+    const d = s.pirkimo_data ? days(s.pirkimo_data, today()) : 0;
+    c.append(el("div", "row", null)); c.firstChild.append(el("b", "", s.pavadinimas), el("span", "pill " + (d > 14 ? "p-atsargose" : ""), d + " d. atsargose"));
+    if (!p.konkurentu) c.append(el("div", "note", "Šiuo metu aktyvių to paties modelio skelbimų nerasta – kaina pagal tikėtiną: " + fmt(s.tiketina)));
+    else {
+      c.append(el("div", "", `Siūloma pardavimo kaina: ${fmt(p.siuloma_kaina)} (konkurentų: ${p.konkurentu}, pigiausias ${fmt(p.pigiausias)}, mediana ${fmt(p.mediana)})`));
+      const ul = el("ul", "comps"); p.konkurentai.forEach(k => { const li = el("li"); li.append(link(k.nuoroda, k.pavadinimas), el("span", "mono", " " + fmt(k.kaina))); ul.append(li); }); c.append(ul);
+    }
+    if (d > 14) c.append(el("div", "msg", "Guli ilgiau nei 14 d. – sumažink kainą 5–10 % arba atnaujink skelbimą su naujomis nuotraukomis."));
+    return c;
+  }));
+}
+
 function renderLedger() {
   remind();
   vmi();
+  sellHelp();
   if (!$("kpis")) return;
   const done = items.filter(s => s.busena !== "atsargose"), stock = items.filter(s => s.busena === "atsargose");
   const realized = done.reduce((a, s) => a + profit(s), 0);
@@ -216,6 +236,15 @@ function renderLedger() {
   const sold = done.filter(s => s.busena === "parduota" && s.pardavimo_data && s.pirkimo_data);
   const avgDays = sold.length ? sold.reduce((a, s) => a + days(s.pirkimo_data, s.pardavimo_data), 0) / sold.length : null;
   const errs = sold.filter(s => s.tiketina && s.pardavimo_kaina).map(s => Math.abs(s.pardavimo_kaina - s.tiketina) / s.tiketina);
+  // derybos: skaičiuojama tik ten, kur derėtasi – „nesiderėjau“ neiškreipia statistikos
+  const ask = s => s.prasyta ?? (s.irodymas && s.irodymas.kaina);
+  const tried = items.filter(s => (s.derybos === "sutiko" || s.derybos === "nesutiko") && ask(s) && s.pirkimo_kaina != null);
+  const won = tried.filter(s => s.derybos === "sutiko");
+  const saved = won.reduce((a, s) => a + ask(s) - s.pirkimo_kaina, 0), wonAsk = won.reduce((a, s) => a + ask(s), 0);
+  const noTry = items.filter(s => s.derybos === "ne").length;
+  const sTried = sold.filter(s => (s.pardavimo_derybos === "nuleidau" || s.pardavimo_derybos === "nenuleidau") && s.pardavimo_prasyta && s.pardavimo_kaina != null);
+  const sGave = sTried.filter(s => s.pardavimo_derybos === "nuleidau");
+  const given = sGave.reduce((a, s) => a + s.pardavimo_prasyta - s.pardavimo_kaina, 0), gaveAsk = sGave.reduce((a, s) => a + s.pardavimo_prasyta, 0);
   const K = [
     ["Grynieji iš veiklos", fmt(cash), cash >= 0 ? "pos" : "neg", "pardavimai − visos išlaidos"],
     ["Uždirbta (užbaigti)", fmt(realized), realized >= 0 ? "pos" : "neg", done.length + " užbaigti sandoriai"],
@@ -224,6 +253,8 @@ function renderLedger() {
     ["Atsargose", fmt(tied), "", stock.length + " daiktai laukia pardavimo"],
     ["Vid. pardavimo laikas", avgDays == null ? "—" : Math.round(avgDays) + " d.", "", "nuo pirkimo iki pardavimo"],
     ["Prognozės paklaida", errs.length ? Math.round(errs.reduce((a, e) => a + e, 0) / errs.length * 100) + " %" : "—", "", "tikėtina vs. tikra kaina"],
+    ["Derybos perkant", tried.length ? `${won.length} iš ${tried.length}` : "—", "", tried.length ? `pavyko · sutaupyta ${fmt(saved)} (${wonAsk ? Math.round(saved / wonAsk * 100) : 0} % nuo prašytos, kai nuleido) · nesiderėta ${noTry}` : "pažymėk „Derybos“ pirkinio formoje"],
+    ["Derybos parduodant", sTried.length ? `${sGave.length} iš ${sTried.length}` : "—", "", sTried.length ? `kartų nuleidai · atiduota ${fmt(given)} (${gaveAsk ? Math.round(given / gaveAsk * 100) : 0} % nuo tavo kainos)` : "pažymėk „Derybos“ pardavimo formoje"],
   ];
   $("kpis").replaceChildren(...K.map(([t, v, c, s]) => { const d = el("div", "kpi"); d.append(el("span", "eyebrow", t), el("b", c, v), el("small", "", s)); return d; }));
 
@@ -285,17 +316,17 @@ function showEvidence() {
     document.createTextNode([evidence.pavadinimas, fmt(evidence.kaina), evidence.vieta_laikas, evidence.bukle ? "būklė: " + evidence.bukle : ""].filter(Boolean).join(" · ")));
   if (evidence.aprasymas) box.append(el("div", "", "„" + evidence.aprasymas + "“"));
 }
-const FIELDS = ["pavadinimas", "kategorija", "nuoroda", "busena", "pirkimo_data", "pirkimo_kaina", "pirkimo_kastai", "pardavimo_data", "pardavimo_kaina", "pardavimo_kastai", "platforma", "laikas_min", "pastabos"];
+const FIELDS = ["pavadinimas", "kategorija", "nuoroda", "busena", "pirkimo_data", "prasyta", "derybos", "pirkimo_kaina", "pirkimo_kastai", "pardavimo_data", "pardavimo_prasyta", "pardavimo_derybos", "pardavimo_kaina", "pardavimo_kastai", "platforma", "laikas_min", "pastabos"];
 function openForm(idx, r) {
   editIdx = idx;
   let s = idx != null ? items[idx] : {busena: "atsargose", pirkimo_data: today(), pirkimo_kastai: 0, pardavimo_kastai: 0, laikas_min: 0, platforma: "Skelbiu.lt"};
   if (r) {
-    s = {...s, pavadinimas: r.pavadinimas, nuoroda: r.nuoroda, pirkimo_kaina: r.kaina, pirkimo_kastai: r.kastai ? r.kastai.atgabenimas : 0,
+    s = {...s, pavadinimas: r.pavadinimas, nuoroda: r.nuoroda, prasyta: r.kaina, pirkimo_kaina: r.kaina, pirkimo_kastai: r.kastai ? r.kastai.atgabenimas : 0,
       kategorija: r.paieska, laikas_min: r.kastai ? Math.round(r.kastai.valandos * 60) : 0};
     s.tiketina = r.tiketina_pardavimo;
     s.irodymas = {skelbimo_id: r.id, pavadinimas: r.pavadinimas, kaina: r.kaina, nuoroda: r.nuoroda, vieta_laikas: r.vieta_laikas, bukle: r.bukle || "",
       aprasymas: (r.pilnas_aprasymas || r.aprasymas || "").slice(0, 600), nuotrauka: r.nuotrauka, pastebetas: r.pastebetas,
-      vertinimas: {tiketina_pardavimo: r.tiketina_pardavimo, mediana: r.mediana, palyginamu: r.palyginamu, sprendimas: r.sprendimas, kodel: r.kodel},
+      vertinimas: {tiketina_pardavimo: r.tiketina_pardavimo, mediana: r.mediana, palyginamu: r.palyginamu, sprendimas: r.sprendimas, kodel: r.kodel, siulymas: r.derybos && r.derybos.siulymas, riba: r.derybos && r.derybos.riba},
       uzfiksuota: new Date().toISOString()};
   }
   for (const k of FIELDS) $("f_" + k).value = s[k] ?? "";
@@ -313,7 +344,7 @@ $("form").onsubmit = async e => {
   e.preventDefault();
   const s = {};
   for (const k of FIELDS) s[k] = $("f_" + k).value.trim ? $("f_" + k).value.trim() : $("f_" + k).value;
-  for (const k of ["pirkimo_kaina", "pirkimo_kastai", "pardavimo_kaina", "pardavimo_kastai", "laikas_min"]) s[k] = num(s[k]);
+  for (const k of ["prasyta", "pardavimo_prasyta", "pirkimo_kaina", "pirkimo_kastai", "pardavimo_kaina", "pardavimo_kastai", "laikas_min"]) s[k] = num(s[k]);
   s.tiketina = num($("f_tiketina").value); s.pardavimo_data = s.pardavimo_data || null; s.irodymas = evidence;
   if (s.busena === "parduota" && (s.pardavimo_kaina == null || !s.pardavimo_data)) { msg("Parduotam daiktui įrašyk pardavimo datą ir kainą."); return; }
   const before = JSON.stringify(items);
@@ -345,8 +376,8 @@ $("tokenForm").onsubmit = async e => {
 };
 const csvCell = v => { const s = v == null ? "" : String(v); return /[";\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
 $("csvBtn").onclick = () => {
-  const head = ["Daiktas", "Kategorija", "Būsena", "Pirkimo data", "Pirkimo kaina", "Atgabenimo kaštai", "Pardavimo data", "Pardavimo kaina", "Pardavimo kaštai", "Platforma", "Pelnas", "Sugaišta min", "Skelbimo nuoroda", "Užfiksuota skelbimo kaina", "Įrodymas užfiksuotas", "Skelbimo aprašymas", "Pastabos"];
-  const lines = [head.join(";")].concat(items.map(s => [s.pavadinimas, s.kategorija, s.busena, s.pirkimo_data, s.pirkimo_kaina, s.pirkimo_kastai, s.pardavimo_data, s.pardavimo_kaina, s.pardavimo_kastai, s.platforma,
+  const head = ["Daiktas", "Kategorija", "Būsena", "Pirkimo data", "Prašė skelbime", "Derybos", "Pirkimo kaina", "Atgabenimo kaštai", "Pardavimo data", "Mano prašyta", "Pardavimo derybos", "Pardavimo kaina", "Pardavimo kaštai", "Platforma", "Pelnas", "Sugaišta min", "Skelbimo nuoroda", "Užfiksuota skelbimo kaina", "Įrodymas užfiksuotas", "Skelbimo aprašymas", "Pastabos"];
+  const lines = [head.join(";")].concat(items.map(s => [s.pavadinimas, s.kategorija, s.busena, s.pirkimo_data, s.prasyta, s.derybos, s.pirkimo_kaina, s.pirkimo_kastai, s.pardavimo_data, s.pardavimo_prasyta, s.pardavimo_derybos, s.pardavimo_kaina, s.pardavimo_kastai, s.platforma,
     profit(s), s.laikas_min, s.nuoroda, s.irodymas && s.irodymas.kaina, s.irodymas && s.irodymas.uzfiksuota, s.irodymas && s.irodymas.aprasymas, s.pastabos].map(csvCell).join(";")));
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob(["﻿" + lines.join("\n")], {type: "text/csv;charset=utf-8"}));
@@ -356,7 +387,7 @@ $("csvBtn").onclick = () => {
 }
 
 Promise.all([fetch("analize.json", {cache: "no-store"}).then(r => r.json()), fetch("busena.json", {cache: "no-store"}).then(r => r.json())])
-  .then(([d, b]) => { D = d; B = b; renderStatus(); render(); })
+  .then(([d, b]) => { D = d; B = b; renderStatus(); render(); sellHelp(); })
   .catch(() => { $("status").replaceChildren(el("span", "chip bad", "Nepavyko įkelti radinių. Pabandyk po kelių minučių.")); });
 loadLedger().then(() => {
   if (location.hash === "#naujas" && $("form")) {

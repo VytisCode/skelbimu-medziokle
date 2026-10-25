@@ -98,3 +98,15 @@ td.t{white-space:normal;min-width:160px}
 .pill{font-size:.75rem;font-weight:700;border-radius:4px;padding:2px 6px}
 .p-atsargose{background:var(--warnbg);color:var(--warn)}.p-parduota{background:var(--okbg);color:var(--ok)}.p-nurasyta{background:var(--line);color:var(--muted)}
 .msg{font-size:.9rem;padding:8px 12px;border-radius:6px;background:var(--warnbg);color:var(--warn)}
+.ladder{display:grid;gap:4px;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px}
+.lhead{font-size:.8rem;color:var(--muted);margin-bottom:4px}
+.lrow{display:grid;grid-template-columns:1fr auto;gap:2px 8px;padding:3px 0;align-items:center;font-size:.85rem}
+.llab{grid-column:1/-1;min-width:0;display:flex;flex-wrap:wrap;gap:4px;align-items:center;font-size:.8rem;line-height:1.25}
+.llab a{color:var(--fg);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:100%}
+.lbar{height:10px;background:var(--line);border-radius:5px;overflow:hidden}.lbar i{display:block;height:100%;background:var(--skip);border-radius:5px}
+.lval{white-space:nowrap;font-size:.8rem}
+.l-me{font-weight:700}.l-me .lbar i{background:var(--accent)}.l-me .llab a{color:var(--accent)}
+.l-new .lbar i{background:var(--warn)}.l-sell .lbar i{background:var(--ok)}
+.l-max .lbar i{background:transparent;border:2px solid var(--ok);box-sizing:border-box}
+.l-sell,.l-max,.l-new{color:var(--fg)}
+.coach p{margin:6px 0;font-size:.9rem}

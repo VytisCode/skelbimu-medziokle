@@ -138,6 +138,33 @@ def aprasymo_analize(s: dict) -> dict:
             "pilnas": bool(s.get("pilnas_aprasymas"))}
 
 
+MENESIAI = {"sausio": 1, "vasario": 2, "kovo": 3, "balandžio": 4, "gegužės": 5, "birželio": 6, "liepos": 7,
+            "rugpjūčio": 8, "rugsėjo": 9, "spalio": 10, "lapkričio": 11, "gruodžio": 12}
+
+
+def skelbimo_amzius(s: dict) -> int | None:
+    """Kiek dienų skelbimas įdėtas / atnaujintas (iš „prieš 3 d.“, „spalio 21 d.“) arba nuo pirmo pastebėjimo."""
+    t = (s.get("vieta_laikas") or "").split(",")[-1].strip()
+    now = datetime.now()
+    m = re.search(r"prieš (\d+) d", t)
+    if m:
+        d = int(m.group(1))
+    elif re.search(r"prieš \d+ (val|min)", t):
+        d = 0
+    else:
+        m = re.search(r"([a-ząčęėįšųūž]+) (\d{1,2}) d", t)
+        d = None
+        if m and m.group(1) in MENESIAI:
+            data = datetime(now.year, MENESIAI[m.group(1)], int(m.group(2)))
+            if data > now:
+                data = data.replace(year=now.year - 1)
+            d = (now - data).days
+    if s.get("pastebetas"):
+        nuo = (datetime.now(timezone.utc) - datetime.strptime(s["pastebetas"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)).days
+        d = max(d or 0, nuo)
+    return d
+
+
 def miestas(s: dict) -> str:
     return (s.get("vieta_laikas") or "").split(",")[0].strip()
 
@@ -292,7 +319,11 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
         r["balas"] = round((r.get("balas") or 0) * 0.6)
     elif r.get("balas"):
         r["balas"] = min(100, round(r["balas"] + 3 * len(ap["privalumai"])))
-    r["visi_palyginami"] = [{"kaina": x["kaina"], "nuoroda": x["nuoroda"], "pavadinimas": x["pavadinimas"][:60]} for x in komp[:40]]
+    r["visi_palyginami"] = [{"kaina": x["kaina"], "nuoroda": x["nuoroda"], "pavadinimas": x["pavadinimas"][:60],
+                             "rizikos": aprasymo_analize(x)["rizikos_zodziai"], "vieta_laikas": x.get("vieta_laikas", "")}
+                            for x in komp[:40]]
+    r["amzius_d"] = skelbimo_amzius(s)
+    r["derybos"] = derybos(s, r, komp)
     naujo_kainos = [p_["kaina"] for p_ in r["parduotuves"] if p_.get("kaina")]
     r["naujo_min"] = min(naujo_kainos) if naujo_kainos else (float(naujo) if naujo else None)
     if s.get("pradine_kaina") and kaina and s["pradine_kaina"] > kaina:
@@ -303,6 +334,89 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
     return r
 
 
+def derybos(s: dict, r: dict, komp: list[dict]) -> dict | None:
+    """Derybų suflerys: siūloma kaina, riba ir argumentai – kiekvienas su įrodymu (skaičiais ar nuoroda)."""
+    kaina = s.get("kaina")
+    if not kaina or r["sprendimas"] == "praleisti" or not r.get("tiketina_pardavimo"):
+        return None
+    riba = r.get("max_pirkimo") or 0
+    siulymas = max(5, int(min(kaina * 0.85, riba or kaina) // 5 * 5))
+    arg = []
+    pigesni = [k for k in komp if k["kaina"] < kaina]
+    if pigesni:
+        p = min(pigesni, key=lambda k: k["kaina"])
+        arg.append({"t": f"Pigesnių panašių skelbimų: {len(pigesni)}, pigiausias {eur(p['kaina'])}", "url": p["nuoroda"]})
+    if r.get("mediana") and kaina > r["mediana"] * 0.9:
+        arg.append({"t": f"Panašių skelbimų mediana {eur(r['mediana'])} – šio kaina ne žemiau rinkos"})
+    if r.get("naujo_min"):
+        arg.append({"t": f"Naujas parduotuvėje {eur(r['naujo_min'])} – naudotas be garantijos turi būti gerokai pigesnis ({kaina / r['naujo_min']:.0%} naujo kainos)"})
+    ap = r.get("aprasymas_analize") or {}
+    if ap.get("rizikos_zodziai"):
+        arg.append({"t": "Aprašyme minima: " + ", ".join(ap["rizikos_zodziai"]) + " – trūkumai mažina vertę"})
+    if not ap.get("privalumai") or not any(z in ap.get("privalumai", []) for z in ("čekis", "kvitas", "garantija", "sąskaita")):
+        arg.append({"t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"})
+    if r.get("amzius_d") and r["amzius_d"] >= 14:
+        arg.append({"t": f"Skelbimas kabo jau ~{r['amzius_d']} d. – pardavėjas greičiausiai nori parduoti"})
+    if r.get("kaina_sumazejo"):
+        arg.append({"t": f"Kaina jau mažinta nuo {eur(r['kaina_sumazejo']['nuo'])} – pardavėjas linkęs nusileisti"})
+    k = r.get("kastai") or {}
+    arg.append({"t": "Galiu atsiimti greitai ir atsiskaityti iškart" if k.get("vietinis")
+                else f"Siuntimą (~{eur(k.get('atgabenimas', 0))}) apmokėsiu pats – pardavėjui jokio vargo"})
+    zingsnis = 10
+    return {"siulymas": siulymas, "riba": riba, "argumentai": arg,
+            "kodel": (f"Kiekvienas nusiderėtas euras – tavo pelnas: už {eur(kaina)} pelnas {eur(r['pelnas'] or 0)}, "
+                      f"už {eur(siulymas)} – {eur((r['pelnas'] or 0) + kaina - siulymas)}. "
+                      f"Nusiderėjus {zingsnis} € pelnas auga {zingsnis} €, ROI – ~{zingsnis / kaina:.0%} punktų."),
+            "kaip": [f"Pradėk nuo {eur(siulymas)} ir paminėk 1–2 stipriausius argumentus.",
+                     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
+                     f"Kelk kainą mažais žingsniais (5 €). Daugiau nei {eur(riba)} nemokėk – tada pelnas per mažas." if riba
+                     else "Jei pardavėjas nesileidžia – praleisk, radinių bus ir daugiau.",
+                     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."]}
+
+
+def kalibracija() -> dict:
+    """Savikalibracija: kai yra ≥ 5 parduoti daiktai su užfiksuota rinkos mediana, nuolaida pardavimui
+    imama iš tikrų pardavimų (pardavimo kaina / mediana pirkimo metu), ribojant 0,6–1,05."""
+    try:
+        sand = json.loads((ROOT / "docs" / "sandoriai.json").read_text(encoding="utf-8")).get("sandoriai", [])
+    except (OSError, ValueError):
+        sand = []
+    santykiai = [x["pardavimo_kaina"] / x["irodymas"]["vertinimas"]["mediana"] for x in sand
+                 if x.get("busena") == "parduota" and x.get("pardavimo_kaina")
+                 and ((x.get("irodymas") or {}).get("vertinimas") or {}).get("mediana")]
+    if len(santykiai) >= 5:
+        N["nuolaida_pardavimui"] = round(min(1.05, max(0.6, statistics.mean(santykiai))), 3)
+        return {"pardavimu": len(santykiai), "nuolaida": N["nuolaida_pardavimui"]}
+    return {"pardavimu": len(santykiai), "nuolaida": N["nuolaida_pardavimui"], "reikia": 5}
+
+
+def pardavimo_pagalba(visi: list[dict]) -> dict:
+    """Atsargoms: kiek dabar prašo konkurentai (to paties modelio aktyvūs skelbimai) ir siūloma pardavimo kaina."""
+    try:
+        sand = json.loads((ROOT / "docs" / "sandoriai.json").read_text(encoding="utf-8")).get("sandoriai", [])
+    except (OSError, ValueError):
+        return {}
+    riba = (datetime.now(timezone.utc) - timedelta(days=14)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    out = {}
+    for x in sand:
+        if x.get("busena") != "atsargose":
+            continue
+        ir = x.get("irodymas") or {}
+        raktas = modelio_raktas({"pavadinimas": ir.get("pavadinimas") or x.get("pavadinimas", ""),
+                                 "aprasymas": ir.get("aprasymas", ""), "paieska": x.get("kategorija", "")})
+        konk = sorted([s for s in visi if s["_raktas"] == raktas and s.get("kaina") and s.get("paskutini_karta_matytas", "") >= riba
+                       and s.get("id") != ir.get("skelbimo_id")], key=lambda s: s["kaina"])
+        if not konk:
+            out[x.get("id", "")] = {"raktas": raktas, "konkurentu": 0}
+            continue
+        med = statistics.median(k["kaina"] for k in konk)
+        out[x.get("id", "")] = {"raktas": raktas, "konkurentu": len(konk), "mediana": med, "pigiausias": konk[0]["kaina"],
+                                "siuloma_kaina": int(max(konk[0]["kaina"], med * 0.95) // 5 * 5),
+                                "konkurentai": [{"pavadinimas": k["pavadinimas"][:60], "kaina": k["kaina"], "nuoroda": k["nuoroda"]}
+                                                for k in konk[:5]]}
+    return out
+
+
 def main() -> int:
     vert_kelias = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "data" / "vertinimai.json"
     isvestis = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "docs" / "analize.json"
@@ -311,6 +425,7 @@ def main() -> int:
         vertinimai = json.loads(vert_kelias.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         vertinimai = {}
+    kal = kalibracija()
     visi = list(istorija.values())
     for s in visi:
         s["_raktas"] = modelio_raktas(s)
@@ -330,7 +445,8 @@ def main() -> int:
         if s.get("kaina"):
             rinka.setdefault(s["_raktas"], []).append(s["kaina"])
     out = {"sugeneruota": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "prielaidos": N,
-           "skelbimu_istorijoje": len(visi), "radiniai": radiniai,
+           "skelbimu_istorijoje": len(visi), "radiniai": radiniai, "kalibracija": kal,
+           "pardavimas": pardavimo_pagalba(visi),
            "rinka": {k: {"n": len(v), "mediana": round(statistics.median(v)), "min": min(v), "max": max(v)}
                      for k, v in rinka.items() if len(v) >= 2}}
     isvestis.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")

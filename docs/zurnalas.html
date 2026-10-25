@@ -21,6 +21,7 @@
     <div class="msg" id="msg" hidden></div>
     <div id="vmi"></div>
     <div class="kpis" id="kpis"></div>
+    <div id="sell" style="display:grid;gap:10px"></div>
     <section class="panel" id="formPanel" hidden>
       <div class="row"><h2 id="formTitle">Naujas pirkinys</h2><button class="btn" type="button" id="closeForm">Uždaryti</button></div>
       <form id="form">
@@ -36,7 +37,9 @@
         <fieldset><legend>Pirkimas</legend>
           <div class="fgrid">
             <label>Data<input id="f_pirkimo_data" type="date" required></label>
-            <label>Kaina, €<input id="f_pirkimo_kaina" type="number" step="0.01" min="0" required></label>
+            <label>Skelbime prašė, €<input id="f_prasyta" type="number" step="0.01" min="0"></label>
+            <label>Derybos<select id="f_derybos"><option value="">—</option><option value="ne">Nesiderėjau</option><option value="sutiko">Derėjausi – nuleido</option><option value="nesutiko">Derėjausi – nenuleido</option></select></label>
+            <label>Sumokėjau, €<input id="f_pirkimo_kaina" type="number" step="0.01" min="0" required></label>
             <label>Atgabenimas, €<input id="f_pirkimo_kastai" type="number" step="0.01" min="0"></label>
             <label>Tikėtina pardavimo kaina, €<input id="f_tiketina" type="number" step="0.01" min="0"></label>
           </div>
@@ -44,7 +47,9 @@
         <fieldset><legend>Pardavimas</legend>
           <div class="fgrid">
             <label>Data<input id="f_pardavimo_data" type="date"></label>
-            <label>Kaina, €<input id="f_pardavimo_kaina" type="number" step="0.01" min="0"></label>
+            <label>Mano skelbime prašiau, €<input id="f_pardavimo_prasyta" type="number" step="0.01" min="0"></label>
+            <label>Derybos<select id="f_pardavimo_derybos"><option value="">—</option><option value="ne">Pirkėjas nesiderėjo</option><option value="nuleidau">Derėjosi – nuleidau</option><option value="nenuleidau">Derėjosi – nenuleidau</option></select></label>
+            <label>Gavau, €<input id="f_pardavimo_kaina" type="number" step="0.01" min="0"></label>
             <label>Kaštai, € (pakuotė, siunta, mokesčiai)<input id="f_pardavimo_kastai" type="number" step="0.01" min="0"></label>
             <label>Platforma<select id="f_platforma"><option>Skelbiu.lt</option><option>Vinted</option><option>Facebook</option><option>Kita</option></select></label>
           </div>

@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T18:59:45Z",
+ "sugeneruota": "2026-10-25T19:11:15Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -36,8 +36,172 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 220,
+ "skelbimu_istorijoje": 222,
  "radiniai": [
+  {
+   "id": "80962451",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
+   "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
+   "kaina": 35.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_4479987065/kindle-paperwhite-1-2012-5th-gen.jpg",
+   "aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kain...",
+   "vieta_laikas": "Vilnius, rugpjūčio 8, 2025",
+   "paieska": "Kindle skaityklės",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kaina derinama. Greičiausiai atsakau į SMS žinutes",
+   "bukle": "Naudota",
+   "modelis": "kindle-paperwhite",
+   "raktas": "kindle-paperwhite",
+   "palyginamu": 4,
+   "mediana": 105,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "4 panašių skelbimų mediana 105 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Kindle paperwhite",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
+     "vieta_laikas": "Kaunas, birželio 19 d."
+    },
+    {
+     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
+     "vieta_laikas": "Vilnius, birželio 19, 2014"
+    },
+    {
+     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
+     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
+    },
+    {
+     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
+     "vieta_laikas": "Vilnius, birželio 10, 2019"
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=kindle+paperwhite"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=kindle+paperwhite"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=kindle+paperwhite"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=kindle+paperwhite"
+    }
+   ],
+   "tiketina_pardavimo": 94,
+   "pelnas": 56,
+   "roi": 1.59,
+   "max_pirkimo": 67,
+   "pelnas_per_val": 37,
+   "sprendimas": "verta",
+   "priezastis": "pelnas ~55,5 € (159%), atsiimti vietoje (Vilnius)",
+   "balas": 75,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja",
+     "naujas"
+    ],
+    "aprasymo_ilgis": 182,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 5,
+    "min": 80.0,
+    "max": 140.0,
+    "mediana": 105.0,
+    "nuolaida": 0.67
+   },
+   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 80 €–140 €, mediana 105 €), 67% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
+   "visi_palyginami": [
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
+     "pavadinimas": "Kindle paperwhite",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, birželio 19 d."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
+     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, birželio 19, 2014"
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
+     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
+    },
+    {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
+     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, birželio 10, 2019"
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": {
+    "siulymas": 25,
+    "riba": 67,
+    "argumentai": [
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
+     }
+    ],
+    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 35 € pelnas 56 €, už 25 € – 66 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~29% punktų.",
+    "kaip": [
+     "Pradėk nuo 25 € ir paminėk 1–2 stipriausius argumentus.",
+     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
+     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 67 € nemokėk – tada pelnas per mažas.",
+     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
+    ]
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (kindle-paperwhite): 4 vnt., kainos 80 €–140 €, mediana 105 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94,5 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 94,5 € − 35 € − 4 € = 55,5 € (159% pirkimo kainos)",
+    "Mokėti ne daugiau: min((94,5 € − 4 €) / 1.35; 94,5 € − 4 € − 20 €) = 67 €",
+    "Laikas ~1.5 val. → 37 €/val."
+   ]
+  },
   {
    "id": "87829808",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
@@ -419,12 +583,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 39,
+   "palyginamu": 11,
+   "mediana": 38,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 39 €"
+    "11 panašių skelbimų mediana 38 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -454,6 +618,12 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -490,12 +660,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -517,14 +681,14 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 35,
-   "pelnas": 6,
-   "roi": 0.24,
-   "max_pirkimo": 11,
-   "pelnas_per_val": 4,
+   "tiketina_pardavimo": 34,
+   "pelnas": 5,
+   "roi": 0.21,
+   "max_pirkimo": 10,
+   "pelnas_per_val": 3,
    "sprendimas": "derėtis",
-   "priezastis": "verta tik nusiderėjus iki 11,1 €",
-   "balas": 12,
+   "priezastis": "verta tik nusiderėjus iki 10,2 €",
+   "balas": 10,
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -533,13 +697,13 @@
    },
    "pozicija": {
     "vieta": 3,
-    "is": 11,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 39.0,
-    "nuolaida": 0.36
+    "mediana": 38.0,
+    "nuolaida": 0.34
    },
-   "kodel": "3-as pigiausias iš 11 (kiti 15 €–45 €, mediana 39 €), 36% pigiau už medianą.",
+   "kodel": "3-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 34% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -561,6 +725,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -617,7 +788,7 @@
    "amzius_d": 1,
    "derybos": {
     "siulymas": 10,
-    "riba": 11,
+    "riba": 10,
     "argumentai": [
      {
       "t": "Pigesnių panašių skelbimų: 2, pigiausias 15 €",
@@ -630,21 +801,21 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 25 € pelnas 6 €, už 10 € – 21 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~40% punktų.",
+    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 25 € pelnas 5 €, už 10 € – 20 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~40% punktų.",
     "kaip": [
      "Pradėk nuo 10 € ir paminėk 1–2 stipriausius argumentus.",
      "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 11 € nemokėk – tada pelnas per mažas.",
+     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 10 € nemokėk – tada pelnas per mažas.",
      "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
     ]
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 39 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,1 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 35,1 € − 25 € − 4 € = 6,1 € (24% pirkimo kainos)",
-    "Mokėti ne daugiau: min((35,1 € − 4 €) / 1.35; 35,1 € − 4 € − 20 €) = 11,1 €",
-    "Laikas ~1.5 val. → 4,1 €/val."
+    "Pelnas = 34,2 € − 25 € − 4 € = 5,2 € (21% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → 3,5 €/val."
    ]
   },
   {
@@ -660,8 +831,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotas, veikiantis be defektu. Be akumuliatoriaus ir kroviklio. Baterija pasitikrinti turiu. Galiu siųsti paštomatais, autobusu siuntomis. Yra keturi vienetai tokie pat. Kaina 35€ vnt",
+   "bukle": "Naudota",
    "modelis": "dewalt-kita",
    "raktas": "dewalt-kita",
    "palyginamu": 3,
@@ -733,8 +904,8 @@
      "defektas"
     ],
     "privalumai": [],
-    "aprasymo_ilgis": 148,
-    "pilnas": false
+    "aprasymo_ilgis": 185,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -815,8 +986,8 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naujas",
+   "bukle": "Nauja",
    "modelis": "dewalt-kita",
    "raktas": "dewalt-kita",
    "palyginamu": 3,
@@ -890,7 +1061,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 6,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -1781,8 +1952,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu DJI Mic Mini belaidžius mikrofonus. Mikrofonai naudoti vos vieną kartą, todėl būklė praktiškai kaip naujų. Puikiai išlaikyti, be jokių naudojimo žymių. Puikiai tinka „TikTok“, „YouTube“, „Instagram“, vlogams, interviu ir kitam turinio kūrimui. Privalumai: * Kokybiškas ir aiškus garsas * Triukšmo slopinimo funkcija * Kompaktiški ir labai lengvi * Ilgai veikianti baterija * Patogus belaidis naudojimas Puikus pasirinkimas norintiems kokybiško garso už mažesnę kainą!",
+   "bukle": "Naudota",
    "modelis": "dji-kita",
    "raktas": "dji-kita",
    "palyginamu": 6,
@@ -1870,8 +2041,8 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
-    "aprasymo_ilgis": 140,
-    "pilnas": false
+    "aprasymo_ilgis": 476,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -2478,8 +2649,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotas Viskas tech.veikia.nėra jokiu pazeidymu. Siunciu. 60€ kupiškis",
+   "bukle": "Naudota",
    "modelis": "milwaukee-kita",
    "raktas": "milwaukee-kita",
    "palyginamu": 12,
@@ -2592,7 +2763,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 71,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -2722,170 +2893,6 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → 59,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
-  },
-  {
-   "id": "80962451",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
-   "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
-   "kaina": 35.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_4479987065/kindle-paperwhite-1-2012-5th-gen.jpg",
-   "aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kain...",
-   "vieta_laikas": "Vilnius, rugpjūčio 8, 2025",
-   "paieska": "Kindle skaityklės",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "kindle-paperwhite",
-   "raktas": "kindle-paperwhite",
-   "palyginamu": 4,
-   "mediana": 105,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "4 panašių skelbimų mediana 105 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Kindle paperwhite",
-     "kaina": 80.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
-     "vieta_laikas": "Kaunas, birželio 19 d."
-    },
-    {
-     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
-     "vieta_laikas": "Vilnius, birželio 19, 2014"
-    },
-    {
-     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
-     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
-    },
-    {
-     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
-     "vieta_laikas": "Vilnius, birželio 10, 2019"
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=kindle+paperwhite"
-    }
-   ],
-   "tiketina_pardavimo": 94,
-   "pelnas": 56,
-   "roi": 1.59,
-   "max_pirkimo": 67,
-   "pelnas_per_val": 37,
-   "sprendimas": "tikrinti",
-   "priezastis": "įtartinai pigu – patikrink aprašymą",
-   "balas": 41,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "nauja",
-     "naujas"
-    ],
-    "aprasymo_ilgis": 139,
-    "pilnas": false
-   },
-   "pozicija": {
-    "vieta": 1,
-    "is": 5,
-    "min": 80.0,
-    "max": 140.0,
-    "mediana": 105.0,
-    "nuolaida": 0.67
-   },
-   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 80 €–140 €, mediana 105 €), 67% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
-   "visi_palyginami": [
-    {
-     "kaina": 80.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
-     "pavadinimas": "Kindle paperwhite",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, birželio 19 d."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
-     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, birželio 19, 2014"
-    },
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
-     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
-    },
-    {
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
-     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, birželio 10, 2019"
-    }
-   ],
-   "amzius_d": 0,
-   "derybos": {
-    "siulymas": 25,
-    "riba": 67,
-    "argumentai": [
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
-     }
-    ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 35 € pelnas 56 €, už 25 € – 66 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~29% punktų.",
-    "kaip": [
-     "Pradėk nuo 25 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 67 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (kindle-paperwhite): 4 vnt., kainos 80 €–140 €, mediana 105 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94,5 €",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 94,5 € − 35 € − 4 € = 55,5 € (159% pirkimo kainos)",
-    "Mokėti ne daugiau: min((94,5 € − 4 €) / 1.35; 94,5 € − 4 € − 20 €) = 67 €",
-    "Laikas ~1.5 val. → 37 €/val."
    ]
   },
   {
@@ -3090,8 +3097,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Amazon kindle ereader. Turi kosmetini defekta - ibrezima, naudojimui netrukde.",
+   "bukle": "Naudota",
    "modelis": "kindle-kita",
    "raktas": "kindle-kita",
    "palyginamu": 6,
@@ -3182,7 +3189,7 @@
     ],
     "privalumai": [],
     "aprasymo_ilgis": 78,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -3290,12 +3297,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 39,
+   "palyginamu": 11,
+   "mediana": 38,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 39 €"
+    "11 panašių skelbimų mediana 38 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -3325,6 +3332,12 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "pavadinimas": "Wolverine ps5 disc",
@@ -3361,12 +3374,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -3388,14 +3395,14 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 35,
-   "pelnas": 11,
-   "roi": 0.56,
-   "max_pirkimo": 11,
+   "tiketina_pardavimo": 34,
+   "pelnas": 10,
+   "roi": 0.51,
+   "max_pirkimo": 10,
    "pelnas_per_val": 7,
    "sprendimas": "tikrinti",
    "priezastis": "įtartinai pigu – patikrink aprašymą",
-   "balas": 16,
+   "balas": 14,
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -3407,13 +3414,13 @@
    },
    "pozicija": {
     "vieta": 2,
-    "is": 11,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 39.0,
-    "nuolaida": 0.49
+    "mediana": 38.0,
+    "nuolaida": 0.47
    },
-   "kodel": "2-as pigiausias iš 11 (kiti 15 €–45 €, mediana 39 €), 49% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
+   "kodel": "2-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 47% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -3435,6 +3442,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -3491,7 +3505,7 @@
    "amzius_d": 0,
    "derybos": {
     "siulymas": 10,
-    "riba": 11,
+    "riba": 10,
     "argumentai": [
      {
       "t": "Pigesnių panašių skelbimų: 1, pigiausias 15 €",
@@ -3504,21 +3518,21 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 20 € pelnas 11 €, už 10 € – 21 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~50% punktų.",
+    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 20 € pelnas 10 €, už 10 € – 20 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~50% punktų.",
     "kaip": [
      "Pradėk nuo 10 € ir paminėk 1–2 stipriausius argumentus.",
      "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 11 € nemokėk – tada pelnas per mažas.",
+     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 10 € nemokėk – tada pelnas per mažas.",
      "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
     ]
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 39 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,1 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 35,1 € − 20 € − 4 € = 11,1 € (56% pirkimo kainos)",
-    "Mokėti ne daugiau: min((35,1 € − 4 €) / 1.35; 35,1 € − 4 € − 20 €) = 11,1 €",
-    "Laikas ~1.5 val. → 7,4 €/val."
+    "Pelnas = 34,2 € − 20 € − 4 € = 10,2 € (51% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → 6,8 €/val."
    ]
   },
   {
@@ -15139,12 +15153,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 39,
+   "palyginamu": 11,
+   "mediana": 38,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "10 panašių skelbimų mediana 39 €"
+    "11 panašių skelbimų mediana 38 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -15182,6 +15196,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Parduodu Marvel's Wolverine ps5",
      "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
@@ -15210,12 +15230,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -15237,11 +15251,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 35,
-   "pelnas": -6,
-   "roi": -0.16,
-   "max_pirkimo": 11,
-   "pelnas_per_val": -4,
+   "tiketina_pardavimo": 34,
+   "pelnas": -7,
+   "roi": -0.18,
+   "max_pirkimo": 10,
+   "pelnas_per_val": -5,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -15252,14 +15266,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 5,
-    "is": 11,
+    "vieta": 6,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 39.0,
-    "nuolaida": 0.05
+    "mediana": 38.0,
+    "nuolaida": 0.03
    },
-   "kodel": "5-as pigiausias iš 11 (kiti 15 €–45 €, mediana 39 €), 5% pigiau už medianą.",
+   "kodel": "6-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 3% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -15288,6 +15302,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 38.0,
@@ -15338,11 +15359,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 39 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,1 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 35,1 € − 37 € − 4 € = -5,9 € (-16% pirkimo kainos)",
-    "Mokėti ne daugiau: min((35,1 € − 4 €) / 1.35; 35,1 € − 4 € − 20 €) = 11,1 €",
-    "Laikas ~1.5 val. → -3,9 €/val."
+    "Pelnas = 34,2 € − 37 € − 4 € = -6,8 € (-18% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → -4,5 €/val."
    ]
   },
   {
@@ -15362,12 +15383,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 38,
+   "palyginamu": 11,
+   "mediana": 37,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "10 panašių skelbimų mediana 37,5 €"
+    "11 panašių skelbimų mediana 37 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -15405,6 +15426,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -15433,12 +15460,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -15460,9 +15481,9 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 34,
+   "tiketina_pardavimo": 33,
    "pelnas": -11,
-   "roi": -0.27,
+   "roi": -0.28,
    "max_pirkimo": 9,
    "pelnas_per_val": -11,
    "sprendimas": "praleisti",
@@ -15475,14 +15496,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 7,
-    "is": 11,
+    "vieta": 8,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 37.5,
-    "nuolaida": -0.07
+    "mediana": 37.0,
+    "nuolaida": -0.08
    },
-   "kodel": "7-as pigiausias iš 11 (kiti 15 €–45 €, mediana 37,5 €), 7% brangiau už medianą.",
+   "kodel": "8-as pigiausias iš 12 (kiti 15 €–45 €, mediana 37 €), 8% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -15511,6 +15532,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -15561,11 +15589,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 37,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,8 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 37 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,3 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 33,8 € − 40 € − 4,5 € = -10,8 € (-27% pirkimo kainos)",
-    "Mokėti ne daugiau: min((33,8 € − 4,5 €) / 1.35; 33,8 € − 4,5 € − 20 €) = 9,2 €",
-    "Laikas ~1.0 val. → -10,8 €/val."
+    "Pelnas = 33,3 € − 40 € − 4,5 € = -11,2 € (-28% pirkimo kainos)",
+    "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
+    "Laikas ~1.0 val. → -11,2 €/val."
    ]
   },
   {
@@ -15585,12 +15613,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 38,
+   "palyginamu": 11,
+   "mediana": 37,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "10 panašių skelbimų mediana 38,5 €"
+    "11 panašių skelbimų mediana 37 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -15628,6 +15656,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -15656,12 +15690,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -15683,11 +15711,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 35,
-   "pelnas": -7,
-   "roi": -0.19,
-   "max_pirkimo": 11,
-   "pelnas_per_val": -5,
+   "tiketina_pardavimo": 33,
+   "pelnas": -9,
+   "roi": -0.23,
+   "max_pirkimo": 9,
+   "pelnas_per_val": -6,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -15698,14 +15726,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 11,
+    "vieta": 7,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 38.5,
-    "nuolaida": 0.01
+    "mediana": 37.0,
+    "nuolaida": -0.03
    },
-   "kodel": "6-as pigiausias iš 11 (kiti 15 €–45 €, mediana 38,5 €), 1% pigiau už medianą.",
+   "kodel": "7-as pigiausias iš 12 (kiti 15 €–45 €, mediana 37 €), 3% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -15734,6 +15762,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -15784,11 +15819,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 38,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,6 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 37 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,3 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 34,6 € − 38 € − 4 € = -7,4 € (-19% pirkimo kainos)",
-    "Mokėti ne daugiau: min((34,6 € − 4 €) / 1.35; 34,6 € − 4 € − 20 €) = 10,6 €",
-    "Laikas ~1.5 val. → -4,9 €/val."
+    "Pelnas = 33,3 € − 38 € − 4 € = -8,7 € (-23% pirkimo kainos)",
+    "Mokėti ne daugiau: min((33,3 € − 4 €) / 1.35; 33,3 € − 4 € − 20 €) = 9,3 €",
+    "Laikas ~1.5 val. → -5,8 €/val."
    ]
   },
   {
@@ -15808,12 +15843,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 39,
+   "palyginamu": 11,
+   "mediana": 38,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "10 panašių skelbimų mediana 39 €"
+    "11 panašių skelbimų mediana 38 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -15845,6 +15880,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -15879,12 +15920,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -15906,10 +15941,10 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 35,
-   "pelnas": -4,
-   "roi": -0.11,
-   "max_pirkimo": 11,
+   "tiketina_pardavimo": 34,
+   "pelnas": -5,
+   "roi": -0.14,
+   "max_pirkimo": 10,
    "pelnas_per_val": -3,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
@@ -15922,13 +15957,13 @@
    },
    "pozicija": {
     "vieta": 4,
-    "is": 11,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 39.0,
-    "nuolaida": 0.1
+    "mediana": 38.0,
+    "nuolaida": 0.08
    },
-   "kodel": "4-as pigiausias iš 11 (kiti 15 €–45 €, mediana 39 €), 10% pigiau už medianą.",
+   "kodel": "4-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 8% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -15950,6 +15985,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -16007,11 +16049,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 39 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,1 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 35,1 € − 35 € − 4 € = -3,9 € (-11% pirkimo kainos)",
-    "Mokėti ne daugiau: min((35,1 € − 4 €) / 1.35; 35,1 € − 4 € − 20 €) = 11,1 €",
-    "Laikas ~1.5 val. → -2,6 €/val."
+    "Pelnas = 34,2 € − 35 € − 4 € = -4,8 € (-14% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → -3,2 €/val."
    ]
   },
   {
@@ -16031,12 +16073,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 38,
+   "palyginamu": 11,
+   "mediana": 37,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 37,5 €"
+    "11 panašių skelbimų mediana 37 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -16074,6 +16116,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -16102,12 +16150,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -16129,9 +16171,9 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 34,
+   "tiketina_pardavimo": 33,
    "pelnas": -16,
-   "roi": -0.35,
+   "roi": -0.36,
    "max_pirkimo": 9,
    "pelnas_per_val": -16,
    "sprendimas": "praleisti",
@@ -16146,14 +16188,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 9,
-    "is": 11,
+    "vieta": 10,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 37.5,
-    "nuolaida": -0.2
+    "mediana": 37.0,
+    "nuolaida": -0.22
    },
-   "kodel": "9-as pigiausias iš 11 (kiti 15 €–45 €, mediana 37,5 €), 20% brangiau už medianą. Aprašyme: braižytas.",
+   "kodel": "10-as pigiausias iš 12 (kiti 15 €–45 €, mediana 37 €), 22% brangiau už medianą. Aprašyme: braižytas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -16182,6 +16224,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -16230,11 +16279,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 37,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,8 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 37 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,3 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 33,8 € − 45 € − 4,5 € = -15,8 € (-35% pirkimo kainos)",
-    "Mokėti ne daugiau: min((33,8 € − 4,5 €) / 1.35; 33,8 € − 4,5 € − 20 €) = 9,2 €",
-    "Laikas ~1.0 val. → -15,8 €/val."
+    "Pelnas = 33,3 € − 45 € − 4,5 € = -16,2 € (-36% pirkimo kainos)",
+    "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
+    "Laikas ~1.0 val. → -16,2 €/val."
    ]
   },
   {
@@ -16254,12 +16303,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 38,
+   "palyginamu": 11,
+   "mediana": 37,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 37,5 €"
+    "11 panašių skelbimų mediana 37 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -16297,6 +16346,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -16325,12 +16380,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
      "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -16352,9 +16401,9 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 34,
+   "tiketina_pardavimo": 33,
    "pelnas": -16,
-   "roi": -0.35,
+   "roi": -0.36,
    "max_pirkimo": 9,
    "pelnas_per_val": -16,
    "sprendimas": "praleisti",
@@ -16370,14 +16419,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 9,
-    "is": 11,
+    "vieta": 10,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 37.5,
-    "nuolaida": -0.2
+    "mediana": 37.0,
+    "nuolaida": -0.22
    },
-   "kodel": "9-as pigiausias iš 11 (kiti 15 €–45 €, mediana 37,5 €), 20% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "10-as pigiausias iš 12 (kiti 15 €–45 €, mediana 37 €), 22% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -16406,6 +16455,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -16456,11 +16512,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 37,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,8 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 37 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,3 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 33,8 € − 45 € − 4,5 € = -15,8 € (-35% pirkimo kainos)",
-    "Mokėti ne daugiau: min((33,8 € − 4,5 €) / 1.35; 33,8 € − 4,5 € − 20 €) = 9,2 €",
-    "Laikas ~1.0 val. → -15,8 €/val."
+    "Pelnas = 33,3 € − 45 € − 4,5 € = -16,2 € (-36% pirkimo kainos)",
+    "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
+    "Laikas ~1.0 val. → -16,2 €/val."
    ]
   },
   {
@@ -16480,12 +16536,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 38,
+   "palyginamu": 11,
+   "mediana": 37,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 37,5 €"
+    "11 panašių skelbimų mediana 37 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -16523,6 +16579,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -16551,12 +16613,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
      "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Ps5 silent hill town fall",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "vieta_laikas": "Kaunas, prieš 9 val."
     }
    ],
    "parduotuves": [],
@@ -16578,9 +16634,9 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 34,
+   "tiketina_pardavimo": 33,
    "pelnas": -16,
-   "roi": -0.35,
+   "roi": -0.36,
    "max_pirkimo": 9,
    "pelnas_per_val": -16,
    "sprendimas": "praleisti",
@@ -16593,14 +16649,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 9,
-    "is": 11,
+    "vieta": 10,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 37.5,
-    "nuolaida": -0.2
+    "mediana": 37.0,
+    "nuolaida": -0.22
    },
-   "kodel": "9-as pigiausias iš 11 (kiti 15 €–45 €, mediana 37,5 €), 20% brangiau už medianą.",
+   "kodel": "10-as pigiausias iš 12 (kiti 15 €–45 €, mediana 37 €), 22% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -16629,6 +16685,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -16679,11 +16742,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 37,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,8 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 37 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,3 €",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 33,8 € − 45 € − 4,5 € = -15,8 € (-35% pirkimo kainos)",
-    "Mokėti ne daugiau: min((33,8 € − 4,5 €) / 1.35; 33,8 € − 4,5 € − 20 €) = 9,2 €",
-    "Laikas ~1.0 val. → -15,8 €/val."
+    "Pelnas = 33,3 € − 45 € − 4,5 € = -16,2 € (-36% pirkimo kainos)",
+    "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
+    "Laikas ~1.0 val. → -16,2 €/val."
    ]
   },
   {
@@ -16703,12 +16766,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 10,
-   "mediana": 38,
+   "palyginamu": 11,
+   "mediana": 37,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "10 panašių skelbimų mediana 37,5 €"
+    "11 panašių skelbimų mediana 37 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -16746,6 +16809,12 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     },
     {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
      "pavadinimas": "Wolverine ps5 disc",
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
@@ -16774,12 +16843,6 @@
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
      "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Star wars zero company ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
     }
    ],
    "parduotuves": [],
@@ -16801,10 +16864,10 @@
      "url": "https://www.google.com/search?tbm=shop&q=ps5"
     }
    ],
-   "tiketina_pardavimo": 34,
-   "pelnas": -10,
-   "roi": -0.26,
-   "max_pirkimo": 10,
+   "tiketina_pardavimo": 33,
+   "pelnas": -11,
+   "roi": -0.27,
+   "max_pirkimo": 9,
    "pelnas_per_val": -7,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
@@ -16816,14 +16879,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 7,
-    "is": 11,
+    "vieta": 8,
+    "is": 12,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 37.5,
-    "nuolaida": -0.07
+    "mediana": 37.0,
+    "nuolaida": -0.08
    },
-   "kodel": "7-as pigiausias iš 11 (kiti 15 €–45 €, mediana 37,5 €), 7% brangiau už medianą.",
+   "kodel": "8-as pigiausias iš 12 (kiti 15 €–45 €, mediana 37 €), 8% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -16852,6 +16915,13 @@
      "pavadinimas": "007 James bond first light ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
     },
     {
      "kaina": 37.0,
@@ -16902,11 +16972,11 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 10 vnt., kainos 15 €–45 €, mediana 37,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,8 €",
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 37 € × 0.90 (realiai parduodama pigiau nei prašoma) = 33,3 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 33,8 € − 40 € − 4 € = -10,2 € (-26% pirkimo kainos)",
-    "Mokėti ne daugiau: min((33,8 € − 4 €) / 1.35; 33,8 € − 4 € − 20 €) = 9,8 €",
-    "Laikas ~1.5 val. → -6,8 €/val."
+    "Pelnas = 33,3 € − 40 € − 4 € = -10,7 € (-27% pirkimo kainos)",
+    "Mokėti ne daugiau: min((33,3 € − 4 €) / 1.35; 33,3 € − 4 € − 20 €) = 9,3 €",
+    "Laikas ~1.5 val. → -7,1 €/val."
    ]
   },
   {
@@ -18770,6 +18840,236 @@
     "Mokėti ne daugiau: min((162 € − 4 €) / 1.35; 162 € − 4 € − 20 €) = 117 €",
     "Laikas ~1.5 val. → -94,7 €/val."
    ]
+  },
+  {
+   "id": "87840318",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+   "pavadinimas": "Crimson desert ps5 disc",
+   "kaina": 35.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285934852/crimson-desert-ps5-disc.jpg",
+   "aprasymas": "Naudotas",
+   "vieta_laikas": "Vilnius, prieš 21 min.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-25T19:10:39Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "ps5",
+   "raktas": "ps5",
+   "palyginamu": 11,
+   "mediana": 38,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "11 panašių skelbimų mediana 38 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "007 James bond first light ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Wolverine ps5 disc",
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Parduodu ps5 first light",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Saros Ps5",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Ps5 silent hill town fall",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=ps5"
+    }
+   ],
+   "tiketina_pardavimo": 34,
+   "pelnas": -5,
+   "roi": -0.14,
+   "max_pirkimo": 10,
+   "pelnas_per_val": -3,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 8,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 4,
+    "is": 12,
+    "min": 15.0,
+    "max": 45.0,
+    "mediana": 38.0,
+    "nuolaida": 0.08
+   },
+   "kodel": "4-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 8% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "pavadinimas": "007 James bond first light ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "pavadinimas": "Wolverine ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "pavadinimas": "Parduodu ps5 first light",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "pavadinimas": "Saros Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "pavadinimas": "Ps5 silent hill town fall",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
+     "pavadinimas": "Star wars zero company ps5",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 34,2 € − 35 € − 4 € = -4,8 € (-14% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → -3,2 €/val."
+   ]
   }
  ],
  "kalibracija": {
@@ -18876,8 +19176,8 @@
    "max": 520.0
   },
   "ps5": {
-   "n": 13,
-   "mediana": 40,
+   "n": 14,
+   "mediana": 39,
    "min": 15.0,
    "max": 500.0
   },

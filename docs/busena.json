@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-25T17:57:42Z",
+ "paleista": "2026-10-25T18:29:25Z",
  "proxy": true,
  "paieskos": [
   {
@@ -9,8 +9,8 @@
    "puslapio_pavadinimas": "makita skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Lego",
@@ -39,9 +39,69 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 2,
+   "atrinkta_nauju": 1
+  },
+  {
+   "pavadinimas": "DeWalt įrankiai",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "dewalt skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 15,
+   "atrinkta_nauju": 6
+  },
+  {
+   "pavadinimas": "Milwaukee įrankiai",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "milwaukee skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 16,
+   "atrinkta_nauju": 13
+  },
+  {
+   "pavadinimas": "PlayStation 5",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 23,
+   "atrinkta_nauju": 11
+  },
+  {
+   "pavadinimas": "Kindle skaityklės",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "kindle skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 18,
+   "nauju": 18,
+   "atrinkta_nauju": 11
+  },
+  {
+   "pavadinimas": "GoPro kameros",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "gopro skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 24,
+   "atrinkta_nauju": 13
+  },
+  {
+   "pavadinimas": "DJI dronai",
+   "kodas": 200,
+   "kb_per_proxy": 148.9,
+   "puslapio_pavadinimas": "dji skelbimai - Skelbiu.lt",
+   "blokavimo_zymes": [],
+   "rasta_skelbimu": 24,
+   "nauju": 24,
+   "atrinkta_nauju": 16
   }
  ],
- "kb_per_proxy_viso": 588.0
+ "kb_per_proxy_viso": 1481.4
 }

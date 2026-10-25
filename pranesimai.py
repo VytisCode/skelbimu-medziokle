@@ -7,6 +7,9 @@ import json
 import os
 import smtplib
 import sys
+import time
+from email.header import Header
+from email.utils import formataddr
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import escape
@@ -98,13 +101,25 @@ def main():
         return
     nauji.sort(key=lambda r: -(r.get("balas") or 0))
     msg = laiskas(nauji[:MAX_LAISKE], len(nauji))
-    msg["From"], msg["To"] = f"Skelbimų medžioklė <{user}>", to
-    try:
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as s:
-            s.login(user, pw)
-            s.send_message(msg)
-    except Exception as e:
-        print("Laiško išsiųsti nepavyko:", type(e).__name__, e)
+    msg["From"], msg["To"] = formataddr((str(Header("Skelbimų medžioklė", "utf-8")), user)), to
+    klaidos = []
+    for bandymas in range(3):
+        try:
+            if bandymas == 1:  # atsarginis kelias – STARTTLS per 587
+                with smtplib.SMTP("smtp.gmail.com", 587, timeout=60) as s:
+                    s.starttls(); s.login(user, pw); s.sendmail(user, [to], msg.as_string())
+            else:
+                with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as s:
+                    s.login(user, pw); s.sendmail(user, [to], msg.as_string())
+            break
+        except smtplib.SMTPAuthenticationError as e:
+            print("Gmail atmetė prisijungimą – patikrink GMAIL_USER ir GMAIL_PASSWORD (reikia App password):", e.smtp_code)
+            sys.exit(0)
+        except Exception as e:
+            klaidos.append(f"{type(e).__name__}: {e}")
+            time.sleep(5)
+    else:
+        print("Laiško išsiųsti nepavyko:", "; ".join(klaidos))
         sys.exit(0)
     pranesta.update(str(r["id"]) for r in nauji)
     PRANESTA.write_text(json.dumps(sorted(pranesta), ensure_ascii=False))

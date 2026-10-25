@@ -90,6 +90,41 @@ def modelio_raktas(s: dict) -> str:
     if "dji" in paieska:
         m = re.search(r"\b(mini\s?\d(\s?pro)?|air\s?\d[s]?|avata\s?\d?|osmo\s?\w+|neo|flip|mavic\s?\w+|action\s?\d)\b", p)
         return "dji-" + (m.group(1).replace(" ", "") if m else ("priedai" if priedas else "kita"))
+    if "dyson" in paieska:
+        m = re.search(r"\b(v\s?\d{1,2}|gen5|airwrap|supersonic|corrale|pure\s?cool|hot\s?\+?\s?cool|omni)\b", p)
+        return "dyson-" + (m.group(1).replace(" ", "") if m else ("priedai" if priedas else "kita"))
+    if "thermomix" in paieska:
+        m = re.search(r"\btm\s?([567])\b", p)
+        return "thermomix-tm" + m.group(1) if m else "thermomix-kita"
+    if "kitchenaid" in paieska:
+        m = re.search(r"\b(artisan|classic|heavy\s?duty|mini|5ksm\w*)\b", p)
+        return "kitchenaid-" + (m.group(1).replace(" ", "") if m else "kita")
+    if "sonos" in paieska:
+        m = re.search(r"\b(era\s?\d{3}|one\s?sl|one|beam|arc|ray|move|roam|sub|five|play\s?:?\s?\d|ace)\b", p)
+        return "sonos-" + (re.sub(r"[\s:]", "", m.group(1)) if m else "kita")
+    if "robot" in paieska:
+        m = re.search(r"\b(roborock|dreame|ecovacs|xiaomi|roomba)\b\s*([a-z]{0,2}\s?\d{1,3}\s?(max\s?v?|maxv|pro|ultra|plus|\+)?)?", p)
+        if m and m.group(2):
+            return f"{m.group(1)}-" + re.sub(r"\s", "", m.group(2))
+        return "robotas-kita"
+    if "ipad" in paieska:
+        m = re.search(r"ipad\s*(pro|air|mini)?\s*(\d{1,2})?", p)
+        if not m:
+            return "ipad-kita"
+        return "ipad-" + (m.group(1) or "bazinis") + ("-" + m.group(2) if m.group(2) else "")
+    if "fotoaparat" in paieska:
+        m = re.search(r"\b(x-?t\d{1,2}|x-?s\d{1,2}|x-?e\d|x100\w*|x-?h\d\w?|a7\s?(r|s|c)?\s?(i{1,3}v?|\d)?|a6\d{3}|eos\s?r\d*|z\s?\d{1,2}|gr\s?i{1,3}x?)\b", p)
+        return "foto-" + (re.sub(r"[\s-]", "", m.group(1)) if m else "kita")
+    if "bosch" in paieska:
+        m = re.search(r"\b(g[a-z]{2})\s?(\d{2}v?)?-?(\d{1,3})?", p)
+        return "bosch-" + (m.group(1) + (m.group(2) or "") + ("-" + m.group(3) if m.group(3) else "") if m else ("priedas" if priedas else "kita"))
+    if "vezimel" in paieska:
+        m = re.search(r"\b(bugaboo|cybex|joolz|stokke|thule)\s*([a-z]+\s?\d?)?", p)
+        return (m.group(1) + ("-" + m.group(2).replace(" ", "") if m.group(2) else "")) if m else "vezimelis-kita"
+    if "steam" in paieska:
+        if "deck" not in p:
+            return "steamdeck-kita"
+        return "steamdeck-" + ("oled" if "oled" in p else "lcd") + ("-" + re.search(r"(64|256|512|1tb)", p).group(1) if re.search(r"(64|256|512|1tb)", p) else "")
     zodziai = re.findall(r"[a-z0-9]{3,}", p)[:3]
     return "-".join(zodziai) or "nezinoma"
 
@@ -313,9 +348,9 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
         sak += " Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos."
     r["kodel"] = sak
     # Rizikos žodžiai arba įtartinai maža kaina be pilno aprašymo – ne „Pirkti“, o „Patikrinti“.
-    if r["sprendimas"] in ("verta", "derėtis") and (ap["rizikos_zodziai"] or (istartinas and not ap["pilnas"])):
+    if r["sprendimas"] in ("verta", "derėtis") and (ap["rizikos_zodziai"] or (istartinas and not (claude and claude.get("tiketina_pardavimo")))):
         r["sprendimas"] = "tikrinti"
-        r["priezastis"] = ("aprašyme: " + ", ".join(ap["rizikos_zodziai"])) if ap["rizikos_zodziai"] else "įtartinai pigu – patikrink aprašymą"
+        r["priezastis"] = ("aprašyme: " + ", ".join(ap["rizikos_zodziai"])) if ap["rizikos_zodziai"] else "įtartinai pigu – patikrink, ar tai ne senesnis modelis ar defektas"
         r["balas"] = round((r.get("balas") or 0) * 0.6)
     elif r.get("balas"):
         r["balas"] = min(100, round(r["balas"] + 3 * len(ap["privalumai"])))
@@ -331,7 +366,75 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
         if r.get("balas"):
             r["balas"] = min(100, r["balas"] + 5)
     r["zingsniai"] = zingsniai
+    r.update(paaiskinimas(s, r, istartinas))
     return r
+
+
+def paaiskinimas(s: dict, r: dict, istartinas) -> dict:
+    """Žmoniška išvada ir argumentai už / prieš – kad būtų aišku, kodėl siūloma arba atmesta."""
+    kaina, pelnas, roi, riba = s.get("kaina"), r.get("pelnas"), r.get("roi"), r.get("max_pirkimo")
+    po, ap, k = r.get("pozicija") or {}, r.get("aprasymas_analize") or {}, r.get("kastai") or {}
+    uz, pries, logistika = [], [], None
+    if po.get("is"):
+        pig = po["vieta"] - 1
+        txt = f"Iš {po['is']} panašių skelbimų " + ("pigesnio nėra" if pig == 0 else "pigesnis tik vienas" if pig == 1 else f"pigesnių yra {pig}")
+        txt += f"; įprasta kaina ~{eur(po['mediana'])}"
+        (uz if po["nuolaida"] >= 0.15 else pries).append(txt + (f", šis {pct(po['nuolaida'])} pigesnis." if po["nuolaida"] > 0 else f", šis ne pigesnis už kitus."))
+    if r.get("naujo_min") and kaina:
+        (uz if kaina <= r["naujo_min"] * 0.6 else pries).append(f"Naujas parduotuvėje nuo {eur(r['naujo_min'])}, šis kainuoja {pct(kaina / r['naujo_min'])} naujo kainos.")
+    if pelnas is not None:
+        if pelnas >= N["min_pelnas_eur"] and roi >= N["min_roi"]:
+            uz.append(f"Pelnas ~{eur(pelnas)} ({pct(roi)} įdėtų pinigų) – virš tavo ribų ({eur(N['min_pelnas_eur'])} ir {pct(N['min_roi'])}).")
+        else:
+            if pelnas < N["min_pelnas_eur"]:
+                pries.append(f"Pelnas būtų tik ~{eur(pelnas)} – mažiau nei tavo minimumas {eur(N['min_pelnas_eur'])}.")
+            if roi < N["min_roi"]:
+                pries.append(f"Grąža {pct(roi)} – mažiau nei {pct(N['min_roi'])}; pinigai užšaltų už per mažą naudą.")
+    if r["sprendimas"] == "derėtis" and riba:
+        pries.append(f"Prašo {eur(kaina)}, o apsimoka tik už ≤ {eur(riba)}.")
+    if r.get("palyginamu", 0) < 3 and not r.get("ivertinta"):
+        pries.append(f"Rasta tik {skelbimu(r.get('palyginamu', 0))} – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).")
+    elif r.get("patikimumas") == "žemas":
+        pries.append("Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.")
+    if k.get("nepervezamas"):
+        pries.append(f"Didelis daiktas {miestas(s)} – netelpa į paštomatą, o važiuoti neapsimoka.")
+    elif k.get("budas"):
+        logistika = f"{k['budas'][0].upper() + k['budas'][1:]}: kaštai ~{eur(k.get('viso', 0))}, laikas ~{str(k.get('valandos')).replace('.', ',')} val."
+    if ap.get("rizikos_zodziai"):
+        pries.append("Aprašyme minima: " + ", ".join(ap["rizikos_zodziai"]) + ".")
+    if istartinas:
+        pries.append("Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė.")
+    if ap.get("privalumai"):
+        uz.append("Aprašyme: " + ", ".join(ap["privalumai"]) + ".")
+    if not ap.get("aprasymo_ilgis"):
+        pries.append("Aprašymo beveik nėra – būklė nežinoma.")
+    if r.get("kaina_sumazejo"):
+        uz.append(f"Kaina jau sumažinta nuo {eur(r['kaina_sumazejo']['nuo'])} – pardavėjas linkęs nusileisti.")
+
+    spr = r["sprendimas"]
+    if spr == "verta":
+        isv = f"Pirk, jei gausi ne daugiau kaip už {eur(riba)}. Tikėtinas pelnas ~{eur(pelnas)}."
+    elif spr == "derėtis":
+        isv = f"Pirk tik nusiderėjęs iki {eur(riba)} (dabar prašo {eur(kaina)})."
+    elif spr == "tikrinti":
+        isv = "Gali būti proga, bet pirma patikrink: " + (pries[0][0].lower() + pries[0][1:] if pries else r.get("priezastis", ""))
+    elif spr == "nežinoma":
+        isv = "Kol kas neaišku – trūksta duomenų kainai nustatyti."
+    else:
+        isv = "Praleisk: " + (pries[0][0].lower() + pries[0][1:] if pries else r.get("priezastis", ""))
+    return {"isvada": isv, "uz": uz, "pries": pries, "logistika": logistika}
+
+
+def pct(x) -> str:
+    return f"{round(x * 100)} %"
+
+
+def skelbimu(n: int) -> str:
+    if n % 10 == 1 and n % 100 != 11:
+        return f"{n} panašus skelbimas"
+    if 2 <= n % 10 <= 9 and not 12 <= n % 100 <= 19:
+        return f"{n} panašūs skelbimai"
+    return f"{n} panašių skelbimų"
 
 
 def derybos(s: dict, r: dict, komp: list[dict]) -> dict | None:
@@ -362,16 +465,23 @@ def derybos(s: dict, r: dict, komp: list[dict]) -> dict | None:
     k = r.get("kastai") or {}
     arg.append({"t": "Galiu atsiimti greitai ir atsiskaityti iškart" if k.get("vietinis")
                 else f"Siuntimą (~{eur(k.get('atgabenimas', 0))}) apmokėsiu pats – pardavėjui jokio vargo"})
-    zingsnis = 10
-    return {"siulymas": siulymas, "riba": riba, "argumentai": arg,
-            "kodel": (f"Kiekvienas nusiderėtas euras – tavo pelnas: už {eur(kaina)} pelnas {eur(r['pelnas'] or 0)}, "
-                      f"už {eur(siulymas)} – {eur((r['pelnas'] or 0) + kaina - siulymas)}. "
-                      f"Nusiderėjus {zingsnis} € pelnas auga {zingsnis} €, ROI – ~{zingsnis / kaina:.0%} punktų."),
-            "kaip": [f"Pradėk nuo {eur(siulymas)} ir paminėk 1–2 stipriausius argumentus.",
-                     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-                     f"Kelk kainą mažais žingsniais (5 €). Daugiau nei {eur(riba)} nemokėk – tada pelnas per mažas." if riba
-                     else "Jei pardavėjas nesileidžia – praleisk, radinių bus ir daugiau.",
-                     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."]}
+    pelnas = r.get("pelnas") or 0
+    tarp = int(((siulymas + min(kaina, riba or kaina)) / 2) // 5 * 5)
+    if tarp <= siulymas:
+        tarp = None
+    planas = [f"Pirma žinutė: siūlyk {eur(siulymas)} – tai {pct(1 - siulymas / kaina)} mažiau nei prašo ({eur(kaina)})."]
+    if tarp:
+        planas.append(f"Jei atsisako – kelk iki {eur(tarp)}.")
+    if riba >= kaina:
+        planas.append(f"Jei visai nenuleidžia – vis tiek pirk už {eur(kaina)}: pelnas ~{eur(pelnas)}. Šio radinio dėl derybų neprarask.")
+    elif riba and riba <= siulymas:
+        planas = [f"Siūlyk {eur(riba)} ({pct(1 - riba / kaina)} mažiau nei prašo) ir daugiau nekelk – brangiau pelnas per mažas."]
+    elif riba:
+        planas.append(f"Paskutinis siūlymas {eur(riba)}. Jei nori daugiau – nepirk: pelnas nukristų žemiau {eur(N['min_pelnas_eur'])}.")
+    return {"siulymas": siulymas, "tarpinis": tarp, "riba": riba, "argumentai": arg[:3], "planas": planas,
+            "kodel_suma": (f"Kodėl {eur(siulymas)}? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. "
+                           "Ar tai veikia būtent tau, parodys derybų statistika žurnale."),
+            "nauda": f"Kiekvienas nusiderėtas euras = +1 € pelno: už {eur(kaina)} uždirbtum ~{eur(pelnas)}, už {eur(siulymas)} – ~{eur(pelnas + kaina - siulymas)}."}
 
 
 def kalibracija() -> dict:

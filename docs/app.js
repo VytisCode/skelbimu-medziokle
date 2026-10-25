@@ -11,52 +11,95 @@ const num = v => v === "" || v == null ? null : Number(v);
 const LABEL = {verta: "Pirkti", derėtis: "Derėtis", tikrinti: "Patikrinti", nežinoma: "Laukia vertinimo", praleisti: "Praleisti"};
 let D, B, filter = "verta", items = [], sha = null, editIdx = null, evidence = null;
 
-// ---------- Kainų palyginimas: eilutės nuo brangiausios, 100 % = naujo kaina (arba mediana) ----------
-function ladder(r) {
+// ---------- Kainų ašis: visi taškai vienoje linijoje, 100 % = naujo kaina (arba įprasta naudoto kaina) ----------
+const pc = (v, base) => Math.round(v / base * 100) + " %";
+function priceAxis(r) {
   const comps = r.visi_palyginami || [];
   if (!r.kaina || (!comps.length && !r.naujo_min)) return null;
-  const base = r.naujo_min || r.mediana || Math.max(...comps.map(c => c.kaina), r.kaina);
-  const baseTxt = r.naujo_min ? "100 % = naujo kaina " + fmt(r.naujo_min) : "Naujo kaina dar nežinoma (Claude ieško kas rytą) – 100 % = " + (r.mediana ? "skelbimų mediana " + fmt(r.mediana) : "brangiausias skelbimas");
-  // iki 8 kitų skelbimų: tolygiai per kainų intervalą, visada pigiausias ir brangiausias
-  let pick = comps;
-  if (comps.length > 8) { const st = (comps.length - 1) / 7; pick = [...new Set(Array.from({length: 8}, (_, i) => Math.round(i * st)))].map(i => comps[i]); }
-  const rows = pick.map(c => ({kind: "other", label: c.pavadinimas, url: c.nuoroda, v: c.kaina, risk: c.rizikos || []}));
-  rows.push({kind: "me", label: "ŠIS SKELBIMAS", url: r.nuoroda, v: r.kaina});
-  if (r.naujo_min) { const sh = (r.parduotuves || []).find(p => p.kaina === r.naujo_min) || {}; rows.push({kind: "new", label: "Naujas" + (sh.parduotuve ? " – " + sh.parduotuve : ""), url: sh.url || r.naujo_saltinis, v: r.naujo_min}); }
-  if (r.tiketina_pardavimo) rows.push({kind: "sell", label: "Tu parduosi už ~", v: r.tiketina_pardavimo});
-  if (r.max_pirkimo) rows.push({kind: "max", label: "Mokėk ne daugiau", v: r.max_pirkimo});
-  rows.sort((a, b) => b.v - a.v);
-  const top = Math.max(...rows.map(x => x.v));
-  const box = el("div", "ladder");
-  box.append(el("div", "lhead", baseTxt));
-  for (const x of rows) {
-    const row = el("div", "lrow l-" + x.kind);
-    const lab = el("div", "llab");
-    if (x.url) lab.append(link(x.url, x.label)); else lab.append(el("span", "", x.label));
-    (x.risk || []).forEach(z => lab.append(el("span", "flag risk", "⚠ " + z)));
-    const bar = el("div", "lbar"); const i = el("i"); i.style.width = Math.max(2, x.v / top * 100) + "%"; bar.append(i);
-    row.append(lab, bar, el("div", "lval mono", fmt(x.v) + " · " + Math.round(x.v / base * 100) + " %"));
-    box.append(row);
-  }
-  if (comps.length > pick.length) box.append(el("div", "sub", `Rodoma ${pick.length} iš ${comps.length} panašių skelbimų – visi „Kaip apskaičiuota“.`));
+  const base = r.naujo_min || r.mediana;
+  const vals = comps.map(c => c.kaina).concat([r.kaina, r.tiketina_pardavimo, r.naujo_min, r.max_pirkimo].filter(Boolean));
+  const top = Math.max(...vals) * 1.08;
+  const X = v => (v / top * 100).toFixed(2) + "%";
+  const box = el("div", "axisbox");
+  // trumpa lentelė: kiek kas kainuoja ir kiek tai procentų nuo 100 %
+  const sum = el("table", "axt"); const tb = el("tbody");
+  const row = (k, t, v) => { const tr = el("tr", k); const td = el("td"); td.append(el("i", "k " + k), document.createTextNode(t)); tr.append(td, el("td", "n", v)); tb.append(tr); };
+  const p = v => base ? " · " + pc(v, base) : "";
+  row("me", "Šis skelbimas", fmt(r.kaina) + p(r.kaina));
+  if (comps.length) { const lo = Math.min(...comps.map(c => c.kaina)), hi = Math.max(...comps.map(c => c.kaina));
+    row("other", `Kiti ${comps.length} panašūs`, `${fmt(lo)}–${fmt(hi)}` + (base ? ` · ${pc(lo, base)}–${pc(hi, base)}` : "")); }
+  if (r.tiketina_pardavimo) row("sell", "Tu parduosi už ~", fmt(r.tiketina_pardavimo) + p(r.tiketina_pardavimo));
+  if (r.max_pirkimo) row("zone", "Apsimoka pirkti iki", fmt(r.max_pirkimo) + p(r.max_pirkimo));
+  if (r.naujo_min) row("new", "Naujas parduotuvėje", fmt(r.naujo_min) + " · 100 %");
+  sum.append(tb); box.append(sum);
+  box.append(el("div", "sub", r.naujo_min ? "100 % = pigiausia naujo kaina parduotuvėje." : `100 % = įprasta naudoto kaina (${fmt(base)}). Naujo kainą Claude suras rytinėje peržiūroje.`));
+
+  const ax = el("div", "axis");
+  if (r.max_pirkimo) { const z = el("div", "zone"); z.style.width = X(r.max_pirkimo); z.title = "Apsimoka pirkti iki " + fmt(r.max_pirkimo); ax.append(z);
+    }
+  ax.append(el("div", "line"));
+  if (base) [0.5, 1].forEach(f => { if (base * f > top) return; const t = el("div", "tick"); t.style.left = X(base * f); t.append(el("span", "", Math.round(f * 100) + " %")); ax.append(t); });
+  for (const c of comps) { const d = link(c.nuoroda, ""); d.className = "dot other" + ((c.rizikos || []).length ? " risky" : ""); d.style.left = X(c.kaina);
+    d.title = c.pavadinimas + " – " + fmt(c.kaina); d.setAttribute("aria-label", d.title); ax.append(d); }
+  const pin = (v, cls, txt, lane) => { const d = el("div", "pin " + cls + " " + lane); d.style.left = X(v); d.append(el("span", "", txt)); ax.append(d);
+    const dot = el("div", "dot " + cls); dot.style.left = X(v); ax.append(dot); };
+  pin(r.kaina, "me", "Šis " + fmt(r.kaina), "up");
+  if (r.tiketina_pardavimo) pin(r.tiketina_pardavimo, "sell", "Parduosi " + fmt(r.tiketina_pardavimo), "down");
+  if (r.naujo_min) pin(r.naujo_min, "new", "Naujas " + fmt(r.naujo_min), Math.abs(r.naujo_min - r.kaina) / top < 0.3 ? "up2" : "up");
+  box.append(ax);
+  box.append(evidence_(r, base));
   return box;
 }
 
-function coach(r) {
-  const d = r.derybos; if (!d) return null;
-  const det = el("details", "coach"); det.append(el("summary", "", `Derybų suflerys: siūlyk ${fmt(d.siulymas)}, riba ${d.riba ? fmt(d.riba) : "—"}`));
-  det.append(el("p", "", "Kodėl derėtis: " + d.kodel));
-  det.append(el("div", "sub", "Argumentai (su įrodymais):"));
-  const ul = el("ul", "comps"); d.argumentai.forEach(a => { const li = el("li"); if (a.url) li.append(link(a.url, a.t)); else li.textContent = a.t; ul.append(li); }); det.append(ul);
-  det.append(el("div", "sub", "Kaip:"));
-  const ol = el("ol", "steps"); d.kaip.forEach(t => ol.append(el("li", "", t))); det.append(ol);
+// Įrodymų lentelė: kiekviena kaina su nuoroda
+function evidence_(r, base) {
+  const comps = r.visi_palyginami || [];
+  const rows = comps.map(c => ({t: c.pavadinimas, url: c.nuoroda, v: c.kaina, risk: c.rizikos || [], cls: ""}));
+  rows.push({t: "ŠIS SKELBIMAS", url: r.nuoroda, v: r.kaina, cls: "me"});
+  (r.parduotuves || []).forEach(p => p.kaina && rows.push({t: "Naujas – " + (p.parduotuve || "parduotuvė"), url: p.url, v: p.kaina, cls: "new"}));
+  rows.sort((a, b) => a.v - b.v);
+  const det = el("details", "evid");
+  det.append(el("summary", "", `Įrodymai: ${comps.length} panašūs skelbimai` + ((r.parduotuves || []).length ? ` ir ${r.parduotuves.length} parduotuvės` : "") + " su nuorodomis"));
+  const t = el("table", "evt"); const tb = el("tbody");
+  for (const x of rows) {
+    const tr = el("tr", x.cls); const td = el("td");
+    if (x.url) td.append(link(x.url, x.t)); else td.textContent = x.t;
+    x.risk && x.risk.forEach(z => td.append(el("span", "flag risk", "⚠ " + z)));
+    tr.append(td, el("td", "n", fmt(x.v)), el("td", "n", base ? pc(x.v, base) : "")); tb.append(tr);
+  }
+  t.append(tb); det.append(t);
+  if (!(r.parduotuves || []).length) { det.append(el("div", "sub", "Naujo kainos Claude dar nepatikrino. Greita paieška:"));
+    const q = el("div", "shops"); (r.parduotuviu_paieska || []).forEach(p => q.append(link(p.url, p.pavadinimas, "chip"))); det.append(q); }
+  return det;
+}
+
+// ---------- Derybų suflerys: 3 žingsniai su sumomis ----------
+function coach(r, open) {
+  const d = r.derybos; if (!d || !d.planas) return null;
+  const det = el("details", "coach"); det.open = !!open;
+  det.append(el("summary", "", `Derybos: pradėk nuo ${fmt(d.siulymas)}`));
+  const ol = el("ol", "plan"); d.planas.forEach(t => ol.append(el("li", "", t))); det.append(ol);
   const local = r.kastai && r.kastai.vietinis;
-  const txt = `Laba diena, ar „${r.pavadinimas}“ dar aktualus? Ar viskas veikia, ar nėra defektų, kas įeina į komplektą? ` +
+  const txt = `Laba diena, ar „${r.pavadinimas}“ dar parduodamas? Ar viskas veikia, nėra defektų? Kas įeina į komplektą? ` +
     `Galėčiau sumokėti ${d.siulymas} € ` + (local ? "ir atsiimti greitai." : "– siuntimą į paštomatą apmokėčiau pats.") + " Ačiū!";
   const pre = el("pre", "", txt); const btn = el("button", "copy", "Kopijuoti pirmą žinutę"); btn.type = "button";
   btn.onclick = () => navigator.clipboard.writeText(txt).then(() => btn.textContent = "Nukopijuota – įklijuok Skelbiu.lt žinutėje", () => getSelection().selectAllChildren(pre));
   det.append(pre, btn);
+  det.append(el("p", "why", d.nauda), el("p", "why", d.kodel_suma));
+  if (d.argumentai.length) {
+    det.append(el("div", "sub", "Jei pardavėjas nenori leisti – paminėk:"));
+    const ul = el("ul", "comps"); d.argumentai.forEach(a => { const li = el("li"); if (a.url) li.append(link(a.url, a.t)); else li.textContent = a.t; ul.append(li); }); det.append(ul);
+  }
   return det;
+}
+
+// ---------- Kodėl taip / kodėl ne ----------
+function reasons(r) {
+  const box = el("div", "reasons");
+  (r.uz || []).forEach(t => box.append(el("div", "rz plus", "✓ " + t)));
+  (r.pries || []).forEach(t => box.append(el("div", "rz minus", "✗ " + t)));
+  if (r.logistika) box.append(el("div", "rz", "🚚 " + r.logistika));
+  return box;
 }
 
 // ---------- Radinio kortelė ----------
@@ -64,29 +107,21 @@ function card(r, big) {
   const c = el("article", "card" + (big ? " big" : ""));
   const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer";
   img.onerror = () => img.style.visibility = "hidden"; if (r.nuotrauka) img.src = r.nuotrauka;
+  const head = el("div", "head"); const tt = el("div", "tt");
+  tt.append(link(r.nuoroda, r.pavadinimas || "(be pavadinimo)"), el("span", "verdict v-" + r.sprendimas, LABEL[r.sprendimas] || r.sprendimas));
+  head.append(img, tt);
   const body = el("div", "body");
-  const top = el("div", "top");
-  top.append(link(r.nuoroda, r.pavadinimas || "(be pavadinimo)"), el("span", "verdict v-" + r.sprendimas, LABEL[r.sprendimas] || r.sprendimas));
+  body.append(el("p", "isvada", r.isvada || r.priezastis || ""));
   const nums = el("div", "nums");
   const n = (t, v, cls) => { const s = el("span", "", t); s.append(el("b", cls || "", v)); nums.append(s); };
   n("Prašo", fmt(r.kaina)); n("Parduosi už ~", fmt(r.tiketina_pardavimo));
   n("Pelnas", fmt(r.pelnas), r.pelnas > 0 ? "pos" : r.pelnas < 0 ? "neg" : "");
   n("Mokėk ne daugiau", r.max_pirkimo ? fmt(r.max_pirkimo) : "—");
-  body.append(top, nums);
-  if (r.kodel) body.append(el("div", "kodel", r.kodel));
-  const lad = ladder(r); if (lad) body.append(lad);
-  const ap = r.aprasymas_analize || {};
-  if ((ap.rizikos_zodziai || []).length || (ap.privalumai || []).length || r.bukle) {
-    const f = el("div", "flags");
-    if (r.bukle) f.append(el("span", "flag", "Būklė: " + r.bukle));
-    (ap.rizikos_zodziai || []).forEach(z => f.append(el("span", "flag risk", "⚠ " + z)));
-    (ap.privalumai || []).forEach(z => f.append(el("span", "flag plus", "✓ " + z)));
-    body.append(f);
-  }
-  if (r.kaina_sumazejo) { const f = el("div", "flags"); f.append(el("span", "flag plus", "↓ kaina sumažinta nuo " + fmt(r.kaina_sumazejo.nuo) + " – pardavėjas linkęs derėtis")); body.append(f); }
-  const co = coach(r); if (co) body.append(co);
-  body.append(el("div", "meta", [r.modelis, "patikimumas: " + r.patikimumas, r.kastai && r.kastai.budas,
-    r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
+  body.append(nums, reasons(r));
+  const axb = priceAxis(r); if (axb) body.append(axb);
+  if (r.bukle) body.append(el("div", "meta", "Būklė: " + r.bukle));
+  const co = coach(r, big); if (co) body.append(co);
+  body.append(el("div", "meta", [r.modelis, "kainos patikimumas: " + r.patikimumas, r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
   if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES su siuntimu pigesnis nei LT skelbimuose."));
   if (r.rizikos) body.append(el("div", "meta", "Claude: " + r.rizikos));
 
@@ -95,22 +130,7 @@ function card(r, big) {
 
   const how = el("details"); how.append(el("summary", "", "Kaip apskaičiuota"));
   const ol = el("ol", "steps"); (r.zingsniai || []).forEach(z => ol.append(el("li", "", z))); how.append(ol);
-  if (r.palyginami && r.palyginami.length) {
-    how.append(el("div", "sub", "Panašūs skelbimai (" + r.palyginamu + "):"));
-    const ul = el("ul", "comps");
-    r.palyginami.forEach(p => { const li = el("li"); li.append(link(p.nuoroda, p.pavadinimas), el("span", "mono", " " + fmt(p.kaina))); ul.append(li); });
-    how.append(ul);
-  }
   body.append(how);
-
-  const shop = el("details"); shop.append(el("summary", "", r.parduotuves && r.parduotuves.length ? "Naujo kainos parduotuvėse (" + r.parduotuves.length + ")" : "Naujo kaina parduotuvėse"));
-  if (r.parduotuves && r.parduotuves.length) {
-    const ul = el("ul", "comps");
-    r.parduotuves.forEach(p => { const li = el("li"); li.append(link(p.url, p.parduotuve || p.url), el("span", "mono", " " + fmt(p.kaina) + (p.su_siuntimu ? " su siuntimu" : ""))); ul.append(li); });
-    shop.append(ul);
-  } else shop.append(el("div", "sub", "Claude dar nepatikrino (tikrina kas rytą). Greita paieška:"));
-  const q = el("div", "shops"); (r.parduotuviu_paieska || []).forEach(p => q.append(link(p.url, p.pavadinimas, "chip"))); shop.append(q);
-  body.append(shop);
 
   if (r.skelbimo_tekstas) {
     const d = el("details"); d.append(el("summary", "", "Paruoštas skelbimo tekstas"));
@@ -121,7 +141,7 @@ function card(r, big) {
   const buy = el("button", "copy", "Pirkau → į žurnalą"); buy.type = "button";
   buy.onclick = () => { try { localStorage.setItem("pirkau", JSON.stringify(r)); } catch {} location.href = "zurnalas.html#naujas"; };
   body.append(buy);
-  c.append(img, body); return c;
+  c.append(head, body); return c;
 }
 
 function render() {
@@ -144,6 +164,16 @@ function render() {
     const b = el("button", "", (LABEL[k] || "Visi") + " (" + (k === "visi" ? R.length : cnt(k)) + ")");
     b.type = "button"; b.setAttribute("aria-pressed", k === filter); b.onclick = () => { filter = k; render(); }; return b;
   }));
+  // piltuvas: kiek peržiūrėta ir kodėl atmesta – kad būtų matyti, jog tikrinama plačiai
+  let fu = $("funnel"); if (!fu) { fu = el("p", "note"); fu.id = "funnel"; $("tiles").after(fu); }
+  const why = {}; const add = k => why[k] = (why[k] || 0) + 1;
+  R.forEach(r => { const z = r.priezastis || "";
+    if (r.sprendimas === "praleisti") add(z.startsWith("didelis") ? "didelis daiktas iš kito miesto" : "per mažas pelnas ar grąža");
+    else if (r.sprendimas === "nežinoma") add("nėra su kuo palyginti (įvertins Claude)");
+    else if (r.sprendimas === "tikrinti") add("įtartina kaina, defektai ar neaiškus modelis"); });
+  const kat = new Set(R.map(r => r.paieska)).size;
+  fu.textContent = `Dabar stebima ${R.length} skelbimų iš ${kat} kategorijų (${(B && B.paieskos || []).length} paieškos). Atmesta ar laukia: ` +
+    Object.entries(why).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k} – ${v}`).join(", ") + ". Kiekvieno priežastis – kortelėje.";
   const rows = R.filter(r => filter === "visi" || r.sprendimas === filter);
   $("cards").replaceChildren(...(rows.length ? rows.map(r => card(r)) : [el("p", "note", "Šioje grupėje šiuo metu nieko nėra.")]));
 }

@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T19:18:28Z",
+ "sugeneruota": "2026-10-25T19:21:33Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -32,365 +32,14 @@
    "katerio",
    "spinta",
    "lova",
-   "televizor"
+   "televizor",
+   "vežimėl",
+   "vezimel"
   ],
   "sezono_daugiklis": 1.15
  },
  "skelbimu_istorijoje": 222,
  "radiniai": [
-  {
-   "id": "80962451",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
-   "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
-   "kaina": 35.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_4479987065/kindle-paperwhite-1-2012-5th-gen.jpg",
-   "aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kain...",
-   "vieta_laikas": "Vilnius, rugpjūčio 8, 2025",
-   "paieska": "Kindle skaityklės",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kaina derinama. Greičiausiai atsakau į SMS žinutes",
-   "bukle": "Naudota",
-   "modelis": "kindle-paperwhite",
-   "raktas": "kindle-paperwhite",
-   "palyginamu": 4,
-   "mediana": 105,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "4 panašių skelbimų mediana 105 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Kindle paperwhite",
-     "kaina": 80.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
-     "vieta_laikas": "Kaunas, birželio 19 d."
-    },
-    {
-     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
-     "vieta_laikas": "Vilnius, birželio 19, 2014"
-    },
-    {
-     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
-     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
-    },
-    {
-     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
-     "vieta_laikas": "Vilnius, birželio 10, 2019"
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=kindle+paperwhite"
-    }
-   ],
-   "tiketina_pardavimo": 94,
-   "pelnas": 56,
-   "roi": 1.59,
-   "max_pirkimo": 67,
-   "pelnas_per_val": 37,
-   "sprendimas": "verta",
-   "priezastis": "pelnas ~55,5 € (159%), atsiimti vietoje (Vilnius)",
-   "balas": 75,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "nauja",
-     "naujas"
-    ],
-    "aprasymo_ilgis": 182,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 1,
-    "is": 5,
-    "min": 80.0,
-    "max": 140.0,
-    "mediana": 105.0,
-    "nuolaida": 0.67
-   },
-   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 80 €–140 €, mediana 105 €), 67% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
-   "visi_palyginami": [
-    {
-     "kaina": 80.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
-     "pavadinimas": "Kindle paperwhite",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, birželio 19 d."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
-     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, birželio 19, 2014"
-    },
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
-     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
-    },
-    {
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
-     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, birželio 10, 2019"
-    }
-   ],
-   "amzius_d": 0,
-   "derybos": {
-    "siulymas": 25,
-    "riba": 67,
-    "argumentai": [
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
-     }
-    ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 35 € pelnas 56 €, už 25 € – 66 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~29% punktų.",
-    "kaip": [
-     "Pradėk nuo 25 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 67 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (kindle-paperwhite): 4 vnt., kainos 80 €–140 €, mediana 105 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94,5 €",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 94,5 € − 35 € − 4 € = 55,5 € (159% pirkimo kainos)",
-    "Mokėti ne daugiau: min((94,5 € − 4 €) / 1.35; 94,5 € − 4 € − 20 €) = 67 €",
-    "Laikas ~1.5 val. → 37 €/val."
-   ]
-  },
-  {
-   "id": "87792604",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
-   "pavadinimas": "Nintendo swtich",
-   "kaina": 90.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5279575950/nintendo-swtich.jpg",
-   "aprasymas": "Turiu ekranu pabraizymu",
-   "vieta_laikas": "Kaunas, prieš 2 d.",
-   "paieska": "Nintendo Switch",
-   "pastebetas": "2026-10-25T17:36:10Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Turiu ekranu pabraizymu",
-   "bukle": "Naudota",
-   "modelis": "switch-v1",
-   "raktas": "switch-v1",
-   "palyginamu": 6,
-   "mediana": 165,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "6 panašių skelbimų mediana 165 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Nintendo switch",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
-     "vieta_laikas": "Ukmergės r., prieš 9 val."
-    },
-    {
-     "pavadinimas": "Nintendo Switch",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
-     "vieta_laikas": "Kaunas, spalio 21 d."
-    },
-    {
-     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
-     "kaina": 170.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
-     "vieta_laikas": "Vilnius, prieš 3 d."
-    },
-    {
-     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
-     "kaina": 180.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
-     "vieta_laikas": "Kauno r., prieš 3 d."
-    },
-    {
-     "pavadinimas": "Atrištas Nintendo Switch",
-     "kaina": 200.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
-     "vieta_laikas": "Klaipėda, prieš 2 d."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
-    }
-   ],
-   "tiketina_pardavimo": 148,
-   "pelnas": 54,
-   "roi": 0.6,
-   "max_pirkimo": 107,
-   "pelnas_per_val": 54,
-   "sprendimas": "verta",
-   "priezastis": "pelnas ~54 € (60%), siunta į paštomatą iš Kaunas",
-   "balas": 62,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 23,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 1,
-    "is": 7,
-    "min": 100.0,
-    "max": 200.0,
-    "mediana": 165.0,
-    "nuolaida": 0.45
-   },
-   "kodel": "Pigiausias iš 7 to paties modelio skelbimų (kiti 100 €–200 €, mediana 165 €), 45% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
-   "visi_palyginami": [
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
-     "pavadinimas": "Nintendo switch",
-     "rizikos": [],
-     "vieta_laikas": "Ukmergės r., prieš 9 val."
-    },
-    {
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
-     "pavadinimas": "Nintendo Switch",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
-     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, spalio 21 d."
-    },
-    {
-     "kaina": 170.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
-     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 3 d."
-    },
-    {
-     "kaina": 180.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
-     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Kauno r., prieš 3 d."
-    },
-    {
-     "kaina": 200.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
-     "pavadinimas": "Atrištas Nintendo Switch",
-     "rizikos": [
-      "atrištas (modifikuotas)"
-     ],
-     "vieta_laikas": "Klaipėda, prieš 2 d."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": {
-    "siulymas": 75,
-    "riba": 107,
-    "argumentai": [
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
-     }
-    ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 90 € pelnas 54 €, už 75 € – 69 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~11% punktų.",
-    "kaip": [
-     "Pradėk nuo 75 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 107 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 100 €–200 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
-    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 148,5 € − 90 € − 4,5 € = 54 € (60% pirkimo kainos)",
-    "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
-    "Laikas ~1.0 val. → 54 €/val."
-   ]
-  },
   {
    "id": "87829808",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
@@ -554,6 +203,7 @@
    "amzius_d": 0,
    "derybos": {
     "siulymas": 85,
+    "tarpinis": 90,
     "riba": 107,
     "argumentai": [
      {
@@ -567,13 +217,13 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 100 € pelnas 44 €, už 85 € – 59 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~10% punktų.",
-    "kaip": [
-     "Pradėk nuo 85 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 107 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 85 € – tai 15 % mažiau nei prašo (100 €).",
+     "Jei atsisako – kelk iki 90 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 100 €: pelnas ~44 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 85 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 100 € uždirbtum ~44 €, už 85 € – ~59 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -582,262 +232,14 @@
     "Pelnas = 148,5 € − 100 € − 4,5 € = 44 € (44% pirkimo kainos)",
     "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
     "Laikas ~1.0 val. → 44 €/val."
-   ]
-  },
-  {
-   "id": "87840262",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
-   "pavadinimas": "Horizon Forbiden West ps5 disc",
-   "kaina": 20.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285933568/horizon-forbiden-west-ps5-disc.jpg",
-   "aprasymas": "Naujas neišpakuotas žaidimas pirktas ps4 bet aktyvuojasi ir ant ps5",
-   "vieta_laikas": "Vilnius, prieš 12 min.",
-   "paieska": "PlayStation 5",
-   "pastebetas": "2026-10-25T18:41:56Z",
-   "parametrai": [
-    "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": "Naujas neišpakuotas žaidimas pirktas ps4 bet aktyvuojasi ir ant ps5",
-   "bukle": "Nauja",
-   "modelis": "ps5",
-   "raktas": "ps5",
-   "palyginamu": 11,
-   "mediana": 38,
-   "naujo_kaina": null,
-   "patikimumas": "aukštas",
-   "saltiniai": [
-    "11 panašių skelbimų mediana 38 €"
+   "isvada": "Pirk, jei gausi ne daugiau kaip už 107 €. Tikėtinas pelnas ~44 €.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnis tik vienas; įprasta kaina ~165 €, šis 39 % pigesnis.",
+    "Pelnas ~44 € (44 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
    ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "pavadinimas": "Mafia The Old Country Ps5",
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "007 James bond first light ps5",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Crimson desert ps5 disc",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
-     "vieta_laikas": "Vilnius, prieš 21 min."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Parduodu ps5 first light",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Saros Ps5",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "The Blood of Dawnwalker Ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Ps5 silent hill town fall",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=ps5"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=ps5"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=ps5"
-    }
-   ],
-   "tiketina_pardavimo": 34,
-   "pelnas": 10,
-   "roi": 0.51,
-   "max_pirkimo": 10,
-   "pelnas_per_val": 7,
-   "sprendimas": "derėtis",
-   "priezastis": "verta tik nusiderėjus iki 10,2 €",
-   "balas": 29,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "nauja",
-     "naujas"
-    ],
-    "aprasymo_ilgis": 67,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 2,
-    "is": 12,
-    "min": 15.0,
-    "max": 45.0,
-    "mediana": 38.0,
-    "nuolaida": 0.47
-   },
-   "kodel": "2-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 47% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
-   "visi_palyginami": [
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
-     "pavadinimas": "Mafia The Old Country Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "pavadinimas": "007 James bond first light ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
-     "pavadinimas": "Crimson desert ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 21 min."
-    },
-    {
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "pavadinimas": "Wolverine ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
-     "pavadinimas": "Parduodu ps5 first light",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
-     "pavadinimas": "Saros Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
-     "pavadinimas": "The Blood of Dawnwalker Ps5",
-     "rizikos": [
-      "braižytas"
-     ],
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "pavadinimas": "Ps5 silent hill town fall",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "pavadinimas": "Star wars zero company ps5",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    }
-   ],
-   "amzius_d": 0,
-   "derybos": {
-    "siulymas": 10,
-    "riba": 10,
-    "argumentai": [
-     {
-      "t": "Pigesnių panašių skelbimų: 1, pigiausias 15 €",
-      "url": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html"
-     },
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
-     }
-    ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 20 € pelnas 10 €, už 10 € – 20 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~50% punktų.",
-    "kaip": [
-     "Pradėk nuo 10 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 10 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 34,2 € − 20 € − 4 € = 10,2 € (51% pirkimo kainos)",
-    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
-    "Laikas ~1.5 val. → 6,8 €/val."
-   ]
+   "pries": [],
+   "logistika": "Siunta į paštomatą iš Ukmergės r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "85547538",
@@ -977,6 +379,7 @@
    "amzius_d": 128,
    "derybos": {
     "siulymas": 65,
+    "tarpinis": null,
     "riba": 67,
     "argumentai": [
      {
@@ -988,18 +391,14 @@
      },
      {
       "t": "Skelbimas kabo jau ~128 d. – pardavėjas greičiausiai nori parduoti"
-     },
-     {
-      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 80 € pelnas 10 €, už 65 € – 25 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~12% punktų.",
-    "kaip": [
-     "Pradėk nuo 65 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 67 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 65 € – tai 19 % mažiau nei prašo (80 €).",
+     "Paskutinis siūlymas 67 €. Jei nori daugiau – nepirk: pelnas nukristų žemiau 20 €."
+    ],
+    "kodel_suma": "Kodėl 65 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 80 € uždirbtum ~10 €, už 65 € – ~25 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -1008,7 +407,18 @@
     "Pelnas = 94,5 € − 80 € − 4,5 € = 10 € (12% pirkimo kainos)",
     "Mokėti ne daugiau: min((94,5 € − 4,5 €) / 1.35; 94,5 € − 4,5 € − 20 €) = 66,7 €",
     "Laikas ~1.0 val. → 10 €/val."
-   ]
+   ],
+   "isvada": "Pirk tik nusiderėjęs iki 67 € (dabar prašo 80 €).",
+   "uz": [
+    "Iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~105 €, šis 24 % pigesnis.",
+    "Aprašyme: ideali būklė, nenaudotas."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 12 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Prašo 80 €, o apsimoka tik už ≤ 67 €."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87822186",
@@ -1232,6 +642,7 @@
    "amzius_d": 1,
    "derybos": {
     "siulymas": 10,
+    "tarpinis": null,
     "riba": 10,
     "argumentai": [
      {
@@ -1245,13 +656,11 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 25 € pelnas 5 €, už 10 € – 20 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~40% punktų.",
-    "kaip": [
-     "Pradėk nuo 10 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 10 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Siūlyk 10 € (60 % mažiau nei prašo) ir daugiau nekelk – brangiau pelnas per mažas."
+    ],
+    "kodel_suma": "Kodėl 10 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 25 € uždirbtum ~5 €, už 10 € – ~20 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -1260,7 +669,17 @@
     "Pelnas = 34,2 € − 25 € − 4 € = 5,2 € (21% pirkimo kainos)",
     "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
     "Laikas ~1.5 val. → 3,5 €/val."
-   ]
+   ],
+   "isvada": "Pirk tik nusiderėjęs iki 10 € (dabar prašo 25 €).",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnių yra 2; įprasta kaina ~38 €, šis 34 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~5 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Prašo 25 €, o apsimoka tik už ≤ 10 €."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87835738",
@@ -1386,6 +805,7 @@
    "amzius_d": 0,
    "derybos": {
     "siulymas": 25,
+    "tarpinis": 30,
     "riba": 170,
     "argumentai": [
      {
@@ -1398,13 +818,13 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 35 € pelnas 194 €, už 25 € – 204 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~29% punktų.",
-    "kaip": [
-     "Pradėk nuo 25 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 170 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 25 € – tai 29 % mažiau nei prašo (35 €).",
+     "Jei atsisako – kelk iki 30 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 35 €: pelnas ~194 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 25 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 35 € uždirbtum ~194 €, už 25 € – ~204 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -1415,7 +835,18 @@
     "Mokėti ne daugiau: min((234 € − 4,5 €) / 1.35; 234 € − 4,5 € − 20 €) = 170 €",
     "Laikas ~1.0 val. → 194,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~260 €, šis 87 % pigesnis.",
+    "Pelnas ~194 € (556 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: defektas.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Utenos r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87794548",
@@ -1542,6 +973,7 @@
    "amzius_d": 2,
    "derybos": {
     "siulymas": 35,
+    "tarpinis": 40,
     "riba": 170,
     "argumentai": [
      {
@@ -1551,13 +983,13 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 45 € pelnas 184 €, už 35 € – 194 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~22% punktų.",
-    "kaip": [
-     "Pradėk nuo 35 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 170 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 35 € – tai 22 % mažiau nei prašo (45 €).",
+     "Jei atsisako – kelk iki 40 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 45 €: pelnas ~184 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 35 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 45 € uždirbtum ~184 €, už 35 € – ~194 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -1568,7 +1000,18 @@
     "Mokėti ne daugiau: min((234 € − 4,5 €) / 1.35; 234 € − 4,5 € − 20 €) = 170 €",
     "Laikas ~1.0 val. → 184,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~260 €, šis 83 % pigesnis.",
+    "Pelnas ~184 € (410 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaišiadorių r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87814980",
@@ -1810,6 +1253,7 @@
    "amzius_d": 1,
    "derybos": {
     "siulymas": 15,
+    "tarpinis": null,
     "riba": 80,
     "argumentai": [
      {
@@ -1819,13 +1263,12 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 22 € pelnas 86 €, už 15 € – 93 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~45% punktų.",
-    "kaip": [
-     "Pradėk nuo 15 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 80 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 15 € – tai 32 % mažiau nei prašo (22 €).",
+     "Jei visai nenuleidžia – vis tiek pirk už 22 €: pelnas ~86 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 15 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 22 € uždirbtum ~86 €, už 15 € – ~93 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -1836,7 +1279,18 @@
     "Mokėti ne daugiau: min((112,5 € − 4,5 €) / 1.35; 112,5 € − 4,5 € − 20 €) = 80 €",
     "Laikas ~1.0 val. → 86 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 14 panašių skelbimų pigesnio nėra; įprasta kaina ~125 €, šis 82 % pigesnis.",
+    "Pelnas ~86 € (391 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: nenaudotas."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87828304",
@@ -1962,6 +1416,7 @@
    "amzius_d": 1,
    "derybos": {
     "siulymas": 35,
+    "tarpinis": 40,
     "riba": 330,
     "argumentai": [
      {
@@ -1971,13 +1426,13 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 45 € pelnas 401 €, už 35 € – 411 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~22% punktų.",
-    "kaip": [
-     "Pradėk nuo 35 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 330 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 35 € – tai 22 % mažiau nei prašo (45 €).",
+     "Jei atsisako – kelk iki 40 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 45 €: pelnas ~401 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 35 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 45 € uždirbtum ~401 €, už 35 € – ~411 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -1986,7 +1441,18 @@
     "Pelnas = 450 € − 45 € − 4 € = 401 € (891% pirkimo kainos)",
     "Mokėti ne daugiau: min((450 € − 4 €) / 1.35; 450 € − 4 € − 20 €) = 330,4 €",
     "Laikas ~1.5 val. → 267,3 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~500 €, šis 91 % pigesnis.",
+    "Pelnas ~401 € (891 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: ideali būklė."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87839676",
@@ -2167,6 +1633,7 @@
    "amzius_d": 0,
    "derybos": {
     "siulymas": 40,
+    "tarpinis": 45,
     "riba": 150,
     "argumentai": [
      {
@@ -2176,13 +1643,13 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 50 € pelnas 153 €, už 40 € – 163 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~20% punktų.",
-    "kaip": [
-     "Pradėk nuo 40 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 150 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 40 € – tai 20 % mažiau nei prašo (50 €).",
+     "Jei atsisako – kelk iki 45 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 50 €: pelnas ~153 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 40 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 50 € uždirbtum ~153 €, už 40 € – ~163 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -2192,7 +1659,17 @@
     "Pelnas = 207 € − 50 € − 4 € = 153 € (306% pirkimo kainos)",
     "Mokėti ne daugiau: min((207 € − 4 €) / 1.35; 207 € − 4 € − 20 €) = 150,4 €",
     "Laikas ~1.5 val. → 102 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 8 panašių skelbimų pigesnio nėra; įprasta kaina ~230 €, šis 78 % pigesnis.",
+    "Pelnas ~153 € (306 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87791476",
@@ -2359,19 +1836,20 @@
    "amzius_d": 2,
    "derybos": {
     "siulymas": 50,
+    "tarpinis": 55,
     "riba": 142,
     "argumentai": [
      {
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 60 € pelnas 132 €, už 50 € – 142 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~17% punktų.",
-    "kaip": [
-     "Pradėk nuo 50 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 142 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 50 € – tai 17 % mažiau nei prašo (60 €).",
+     "Jei atsisako – kelk iki 55 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 60 €: pelnas ~132 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 50 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 60 € uždirbtum ~132 €, už 50 € – ~142 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -2381,7 +1859,18 @@
     "Pelnas = 195,8 € − 60 € − 4 € = 131,8 € (220% pirkimo kainos)",
     "Mokėti ne daugiau: min((195,8 € − 4 €) / 1.35; 195,8 € − 4 € − 20 €) = 142 €",
     "Laikas ~1.5 val. → 87,8 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnio nėra; įprasta kaina ~217,5 €, šis 72 % pigesnis.",
+    "Pelnas ~132 € (220 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: garantija, nauja, naujas."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87817358",
@@ -2544,6 +2033,7 @@
    "amzius_d": 1,
    "derybos": {
     "siulymas": 55,
+    "tarpinis": 60,
     "riba": 142,
     "argumentai": [
      {
@@ -2553,13 +2043,13 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 70 € pelnas 122 €, už 55 € – 137 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~14% punktų.",
-    "kaip": [
-     "Pradėk nuo 55 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 142 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 55 € – tai 21 % mažiau nei prašo (70 €).",
+     "Jei atsisako – kelk iki 60 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 70 €: pelnas ~122 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 55 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 70 € uždirbtum ~122 €, už 55 € – ~137 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -2569,7 +2059,17 @@
     "Pelnas = 195,8 € − 70 € − 4 € = 121,8 € (174% pirkimo kainos)",
     "Mokėti ne daugiau: min((195,8 € − 4 €) / 1.35; 195,8 € − 4 € − 20 €) = 142 €",
     "Laikas ~1.5 val. → 81,2 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnio nėra; įprasta kaina ~217,5 €, šis 68 % pigesnis.",
+    "Pelnas ~122 € (174 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87763360",
@@ -2805,6 +2305,7 @@
    "amzius_d": 4,
    "derybos": {
     "siulymas": 50,
+    "tarpinis": 55,
     "riba": 88,
     "argumentai": [
      {
@@ -2814,13 +2315,13 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 60 € pelnas 59 €, už 50 € – 69 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~17% punktų.",
-    "kaip": [
-     "Pradėk nuo 50 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 88 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 50 € – tai 17 % mažiau nei prašo (60 €).",
+     "Jei atsisako – kelk iki 55 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 60 €: pelnas ~59 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 50 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 60 € uždirbtum ~59 €, už 50 € – ~69 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -2831,7 +2332,18 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → 59,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnio nėra; įprasta kaina ~137,5 €, šis 56 % pigesnis.",
+    "Pelnas ~59 € (99 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87837760",
@@ -3053,6 +2565,7 @@
    "amzius_d": 0,
    "derybos": {
     "siulymas": 5,
+    "tarpinis": null,
     "riba": 20,
     "argumentai": [
      {
@@ -3062,13 +2575,12 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 10 € pelnas 30 €, už 5 € – 35 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~100% punktų.",
-    "kaip": [
-     "Pradėk nuo 5 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 20 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 5 € – tai 50 % mažiau nei prašo (10 €).",
+     "Jei visai nenuleidžia – vis tiek pirk už 10 €: pelnas ~30 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 5 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 10 € uždirbtum ~30 €, už 5 € – ~35 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -3078,7 +2590,17 @@
     "Pelnas = 45 € − 10 € − 4,5 € = 30,5 € (305% pirkimo kainos)",
     "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
     "Laikas ~1.0 val. → 30,5 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnio nėra; įprasta kaina ~50 €, šis 80 % pigesnis.",
+    "Pelnas ~30 € (305 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87771444",
@@ -3311,6 +2833,7 @@
    "amzius_d": 3,
    "derybos": {
     "siulymas": 50,
+    "tarpinis": 55,
     "riba": 88,
     "argumentai": [
      {
@@ -3320,13 +2843,13 @@
       "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 60 € pelnas 59 €, už 50 € – 69 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~17% punktų.",
-    "kaip": [
-     "Pradėk nuo 50 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 88 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 50 € – tai 17 % mažiau nei prašo (60 €).",
+     "Jei atsisako – kelk iki 55 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 60 €: pelnas ~59 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 50 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 60 € uždirbtum ~59 €, už 50 € – ~69 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -3337,7 +2860,391 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → 59,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnio nėra; įprasta kaina ~137,5 €, šis 56 % pigesnis.",
+    "Pelnas ~59 € (99 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Kupiškio r.: kaštai ~4,5 €, laikas ~1,0 val."
+  },
+  {
+   "id": "80962451",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
+   "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
+   "kaina": 35.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_4479987065/kindle-paperwhite-1-2012-5th-gen.jpg",
+   "aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kain...",
+   "vieta_laikas": "Vilnius, rugpjūčio 8, 2025",
+   "paieska": "Kindle skaityklės",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodu naudotą Kindle Paperwhite 1. Pakeista bateriją, todėl viduje kaip naujas. Yra naudojimo žymių ant nugarėlės ir šonų, todėl kaina derinama. Greičiausiai atsakau į SMS žinutes",
+   "bukle": "Naudota",
+   "modelis": "kindle-paperwhite",
+   "raktas": "kindle-paperwhite",
+   "palyginamu": 4,
+   "mediana": 105,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "4 panašių skelbimų mediana 105 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Kindle paperwhite",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
+     "vieta_laikas": "Kaunas, birželio 19 d."
+    },
+    {
+     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
+     "vieta_laikas": "Vilnius, birželio 19, 2014"
+    },
+    {
+     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
+     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
+    },
+    {
+     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
+     "vieta_laikas": "Vilnius, birželio 10, 2019"
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=kindle+paperwhite"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=kindle+paperwhite"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=kindle+paperwhite"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=kindle+paperwhite"
+    }
+   ],
+   "tiketina_pardavimo": 94,
+   "pelnas": 56,
+   "roi": 1.59,
+   "max_pirkimo": 67,
+   "pelnas_per_val": 37,
+   "sprendimas": "tikrinti",
+   "priezastis": "įtartinai pigu – patikrink, ar tai ne senesnis modelis ar defektas",
+   "balas": 41,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja",
+     "naujas"
+    ],
+    "aprasymo_ilgis": 182,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 5,
+    "min": 80.0,
+    "max": 140.0,
+    "mediana": 105.0,
+    "nuolaida": 0.67
+   },
+   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 80 €–140 €, mediana 105 €), 67% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
+   "visi_palyginami": [
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
+     "pavadinimas": "Kindle paperwhite",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, birželio 19 d."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
+     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, birželio 19, 2014"
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
+     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
+    },
+    {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
+     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, birželio 10, 2019"
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": {
+    "siulymas": 25,
+    "tarpinis": 30,
+    "riba": 67,
+    "argumentai": [
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 25 € – tai 29 % mažiau nei prašo (35 €).",
+     "Jei atsisako – kelk iki 30 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 35 €: pelnas ~56 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 25 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 35 € uždirbtum ~56 €, už 25 € – ~66 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (kindle-paperwhite): 4 vnt., kainos 80 €–140 €, mediana 105 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94,5 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 94,5 € − 35 € − 4 € = 55,5 € (159% pirkimo kainos)",
+    "Mokėti ne daugiau: min((94,5 € − 4 €) / 1.35; 94,5 € − 4 € − 20 €) = 67 €",
+    "Laikas ~1.5 val. → 37 €/val."
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė.",
+   "uz": [
+    "Iš 5 panašių skelbimų pigesnio nėra; įprasta kaina ~105 €, šis 67 % pigesnis.",
+    "Pelnas ~56 € (159 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
+  },
+  {
+   "id": "87792604",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-swtich-87792604.html",
+   "pavadinimas": "Nintendo swtich",
+   "kaina": 90.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5279575950/nintendo-swtich.jpg",
+   "aprasymas": "Turiu ekranu pabraizymu",
+   "vieta_laikas": "Kaunas, prieš 2 d.",
+   "paieska": "Nintendo Switch",
+   "pastebetas": "2026-10-25T17:36:10Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Turiu ekranu pabraizymu",
+   "bukle": "Naudota",
+   "modelis": "switch-v1",
+   "raktas": "switch-v1",
+   "palyginamu": 6,
+   "mediana": 165,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "6 panašių skelbimų mediana 165 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo switch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "pavadinimas": "Nintendo Switch",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+v1"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+v1"
+    }
+   ],
+   "tiketina_pardavimo": 148,
+   "pelnas": 54,
+   "roi": 0.6,
+   "max_pirkimo": 107,
+   "pelnas_per_val": 54,
+   "sprendimas": "tikrinti",
+   "priezastis": "įtartinai pigu – patikrink, ar tai ne senesnis modelis ar defektas",
+   "balas": 37,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 23,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 7,
+    "min": 100.0,
+    "max": 200.0,
+    "mediana": 165.0,
+    "nuolaida": 0.45
+   },
+   "kodel": "Pigiausias iš 7 to paties modelio skelbimų (kiti 100 €–200 €, mediana 165 €), 45% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
+   "visi_palyginami": [
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87829808.html",
+     "pavadinimas": "Nintendo switch",
+     "rizikos": [],
+     "vieta_laikas": "Ukmergės r., prieš 9 val."
+    },
+    {
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-87800544.html",
+     "pavadinimas": "Nintendo Switch",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-minecraft-zaidimu-87755174.html",
+     "pavadinimas": "Nintendo Switch su minecraft žaidimu",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nintendo-switch-su-3-zaidimais-170-87783242.html",
+     "pavadinimas": "Parduodu Nintendo Switch su 3 žaidimais – 170 €",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 d."
+    },
+    {
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-v1-nintendo-switch-zaidimai-87781792.html",
+     "pavadinimas": "Nintendo switch v1.nintendo switch zaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Kauno r., prieš 3 d."
+    },
+    {
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/atristas-nintendo-switch-87799720.html",
+     "pavadinimas": "Atrištas Nintendo Switch",
+     "rizikos": [
+      "atrištas (modifikuotas)"
+     ],
+     "vieta_laikas": "Klaipėda, prieš 2 d."
+    }
+   ],
+   "amzius_d": 2,
+   "derybos": {
+    "siulymas": 75,
+    "tarpinis": 80,
+    "riba": 107,
+    "argumentai": [
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 75 € – tai 17 % mažiau nei prašo (90 €).",
+     "Jei atsisako – kelk iki 80 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 90 €: pelnas ~54 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 75 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 90 € uždirbtum ~54 €, už 75 € – ~69 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-v1): 6 vnt., kainos 100 €–200 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 148,5 € − 90 € − 4,5 € = 54 € (60% pirkimo kainos)",
+    "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
+    "Laikas ~1.0 val. → 54 €/val."
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnio nėra; įprasta kaina ~165 €, šis 45 % pigesnis.",
+    "Pelnas ~54 € (60 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "86652089",
@@ -3504,6 +3411,7 @@
    "amzius_d": 59,
    "derybos": {
     "siulymas": 25,
+    "tarpinis": null,
     "riba": 60,
     "argumentai": [
      {
@@ -3514,18 +3422,14 @@
      },
      {
       "t": "Skelbimas kabo jau ~59 d. – pardavėjas greičiausiai nori parduoti"
-     },
-     {
-      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 30 € pelnas 52 €, už 25 € – 57 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~33% punktų.",
-    "kaip": [
-     "Pradėk nuo 25 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 60 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 25 € – tai 17 % mažiau nei prašo (30 €).",
+     "Jei visai nenuleidžia – vis tiek pirk už 30 €: pelnas ~52 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 25 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 30 € uždirbtum ~52 €, už 25 € – ~57 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -3535,7 +3439,18 @@
     "Pelnas = 85,5 € − 30 € − 4 € = 51,5 € (172% pirkimo kainos)",
     "Mokėti ne daugiau: min((85,5 € − 4 €) / 1.35; 85,5 € − 4 € − 20 €) = 60,4 €",
     "Laikas ~1.5 val. → 34,3 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnio nėra; įprasta kaina ~95 €, šis 68 % pigesnis.",
+    "Pelnas ~52 € (172 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: defektas.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "86596691",
@@ -3704,6 +3619,7 @@
    "amzius_d": 62,
    "derybos": {
     "siulymas": 50,
+    "tarpinis": 55,
     "riba": 60,
     "argumentai": [
      {
@@ -3715,21 +3631,15 @@
      },
      {
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Skelbimas kabo jau ~62 d. – pardavėjas greičiausiai nori parduoti"
-     },
-     {
-      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 60 € pelnas 22 €, už 50 € – 32 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~17% punktų.",
-    "kaip": [
-     "Pradėk nuo 50 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 60 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 50 € – tai 17 % mažiau nei prašo (60 €).",
+     "Jei atsisako – kelk iki 55 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 60 €: pelnas ~22 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 50 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 60 € uždirbtum ~22 €, už 50 € – ~32 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -3739,7 +3649,282 @@
     "Pelnas = 85,5 € − 60 € − 4 € = 21,5 € (36% pirkimo kainos)",
     "Mokėti ne daugiau: min((85,5 € − 4 €) / 1.35; 85,5 € − 4 € − 20 €) = 60,4 €",
     "Laikas ~1.5 val. → 14,3 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnis tik vienas; įprasta kaina ~95 €, šis 37 % pigesnis.",
+    "Pelnas ~22 € (36 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: braižytas."
+   ],
+   "logistika": "Atsiimti vietoje (Vilniaus r.): kaštai ~4 €, laikas ~1,5 val."
+  },
+  {
+   "id": "87840262",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+   "pavadinimas": "Horizon Forbiden West ps5 disc",
+   "kaina": 20.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285933568/horizon-forbiden-west-ps5-disc.jpg",
+   "aprasymas": "Naujas neišpakuotas žaidimas pirktas ps4 bet aktyvuojasi ir ant ps5",
+   "vieta_laikas": "Vilnius, prieš 12 min.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-25T18:41:56Z",
+   "parametrai": [
+    "Būklė: Nauja"
+   ],
+   "pilnas_aprasymas": "Naujas neišpakuotas žaidimas pirktas ps4 bet aktyvuojasi ir ant ps5",
+   "bukle": "Nauja",
+   "modelis": "ps5",
+   "raktas": "ps5",
+   "palyginamu": 11,
+   "mediana": 38,
+   "naujo_kaina": null,
+   "patikimumas": "aukštas",
+   "saltiniai": [
+    "11 panašių skelbimų mediana 38 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "007 James bond first light ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "pavadinimas": "Wolverine ps5 disc",
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Parduodu ps5 first light",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Saros Ps5",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Ps5 silent hill town fall",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=ps5"
+    }
+   ],
+   "tiketina_pardavimo": 34,
+   "pelnas": 10,
+   "roi": 0.51,
+   "max_pirkimo": 10,
+   "pelnas_per_val": 7,
+   "sprendimas": "tikrinti",
+   "priezastis": "įtartinai pigu – patikrink, ar tai ne senesnis modelis ar defektas",
+   "balas": 14,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja",
+     "naujas"
+    ],
+    "aprasymo_ilgis": 67,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 2,
+    "is": 12,
+    "min": 15.0,
+    "max": 45.0,
+    "mediana": 38.0,
+    "nuolaida": 0.47
+   },
+   "kodel": "2-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 47% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
+   "visi_palyginami": [
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "pavadinimas": "007 James bond first light ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "pavadinimas": "Wolverine ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "pavadinimas": "Parduodu ps5 first light",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "pavadinimas": "Saros Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "pavadinimas": "Ps5 silent hill town fall",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
+     "pavadinimas": "Star wars zero company ps5",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": {
+    "siulymas": 10,
+    "tarpinis": null,
+    "riba": 10,
+    "argumentai": [
+     {
+      "t": "Pigesnių panašių skelbimų: 1, pigiausias 15 €",
+      "url": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html"
+     },
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
+     }
+    ],
+    "planas": [
+     "Siūlyk 10 € (50 % mažiau nei prašo) ir daugiau nekelk – brangiau pelnas per mažas."
+    ],
+    "kodel_suma": "Kodėl 10 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 20 € uždirbtum ~10 €, už 10 € – ~20 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 34,2 € − 20 € − 4 € = 10,2 € (51% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → 6,8 €/val."
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnis tik vienas; įprasta kaina ~38 €, šis 47 % pigesnis.",
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87798832",
@@ -3880,6 +4065,7 @@
    "amzius_d": 2,
    "derybos": {
     "siulymas": 160,
+    "tarpinis": null,
     "riba": 162,
     "argumentai": [
      {
@@ -3892,13 +4078,12 @@
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
      }
     ],
-    "kodel": "Kiekvienas nusiderėtas euras – tavo pelnas: už 200 € pelnas 19 €, už 160 € – 59 €. Nusiderėjus 10 € pelnas auga 10 €, ROI – ~5% punktų.",
-    "kaip": [
-     "Pradėk nuo 160 € ir paminėk 1–2 stipriausius argumentus.",
-     "Pirma paklausk apie būklę, defektus ir komplektaciją – atsakymas gali duoti dar vieną argumentą.",
-     "Kelk kainą mažais žingsniais (5 €). Daugiau nei 162 € nemokėk – tada pelnas per mažas.",
-     "Būk mandagus ir trumpas; nekritikuok daikto – kalbėk faktais (kainos, nuorodos)."
-    ]
+    "planas": [
+     "Pirma žinutė: siūlyk 160 € – tai 20 % mažiau nei prašo (200 €).",
+     "Paskutinis siūlymas 162 €. Jei nori daugiau – nepirk: pelnas nukristų žemiau 20 €."
+    ],
+    "kodel_suma": "Kodėl 160 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 200 € uždirbtum ~19 €, už 160 € – ~59 €."
    },
    "naujo_min": null,
    "zingsniai": [
@@ -3907,7 +4092,17 @@
     "Pelnas = 222,8 € − 200 € − 4 € = 18,8 € (9% pirkimo kainos)",
     "Mokėti ne daugiau: min((222,8 € − 4 €) / 1.35; 222,8 € − 4 € − 20 €) = 162 €",
     "Laikas ~1.5 val. → 12,5 €/val."
-   ]
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: pelnas būtų tik ~19 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 5 panašių skelbimų pigesnio nėra; įprasta kaina ~247,5 €, šis 19 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~19 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 9 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Aprašyme minima: defektas."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87835252",
@@ -3999,7 +4194,13 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87835062",
@@ -4072,7 +4273,13 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87833162",
@@ -4164,7 +4371,14 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).",
+    "Aprašyme minima: defektas."
+   ],
+   "logistika": "Siunta į paštomatą iš Utenos r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87828782",
@@ -4279,7 +4493,16 @@
    "zingsniai": [
     "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~27,5 €, šis 9 % pigesnis.",
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Panevėžys: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87828648",
@@ -4393,7 +4616,16 @@
    "zingsniai": [
     "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 3 panašių skelbimų pigesnių yra 2; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87804408",
@@ -4468,7 +4700,15 @@
    "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87835610",
@@ -4543,7 +4783,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: puiki būklė."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87833506",
@@ -4618,7 +4866,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Širvintų r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87833530",
@@ -4693,7 +4949,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Širvintų r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87814592",
@@ -4768,7 +5032,15 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: puiki būklė."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87814570",
@@ -4844,7 +5116,15 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87814500",
@@ -4920,7 +5200,15 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87813376",
@@ -5013,7 +5301,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87783020",
@@ -5105,7 +5401,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: labai gera būklė."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87837804",
@@ -5197,7 +5501,13 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87835338",
@@ -5272,7 +5582,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: su dėže."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87833858",
@@ -5345,7 +5663,13 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87822316",
@@ -5420,7 +5744,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87828640",
@@ -5495,7 +5827,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87813576",
@@ -5570,7 +5910,15 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87779754",
@@ -5645,7 +5993,15 @@
    "amzius_d": 3,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87779456",
@@ -5722,7 +6078,16 @@
    "amzius_d": 3,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: ideali būklė."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).",
+    "Aprašyme minima: defektas."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87839670",
@@ -5795,7 +6160,13 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87840254",
@@ -5910,7 +6281,16 @@
    "zingsniai": [
     "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas, nauja."
+   ],
+   "pries": [
+    "Iš 3 panašių skelbimų pigesnių yra 2; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87816974",
@@ -5985,7 +6365,15 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87805002",
@@ -6097,7 +6485,15 @@
    "zingsniai": [
     "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~310 €, šis 68 % pigesnis."
+   ],
+   "pries": [
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87783108",
@@ -6173,7 +6569,15 @@
    "amzius_d": 3,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87763174",
@@ -6249,7 +6653,15 @@
    "amzius_d": 4,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87832098",
@@ -6327,7 +6739,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "83450675",
@@ -6402,7 +6822,15 @@
    "amzius_d": 252,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87833822",
@@ -6477,7 +6905,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87798852",
@@ -6571,7 +7007,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas, nauja, nenaudotas."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "85655270",
@@ -6646,7 +7090,15 @@
    "amzius_d": 3,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87753504",
@@ -6739,7 +7191,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas, nauja."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87751440",
@@ -6814,7 +7274,15 @@
    "amzius_d": 4,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87751596",
@@ -6904,7 +7372,13 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87700900",
@@ -6977,7 +7451,13 @@
    "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87584394",
@@ -7050,7 +7530,13 @@
    "amzius_d": 13,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Molėtų r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87837294",
@@ -7143,7 +7629,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87834106",
@@ -7238,7 +7732,15 @@
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas, nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87831522",
@@ -7315,7 +7817,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas, nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87831306",
@@ -7390,7 +7900,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87830260",
@@ -7465,7 +7983,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87816712",
@@ -7541,7 +8067,15 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87816188",
@@ -7614,7 +8148,13 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87802620",
@@ -7707,7 +8247,15 @@
    "naujo_min": null,
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ]
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas, mažai naudotas."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87786040",
@@ -7783,7 +8331,15 @@
    "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": []
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: komplektas, nauja."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87644692",
@@ -7962,7 +8518,17 @@
     "Pelnas = 238,5 € − 200 € − 4,5 € = 34 € (17% pirkimo kainos)",
     "Mokėti ne daugiau: min((238,5 € − 4,5 €) / 1.35; 238,5 € − 4,5 € − 20 €) = 173,3 €",
     "Laikas ~1.0 val. → 34 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: grąža 17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnis tik vienas; įprasta kaina ~265 €, šis 25 % pigesnis.",
+    "Aprašyme: komplektas, nauja, nenaudotas."
+   ],
+   "pries": [
+    "Grąža 17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaišiadorių r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87822408",
@@ -8192,7 +8758,16 @@
     "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
     "Laikas ~1.0 val. → 30,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: grąža 30 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnis tik vienas; įprasta kaina ~150 €, šis 33 % pigesnis."
+   ],
+   "pries": [
+    "Grąža 30 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87837618",
@@ -8349,7 +8924,16 @@
     "Pelnas = 198 € − 160 € − 4,5 € = 33,5 € (21% pirkimo kainos)",
     "Mokėti ne daugiau: min((198 € − 4,5 €) / 1.35; 198 € − 4,5 € − 20 €) = 143,3 €",
     "Laikas ~1.0 val. → 33,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+   "uz": [
+    "Iš 6 panašių skelbimų pigesnio nėra; įprasta kaina ~220 €, šis 27 % pigesnis."
+   ],
+   "pries": [
+    "Grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Panevėžys: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87836066",
@@ -8579,7 +9163,16 @@
     "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
     "Laikas ~1.0 val. → 20,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: grąža 19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnių yra 3; įprasta kaina ~150 €, šis 27 % pigesnis."
+   ],
+   "pries": [
+    "Grąža 19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kretingos r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87806912",
@@ -8820,7 +9413,18 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → 19,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~19 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnių yra 2; įprasta kaina ~137,5 €, šis 27 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~19 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: defektas."
+   ],
+   "logistika": "Siunta į paštomatą iš Kupiškio r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87777960",
@@ -8995,7 +9599,17 @@
     "Pelnas = 238,5 € − 200 € − 4 € = 34,5 € (17% pirkimo kainos)",
     "Mokėti ne daugiau: min((238,5 € − 4 €) / 1.35; 238,5 € − 4 € − 20 €) = 173,7 €",
     "Laikas ~1.5 val. → 23 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: grąža 17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+   "uz": [
+    "Iš 7 panašių skelbimų pigesnis tik vienas; įprasta kaina ~265 €, šis 25 % pigesnis."
+   ],
+   "pries": [
+    "Grąža 17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: neoriginalus."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87815436",
@@ -9152,7 +9766,17 @@
     "Pelnas = 198 € − 180 € − 4 € = 14 € (8% pirkimo kainos)",
     "Mokėti ne daugiau: min((198 € − 4 €) / 1.35; 198 € − 4 € − 20 €) = 143,7 €",
     "Laikas ~1.5 val. → 9,3 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~14 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 6 panašių skelbimų pigesnis tik vienas; įprasta kaina ~220 €, šis 18 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~14 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "30038819",
@@ -9393,7 +10017,18 @@
     "Mokėti ne daugiau: min((114,8 € − 4,5 €) / 1.35; 114,8 € − 4,5 € − 20 €) = 81,7 €",
     "Laikas ~1.0 val. → -54,8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 9; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 9; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-55 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "32009643",
@@ -9634,7 +10269,18 @@
     "Mokėti ne daugiau: min((126 € − 4,5 €) / 1.35; 126 € − 4,5 € − 20 €) = 90 €",
     "Laikas ~1.0 val. → -3,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~140 €, šis 11 % pigesnis.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~140 €, šis 11 % pigesnis.",
+    "Pelnas būtų tik ~-4 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -3 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "43267807",
@@ -9872,7 +10518,17 @@
     "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 7; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 7; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Didelis daiktas Šiauliai – netelpa į paštomatą, o važiuoti neapsimoka."
+   ],
+   "logistika": null
   },
   {
    "id": "77901427",
@@ -10103,7 +10759,17 @@
     "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka"
-   ]
+   ],
+   "isvada": "Praleisk: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnių yra 2; įprasta kaina ~150 €, šis 30 % pigesnis.",
+    "Aprašyme: ideali būklė, nauja, naujas, su dėže."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Didelis daiktas Šiauliai – netelpa į paštomatą, o važiuoti neapsimoka."
+   ],
+   "logistika": null
   },
   {
    "id": "87828314",
@@ -10336,7 +11002,17 @@
     "Panašūs skelbimai (makita-kita): 12 vnt., kainos 60 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "didelis daiktas Klaipėdos r. – netelpa į siuntą, važiuoti neapsimoka"
-   ]
+   ],
+   "isvada": "Praleisk: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnio nėra; įprasta kaina ~140 €, šis 75 % pigesnis."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Didelis daiktas Klaipėdos r. – netelpa į paštomatą, o važiuoti neapsimoka.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": null
   },
   {
    "id": "87522456",
@@ -10575,7 +11251,16 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → -10,8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 6; įprasta kaina ~137,5 €, šis 5 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 6; įprasta kaina ~137,5 €, šis 5 % pigesnis.",
+    "Pelnas būtų tik ~-11 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87816576",
@@ -10814,7 +11499,16 @@
     "Mokėti ne daugiau: min((114,8 € − 4,5 €) / 1.35; 114,8 € − 4,5 € − 20 €) = 81,7 €",
     "Laikas ~1.0 val. → -49,8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 8; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 8; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-50 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -31 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87816920",
@@ -11036,7 +11730,16 @@
     "Pelnas = 45 € − 50 € − 4,5 € = -9,5 € (-19% pirkimo kainos)",
     "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
     "Laikas ~1.0 val. → -9,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 4; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 11 panašių skelbimų pigesnių yra 4; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-10 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Marijampolė: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87830022",
@@ -11186,7 +11889,18 @@
     "Pelnas = 213,8 € − 250 € − 4,5 € = -40,8 € (-16% pirkimo kainos)",
     "Mokėti ne daugiau: min((213,8 € − 4,5 €) / 1.35; 213,8 € − 4,5 € − 20 €) = 155 €",
     "Laikas ~1.0 val. → -40,8 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~237,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: ideali būklė, puiki būklė."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~237,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-41 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -16 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Aprašyme minima: baterijos būklė."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87824282",
@@ -11346,7 +12060,18 @@
     "Pelnas = 24,3 € − 45 € − 4 € = -24,7 € (-55% pirkimo kainos)",
     "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
     "Laikas ~1.5 val. → -16,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-25 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -55 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87822418",
@@ -11493,7 +12218,15 @@
     "Pelnas = 216 € − 245 € − 4 € = -33 € (-13% pirkimo kainos)",
     "Mokėti ne daugiau: min((216 € − 4 €) / 1.35; 216 € − 4 € − 20 €) = 157 €",
     "Laikas ~1.5 val. → -22 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~240 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~240 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-33 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -13 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87814116",
@@ -11642,7 +12375,17 @@
     "Pelnas = 213,8 € − 250 € − 4 € = -40,2 € (-16% pirkimo kainos)",
     "Mokėti ne daugiau: min((213,8 € − 4 €) / 1.35; 213,8 € − 4 € − 20 €) = 155,4 €",
     "Laikas ~1.5 val. → -26,8 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~237,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nenaudotas."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~237,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-40 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -16 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87803044",
@@ -11799,7 +12542,16 @@
     "Pelnas = 24,3 € − 50 € − 4 € = -29,7 € (-59% pirkimo kainos)",
     "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
     "Laikas ~1.5 val. → -19,8 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 5; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 6 panašių skelbimų pigesnių yra 5; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-30 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -59 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87802834",
@@ -11956,7 +12708,16 @@
     "Pelnas = 24,3 € − 45 € − 4 € = -24,7 € (-55% pirkimo kainos)",
     "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
     "Laikas ~1.5 val. → -16,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-25 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -55 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87800544",
@@ -12127,7 +12888,15 @@
     "Pelnas = 148,5 € − 150 € − 4,5 € = -6 € (-4% pirkimo kainos)",
     "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
     "Laikas ~1.0 val. → -6 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 2; įprasta kaina ~165 €, šis 9 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 2; įprasta kaina ~165 €, šis 9 % pigesnis.",
+    "Pelnas būtų tik ~-6 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -4 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87799720",
@@ -12298,7 +13067,16 @@
     "Pelnas = 139,5 € − 200 € − 4,5 € = -65 € (-32% pirkimo kainos)",
     "Mokėti ne daugiau: min((139,5 € − 4,5 €) / 1.35; 139,5 € − 4,5 € − 20 €) = 100 €",
     "Laikas ~1.0 val. → -65 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~155 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~155 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-65 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Aprašyme minima: atrištas (modifikuotas)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87783242",
@@ -12471,7 +13249,17 @@
     "Pelnas = 139,5 € − 170 € − 4 € = -34,5 € (-20% pirkimo kainos)",
     "Mokėti ne daugiau: min((139,5 € − 4 €) / 1.35; 139,5 € − 4 € − 20 €) = 100,4 €",
     "Laikas ~1.5 val. → -23 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~155 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~155 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-34 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -20 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87781792",
@@ -12642,7 +13430,15 @@
     "Pelnas = 139,5 € − 180 € − 4,5 € = -45 € (-25% pirkimo kainos)",
     "Mokėti ne daugiau: min((139,5 € − 4,5 €) / 1.35; 139,5 € − 4,5 € − 20 €) = 100 €",
     "Laikas ~1.0 val. → -45 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 5; įprasta kaina ~155 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 5; įprasta kaina ~155 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-45 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -25 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87779562",
@@ -12792,7 +13588,17 @@
     "Pelnas = 222,8 € − 230 € − 4 € = -11,2 € (-5% pirkimo kainos)",
     "Mokėti ne daugiau: min((222,8 € − 4 €) / 1.35; 222,8 € − 4 € − 20 €) = 162 €",
     "Laikas ~1.5 val. → -7,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~247,5 €, šis 7 % pigesnis.",
+   "uz": [
+    "Aprašyme: komplektas, nauja."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~247,5 €, šis 7 % pigesnis.",
+    "Pelnas būtų tik ~-11 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -5 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87755174",
@@ -12965,7 +13771,17 @@
     "Pelnas = 144 € − 160 € − 4,5 € = -20,5 € (-13% pirkimo kainos)",
     "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
     "Laikas ~1.0 val. → -20,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 3; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 3; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-20 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -13 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "82276906",
@@ -13209,7 +14025,18 @@
     "Mokėti ne daugiau: min((121,5 € − 4,5 €) / 1.35; 121,5 € − 4,5 € − 20 €) = 86,7 €",
     "Laikas ~1.0 val. → -8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 6; įprasta kaina ~135 €, šis 7 % pigesnis.",
+   "uz": [
+    "Aprašyme: mažai naudotas, nauja."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 6; įprasta kaina ~135 €, šis 7 % pigesnis.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -6 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "82788327",
@@ -13450,7 +14277,16 @@
     "Mokėti ne daugiau: min((110,2 € − 4,5 €) / 1.35; 110,2 € − 4,5 € − 20 €) = 78,3 €",
     "Laikas ~1.0 val. → -144,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 11; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 11; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-144 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -58 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87831536",
@@ -13694,7 +14530,18 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → -0,8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~137,5 €, šis 13 % pigesnis.",
+   "uz": [
+    "Aprašyme: nauja, nenaudotas."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~137,5 €, šis 13 % pigesnis.",
+    "Pelnas būtų tik ~-1 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -1 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87829154",
@@ -13937,7 +14784,18 @@
     "Mokėti ne daugiau: min((110,2 € − 4,5 €) / 1.35; 110,2 € − 4,5 € − 20 €) = 78,3 €",
     "Laikas ~1.0 val. → -59,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 8; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 8; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-59 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -36 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87804498",
@@ -14178,7 +15036,17 @@
     "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
     "Laikas ~1.0 val. → -0,8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~137,5 €, šis 13 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~137,5 €, šis 13 % pigesnis.",
+    "Pelnas būtų tik ~-1 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -1 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: įskilęs."
+   ],
+   "logistika": "Siunta į paštomatą iš Utenos r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87798010",
@@ -14421,7 +15289,18 @@
     "Mokėti ne daugiau: min((123,8 € − 4 €) / 1.35; 123,8 € − 4 € − 20 €) = 88,7 €",
     "Laikas ~1.5 val. → -0,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~137,5 €, šis 13 % pigesnis.",
+   "uz": [
+    "Aprašyme: nenaudotas."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~137,5 €, šis 13 % pigesnis.",
+    "Pelnas būtų tik ~0 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 0 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87783432",
@@ -14662,7 +15541,16 @@
     "Mokėti ne daugiau: min((110,2 € − 4,5 €) / 1.35; 110,2 € − 4,5 € − 20 €) = 78,3 €",
     "Laikas ~1.0 val. → -44,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 7; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 7; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-44 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -29 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "86160926",
@@ -14905,7 +15793,18 @@
     "Mokėti ne daugiau: min((110,2 € − 4,5 €) / 1.35; 110,2 € − 4,5 € − 20 €) = 78,3 €",
     "Laikas ~1.0 val. → -124,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 9; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: mažai naudotas."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 9; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-124 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -54 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87762846",
@@ -15148,7 +16047,18 @@
     "Mokėti ne daugiau: min((110,2 € − 4,5 €) / 1.35; 110,2 € − 4,5 € − 20 €) = 78,3 €",
     "Laikas ~1.0 val. → -134,2 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ]
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 10; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 10; įprasta kaina ~122,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-134 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -56 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87840146",
@@ -15378,7 +16288,15 @@
     "Pelnas = 34,2 € − 37 € − 4 € = -6,8 € (-18% pirkimo kainos)",
     "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
     "Laikas ~1.5 val. → -4,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 5; įprasta kaina ~38 €, šis 3 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 5; įprasta kaina ~38 €, šis 3 % pigesnis.",
+    "Pelnas būtų tik ~-7 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -18 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87839174",
@@ -15608,7 +16526,15 @@
     "Pelnas = 33,3 € − 40 € − 4,5 € = -11,2 € (-28% pirkimo kainos)",
     "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
     "Laikas ~1.0 val. → -11,2 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 7; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 7; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-11 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -28 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87838100",
@@ -15838,7 +16764,15 @@
     "Pelnas = 33,3 € − 38 € − 4 € = -8,7 € (-23% pirkimo kainos)",
     "Mokėti ne daugiau: min((33,3 € − 4 €) / 1.35; 33,3 € − 4 € − 20 €) = 9,3 €",
     "Laikas ~1.5 val. → -5,8 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 6; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 6; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-9 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -23 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87835488",
@@ -16068,7 +17002,15 @@
     "Pelnas = 34,2 € − 35 € − 4 € = -4,8 € (-14% pirkimo kainos)",
     "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
     "Laikas ~1.5 val. → -3,2 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 3; įprasta kaina ~38 €, šis 8 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 3; įprasta kaina ~38 €, šis 8 % pigesnis.",
+    "Pelnas būtų tik ~-5 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -14 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87831458",
@@ -16298,7 +17240,16 @@
     "Pelnas = 33,3 € − 45 € − 4,5 € = -16,2 € (-36% pirkimo kainos)",
     "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
     "Laikas ~1.0 val. → -16,2 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 9; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 9; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-16 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -36 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Aprašyme minima: braižytas."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87830316",
@@ -16531,7 +17482,17 @@
     "Pelnas = 33,3 € − 45 € − 4,5 € = -16,2 € (-36% pirkimo kainos)",
     "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
     "Laikas ~1.0 val. → -16,2 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 9; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 9; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-16 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -36 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87828498",
@@ -16761,7 +17722,15 @@
     "Pelnas = 33,3 € − 45 € − 4,5 € = -16,2 € (-36% pirkimo kainos)",
     "Mokėti ne daugiau: min((33,3 € − 4,5 €) / 1.35; 33,3 € − 4,5 € − 20 €) = 8,8 €",
     "Laikas ~1.0 val. → -16,2 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 9; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 9; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-16 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -36 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87821266",
@@ -16991,7 +17960,15 @@
     "Pelnas = 33,3 € − 40 € − 4 € = -10,7 € (-27% pirkimo kainos)",
     "Mokėti ne daugiau: min((33,3 € − 4 €) / 1.35; 33,3 € − 4 € − 20 €) = 9,3 €",
     "Laikas ~1.5 val. → -7,1 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 7; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 7; įprasta kaina ~37 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-11 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -27 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87834994",
@@ -17165,7 +18142,16 @@
     "Pelnas = 69,8 € − 100 € − 4 € = -34,2 € (-34% pirkimo kainos)",
     "Mokėti ne daugiau: min((69,8 € − 4 €) / 1.35; 69,8 € − 4 € − 20 €) = 45,8 €",
     "Laikas ~1.5 val. → -22,8 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~77,5 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~77,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-34 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -34 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "58945020",
@@ -17310,7 +18296,17 @@
     "Pelnas = 81 € − 110 € − 4 € = -33 € (-30% pirkimo kainos)",
     "Mokėti ne daugiau: min((81 € − 4 €) / 1.35; 81 € − 4 € − 20 €) = 57 €",
     "Laikas ~1.5 val. → -22 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~90 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~90 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-33 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -30 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "41676453",
@@ -17455,7 +18451,17 @@
     "Pelnas = 81 € − 140 € − 4 € = -63 € (-45% pirkimo kainos)",
     "Mokėti ne daugiau: min((81 € − 4 €) / 1.35; 81 € − 4 € − 20 €) = 57 €",
     "Laikas ~1.5 val. → -42 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~90 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~90 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-63 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -45 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "26107923",
@@ -17632,7 +18638,18 @@
     "Pelnas = 69,8 € − 110 € − 4 € = -44,2 € (-40% pirkimo kainos)",
     "Mokėti ne daugiau: min((69,8 € − 4 €) / 1.35; 69,8 € − 4 € − 20 €) = 45,8 €",
     "Laikas ~1.5 val. → -29,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~77,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: garantija, nauja."
+   ],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~77,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-44 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "19441764",
@@ -17778,7 +18795,17 @@
     "Pelnas = 85,5 € − 100 € − 4 € = -18,5 € (-18% pirkimo kainos)",
     "Mokėti ne daugiau: min((85,5 € − 4 €) / 1.35; 85,5 € − 4 € − 20 €) = 60,4 €",
     "Laikas ~1.5 val. → -12,3 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~95 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: garantija, nauja."
+   ],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~95 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -18 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "17504502",
@@ -17955,7 +18982,18 @@
     "Pelnas = 69,8 € − 100 € − 4 € = -34,2 € (-34% pirkimo kainos)",
     "Mokėti ne daugiau: min((69,8 € − 4 €) / 1.35; 69,8 € − 4 € − 20 €) = 45,8 €",
     "Laikas ~1.5 val. → -22,8 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~77,5 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: garantija, nauja."
+   ],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~77,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-34 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -34 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87721346",
@@ -18130,7 +19168,17 @@
     "Pelnas = 193,5 € − 300 € − 4 € = -110,5 € (-37% pirkimo kainos)",
     "Mokėti ne daugiau: min((193,5 € − 4 €) / 1.35; 193,5 € − 4 € − 20 €) = 140,4 €",
     "Laikas ~1.5 val. → -73,7 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~215 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~215 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-110 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -37 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: braižytas, defektas."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87692452",
@@ -18307,7 +19355,18 @@
     "Pelnas = 193,5 € − 300 € − 4,5 € = -111 € (-37% pirkimo kainos)",
     "Mokėti ne daugiau: min((193,5 € − 4,5 €) / 1.35; 193,5 € − 4,5 € − 20 €) = 140 €",
     "Laikas ~1.0 val. → -111 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~215 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~215 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-111 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -37 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87836936",
@@ -18490,7 +19549,16 @@
     "Pelnas = 162 € − 220 € − 4,5 € = -62,5 € (-28% pirkimo kainos)",
     "Mokėti ne daugiau: min((162 € − 4,5 €) / 1.35; 162 € − 4,5 € − 20 €) = 116,7 €",
     "Laikas ~1.0 val. → -62,5 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~180 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~180 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-62 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -28 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Ukmergės r.: kaštai ~4,5 €, laikas ~1,0 val."
   },
   {
    "id": "87830122",
@@ -18676,7 +19744,18 @@
     "Pelnas = 162 € − 215 € − 4 € = -57 € (-27% pirkimo kainos)",
     "Mokėti ne daugiau: min((162 € − 4 €) / 1.35; 162 € − 4 € − 20 €) = 117 €",
     "Laikas ~1.5 val. → -38 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 4; įprasta kaina ~180 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Iš 8 panašių skelbimų pigesnių yra 4; įprasta kaina ~180 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-57 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -27 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87828520",
@@ -18859,7 +19938,16 @@
     "Pelnas = 162 € − 300 € − 4 € = -142 € (-47% pirkimo kainos)",
     "Mokėti ne daugiau: min((162 € − 4 €) / 1.35; 162 € − 4 € − 20 €) = 117 €",
     "Laikas ~1.5 val. → -94,7 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 6; įprasta kaina ~180 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 8 panašių skelbimų pigesnių yra 6; įprasta kaina ~180 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-142 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   },
   {
    "id": "87840318",
@@ -19089,7 +20177,15 @@
     "Pelnas = 34,2 € − 35 € − 4 € = -4,8 € (-14% pirkimo kainos)",
     "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
     "Laikas ~1.5 val. → -3,2 €/val."
-   ]
+   ],
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 3; įprasta kaina ~38 €, šis 8 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 12 panašių skelbimų pigesnių yra 3; įprasta kaina ~38 €, šis 8 % pigesnis.",
+    "Pelnas būtų tik ~-5 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -14 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val."
   }
  ],
  "kalibracija": {

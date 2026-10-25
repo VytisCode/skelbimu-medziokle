@@ -1,6 +1,11 @@
 {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
-  "vietiniai_miestai": ["Vilnius", "Vilniaus r.", "Kėdainiai", "Kėdainių r."],
+  "vietiniai_miestai": [
+    "Vilnius",
+    "Vilniaus r.",
+    "Kėdainiai",
+    "Kėdainių r."
+  ],
   "atsiemimas_vietoje_eur": 3.0,
   "siunta_i_mane_eur": 3.5,
   "pardavimo_kastai_eur": 1.0,
@@ -10,7 +15,24 @@
   "min_roi": 0.35,
   "nuolaida_pardavimui": 0.9,
   "naujo_lubos": 0.85,
-  "dideli_daiktai": ["vejapjov", "žoliapjov", "zoliapjov", "dviratis", "treniruokl", "stalas", "kompresor", "generator",
-                      "benzo pjūkl", "benzininis pjūkl", "grandininis pjūkl", "katerio", "spinta", "lova", "televizor"],
+  "dideli_daiktai": [
+    "vejapjov",
+    "žoliapjov",
+    "zoliapjov",
+    "dviratis",
+    "treniruokl",
+    "stalas",
+    "kompresor",
+    "generator",
+    "benzo pjūkl",
+    "benzininis pjūkl",
+    "grandininis pjūkl",
+    "katerio",
+    "spinta",
+    "lova",
+    "televizor",
+    "vežimėl",
+    "vezimel"
+  ],
   "sezono_daugiklis": 1.15
 }

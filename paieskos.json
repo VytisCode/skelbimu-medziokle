@@ -234,6 +234,232 @@
         11,
         12
       ]
+    },
+    {
+      "pavadinimas": "Dyson",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=dyson&orderBy=1",
+      "raktazodziai": [
+        "dyson"
+      ],
+      "min_kaina": 40,
+      "max_kaina": 450,
+      "isimti": [
+        "filtras",
+        "šepetys",
+        "sepetys",
+        "antgalis",
+        "dalys"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "Thermomix",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=thermomix&orderBy=1",
+      "raktazodziai": [
+        "thermomix"
+      ],
+      "min_kaina": 150,
+      "max_kaina": 1000,
+      "isimti": [
+        "indas",
+        "peilis",
+        "varoma",
+        "knyga",
+        "dangtis"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12,
+        1
+      ]
+    },
+    {
+      "pavadinimas": "KitchenAid",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=kitchenaid&orderBy=1",
+      "raktazodziai": [
+        "kitchenaid"
+      ],
+      "min_kaina": 80,
+      "max_kaina": 450,
+      "isimti": [
+        "priedas",
+        "antgalis",
+        "dubuo"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "Sonos",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=sonos&orderBy=1",
+      "raktazodziai": [
+        "sonos"
+      ],
+      "min_kaina": 60,
+      "max_kaina": 700,
+      "isimti": [
+        "laikiklis",
+        "stovas"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "Robotai siurbliai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=robotas+siurblys&orderBy=1",
+      "raktazodziai": [
+        "roborock",
+        "irobot",
+        "roomba",
+        "dreame",
+        "ecovacs",
+        "xiaomi"
+      ],
+      "min_kaina": 60,
+      "max_kaina": 600,
+      "isimti": [
+        "šepet",
+        "sepet",
+        "filtr",
+        "maišeli",
+        "maiseli"
+      ],
+      "sezonas_menesiai": [
+        10,
+        11,
+        12,
+        1
+      ]
+    },
+    {
+      "pavadinimas": "iPad",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=ipad&orderBy=1",
+      "raktazodziai": [
+        "ipad"
+      ],
+      "min_kaina": 80,
+      "max_kaina": 700,
+      "isimti": [
+        "dėklas",
+        "deklas",
+        "pieštukas",
+        "piestukas",
+        "stiklas",
+        "klaviatūra"
+      ],
+      "sezonas_menesiai": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "Fotoaparatai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=fotoaparatas&orderBy=1",
+      "raktazodziai": [
+        "fujifilm",
+        "fuji x",
+        "sony a7",
+        "sony alpha",
+        "sony a6",
+        "canon eos r",
+        "nikon z",
+        "ricoh gr"
+      ],
+      "min_kaina": 150,
+      "max_kaina": 1500,
+      "isimti": [
+        "dėklas",
+        "deklas",
+        "diržas",
+        "dirzas",
+        "baterija"
+      ],
+      "sezonas_menesiai": [
+        4,
+        5,
+        6,
+        11,
+        12
+      ]
+    },
+    {
+      "pavadinimas": "Bosch Professional",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=bosch+professional&orderBy=1",
+      "raktazodziai": [
+        "bosch"
+      ],
+      "min_kaina": 30,
+      "max_kaina": 350,
+      "isimti": [
+        "skalbimo",
+        "šaldytuv",
+        "saldytuv",
+        "indaplov",
+        "virykl",
+        "orkait"
+      ],
+      "sezonas_menesiai": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "pavadinimas": "Vežimėliai",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=ve%C5%BEim%C4%97lis&orderBy=1",
+      "raktazodziai": [
+        "bugaboo",
+        "cybex",
+        "joolz",
+        "stokke",
+        "thule"
+      ],
+      "min_kaina": 80,
+      "max_kaina": 900,
+      "isimti": [
+        "kėdut",
+        "kedut",
+        "isofix",
+        "bazė",
+        "baze"
+      ],
+      "sezonas_menesiai": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "pavadinimas": "Steam Deck",
+      "url": "https://www.skelbiu.lt/skelbimai/?keywords=steam+deck&orderBy=1",
+      "raktazodziai": [
+        "steam deck"
+      ],
+      "min_kaina": 150,
+      "max_kaina": 700,
+      "isimti": [
+        "dėklas",
+        "deklas",
+        "stiklas"
+      ],
+      "sezonas_menesiai": [
+        11,
+        12
+      ]
     }
   ]
 }

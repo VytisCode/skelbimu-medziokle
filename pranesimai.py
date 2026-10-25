@@ -35,28 +35,18 @@ def kiek(n):
 
 
 def pastraipos(r):
-    """Vienas radinys – keli paprasti sakiniai."""
-    d = r.get("derybos") or {}
-    k = r.get("kastai") or {}
-    p = [f"Prašo {eur(r.get('kaina'))}. Perpardavęs greitai gautum ~{eur(r.get('tiketina_pardavimo'))}, "
-         f"tad atėmus siuntimą ir kitus kaštus uždirbtum apie {eur(r.get('pelnas'))}. Daugiau nei {eur(r.get('max_pirkimo'))} nemokėk."]
-    po = r.get("pozicija") or {}
-    if po.get("is") and po.get("mediana"):
-        pig = po["vieta"] - 1
-        kiti = "pigesnio nėra" if pig == 0 else ("pigesnis tik vienas" if pig == 1 else f"pigesnių yra {pig}")
-        p.append(f"Iš {po['is']} panašių skelbimų {kiti}, o įprasta kaina apie {eur(po['mediana'])}"
-                 f" (šis {round(po.get('nuolaida', 0) * 100)} % pigesnis).")
-    a = r.get("aprasymas_analize") or {}
-    if a.get("rizikos_zodziai"):
-        p.append("Atsargiai, aprašyme minima: " + ", ".join(a["rizikos_zodziai"]) + ".")
-    if a.get("privalumai"):
-        p.append("Aprašyme: " + ", ".join(a["privalumai"]) + ".")
+    """Vienas radinys – tie patys paaiškinimai kaip svetainėje, paprastais sakiniais."""
+    p = [r.get("isvada") or f"Prašo {eur(r.get('kaina'))}."]
+    p.append(f"Prašo {eur(r.get('kaina'))}, perpardavęs gautum ~{eur(r.get('tiketina_pardavimo'))}.")
+    p += ["✓ " + x for x in r.get("uz", [])[:3]]
+    p += ["✗ " + x for x in r.get("pries", [])[:2]]
     if r.get("naujo_min"):
-        p.append(f"Naujas parduotuvėje kainuoja nuo {eur(r['naujo_min'])}.")
-    if d.get("siulymas"):
-        p.append(f"Pradėk nuo {eur(d['siulymas'])}" + (" – pardavėjas turi kur nuleisti." if r["sprendimas"] == "derėtis" else "."))
-    if k.get("budas"):
-        p.append(k["budas"][0].upper() + k["budas"][1:].rstrip(".") + ".")
+        p.append(f"Naujas parduotuvėje – nuo {eur(r['naujo_min'])}.")
+    planas = (r.get("derybos") or {}).get("planas")
+    if planas:
+        p.append("Derybos: " + planas[0])
+    if r.get("logistika"):
+        p.append(r["logistika"])
     return p
 
 
@@ -69,7 +59,7 @@ def laiskas(siusti, viso):
     txt, html = [f"Labas,\n\n{ivadas}"], [f"<p>Labas,</p><p>{escape(ivadas)}</p>"]
     for r in siusti:
         pa = pastraipos(r)
-        txt.append(f"{r['pavadinimas']}\n" + " ".join(pa) + f"\n{r['nuoroda']}")
+        txt.append(f"{r['pavadinimas']}\n" + "\n".join(pa) + f"\n{r['nuoroda']}")
         html.append(
             f'<div style="margin:18px 0;padding:14px 16px;border:1px solid #ddd;border-radius:10px">'
             f'<div style="font-size:17px;font-weight:bold;margin-bottom:6px">{escape(r["pavadinimas"])}</div>'
@@ -128,7 +118,6 @@ def main():
     else:
         print("Laiško išsiųsti nepavyko:", "; ".join(klaidos))
         sys.exit(0)
-    print("Išsiųsta.")
     pranesta.update(str(r["id"]) for r in nauji)
     PRANESTA.write_text(json.dumps(sorted(pranesta), ensure_ascii=False))
     print(f"Išsiųsta apie {len(nauji)} radinius.")

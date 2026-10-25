@@ -100,17 +100,17 @@ class Narsykle:
         except ValueError:
             pass
 
-    def atidaryti(self, url: str) -> tuple[int, str, int]:
+    def atidaryti(self, url: str, laukti: str = "standard-list-item") -> tuple[int, str, int]:
         pries = self.baitai
         resp = self.page.goto(url, wait_until="domcontentloaded", timeout=60000)
         kodas = resp.status if resp else 0
         for _ in range(30):                    # Cloudflare patikra paprastai praeina per kelias sekundes
             html_ = self.page.content()
-            if "standard-list-item" in html_ or ("challenge-platform" not in html_ and "cf_chl_" not in html_):
+            if laukti in html_ or ("challenge-platform" not in html_ and "cf_chl_" not in html_):
                 break
             time.sleep(1)
         html_ = self.page.content()
-        if "standard-list-item" in html_:
+        if laukti in html_ or "standard-list-item" in html_:
             kodas = 200
         return kodas, html_, self.baitai - pries
 
@@ -201,10 +201,64 @@ def main() -> int:
     with Narsykle() as nar:
         for i, p in enumerate(cfg["paieskos"]):
             apdoroti(nar, i, p, cfg, istorija, busena, laikas)
+        busena["detales"] = detales(nar, istorija)
     busena["kb_per_proxy_viso"] = round(sum(b.get("kb_per_proxy") or 0 for b in busena["paieskos"]), 1)
     SKELBIMAI.write_text(json.dumps(istorija, ensure_ascii=False, indent=1), encoding="utf-8")
     BUSENA.write_text(json.dumps(busena, ensure_ascii=False, indent=1), encoding="utf-8")
     return 0 if any(b.get("kodas") == 200 and b.get("rasta_skelbimu") for b in busena["paieskos"]) else 1
+
+
+MAX_DETALIU = 6          # skelbimo puslapių per paleidimą – tik perspektyviausiems, kad būtų mažai užklausų
+
+
+def detales(nar, istorija: dict) -> dict:
+    """Atidaro perspektyviausių (pigiausių, palyginti su to paties modelio mediana) skelbimų puslapius ir pasiima
+    pilną aprašymą bei būklę – iš jų analizė ieško defektų ir privalumų."""
+    import statistics
+    from analize import modelio_raktas
+    kainos: dict[str, list[float]] = {}
+    for s in istorija.values():
+        s["_r"] = modelio_raktas(s)
+        if s.get("kaina"):
+            kainos.setdefault(s["_r"], []).append(s["kaina"])
+    kandidatai = []
+    for s in istorija.values():
+        if not s.get("tinka") or "pilnas_aprasymas" in s or not s.get("kaina"):
+            continue
+        k = kainos.get(s["_r"], [])
+        santykis = s["kaina"] / statistics.median(k) if len(k) >= 3 else 0.9
+        if santykis <= 0.9:
+            kandidatai.append((santykis, s))
+    kandidatai.sort(key=lambda x: x[0])
+    rez = {"atidaryta": 0, "kb_per_proxy": 0.0}
+    for _, s in kandidatai[:MAX_DETALIU]:
+        try:
+            kodas, html_, baitai = nar.atidaryti(s["nuoroda"], laukti="description")
+        except Exception as e:  # noqa: BLE001
+            print(f"Detalės {s['id']}: {paslepti(str(e))[:120]}")
+            continue
+        rez["atidaryta"] += 1
+        rez["kb_per_proxy"] += round(baitai / 1024, 1)
+        if not (DATA / "detale_pavyzdys.html").exists():
+            (DATA / "detale_pavyzdys.html").write_text(html_, encoding="utf-8")
+        s.update(atpazinti_detales(html_))
+        s["detales_gautos"] = dabar()
+    for s in istorija.values():
+        s.pop("_r", None)
+    print(f"Detalės: {rez}")
+    return rez
+
+
+def atpazinti_detales(h: str) -> dict:
+    out = {}
+    m = (re.search(r'itemprop="description"[^>]*>(.*?)</(?:div|p|span)>', h, re.S)
+         or re.search(r'<div[^>]+class="[^"]*\bdescription\b[^"]*"[^>]*>(.*?)</div>', h, re.S)
+         or re.search(r'<meta property="og:description" content="([^"]*)"', h))
+    out["pilnas_aprasymas"] = svarus(m.group(1))[:2000] if m else ""
+    b = re.search(r"Būklė:?\s*</?[^>]*>?\s*([A-Za-zĄČĘĖĮŠŲŪŽąčęėįšųūž ]{3,30})", h)
+    if b:
+        out["bukle"] = svarus(b.group(1))
+    return out
 
 
 def apdoroti(nar, i, p, cfg, istorija, busena, laikas):

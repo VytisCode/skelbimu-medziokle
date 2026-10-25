@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-25T19:35:04Z",
+ "sugeneruota": "2026-10-25T20:57:47Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -38,7 +38,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 426,
+ "skelbimu_istorijoje": 437,
  "radiniai": [
   {
    "id": "87829808",
@@ -2797,8 +2797,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Apple komplektas / bundle: iPhone X, iPhone XR, iPad + senas iPhone Parduodu visą nuotraukoje matomą „Apple“ įrenginių komplektą: iPhone X – veikiantis. iPhone XR (raudonas) – veikiantis, matomi ekrano stiklo įtrūkimai. Senesnis iPad – veikiantis, tikslus modelis nepatikslintas. Senas iPhone – neveikiantis, pridedamas dalims. Nuotraukoje matomas dėkliukas skirtas Iphone X. Įrenginiai naudoti, turi naudojimo žymių. Atminties talpos nepatikrintos. Parduodu viską kartu, nurodyta kaina už visą komplektą.",
+   "bukle": "Naudota",
    "modelis": "ipad-kita",
    "raktas": "ipad-kita",
    "palyginamu": 4,
@@ -2872,12 +2872,16 @@
    "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
    "balas": 100,
    "aprasymas_analize": {
-    "rizikos_zodziai": [],
+    "rizikos_zodziai": [
+     "dalims",
+     "nepatikrintas",
+     "neveikia"
+    ],
     "privalumai": [
      "komplektas"
     ],
-    "aprasymo_ilgis": 139,
-    "pilnas": false
+    "aprasymo_ilgis": 505,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -2887,7 +2891,7 @@
     "mediana": 440.0,
     "nuolaida": 0.73
    },
-   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 200 €–490 €, mediana 440 €), 73% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: komplektas.",
+   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 200 €–490 €, mediana 440 €), 73% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašyme: dalims, nepatikrintas, neveikia. Privalumai: komplektas.",
    "visi_palyginami": [
     {
      "kaina": 200.0,
@@ -2925,6 +2929,9 @@
     "riba": 290,
     "argumentai": [
      {
+      "t": "Aprašyme minima: dalims, nepatikrintas, neveikia – trūkumai mažina vertę"
+     },
+     {
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
      },
      {
@@ -2956,6 +2963,7 @@
    ],
    "pries": [
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: dalims, nepatikrintas, neveikia.",
     "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
    ],
    "logistika": "Atsiimti vietoje (Vilniaus r.): kaštai ~4 €, laikas ~1,5 val.",
@@ -3623,6 +3631,294 @@
    }
   },
   {
+   "id": "87842456",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+   "pavadinimas": "Makita suktukai",
+   "kaina": 55.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285992776/makita-suktukai.jpg",
+   "aprasymas": "Parduodu makita 10.8v suktuku komplekta, smuginis skleidzia lyg guolio urzgimo garsa bet dar galima naudoti, viena baterija laiko gerai kita silpniau",
+   "vieta_laikas": "Prienų r., prieš 40 min.",
+   "paieska": "Makita įrankiai",
+   "pastebetas": "2026-10-25T20:56:41Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodu makita 10.8v suktuku komplekta, smuginis skleidzia lyg guolio urzgimo garsa bet dar galima naudoti, viena baterija laiko gerai kita silpniau",
+   "bukle": "Naudota",
+   "modelis": "makita-kita",
+   "raktas": "makita-kita",
+   "palyginamu": 12,
+   "mediana": 140,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "12 panašių skelbimų mediana 140 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Prienų r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita+suktukai"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita+suktukai"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita+suktukai"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita+suktukai"
+    }
+   ],
+   "tiketina_pardavimo": 126,
+   "pelnas": 66,
+   "roi": 1.21,
+   "max_pirkimo": 90,
+   "pelnas_per_val": 66,
+   "sprendimas": "tikrinti",
+   "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
+   "balas": 56,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [
+     "baterijos būklė"
+    ],
+    "privalumai": [
+     "komplektas"
+    ],
+    "aprasymo_ilgis": 149,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 13,
+    "min": 60.0,
+    "max": 250.0,
+    "mediana": 140.0,
+    "nuolaida": 0.61
+   },
+   "kodel": "Pigiausias iš 13 to paties modelio skelbimų (kiti 60 €–250 €, mediana 140 €), 61% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašyme: baterijos būklė. Privalumai: komplektas.",
+   "visi_palyginami": [
+    {
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "pavadinimas": "Makita bosch",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "pavadinimas": "Makita",
+     "rizikos": [],
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
+     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafell-festool-hilti-makita-dewalt-77862695.html",
+     "pavadinimas": "Mafell,festool,hilti,makita,dewalt",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": {
+    "siulymas": 45,
+    "tarpinis": 50,
+    "riba": 90,
+    "argumentai": [
+     {
+      "t": "Aprašyme minima: baterijos būklė – trūkumai mažina vertę"
+     },
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 45 € – tai 18 % mažiau nei prašo (55 €).",
+     "Jei atsisako – kelk iki 50 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 55 €: pelnas ~66 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 45 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 55 € uždirbtum ~66 €, už 45 € – ~76 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 60 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Prienų r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 126 € − 55 € − 4,5 € = 66,5 € (121% pirkimo kainos)",
+    "Mokėti ne daugiau: min((126 € − 4,5 €) / 1.35; 126 € − 4,5 € − 20 €) = 90 €",
+    "Laikas ~1.0 val. → 66,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnio nėra; įprasta kaina ~140 €, šis 61 % pigesnis.",
+    "Pelnas ~66 € (121 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: komplektas."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašyme minima: baterijos būklė.",
+    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+   ],
+   "logistika": "Siunta į paštomatą iš Prienų r.: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "didelė",
+    "zingsniai": [
+     "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.",
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87763360",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/milwaukee-suktukas-impact-m18-87763360.html",
    "pavadinimas": "Milwaukee suktukas impact M18",
@@ -3926,12 +4222,12 @@
    "bukle": null,
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 11,
+   "palyginamu": 13,
    "mediana": 50,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "11 panašių skelbimų mediana 50 €"
+    "13 panašių skelbimų mediana 50 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -3969,6 +4265,12 @@
      "vieta_laikas": "Kaunas, prieš 5 val."
     },
     {
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
      "kaina": 50.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
@@ -3997,12 +4299,6 @@
      "kaina": 50.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
      "vieta_laikas": "Marijampolė, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
-     "kaina": 80.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
-     "vieta_laikas": "Kaunas, prieš 4 val."
     }
    ],
    "parduotuves": [],
@@ -4040,13 +4336,13 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 12,
+    "is": 14,
     "min": 30.0,
-    "max": 80.0,
+    "max": 111.0,
     "mediana": 50.0,
     "nuolaida": 0.8
    },
-   "kodel": "Pigiausias iš 12 to paties modelio skelbimų (kiti 30 €–80 €, mediana 50 €), 80% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
+   "kodel": "Pigiausias iš 14 to paties modelio skelbimų (kiti 30 €–111 €, mediana 50 €), 80% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -4075,6 +4371,13 @@
      "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
      "rizikos": [],
      "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
     },
     {
      "kaina": 50.0,
@@ -4124,6 +4427,13 @@
      "pavadinimas": "Hario Poterio pilies kaladėlių konstruktorius",
      "rizikos": [],
      "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 111.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
+     "pavadinimas": "Lego minecraft, bionicle, hero factory",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
     }
    ],
    "amzius_d": 0,
@@ -4148,7 +4458,7 @@
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 11 vnt., kainos 30 €–80 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Panašūs skelbimai (lego-rinkinys): 13 vnt., kainos 30 €–111 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 45 € − 10 € − 4,5 € = 30,5 € (305% pirkimo kainos)",
@@ -4157,7 +4467,7 @@
    ],
    "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 12 panašių skelbimų pigesnio nėra; įprasta kaina ~50 €, šis 80 % pigesnis.",
+    "Iš 14 panašių skelbimų pigesnio nėra; įprasta kaina ~50 €, šis 80 % pigesnis.",
     "Pelnas ~30 € (305 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
    ],
    "pries": [
@@ -5651,8 +5961,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodamas profesionalus universalus sienų detektorius Bosch DMF 10 Zoom Professional. Patikimas ir tikslus prietaisas, skirtas paslėptoms komunikacijoms aptikti prieš gręžiant sienas, lubas ar grindis. Padeda išvengti elektros laidų pažeidimo ar pataikymo į armatūrą bei vamzdžius. Prietaisas pilnai veikiantis, tvarkingas. Pagrindinės funkcijos ir aptikimo gyliai: Juodieji metalai (plienas, armatūra): iki 100 mm Spalvotieji metalai (variniai vamzdžiai ir kt.): iki 80 mm Elektros laidai su įtampa: iki 50 mm Medinės konstrukcijos (sijos po gipsu): iki 20 mm Privalumai: „Zoom“ funkcija – leidžia dar tiksliau lokalizuoti objekto centrą Šviečiantis LED indikatoriaus žiedas (raudona / žalia) ir garsinis signalas aiškiam įspėjimui Automatinis kalibravimas („AutoCal“) – paruoštas darbui iškart įjungus Speciali anga korpuso centre patogiam vietos pažymėjimui Maitinimas: standartinė 9V baterija (krona)",
+   "bukle": "Naudota",
    "modelis": "bosch-kita",
    "raktas": "bosch-kita",
    "palyginamu": 5,
@@ -5734,8 +6044,8 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
-    "aprasymo_ilgis": 146,
-    "pilnas": false
+    "aprasymo_ilgis": 906,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -10528,7 +10838,7 @@
    "id": "87837294",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/naujas-osmo-pocket-3-priedai-87837294.html",
    "pavadinimas": "Naujas Osmo pocket 3 +priedai",
-   "kaina": 350.0,
+   "kaina": 340.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285836846/naujas-osmo-pocket-3-priedai.jpg",
    "aprasymas": "Visiškai naujas neišpakuotas osmo pocket 3 Priedai (naudoti): Originalus Wide filtras - vertė 45eur Dėklas - vertė 29eur DJI MIC 2 - vertė...",
    "vieta_laikas": "Vilnius, prieš 2 val.",
@@ -10613,12 +10923,17 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 350.0,
+    "iki": 340.0
+   },
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: nauja, naujas."
+    "Aprašyme: nauja, naujas.",
+    "Kaina jau sumažinta nuo 350 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
     "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -11250,7 +11565,7 @@
    "palyginami": [
     {
      "pavadinimas": "Naujas Osmo pocket 3 +priedai",
-     "kaina": 350.0,
+     "kaina": 340.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/naujas-osmo-pocket-3-priedai-87837294.html",
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
@@ -11294,7 +11609,7 @@
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas, mažai naudotas.",
    "visi_palyginami": [
     {
-     "kaina": 350.0,
+     "kaina": 340.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/naujas-osmo-pocket-3-priedai-87837294.html",
      "pavadinimas": "Naujas Osmo pocket 3 +priedai",
      "rizikos": [],
@@ -11923,7 +12238,9 @@
      "kaina": 85.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-v8-absolute-belaidis-dulkiu-siurblys-87730392.html",
      "pavadinimas": "Dyson V8 Absolute belaidis dulkių siurblys",
-     "rizikos": [],
+     "rizikos": [
+      "įlenkimai"
+     ],
      "vieta_laikas": "Vilnius, spalio 20 d."
     },
     {
@@ -12061,7 +12378,9 @@
      "kaina": 85.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-v8-absolute-belaidis-dulkiu-siurblys-87730392.html",
      "pavadinimas": "Dyson V8 Absolute belaidis dulkių siurblys",
-     "rizikos": [],
+     "rizikos": [
+      "įlenkimai"
+     ],
      "vieta_laikas": "Vilnius, spalio 20 d."
     },
     {
@@ -12115,8 +12434,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu naudotą „Dyson V8 Absolute“ belaidį dulkių siurblį su gausiu priedų komplektu. Pakeista baterija, siurblys naudotas, turi nemažai kosmetinių naudojimo žymių – įbrėžimų, pabraižymų ir įlenkimų, kurie matomi nuotraukose.",
+   "bukle": "Naudota",
    "modelis": "dyson-v8",
    "raktas": "dyson-v8",
    "palyginamu": 2,
@@ -12176,12 +12495,14 @@
    "priezastis": "per mažai panašių skelbimų – įvertins Claude",
    "balas": 0,
    "aprasymas_analize": {
-    "rizikos_zodziai": [],
+    "rizikos_zodziai": [
+     "įlenkimai"
+    ],
     "privalumai": [
      "komplektas"
     ],
-    "aprasymo_ilgis": 140,
-    "pilnas": false
+    "aprasymo_ilgis": 227,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -12191,7 +12512,7 @@
     "mediana": 225.0,
     "nuolaida": 0.62
    },
-   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 170 €–280 €, mediana 225 €), 62% pigiau už medianą. Privalumai: komplektas.",
+   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 170 €–280 €, mediana 225 €), 62% pigiau už medianą. Aprašyme: įlenkimai. Privalumai: komplektas.",
    "visi_palyginami": [
     {
      "kaina": 170.0,
@@ -12222,7 +12543,8 @@
     "Aprašyme: komplektas."
    ],
    "pries": [
-    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).",
+    "Aprašyme minima: įlenkimai."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -13204,7 +13526,7 @@
    "bukle": null,
    "modelis": "roborock-s7",
    "raktas": "roborock-s7",
-   "palyginamu": 0,
+   "palyginamu": 1,
    "mediana": null,
    "naujo_kaina": null,
    "patikimumas": "žemas",
@@ -13219,7 +13541,14 @@
     "didelis": false,
     "nepervezamas": false
    },
-   "palyginami": [],
+   "palyginami": [
+    {
+     "pavadinimas": "Siurblys robotas Roborock S7",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
+     "vieta_laikas": "Klaipėda, prieš 1 val."
+    }
+   ],
    "parduotuves": [],
    "parduotuviu_paieska": [
     {
@@ -13254,15 +13583,25 @@
     "pilnas": false
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
-   "visi_palyginami": [],
+   "visi_palyginami": [
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
+     "pavadinimas": "Siurblys robotas Roborock S7",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 val."
+    }
+   ],
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": [],
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [],
    "pries": [
-    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -13672,7 +14011,7 @@
    "id": "87832360",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-2022-64gb-87832360.html",
    "pavadinimas": "iPad 2022 64gb",
-   "kaina": 250.0,
+   "kaina": 220.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285626732/ipad-2022-64gb.jpg",
    "aprasymas": "Ipad 2022 64gb Mazai naudotas Dezutes nera",
    "vieta_laikas": "Klaipėdos r., prieš 8 val.",
@@ -13741,10 +14080,15 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 250.0,
+    "iki": 220.0
+   },
    "zingsniai": [],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: mažai naudotas."
+    "Aprašyme: mažai naudotas.",
+    "Kaina jau sumažinta nuo 250 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
     "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -13758,7 +14102,7 @@
      "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
      "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
      "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (250 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Suma didelė (220 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
      "Apple daiktai: paprašyk serijos numerio ir patikrink checkcoverage.apple.com. Prieš mokėdamas įsitikink, kad išjungtas „Find My“ (iCloud užraktas).",
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
@@ -16476,6 +16820,209 @@
    }
   },
   {
+   "id": "87842140",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-dcs391-87842140.html",
+   "pavadinimas": "Dewalt Dcs391",
+   "kaina": 80.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285982790/dewalt-dcs391.jpg",
+   "aprasymas": "Parduodamas naudotas, puikiai veikiantis DeWalt DCS391, būklė matosi foto",
+   "vieta_laikas": "Šiauliai, prieš 58 min.",
+   "paieska": "DeWalt įrankiai",
+   "pastebetas": "2026-10-25T20:56:41Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "dewalt-dcs391",
+   "raktas": "dewalt-dcs391",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=dewalt+dcs391"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=dewalt+dcs391"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=dewalt+dcs391"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=dewalt+dcs391"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 73,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti.",
+   "visi_palyginami": [],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87841982",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
+   "pavadinimas": "Siurblys robotas Roborock S7",
+   "kaina": 110.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285975728/siurblys-robotas-roborock-s7.jpg",
+   "aprasymas": "Itin mazai naudotas, puikiai laikanti baterija.",
+   "vieta_laikas": "Klaipėda, prieš 1 val.",
+   "paieska": "Robotai siurbliai",
+   "pastebetas": "2026-10-25T20:56:41Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "roborock-s7",
+   "raktas": "roborock-s7",
+   "palyginamu": 1,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Roborock S7 robotas dulkių siurblys su plovimu",
+     "kaina": 99.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-s7-robotas-dulkiu-siurblys-su-plovimu-87834174.html",
+     "vieta_laikas": "Kaunas, prieš 6 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=roborock+s7"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=roborock+s7"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=roborock+s7"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=roborock+s7"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "mažai naudotas"
+    ],
+    "aprasymo_ilgis": 47,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
+   "visi_palyginami": [
+    {
+     "kaina": 99.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-s7-robotas-dulkiu-siurblys-su-plovimu-87834174.html",
+     "pavadinimas": "Roborock S7 robotas dulkių siurblys su plovimu",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 6 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: mažai naudotas."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87644692",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-gopro-lithero-kamera-87644692.html",
    "pavadinimas": "Parduodu Gopro Lithero kamerą",
@@ -16678,257 +17225,6 @@
    }
   },
   {
-   "id": "87822408",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
-   "pavadinimas": "Makita bosch",
-   "kaina": 100.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5283980200/makita-bosch.jpg",
-   "aprasymas": "Bosch tvarkingas makita vargo mate bet veikia .uz viska 100e",
-   "vieta_laikas": "Šiauliai, prieš 1 d.",
-   "paieska": "Makita įrankiai",
-   "pastebetas": "2026-10-25T17:36:10Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Bosch tvarkingas makita vargo mate bet veikia .uz viska 100e",
-   "bukle": "Naudota",
-   "modelis": "makita-kita",
-   "raktas": "makita-kita",
-   "palyginamu": 11,
-   "mediana": 150,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "11 panašių skelbimų mediana 150 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Šiauliai",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Makita",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
-     "vieta_laikas": "Kretingos r., prieš 2 val."
-    },
-    {
-     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
-     "kaina": 125.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Festool Ts 55 Rebq",
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
-     "kaina": 165.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Makita+bosch"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Makita+bosch"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita+bosch"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Makita+bosch"
-    }
-   ],
-   "tiketina_pardavimo": 135,
-   "pelnas": 30,
-   "roi": 0.3,
-   "max_pirkimo": 97,
-   "pelnas_per_val": 30,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 21,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 60,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 2,
-    "is": 12,
-    "min": 60.0,
-    "max": 250.0,
-    "mediana": 150.0,
-    "nuolaida": 0.33
-   },
-   "kodel": "2-as pigiausias iš 12 (kiti 60 €–250 €, mediana 150 €), 33% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
-     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
-     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
-     "pavadinimas": "Makita",
-     "rizikos": [],
-     "vieta_laikas": "Kretingos r., prieš 2 val."
-    },
-    {
-     "kaina": 125.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
-     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
-     "pavadinimas": "Festool Ts 55 Rebq",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
-     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
-     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "kaina": 165.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
-     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
-     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafell-festool-hilti-makita-dewalt-77862695.html",
-     "pavadinimas": "Mafell,festool,hilti,makita,dewalt",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    }
-   ],
-   "amzius_d": 1,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 135 € − 100 € − 4,5 € = 30,5 € (30% pirkimo kainos)",
-    "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
-    "Laikas ~1.0 val. → 30,5 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: grąža 30 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-   "uz": [
-    "Iš 12 panašių skelbimų pigesnis tik vienas; įprasta kaina ~150 €, šis 33 % pigesnis."
-   ],
-   "pries": [
-    "Grąža 30 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "87837618",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/skyzone-dji-goggles-v1-87837618.html",
    "pavadinimas": "Skyzone,dji goggles v1",
@@ -17102,6 +17398,266 @@
      "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
      "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
      "Suma didelė (160 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87822408",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+   "pavadinimas": "Makita bosch",
+   "kaina": 100.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5283980200/makita-bosch.jpg",
+   "aprasymas": "Bosch tvarkingas makita vargo mate bet veikia .uz viska 100e",
+   "vieta_laikas": "Šiauliai, prieš 1 d.",
+   "paieska": "Makita įrankiai",
+   "pastebetas": "2026-10-25T17:36:10Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Bosch tvarkingas makita vargo mate bet veikia .uz viska 100e",
+   "bukle": "Naudota",
+   "modelis": "makita-kita",
+   "raktas": "makita-kita",
+   "palyginamu": 12,
+   "mediana": 140,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "12 panašių skelbimų mediana 140 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita+bosch"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita+bosch"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita+bosch"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita+bosch"
+    }
+   ],
+   "tiketina_pardavimo": 126,
+   "pelnas": 22,
+   "roi": 0.21,
+   "max_pirkimo": 90,
+   "pelnas_per_val": 22,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 15,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 60,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 3,
+    "is": 13,
+    "min": 55.0,
+    "max": 250.0,
+    "mediana": 140.0,
+    "nuolaida": 0.29
+   },
+   "kodel": "3-as pigiausias iš 13 (kiti 55 €–250 €, mediana 140 €), 29% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
+    {
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+     "pavadinimas": "Makita",
+     "rizikos": [],
+     "vieta_laikas": "Kretingos r., prieš 2 val."
+    },
+    {
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
+     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafell-festool-hilti-makita-dewalt-77862695.html",
+     "pavadinimas": "Mafell,festool,hilti,makita,dewalt",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "amzius_d": 1,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 55 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 126 € − 100 € − 4,5 € = 21,5 € (22% pirkimo kainos)",
+    "Mokėti ne daugiau: min((126 € − 4,5 €) / 1.35; 126 € − 4,5 € − 20 €) = 90 €",
+    "Laikas ~1.0 val. → 21,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnių yra 2; įprasta kaina ~140 €, šis 29 % pigesnis."
+   ],
+   "pries": [
+    "Grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
@@ -17367,257 +17923,6 @@
    }
   },
   {
-   "id": "87836066",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
-   "pavadinimas": "Makita",
-   "kaina": 110.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285793426/makita.jpg",
-   "aprasymas": "Makita irankiai,tvarkingi.",
-   "vieta_laikas": "Kretingos r., prieš 2 val.",
-   "paieska": "Makita įrankiai",
-   "pastebetas": "2026-10-25T17:36:10Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Makita irankiai,tvarkingi.",
-   "bukle": "Naudota",
-   "modelis": "makita-kita",
-   "raktas": "makita-kita",
-   "palyginamu": 11,
-   "mediana": 150,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "11 panašių skelbimų mediana 150 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kretingos r.",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Makita bosch",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
-     "vieta_laikas": "Šiauliai, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
-     "kaina": 125.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Festool Ts 55 Rebq",
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
-     "kaina": 165.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Makita"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Makita"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Makita"
-    }
-   ],
-   "tiketina_pardavimo": 135,
-   "pelnas": 20,
-   "roi": 0.19,
-   "max_pirkimo": 97,
-   "pelnas_per_val": 20,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 14,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 26,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 4,
-    "is": 12,
-    "min": 60.0,
-    "max": 250.0,
-    "mediana": 150.0,
-    "nuolaida": 0.27
-   },
-   "kodel": "4-as pigiausias iš 12 (kiti 60 €–250 €, mediana 150 €), 27% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
-     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
-     "pavadinimas": "Makita bosch",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 1 d."
-    },
-    {
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
-     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 125.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
-     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
-     "pavadinimas": "Festool Ts 55 Rebq",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
-     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
-     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "kaina": 165.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
-     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
-     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafell-festool-hilti-makita-dewalt-77862695.html",
-     "pavadinimas": "Mafell,festool,hilti,makita,dewalt",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 7 val."
-    }
-   ],
-   "amzius_d": 0,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: siunta į paštomatą iš Kretingos r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 135 € − 110 € − 4,5 € = 20,5 € (19% pirkimo kainos)",
-    "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
-    "Laikas ~1.0 val. → 20,5 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: grąža 19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-   "uz": [
-    "Iš 12 panašių skelbimų pigesnių yra 3; įprasta kaina ~150 €, šis 27 % pigesnis."
-   ],
-   "pries": [
-    "Grąža 19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Siunta į paštomatą iš Kretingos r.: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "87451116",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorius-87451116.html",
    "pavadinimas": "Akumuliatorius",
@@ -17630,8 +17935,8 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naujas originalus Bosch Professional GBA 18V 5,0 Ah talpos ličio jonų akumuliatorius.",
+   "bukle": "Nauja",
    "modelis": "bosch-kita",
    "raktas": "bosch-kita",
    "palyginamu": 4,
@@ -17711,7 +18016,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 85,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -18257,8 +18562,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudota akumuliatorinis suktuktuvas-greztuvas Bosch GSR 10.8 V-LI-2 Professional Komplekte-2baterijos,kroviklis Milwaukee HD28CS“ yra galingas 28 V akumuliatorinis diskinis pjūklas, priklausantis sunkiojo tipo (Heavy Duty) įrankių serijai ir sukurtas profesionaliems statybų bei medienos pjovimo darbams. Šis įrankis naudoja didelės galios 28 V variklį, kuris suteikia laidiniams įrankiams būdingą našumą be jokių kabelių apribojimų. Pagrindinės techninės charakteristikosVariklio apsukos: 4200 sūk./min laisva eiga užtikrina greitą ir švarų pjūvį.Pjovimo disko skersmuo: 165 mm, vidinė skylė (ašis) – 15,87 mm.Maksimalus pjovimo gylis:Tiesiu kampu (90{circ }): iki 54 mm.Pasvirusiu kampu (45{circ }): iki 39 mm.Pavertimo kampas: Reguliuojamas iki (50{circ }).Konstrukcija: Kairės pusės disko išdėstymas (Left-blade design) geresniam pjovimo linijos matomumui.Svoris: 2,7 kg Komplekte- 2vnt baterijos 3.0Ah, kroviklis Kaina-200€",
+   "bukle": "Naudota",
    "modelis": "bosch-kita",
    "raktas": "bosch-kita",
    "palyginamu": 4,
@@ -18336,8 +18641,8 @@
     "privalumai": [
      "komplektas"
     ],
-    "aprasymo_ilgis": 147,
-    "pilnas": false
+    "aprasymo_ilgis": 928,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -18400,6 +18705,267 @@
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Marijampolė: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87836066",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87836066.html",
+   "pavadinimas": "Makita",
+   "kaina": 110.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285793426/makita.jpg",
+   "aprasymas": "Makita irankiai,tvarkingi.",
+   "vieta_laikas": "Kretingos r., prieš 2 val.",
+   "paieska": "Makita įrankiai",
+   "pastebetas": "2026-10-25T17:36:10Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Makita irankiai,tvarkingi.",
+   "bukle": "Naudota",
+   "modelis": "makita-kita",
+   "raktas": "makita-kita",
+   "palyginamu": 12,
+   "mediana": 140,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "12 panašių skelbimų mediana 140 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kretingos r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
+    {
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "pavadinimas": "Makita bosch",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Makita"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Makita"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Makita"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Makita"
+    }
+   ],
+   "tiketina_pardavimo": 126,
+   "pelnas": 12,
+   "roi": 0.1,
+   "max_pirkimo": 90,
+   "pelnas_per_val": 12,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 8,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 26,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 5,
+    "is": 13,
+    "min": 55.0,
+    "max": 250.0,
+    "mediana": 140.0,
+    "nuolaida": 0.21
+   },
+   "kodel": "5-as pigiausias iš 13 (kiti 55 €–250 €, mediana 140 €), 21% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
+    {
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
+     "pavadinimas": "Akumuliatorinė medienos freza su priedais",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-bosch-87822408.html",
+     "pavadinimas": "Makita bosch",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 1 d."
+    },
+    {
+     "kaina": 105.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/paslode-max-milwaukee-makita-hilti-metabo-wurth-77901427.html",
+     "pavadinimas": "Paslode,max,milwaukee,makita,hilti,metabo,wurth",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 125.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-makita-festool-32009643.html",
+     "pavadinimas": "Dewalt,bosch,milwaukee,makita festool",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 130.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/festool-ts-55-rebq-87522456.html",
+     "pavadinimas": "Festool Ts 55 Rebq",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metabo-makita-dewalt-milwaukee-hilti-43267807.html",
+     "pavadinimas": "Metabo,makita,dewalt,milwaukee,hilti",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
+     "pavadinimas": "Makita freza siaurapjūklis, skardos žirklės",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 165.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
+     "pavadinimas": "Bosch,makita,dewalt,milwaukee,hikoki,fiskars,hilti",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
+     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
+     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafell-festool-hilti-makita-dewalt-77862695.html",
+     "pavadinimas": "Mafell,festool,hilti,makita,dewalt",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 7 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 55 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kretingos r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 126 € − 110 € − 4,5 € = 11,5 € (10% pirkimo kainos)",
+    "Mokėti ne daugiau: min((126 € − 4,5 €) / 1.35; 126 € − 4,5 € − 20 €) = 90 €",
+    "Laikas ~1.0 val. → 11,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~12 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 13 panašių skelbimų pigesnių yra 4; įprasta kaina ~140 €, šis 21 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~12 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kretingos r.: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
     "lygis": "vidutinė",
     "zingsniai": [
@@ -18607,12 +19173,12 @@
    "bukle": null,
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 128,
+   "palyginamu": 13,
+   "mediana": 125,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 127,5 €"
+    "13 panašių skelbimų mediana 125 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -18630,6 +19196,12 @@
      "kaina": 40.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
@@ -18678,12 +19250,6 @@
      "kaina": 160.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-freza-siaurapjuklis-skardos-zirkles-87816576.html",
      "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -18705,11 +19271,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Bosch%2Cmakita%2Cdewalt%2Cmilwaukee%2Chikoki%2Cfiskars%2Chilti"
     }
    ],
-   "tiketina_pardavimo": 115,
-   "pelnas": -55,
-   "roi": -0.33,
-   "max_pirkimo": 82,
-   "pelnas_per_val": -55,
+   "tiketina_pardavimo": 112,
+   "pelnas": -57,
+   "roi": -0.35,
+   "max_pirkimo": 80,
+   "pelnas_per_val": -57,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -18722,14 +19288,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 10,
-    "is": 13,
+    "vieta": 11,
+    "is": 14,
     "min": 40.0,
     "max": 250.0,
-    "mediana": 127.5,
-    "nuolaida": -0.29
+    "mediana": 125.0,
+    "nuolaida": -0.32
    },
-   "kodel": "10-as pigiausias iš 13 (kiti 40 €–250 €, mediana 127,5 €), 29% brangiau už medianą. Privalumai: nauja.",
+   "kodel": "11-as pigiausias iš 14 (kiti 40 €–250 €, mediana 125 €), 32% brangiau už medianą. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 40.0,
@@ -18739,6 +19305,15 @@
       "neveikia"
      ],
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "kaina": 60.0,
@@ -18822,22 +19397,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
+    "Panašūs skelbimai (makita-kita): 13 vnt., kainos 40 €–250 €, mediana 125 € × 0.90 (realiai parduodama pigiau nei prašoma) = 112,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 114,8 € − 165 € − 4,5 € = -54,8 € (-33% pirkimo kainos)",
-    "Mokėti ne daugiau: min((114,8 € − 4,5 €) / 1.35; 114,8 € − 4,5 € − 20 €) = 81,7 €",
-    "Laikas ~1.0 val. → -54,8 €/val.",
+    "Pelnas = 112,5 € − 165 € − 4,5 € = -57 € (-35% pirkimo kainos)",
+    "Mokėti ne daugiau: min((112,5 € − 4,5 €) / 1.35; 112,5 € − 4,5 € − 20 €) = 80 €",
+    "Laikas ~1.0 val. → -57 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 9; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 14 panašių skelbimų pigesnių yra 10; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja."
    ],
    "pries": [
-    "Iš 13 panašių skelbimų pigesnių yra 9; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-55 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 14 panašių skelbimų pigesnių yra 10; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-57 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -35 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -18872,12 +19447,12 @@
    "bukle": null,
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 140,
+   "palyginamu": 13,
+   "mediana": 130,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 140 €"
+    "13 panašių skelbimų mediana 130 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -18895,6 +19470,12 @@
      "kaina": 40.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
@@ -18943,12 +19524,6 @@
      "kaina": 165.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
      "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -18970,11 +19545,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Dewalt%2Cbosch%2Cmilwaukee%2Cmakita+festool"
     }
    ],
-   "tiketina_pardavimo": 126,
-   "pelnas": -4,
-   "roi": -0.03,
-   "max_pirkimo": 90,
-   "pelnas_per_val": -4,
+   "tiketina_pardavimo": 117,
+   "pelnas": -12,
+   "roi": -0.1,
+   "max_pirkimo": 83,
+   "pelnas_per_val": -12,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -18987,14 +19562,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 13,
+    "vieta": 7,
+    "is": 14,
     "min": 40.0,
     "max": 250.0,
-    "mediana": 140.0,
-    "nuolaida": 0.11
+    "mediana": 130.0,
+    "nuolaida": 0.04
    },
-   "kodel": "6-as pigiausias iš 13 (kiti 40 €–250 €, mediana 140 €), 11% pigiau už medianą. Privalumai: nauja.",
+   "kodel": "7-as pigiausias iš 14 (kiti 40 €–250 €, mediana 130 €), 4% pigiau už medianą. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 40.0,
@@ -19004,6 +19579,15 @@
       "neveikia"
      ],
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "kaina": 60.0,
@@ -19087,22 +19671,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Panašūs skelbimai (makita-kita): 13 vnt., kainos 40 €–250 €, mediana 130 € × 0.90 (realiai parduodama pigiau nei prašoma) = 117 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 126 € − 125 € − 4,5 € = -3,5 € (-3% pirkimo kainos)",
-    "Mokėti ne daugiau: min((126 € − 4,5 €) / 1.35; 126 € − 4,5 € − 20 €) = 90 €",
-    "Laikas ~1.0 val. → -3,5 €/val.",
+    "Pelnas = 117 € − 125 € − 4,5 € = -12,5 € (-10% pirkimo kainos)",
+    "Mokėti ne daugiau: min((117 € − 4,5 €) / 1.35; 117 € − 4,5 € − 20 €) = 83,3 €",
+    "Laikas ~1.0 val. → -12,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~140 €, šis 11 % pigesnis.",
+   "isvada": "Praleisk: iš 14 panašių skelbimų pigesnių yra 6; įprasta kaina ~130 €, šis 4 % pigesnis.",
    "uz": [
     "Aprašyme: nauja."
    ],
    "pries": [
-    "Iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~140 €, šis 11 % pigesnis.",
-    "Pelnas būtų tik ~-4 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -3 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 14 panašių skelbimų pigesnių yra 6; įprasta kaina ~130 €, šis 4 % pigesnis.",
+    "Pelnas būtų tik ~-12 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -19136,12 +19720,12 @@
    "bukle": null,
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 128,
+   "palyginamu": 13,
+   "mediana": 125,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 127,5 €"
+    "13 panašių skelbimų mediana 125 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -19159,6 +19743,12 @@
      "kaina": 40.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
@@ -19207,12 +19797,6 @@
      "kaina": 165.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
      "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -19234,7 +19818,7 @@
      "url": "https://www.google.com/search?tbm=shop&q=Metabo%2Cmakita%2Cdewalt%2Cmilwaukee%2Chilti"
     }
    ],
-   "tiketina_pardavimo": 115,
+   "tiketina_pardavimo": 112,
    "pelnas": null,
    "roi": null,
    "max_pirkimo": null,
@@ -19252,14 +19836,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 8,
-    "is": 13,
+    "vieta": 9,
+    "is": 14,
     "min": 40.0,
     "max": 250.0,
-    "mediana": 127.5,
-    "nuolaida": -0.18
+    "mediana": 125.0,
+    "nuolaida": -0.2
    },
-   "kodel": "8-as pigiausias iš 13 (kiti 40 €–250 €, mediana 127,5 €), 18% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "9-as pigiausias iš 14 (kiti 40 €–250 €, mediana 125 €), 20% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 40.0,
@@ -19269,6 +19853,15 @@
       "neveikia"
      ],
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "kaina": 60.0,
@@ -19352,16 +19945,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
+    "Panašūs skelbimai (makita-kita): 13 vnt., kainos 40 €–250 €, mediana 125 € × 0.90 (realiai parduodama pigiau nei prašoma) = 112,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka"
    ],
-   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 7; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 14 panašių skelbimų pigesnių yra 8; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 13 panašių skelbimų pigesnių yra 7; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+    "Iš 14 panašių skelbimų pigesnių yra 8; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
     "Didelis daiktas Šiauliai – netelpa į paštomatą, o važiuoti neapsimoka."
    ],
@@ -19396,12 +19989,12 @@
    "bukle": "Naudota",
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 11,
-   "mediana": 150,
+   "palyginamu": 12,
+   "mediana": 140,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "11 panašių skelbimų mediana 150 €"
+    "12 panašių skelbimų mediana 140 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -19414,6 +20007,12 @@
     "nepervezamas": true
    },
    "palyginami": [
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
      "kaina": 60.0,
@@ -19467,12 +20066,6 @@
      "kaina": 250.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
      "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,wurth, festool",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-wurth-festool-38571673.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -19494,7 +20087,7 @@
      "url": "https://www.google.com/search?tbm=shop&q=Paslode%2Cmax%2Cmilwaukee%2Cmakita%2Chilti%2Cmetabo%2Cwurth"
     }
    ],
-   "tiketina_pardavimo": 135,
+   "tiketina_pardavimo": 126,
    "pelnas": null,
    "roi": null,
    "max_pirkimo": null,
@@ -19514,15 +20107,24 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 3,
-    "is": 12,
-    "min": 60.0,
+    "vieta": 4,
+    "is": 13,
+    "min": 55.0,
     "max": 250.0,
-    "mediana": 150.0,
-    "nuolaida": 0.3
+    "mediana": 140.0,
+    "nuolaida": 0.25
    },
-   "kodel": "3-as pigiausias iš 12 (kiti 60 €–250 €, mediana 150 €), 30% pigiau už medianą. Privalumai: ideali būklė, nauja, naujas, su dėže.",
+   "kodel": "4-as pigiausias iš 13 (kiti 55 €–250 €, mediana 140 €), 25% pigiau už medianą. Privalumai: ideali būklė, nauja, naujas, su dėže.",
    "visi_palyginami": [
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
     {
      "kaina": 60.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
@@ -19605,13 +20207,13 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 11 vnt., kainos 60 €–250 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
+    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 55 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "didelis daiktas Šiauliai – netelpa į siuntą, važiuoti neapsimoka"
    ],
    "isvada": "Praleisk: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 12 panašių skelbimų pigesnių yra 2; įprasta kaina ~150 €, šis 30 % pigesnis.",
+    "Iš 13 panašių skelbimų pigesnių yra 3; įprasta kaina ~140 €, šis 25 % pigesnis.",
     "Aprašyme: ideali būklė, nauja, naujas, su dėže."
    ],
    "pries": [
@@ -19649,12 +20251,12 @@
    "bukle": null,
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 140,
+   "palyginamu": 13,
+   "mediana": 130,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 140 €"
+    "13 panašių skelbimų mediana 130 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėdos r.",
@@ -19667,6 +20269,12 @@
     "nepervezamas": true
    },
    "palyginami": [
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
      "kaina": 60.0,
@@ -19720,12 +20328,6 @@
      "kaina": 165.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
      "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -19747,7 +20349,7 @@
      "url": "https://www.google.com/search?tbm=shop&q=Benzo+pj%C5%ABklas+Makita."
     }
    ],
-   "tiketina_pardavimo": 126,
+   "tiketina_pardavimo": 117,
    "pelnas": null,
    "roi": null,
    "max_pirkimo": null,
@@ -19763,14 +20365,23 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 13,
-    "min": 60.0,
+    "is": 14,
+    "min": 55.0,
     "max": 250.0,
-    "mediana": 140.0,
-    "nuolaida": 0.75
+    "mediana": 130.0,
+    "nuolaida": 0.73
    },
-   "kodel": "Pigiausias iš 13 to paties modelio skelbimų (kiti 60 €–250 €, mediana 140 €), 75% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
+   "kodel": "Pigiausias iš 14 to paties modelio skelbimų (kiti 55 €–250 €, mediana 130 €), 73% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
    "visi_palyginami": [
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
+    },
     {
      "kaina": 60.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorine-medienos-freza-su-priedais-87798184.html",
@@ -19860,13 +20471,13 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 60 €–250 €, mediana 140 € × 0.90 (realiai parduodama pigiau nei prašoma) = 126 €",
+    "Panašūs skelbimai (makita-kita): 13 vnt., kainos 55 €–250 €, mediana 130 € × 0.90 (realiai parduodama pigiau nei prašoma) = 117 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "didelis daiktas Klaipėdos r. – netelpa į siuntą, važiuoti neapsimoka"
    ],
    "isvada": "Praleisk: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 13 panašių skelbimų pigesnio nėra; įprasta kaina ~140 €, šis 75 % pigesnis."
+    "Iš 14 panašių skelbimų pigesnio nėra; įprasta kaina ~130 €, šis 73 % pigesnis."
    ],
    "pries": [
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
@@ -19905,12 +20516,12 @@
    "bukle": null,
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 138,
+   "palyginamu": 13,
+   "mediana": 125,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 137,5 €"
+    "13 panašių skelbimų mediana 125 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -19928,6 +20539,12 @@
      "kaina": 40.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
@@ -19976,12 +20593,6 @@
      "kaina": 165.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
      "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -20003,11 +20614,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Festool+Ts+55+Rebq"
     }
    ],
-   "tiketina_pardavimo": 124,
-   "pelnas": -11,
-   "roi": -0.08,
-   "max_pirkimo": 88,
-   "pelnas_per_val": -11,
+   "tiketina_pardavimo": 112,
+   "pelnas": -22,
+   "roi": -0.17,
+   "max_pirkimo": 80,
+   "pelnas_per_val": -22,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -20018,14 +20629,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 7,
-    "is": 13,
+    "vieta": 8,
+    "is": 14,
     "min": 40.0,
     "max": 250.0,
-    "mediana": 137.5,
-    "nuolaida": 0.05
+    "mediana": 125.0,
+    "nuolaida": -0.04
    },
-   "kodel": "7-as pigiausias iš 13 (kiti 40 €–250 €, mediana 137,5 €), 5% pigiau už medianą.",
+   "kodel": "8-as pigiausias iš 14 (kiti 40 €–250 €, mediana 125 €), 4% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 40.0,
@@ -20035,6 +20646,15 @@
       "neveikia"
      ],
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "kaina": 60.0,
@@ -20118,20 +20738,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 137,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 123,8 €",
+    "Panašūs skelbimai (makita-kita): 13 vnt., kainos 40 €–250 €, mediana 125 € × 0.90 (realiai parduodama pigiau nei prašoma) = 112,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 123,8 € − 130 € − 4,5 € = -10,8 € (-8% pirkimo kainos)",
-    "Mokėti ne daugiau: min((123,8 € − 4,5 €) / 1.35; 123,8 € − 4,5 € − 20 €) = 88,3 €",
-    "Laikas ~1.0 val. → -10,8 €/val.",
+    "Pelnas = 112,5 € − 130 € − 4,5 € = -22 € (-17% pirkimo kainos)",
+    "Mokėti ne daugiau: min((112,5 € − 4,5 €) / 1.35; 112,5 € − 4,5 € − 20 €) = 80 €",
+    "Laikas ~1.0 val. → -22 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 6; įprasta kaina ~137,5 €, šis 5 % pigesnis.",
+   "isvada": "Praleisk: iš 14 panašių skelbimų pigesnių yra 7; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 13 panašių skelbimų pigesnių yra 6; įprasta kaina ~137,5 €, šis 5 % pigesnis.",
-    "Pelnas būtų tik ~-11 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 14 panašių skelbimų pigesnių yra 7; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-22 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -20165,12 +20785,12 @@
    "bukle": null,
    "modelis": "makita-kita",
    "raktas": "makita-kita",
-   "palyginamu": 12,
-   "mediana": 128,
+   "palyginamu": 13,
+   "mediana": 125,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "12 panašių skelbimų mediana 127,5 €"
+    "13 panašių skelbimų mediana 125 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -20188,6 +20808,12 @@
      "kaina": 40.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-87806574.html",
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Makita suktukai",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "pavadinimas": "Akumuliatorinė medienos freza su priedais",
@@ -20236,12 +20862,6 @@
      "kaina": 165.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-dewalt-milwaukee-hikoki-fiskars-hilti-30038819.html",
      "vieta_laikas": "Šiauliai, prieš 7 val."
-    },
-    {
-     "pavadinimas": "Bosch,makita,milwaukee,makita,grcko,hikoki",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/bosch-makita-milwaukee-makita-grcko-hikoki-24928773.html",
-     "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
    "parduotuves": [],
@@ -20263,11 +20883,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Makita+freza+siaurapj%C5%ABklis%2C+skardos+%C5%BEirkl%C4%97s"
     }
    ],
-   "tiketina_pardavimo": 115,
-   "pelnas": -50,
-   "roi": -0.31,
-   "max_pirkimo": 82,
-   "pelnas_per_val": -50,
+   "tiketina_pardavimo": 112,
+   "pelnas": -52,
+   "roi": -0.33,
+   "max_pirkimo": 80,
+   "pelnas_per_val": -52,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -20278,14 +20898,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 9,
-    "is": 13,
+    "vieta": 10,
+    "is": 14,
     "min": 40.0,
     "max": 250.0,
-    "mediana": 127.5,
-    "nuolaida": -0.25
+    "mediana": 125.0,
+    "nuolaida": -0.28
    },
-   "kodel": "9-as pigiausias iš 13 (kiti 40 €–250 €, mediana 127,5 €), 25% brangiau už medianą.",
+   "kodel": "10-as pigiausias iš 14 (kiti 40 €–250 €, mediana 125 €), 28% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 40.0,
@@ -20295,6 +20915,15 @@
       "neveikia"
      ],
      "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-suktukai-87842456.html",
+     "pavadinimas": "Makita suktukai",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Prienų r., prieš 40 min."
     },
     {
      "kaina": 60.0,
@@ -20378,20 +21007,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (makita-kita): 12 vnt., kainos 40 €–250 €, mediana 127,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 114,8 €",
+    "Panašūs skelbimai (makita-kita): 13 vnt., kainos 40 €–250 €, mediana 125 € × 0.90 (realiai parduodama pigiau nei prašoma) = 112,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 114,8 € − 160 € − 4,5 € = -49,8 € (-31% pirkimo kainos)",
-    "Mokėti ne daugiau: min((114,8 € − 4,5 €) / 1.35; 114,8 € − 4,5 € − 20 €) = 81,7 €",
-    "Laikas ~1.0 val. → -49,8 €/val.",
+    "Pelnas = 112,5 € − 160 € − 4,5 € = -52 € (-32% pirkimo kainos)",
+    "Mokėti ne daugiau: min((112,5 € − 4,5 €) / 1.35; 112,5 € − 4,5 € − 20 €) = 80 €",
+    "Laikas ~1.0 val. → -52 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 8; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 14 panašių skelbimų pigesnių yra 9; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 13 panašių skelbimų pigesnių yra 8; įprasta kaina ~127,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-50 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -31 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 14 panašių skelbimų pigesnių yra 9; įprasta kaina ~125 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-52 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -20426,12 +21055,12 @@
    "bukle": null,
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 10,
+   "palyginamu": 12,
    "mediana": 50,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 50 €"
+    "12 panašių skelbimų mediana 50 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Marijampolė",
@@ -20469,6 +21098,12 @@
      "vieta_laikas": "Kaunas, prieš 5 val."
     },
     {
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
      "kaina": 50.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
@@ -20497,12 +21132,6 @@
      "kaina": 80.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
      "vieta_laikas": "Kaunas, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Hario Poterio pilies kaladėlių konstruktorius",
-     "kaina": 80.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/hario-poterio-pilies-kaladeliu-konstruktorius-87834036.html",
-     "vieta_laikas": "Kaunas, prieš 5 val."
     }
    ],
    "parduotuves": [],
@@ -20539,14 +21168,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 5,
-    "is": 11,
+    "vieta": 6,
+    "is": 13,
     "min": 30.0,
-    "max": 80.0,
+    "max": 111.0,
     "mediana": 50.0,
     "nuolaida": 0.0
    },
-   "kodel": "5-as pigiausias iš 11 (kiti 30 €–80 €, mediana 50 €), 0% pigiau už medianą.",
+   "kodel": "6-as pigiausias iš 13 (kiti 30 €–111 €, mediana 50 €), 0% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -20575,6 +21204,13 @@
      "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
      "rizikos": [],
      "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
     },
     {
      "kaina": 50.0,
@@ -20617,23 +21253,30 @@
      "pavadinimas": "Hario Poterio pilies kaladėlių konstruktorius",
      "rizikos": [],
      "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 111.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
+     "pavadinimas": "Lego minecraft, bionicle, hero factory",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
     }
    ],
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 10 vnt., kainos 30 €–80 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Panašūs skelbimai (lego-rinkinys): 12 vnt., kainos 30 €–111 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Marijampolė 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 45 € − 50 € − 4,5 € = -9,5 € (-19% pirkimo kainos)",
     "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
     "Laikas ~1.0 val. → -9,5 €/val."
    ],
-   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 4; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 11 panašių skelbimų pigesnių yra 4; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+    "Iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-10 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
@@ -20843,12 +21486,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 5,
-   "mediana": 27,
+   "palyginamu": 6,
+   "mediana": 31,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "5 panašių skelbimų mediana 27 €"
+    "6 panašių skelbimų mediana 31 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -20878,6 +21521,12 @@
      "kaina": 27.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nauji-nintendo-switch-pulteliai-87782102.html",
      "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Splatoon3 nintendo switch žaidimas",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
+     "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
      "pavadinimas": "Splatoon Raiders (Nintendo Switch 2)",
@@ -20911,11 +21560,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
     }
    ],
-   "tiketina_pardavimo": 24,
-   "pelnas": -25,
-   "roi": -0.55,
-   "max_pirkimo": 0,
-   "pelnas_per_val": -16,
+   "tiketina_pardavimo": 28,
+   "pelnas": -21,
+   "roi": -0.47,
+   "max_pirkimo": 4,
+   "pelnas_per_val": -14,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -20929,14 +21578,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 4,
-    "is": 6,
+    "vieta": 5,
+    "is": 7,
     "min": 15.0,
     "max": 50.0,
-    "mediana": 27.0,
-    "nuolaida": -0.67
+    "mediana": 31.0,
+    "nuolaida": -0.45
    },
-   "kodel": "4-as pigiausias iš 6 (kiti 15 €–50 €, mediana 27 €), 67% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "5-as pigiausias iš 7 (kiti 15 €–50 €, mediana 31 €), 45% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -20960,6 +21609,13 @@
      "vieta_laikas": "Kaunas, prieš 3 d."
     },
     {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
+     "pavadinimas": "Splatoon3 nintendo switch žaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Kauno r., prieš 51 min."
+    },
+    {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon-raiders-nintendo-switch-2-87802834.html",
      "pavadinimas": "Splatoon Raiders (Nintendo Switch 2)",
@@ -20978,21 +21634,21 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 5 vnt., kainos 15 €–50 €, mediana 27 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,3 €",
+    "Panašūs skelbimai (switch-priedai): 6 vnt., kainos 15 €–50 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 24,3 € − 45 € − 4 € = -24,7 € (-55% pirkimo kainos)",
-    "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
-    "Laikas ~1.5 val. → -16,5 €/val."
+    "Pelnas = 27,9 € − 45 € − 4 € = -21,1 € (-47% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
+    "Laikas ~1.5 val. → -14,1 €/val."
    ],
-   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-25 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -55 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-21 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -21358,12 +22014,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 5,
-   "mediana": 27,
+   "palyginamu": 6,
+   "mediana": 31,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "5 panašių skelbimų mediana 27 €"
+    "6 panašių skelbimų mediana 31 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -21393,6 +22049,12 @@
      "kaina": 27.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nauji-nintendo-switch-pulteliai-87782102.html",
      "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Splatoon3 nintendo switch žaidimas",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
+     "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -21426,11 +22088,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
     }
    ],
-   "tiketina_pardavimo": 24,
-   "pelnas": -30,
-   "roi": -0.59,
-   "max_pirkimo": 0,
-   "pelnas_per_val": -20,
+   "tiketina_pardavimo": 28,
+   "pelnas": -26,
+   "roi": -0.52,
+   "max_pirkimo": 4,
+   "pelnas_per_val": -17,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -21441,14 +22103,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 6,
+    "vieta": 7,
+    "is": 7,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 27.0,
-    "nuolaida": -0.85
+    "mediana": 31.0,
+    "nuolaida": -0.61
    },
-   "kodel": "6-as pigiausias iš 6 (kiti 15 €–45 €, mediana 27 €), 85% brangiau už medianą.",
+   "kodel": "7-as pigiausias iš 7 (kiti 15 €–45 €, mediana 31 €), 61% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -21472,6 +22134,13 @@
      "vieta_laikas": "Kaunas, prieš 3 d."
     },
     {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
+     "pavadinimas": "Splatoon3 nintendo switch žaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Kauno r., prieš 51 min."
+    },
+    {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -21490,19 +22159,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 5 vnt., kainos 15 €–45 €, mediana 27 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,3 €",
+    "Panašūs skelbimai (switch-priedai): 6 vnt., kainos 15 €–45 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 24,3 € − 50 € − 4 € = -29,7 € (-59% pirkimo kainos)",
-    "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
-    "Laikas ~1.5 val. → -19,8 €/val."
+    "Pelnas = 27,9 € − 50 € − 4 € = -26,1 € (-52% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
+    "Laikas ~1.5 val. → -17,4 €/val."
    ],
-   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 5; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 6 panašių skelbimų pigesnių yra 5; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-30 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -59 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 7 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-26 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -52 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -21534,12 +22203,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 5,
-   "mediana": 27,
+   "palyginamu": 6,
+   "mediana": 31,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "5 panašių skelbimų mediana 27 €"
+    "6 panašių skelbimų mediana 31 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -21569,6 +22238,12 @@
      "kaina": 27.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nauji-nintendo-switch-pulteliai-87782102.html",
      "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Splatoon3 nintendo switch žaidimas",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
+     "vieta_laikas": "Kauno r., prieš 51 min."
     },
     {
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -21602,11 +22277,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
     }
    ],
-   "tiketina_pardavimo": 24,
-   "pelnas": -25,
-   "roi": -0.55,
-   "max_pirkimo": 0,
-   "pelnas_per_val": -16,
+   "tiketina_pardavimo": 28,
+   "pelnas": -21,
+   "roi": -0.47,
+   "max_pirkimo": 4,
+   "pelnas_per_val": -14,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -21617,14 +22292,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 4,
-    "is": 6,
+    "vieta": 5,
+    "is": 7,
     "min": 15.0,
     "max": 50.0,
-    "mediana": 27.0,
-    "nuolaida": -0.67
+    "mediana": 31.0,
+    "nuolaida": -0.45
    },
-   "kodel": "4-as pigiausias iš 6 (kiti 15 €–50 €, mediana 27 €), 67% brangiau už medianą.",
+   "kodel": "5-as pigiausias iš 7 (kiti 15 €–50 €, mediana 31 €), 45% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -21648,6 +22323,13 @@
      "vieta_laikas": "Kaunas, prieš 3 d."
     },
     {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/splatoon3-nintendo-switch-zaidimas-87842352.html",
+     "pavadinimas": "Splatoon3 nintendo switch žaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Kauno r., prieš 51 min."
+    },
+    {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/kyzar-vairas-su-pedalais-nintendo-switch-pc-87824282.html",
      "pavadinimas": "Kyzar vairas su pedalais Nintendo Switch/pc",
@@ -21666,19 +22348,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 5 vnt., kainos 15 €–50 €, mediana 27 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,3 €",
+    "Panašūs skelbimai (switch-priedai): 6 vnt., kainos 15 €–50 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 24,3 € − 45 € − 4 € = -24,7 € (-55% pirkimo kainos)",
-    "Mokėti ne daugiau: min((24,3 € − 4 €) / 1.35; 24,3 € − 4 € − 20 €) = 0,3 €",
-    "Laikas ~1.5 val. → -16,5 €/val."
+    "Pelnas = 27,9 € − 45 € − 4 € = -21,1 € (-47% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
+    "Laikas ~1.5 val. → -14,1 €/val."
    ],
-   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~27 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-25 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -55 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 7 panašių skelbimų pigesnių yra 4; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-21 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -33315,6 +33997,526 @@
     ],
     "zinute": null
    }
+  },
+  {
+   "id": "87842202",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+   "pavadinimas": "Lego wear žieminis kombinezonas",
+   "kaina": 49.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285980978/lego-wear-zieminis-kombinezonas.jpg",
+   "aprasymas": "",
+   "vieta_laikas": "Vilnius, prieš 1 val.",
+   "paieska": "Lego",
+   "pastebetas": "2026-10-25T20:56:41Z",
+   "parametrai": [
+    "5 metai / 104-110 cm",
+    "Nauja",
+    "Violetinė/purpurinė",
+    "Žiemos"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "lego-rinkinys",
+   "raktas": "lego-rinkinys",
+   "palyginamu": 12,
+   "mediana": 50,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "12 panašių skelbimų mediana 50 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834134.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834098.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834116.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834088.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834292.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834298.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834220.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lego",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Lego+wear+%C5%BEieminis+kombinezonas"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Lego+wear+%C5%BEieminis+kombinezonas"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Lego+wear+%C5%BEieminis+kombinezonas"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Lego+wear+%C5%BEieminis+kombinezonas"
+    }
+   ],
+   "tiketina_pardavimo": 45,
+   "pelnas": -8,
+   "roi": -0.16,
+   "max_pirkimo": 21,
+   "pelnas_per_val": -5,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja"
+    ],
+    "aprasymo_ilgis": 0,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 5,
+    "is": 13,
+    "min": 30.0,
+    "max": 111.0,
+    "mediana": 50.0,
+    "nuolaida": 0.02
+   },
+   "kodel": "5-as pigiausias iš 13 (kiti 30 €–111 €, mediana 50 €), 2% pigiau už medianą. Privalumai: nauja. Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos.",
+   "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834134.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834098.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834116.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834088.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834292.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834298.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834220.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "pavadinimas": "Lego",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/hario-poterio-pilies-kaladeliu-konstruktorius-87834036.html",
+     "pavadinimas": "Hario Poterio pilies kaladėlių konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 111.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
+     "pavadinimas": "Lego minecraft, bionicle, hero factory",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (lego-rinkinys): 12 vnt., kainos 30 €–111 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 45 € − 49 € − 4 € = -8 € (-16% pirkimo kainos)",
+    "Mokėti ne daugiau: min((45 € − 4 €) / 1.35; 45 € − 4 € − 20 €) = 21 €",
+    "Laikas ~1.5 val. → -5,3 €/val."
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 4; įprasta kaina ~50 €, šis 2 % pigesnis.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 4; įprasta kaina ~50 €, šis 2 % pigesnis.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -16 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+    "Aprašymo beveik nėra – būklė nežinoma."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
+  },
+  {
+   "id": "87841972",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
+   "pavadinimas": "Lego minecraft, bionicle, hero factory",
+   "kaina": 111.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285973696/lego-minecraft-bionicle-hero-factory.jpg",
+   "aprasymas": "Geros bukles, kaina derinama, galite pasiūlyti savo kainą, už kurią esate pasiruošę pirkti. Galiu parduoti abu kartu ir atskirai.",
+   "vieta_laikas": "Kaunas, prieš 1 val.",
+   "paieska": "Lego",
+   "pastebetas": "2026-10-25T20:56:41Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "lego-rinkinys",
+   "raktas": "lego-rinkinys",
+   "palyginamu": 12,
+   "mediana": 50,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "12 panašių skelbimų mediana 50 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834134.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834098.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834116.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834088.html",
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834292.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834298.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834220.html",
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Lego",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Lego+minecraft%2C+bionicle%2C+hero+factory"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Lego+minecraft%2C+bionicle%2C+hero+factory"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Lego+minecraft%2C+bionicle%2C+hero+factory"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Lego+minecraft%2C+bionicle%2C+hero+factory"
+    }
+   ],
+   "tiketina_pardavimo": 45,
+   "pelnas": -70,
+   "roi": -0.64,
+   "max_pirkimo": 20,
+   "pelnas_per_val": -70,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 129,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 13,
+    "is": 13,
+    "min": 30.0,
+    "max": 80.0,
+    "mediana": 50.0,
+    "nuolaida": -1.22
+   },
+   "kodel": "13-as pigiausias iš 13 (kiti 30 €–80 €, mediana 50 €), 122% brangiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834134.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834098.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834116.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834088.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834306.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834292.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834298.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834220.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "pavadinimas": "Lego",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lenktyninis-sportinis-automobilis-konstruktorius-87834256.html",
+     "pavadinimas": "Lenktyninis sportinis automobilis konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/hario-poterio-pilies-kaladeliu-konstruktorius-87834036.html",
+     "pavadinimas": "Hario Poterio pilies kaladėlių konstruktorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (lego-rinkinys): 12 vnt., kainos 30 €–80 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 45 € − 111 € − 4,5 € = -70,5 € (-64% pirkimo kainos)",
+    "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
+    "Laikas ~1.0 val. → -70,5 €/val."
+   ],
+   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 12; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 13 panašių skelbimų pigesnių yra 12; įprasta kaina ~50 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-70 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -64 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
   }
  ],
  "kalibracija": {
@@ -33325,8 +34527,8 @@
  "pardavimas": {},
  "rinka": {
   "makita-kita": {
-   "n": 15,
-   "mediana": 125,
+   "n": 16,
+   "mediana": 118,
    "min": 20.0,
    "max": 250.0
   },
@@ -33343,9 +34545,9 @@
    "max": 30.0
   },
   "lego-rinkinys": {
-   "n": 17,
+   "n": 20,
    "mediana": 50,
-   "min": 5.0,
+   "min": 1.0,
    "max": 200.0
   },
   "switch-2": {
@@ -33367,8 +34569,8 @@
    "max": 200.0
   },
   "switch-priedai": {
-   "n": 6,
-   "mediana": 36,
+   "n": 7,
+   "mediana": 35,
    "min": 15.0,
    "max": 50.0
   },
@@ -33427,7 +34629,7 @@
    "max": 500.0
   },
   "ps5-pro": {
-   "n": 3,
+   "n": 4,
    "mediana": 1300,
    "min": 1250.0,
    "max": 1500.0
@@ -33494,9 +34696,9 @@
   },
   "dji-osmopocket": {
    "n": 2,
-   "mediana": 310,
+   "mediana": 305,
    "min": 270.0,
-   "max": 350.0
+   "max": 340.0
   },
   "dji-priedai": {
    "n": 2,
@@ -33558,6 +34760,12 @@
    "min": 50.0,
    "max": 120.0
   },
+  "roborock-s7": {
+   "n": 2,
+   "mediana": 104,
+   "min": 99.0,
+   "max": 110.0
+  },
   "ipad-kita": {
    "n": 7,
    "mediana": 440,
@@ -33595,8 +34803,8 @@
    "max": 519000.0
   },
   "vezimelis-kita": {
-   "n": 20,
-   "mediana": 135,
+   "n": 21,
+   "mediana": 120,
    "min": 1.0,
    "max": 1250.0
   },

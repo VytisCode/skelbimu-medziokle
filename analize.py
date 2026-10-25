@@ -61,6 +61,8 @@ def modelio_raktas(s: dict) -> str:
                 return f"{gam}-{m.group(1)}{m.group(2)}"
             return f"{gam}-" + ("priedas" if priedas else "kita")
     if "switch" in paieska or "nintendo" in paieska:
+        if "switch" not in p and "nintendo" not in p:
+            return "switch-kita"          # kitų gamintojų konsolės (pvz. Retroid) – ne Switch rinka
         konsole = re.search(r"switch\s*(su\b|\+)|konsol|\bv[12]\b|oled|lite|atrist", p)
         zaidimas = re.search(r"\b(zelda|mario|splatoon|minecraft|pokemon)\b", p) and not p.startswith("nintendo")
         if (priedas or zaidimas) and not konsole:
@@ -69,6 +71,8 @@ def modelio_raktas(s: dict) -> str:
             return "switch-2"
         return "switch-oled" if "oled" in p else "switch-lite" if "lite" in p else "switch-v1"
     if "playstation" in paieska:
+        if not re.search(r"ps\s?5|playstation", p):
+            return "ps5-kita"
         if (priedas or "zaidim" in p) and not re.search(r"konsol|\bsu\b|\+|825|1tb|digital|disc|slim|pro\b", p):
             return "ps5-priedai"
         return "ps5-pro" if re.search(r"\bpro\b", p) else "ps5-digital" if "digital" in p else "ps5-slim" if "slim" in p else "ps5"

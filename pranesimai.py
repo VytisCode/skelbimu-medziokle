@@ -7,7 +7,9 @@ import json
 import os
 import smtplib
 import sys
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from html import escape
 from pathlib import Path
 
 ANALIZE = Path("docs/analize.json")
@@ -18,24 +20,69 @@ MAX_LAISKE = 5
 
 
 def eur(x):
-    return "—" if x is None else f"{x:.0f} €"
+    return "?" if x is None else f"{x:.0f} €"
 
 
-def blokas(r):
+def kiek(n):
+    if n % 10 == 1 and n % 100 != 11:
+        return f"{n} skelbimą"
+    if 2 <= n % 10 <= 9 and not 12 <= n % 100 <= 19:
+        return f"{n} skelbimus"
+    return f"{n} skelbimų"
+
+
+def pastraipos(r):
+    """Vienas radinys – keli paprasti sakiniai."""
     d = r.get("derybos") or {}
-    eil = [
-        f"{r['pavadinimas']} – prašo {eur(r.get('kaina'))} ({r['sprendimas'].upper()})",
-        f"  Parduosi už ~{eur(r.get('tiketina_pardavimo'))}, pelnas {eur(r.get('pelnas'))}, mokėk ne daugiau {eur(r.get('max_pirkimo'))}",
-    ]
+    k = r.get("kastai") or {}
+    p = [f"Prašo {eur(r.get('kaina'))}. Perpardavęs greitai gautum ~{eur(r.get('tiketina_pardavimo'))}, "
+         f"tad atėmus siuntimą ir kitus kaštus uždirbtum apie {eur(r.get('pelnas'))}. Daugiau nei {eur(r.get('max_pirkimo'))} nemokėk."]
+    po = r.get("pozicija") or {}
+    if po.get("is") and po.get("mediana"):
+        pig = po["vieta"] - 1
+        kiti = "pigesnio nėra" if pig == 0 else ("pigesnis tik vienas" if pig == 1 else f"pigesnių yra {pig}")
+        p.append(f"Iš {po['is']} panašių skelbimų {kiti}, o įprasta kaina apie {eur(po['mediana'])}"
+                 f" (šis {round(po.get('nuolaida', 0) * 100)} % pigesnis).")
+    a = r.get("aprasymas_analize") or {}
+    if a.get("rizikos_zodziai"):
+        p.append("Atsargiai, aprašyme minima: " + ", ".join(a["rizikos_zodziai"]) + ".")
+    if a.get("privalumai"):
+        p.append("Aprašyme: " + ", ".join(a["privalumai"]) + ".")
     if r.get("naujo_min"):
-        eil.append(f"  Naujas parduotuvėje nuo {eur(r['naujo_min'])}")
-    if r.get("kodel"):
-        eil.append(f"  {r['kodel']}")
+        p.append(f"Naujas parduotuvėje kainuoja nuo {eur(r['naujo_min'])}.")
     if d.get("siulymas"):
-        eil.append(f"  Derybos: siūlyk {eur(d['siulymas'])}, riba {eur(d.get('riba'))}")
-    eil.append(f"  {(r.get('kastai') or {}).get('budas', '')} · patikimumas {r.get('patikimumas', '?')}")
-    eil.append(f"  {r['nuoroda']}")
-    return "\n".join(eil)
+        p.append(f"Pradėk nuo {eur(d['siulymas'])}" + (" – pardavėjas turi kur nuleisti." if r["sprendimas"] == "derėtis" else "."))
+    if k.get("budas"):
+        p.append(k["budas"][0].upper() + k["budas"][1:].rstrip(".") + ".")
+    return p
+
+
+def laiskas(siusti, viso):
+    vienas = len(siusti) == 1
+    pirmas = siusti[0]
+    tema = (f"{pirmas['pavadinimas'][:45]} už {eur(pirmas.get('kaina'))} – galima uždirbti ~{eur(pirmas.get('pelnas'))}" if vienas
+            else f"Radau {kiek(viso)} verta pažiūrėti – geriausias {pirmas['pavadinimas'][:35]} (~{eur(pirmas.get('pelnas'))})")
+    ivadas = "radau skelbimą, kurį verta pažiūrėti." if vienas else f"radau {kiek(viso)}, kuriuos verta pažiūrėti. Geriausi viršuje."
+    txt, html = [f"Labas,\n\n{ivadas}"], [f"<p>Labas,</p><p>{escape(ivadas)}</p>"]
+    for r in siusti:
+        pa = pastraipos(r)
+        txt.append(f"{r['pavadinimas']}\n" + " ".join(pa) + f"\n{r['nuoroda']}")
+        html.append(
+            f'<div style="margin:18px 0;padding:14px 16px;border:1px solid #ddd;border-radius:10px">'
+            f'<div style="font-size:17px;font-weight:bold;margin-bottom:6px">{escape(r["pavadinimas"])}</div>'
+            + "".join(f'<p style="margin:4px 0">{escape(x)}</p>' for x in pa)
+            + f'<p style="margin:10px 0 0"><a href="{escape(r["nuoroda"])}" style="background:#2e7d4f;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none;display:inline-block">Atidaryti skelbimą</a></p></div>')
+    if viso > len(siusti):
+        txt.append(f"Dar {viso - len(siusti)} rasi svetainėje.")
+        html.append(f"<p>Dar {viso - len(siusti)} rasi svetainėje.</p>")
+    pabaiga = "Visi palyginimai ir derybų patarimai – svetainėje. Pirkti ar ne, sprendi tu."
+    txt.append(f"{pabaiga}\n{SVETAINE}")
+    html.append(f'<p>{pabaiga}<br><a href="{SVETAINE}">{SVETAINE}</a></p>')
+    msg = MIMEMultipart("alternative")
+    msg.attach(MIMEText("\n\n".join(txt), "plain", "utf-8"))
+    msg.attach(MIMEText('<div style="font-family:Arial,sans-serif;font-size:15px;line-height:1.45;color:#222;max-width:560px">' + "".join(html) + "</div>", "html", "utf-8"))
+    msg["Subject"] = tema
+    return msg
 
 
 def main():
@@ -50,14 +97,8 @@ def main():
         print("Naujų radinių pranešimui nėra.")
         return
     nauji.sort(key=lambda r: -(r.get("balas") or 0))
-    siusti = nauji[:MAX_LAISKE]
-    tekstas = "\n\n".join(blokas(r) for r in siusti)
-    if len(nauji) > len(siusti):
-        tekstas += f"\n\nDar {len(nauji) - len(siusti)} – žr. svetainėje."
-    tekstas += f"\n\nVisi radiniai ir įrodymai: {SVETAINE}\nSistema nieko neperka ir nerašo – sprendi tu."
-    msg = MIMEText(tekstas, "plain", "utf-8")
-    msg["Subject"] = f"Skelbimai: {len(nauji)} nauji radiniai, geriausias {siusti[0]['pavadinimas'][:40]} ({eur(siusti[0].get('pelnas'))})"
-    msg["From"], msg["To"] = user, to
+    msg = laiskas(nauji[:MAX_LAISKE], len(nauji))
+    msg["From"], msg["To"] = f"Skelbimų medžioklė <{user}>", to
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as s:
             s.login(user, pw)

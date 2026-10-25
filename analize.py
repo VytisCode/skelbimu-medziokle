@@ -110,6 +110,34 @@ def parduotuviu_nuorodos(fraze: str) -> list[dict]:
             {"pavadinimas": "Google Shopping", "url": f"https://www.google.com/search?tbm=shop&q={q}"}]
 
 
+# Aprašymo žodžiai: rizikos (galimi defektai) ir privalumai. Ieškoma be diakritikų.
+RIZIKOS = {"defekt": "defektas", "neveik": "neveikia", "suged": "sugedęs", "dalims": "dalims", "iskil": "įskilęs",
+           "skilin": "skilinėjęs", "truksta": "trūksta detalių", "be pakrov": "be pakrovėjo", "be krovikl": "be kroviklio",
+           "uzrakint": "užrakintas", "icloud": "iCloud", "blokuot": "užblokuotas", "braizyt": "braižytas", "ilenk": "įlenkimai",
+           "drift": "pultelių drift", "silpna baterij": "silpna baterija", "baterija laiko": "baterijos būklė",
+           "remont": "remontuotas", "taisyt": "taisytas", "neoriginal": "neoriginalus", "kopija": "kopija",
+           "replika": "replika", "nepatikrint": "nepatikrintas", "kaip yra": "„kaip yra“", "atristas": "atrištas (modifikuotas)",
+           "atrist": "atrištas (modifikuotas)"}
+PRIVALUMAI = {"garantij": "garantija", "cekis": "čekis", "cekiu": "čekis", "kvit": "kvitas", "saskait": "sąskaita",
+              "su dez": "su dėže", "originali dez": "su dėže", "komplekt": "komplektas", "nenaudot": "nenaudotas", "mazai naudot": "mažai naudotas",
+              "ideal": "ideali būklė", "puikios bukles": "puiki būklė", "labai geros bukles": "labai gera būklė",
+              "nauja": "nauja", "naujas": "naujas", "originali pakuot": "originali pakuotė"}
+
+
+def aprasymo_analize(s: dict) -> dict:
+    if s.get("pilnas_aprasymas", "").startswith("Aprašymas:"):     # ankstesnio atpažinimo liekana
+        s["pilnas_aprasymas"] = s["pilnas_aprasymas"][len("Aprašymas:"):].strip()
+    if len(s.get("bukle") or "") < 4:
+        s.pop("bukle", None)
+    tekstas = be_diakritiku(" ".join([s.get("pavadinimas", ""), s.get("pilnas_aprasymas") or s.get("aprasymas", ""),
+                                      " ".join(s.get("parametrai") or []), s.get("bukle", "")]))
+    rizikos = sorted({v for k, v in RIZIKOS.items() if k in tekstas})
+    privalumai = sorted({v for k, v in PRIVALUMAI.items() if re.search(r"\b" + re.escape(k), tekstas)})
+    apr = s.get("pilnas_aprasymas") or s.get("aprasymas") or ""
+    return {"rizikos_zodziai": rizikos, "privalumai": privalumai, "aprasymo_ilgis": len(apr),
+            "pilnas": bool(s.get("pilnas_aprasymas"))}
+
+
 def miestas(s: dict) -> str:
     return (s.get("vieta_laikas") or "").split(",")[0].strip()
 
@@ -229,6 +257,44 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
                 r[key] = claude[key]
         if k["nepervezamas"]:
             r["sprendimas"] = "praleisti"
+    # Vieta tarp to paties modelio skelbimų ir „kodėl būtent šis“.
+    ap = aprasymo_analize(s)
+    r["aprasymas_analize"] = ap
+    if kaina and len(kainos) >= 2:
+        visos = sorted(kainos + [kaina])
+        vieta = visos.index(kaina) + 1
+        med_v = statistics.median(kainos)
+        nuolaida = 1 - kaina / med_v
+        r["pozicija"] = {"vieta": vieta, "is": len(visos), "min": min(kainos), "max": max(kainos), "mediana": med_v,
+                         "nuolaida": round(nuolaida, 2)}
+        if vieta == 1:
+            sak = f"Pigiausias iš {len(visos)} to paties modelio skelbimų"
+        else:
+            sak = f"{vieta}-as pigiausias iš {len(visos)}"
+        sak += f" (kiti {eur(min(kainos))}–{eur(max(kainos))}, mediana {eur(med_v)})"
+        sak += f", {abs(nuolaida):.0%} {'pigiau' if nuolaida >= 0 else 'brangiau'} už medianą."
+    else:
+        sak = "Panašių skelbimų dar per mažai palyginti."
+    istartinas = kaina and r.get("mediana") and kaina < 0.55 * r["mediana"]
+    if istartinas:
+        sak += " Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus."
+    if ap["rizikos_zodziai"]:
+        sak += " Aprašyme: " + ", ".join(ap["rizikos_zodziai"]) + "."
+    if ap["privalumai"]:
+        sak += " Privalumai: " + ", ".join(ap["privalumai"]) + "."
+    if not ap["aprasymo_ilgis"]:
+        sak += " Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos."
+    r["kodel"] = sak
+    # Rizikos žodžiai arba įtartinai maža kaina be pilno aprašymo – ne „Pirkti“, o „Patikrinti“.
+    if r["sprendimas"] in ("verta", "derėtis") and (ap["rizikos_zodziai"] or (istartinas and not ap["pilnas"])):
+        r["sprendimas"] = "tikrinti"
+        r["priezastis"] = ("aprašyme: " + ", ".join(ap["rizikos_zodziai"])) if ap["rizikos_zodziai"] else "įtartinai pigu – patikrink aprašymą"
+        r["balas"] = round((r.get("balas") or 0) * 0.6)
+    elif r.get("balas"):
+        r["balas"] = min(100, round(r["balas"] + 3 * len(ap["privalumai"])))
+    r["visi_palyginami"] = [{"kaina": x["kaina"], "nuoroda": x["nuoroda"], "pavadinimas": x["pavadinimas"][:60]} for x in komp[:40]]
+    naujo_kainos = [p_["kaina"] for p_ in r["parduotuves"] if p_.get("kaina")]
+    r["naujo_min"] = min(naujo_kainos) if naujo_kainos else (float(naujo) if naujo else None)
     r["zingsniai"] = zingsniai
     return r
 
@@ -251,7 +317,8 @@ def main() -> int:
             continue
         a = ivertinti(s, visi, vertinimai.get(s["id"]))
         radiniai.append({k: s.get(k) for k in ("id", "nuoroda", "pavadinimas", "kaina", "nuotrauka", "aprasymas",
-                                               "vieta_laikas", "paieska", "pastebetas", "parametrai")} | a)
+                                               "vieta_laikas", "paieska", "pastebetas", "parametrai", "pilnas_aprasymas",
+                                               "bukle")} | a)
     tvarka = {"verta": 0, "derėtis": 1, "tikrinti": 2, "nežinoma": 3, "praleisti": 4}
     radiniai.sort(key=lambda r: (tvarka.get(r["sprendimas"], 9), -(r["balas"] or 0)))
     rinka = {}

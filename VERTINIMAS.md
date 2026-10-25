@@ -35,16 +35,14 @@ Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų, ne daugiau 25 skelbimų p
     "tiketina_pardavimo": 0, "kainos_pagrindimas": "", "patikimumas": "vidutinis", "sprendimas": "verta",
     "priezastis": "", "rizikos": "", "skelbimo_tekstas": "", "stovas": false, "ivertinta": "YYYY-MM-DD"}
    ```
-5. Įrodymai pirkiniams: privatus žurnalas https://claude.ai/artifact/BnoZFVQTbE2ErNKnU8aGji (ArtifactData,
-   kolekcija `sandoriai`). Kiekvienam dokumentui su `skelbimo_id`, bet be `irodymas`, rask skelbimą
-   `data/skelbimai.json` ir `update` lauką `irodymas` = {skelbimo_id, pavadinimas, kaina, nuoroda, vieta_laikas,
-   aprasymas (≤500 simb.), nuotrauka, pastebetas, uzfiksuota (dabar), saltinis: "istorija"} (su `if_version`).
-   Žurnalo duomenų niekada nekelk į repo.
+5. Įrodymai pirkiniams: `docs/sandoriai.json` (pildo vartotojas svetainėje). Jei kuris įrašas turi nuorodą, bet neturi
+   `irodymas`, užpildyk jį iš `data/skelbimai.json` (pavadinimas, kaina, vieta_laikas, aprasymas ≤ 600 simb., bukle,
+   pastebetas, uzfiksuota, saltinis: "istorija"). Kitų žurnalo laukų nekeisk.
 6. Vėl `python3 analize.py`, tada `git pull --rebase origin main`, commit „Claude vertinimas YYYY-MM-DD“, push į `main`.
 
 ## Taisyklės
 
 - Niekada nieko nepirk, nerašyk pardavėjams, nedėk skelbimų.
-- Repo viešas: jokių vartotojo pirkimų, pardavimų, pelno ar asmeninių duomenų.
+- Repo viešas: jokių asmens duomenų (vardų, telefonų, adresų). Žurnalas vieša vartotojo sutikimu.
 - Nekeisk `skelbiu.py`, workflow failų ir `pension-fund-tracker` repo.
 - Pabaigoje viena eilutė: kiek įvertinta, kiek „verta“, geriausias radinys su pelnu.

@@ -251,13 +251,13 @@ def detales(nar, istorija: dict) -> dict:
 
 def atpazinti_detales(h: str) -> dict:
     out = {}
-    m = (re.search(r'itemprop="description"[^>]*>(.*?)</(?:div|p|span)>', h, re.S)
-         or re.search(r'<div[^>]+class="[^"]*\bdescription\b[^"]*"[^>]*>(.*?)</div>', h, re.S)
+    m = (re.search(r'<div class="description">(.*?)</div>', h, re.S)
          or re.search(r'<meta property="og:description" content="([^"]*)"', h))
     out["pilnas_aprasymas"] = svarus(m.group(1))[:2000] if m else ""
-    b = re.search(r"Būklė:?\s*</?[^>]*>?\s*([A-Za-zĄČĘĖĮŠŲŪŽąčęėįšųūž ]{3,30})", h)
-    if b:
-        out["bukle"] = svarus(b.group(1))
+    for lab, val in re.findall(r'<div class="details-row"><label>(.*?)</label><span>(.*?)</span>', h, re.S):
+        out.setdefault("detales", {})[svarus(lab).rstrip(":")] = svarus(val)
+    if "Būklė" in out.get("detales", {}):
+        out["bukle"] = out["detales"]["Būklė"]
     return out
 
 

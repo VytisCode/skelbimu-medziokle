@@ -112,7 +112,7 @@ def main():
             else:
                 s = smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60)
             etapas = "prisijungimas"; s.login(user, pw)
-            etapas = "siuntimas"; s.sendmail(user, [to], msg.as_string())
+            etapas = "siuntimas"; s.sendmail(user, [a.strip() for a in to.split(",") if a.strip()], msg.as_string())
             s.quit()
             break
         except smtplib.SMTPAuthenticationError as e:

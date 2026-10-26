@@ -25,7 +25,19 @@
   "rizikos": "Patikrink, ar visos detalės (1920 vnt.) – paprašyk nuotraukos su instrukcija ir dėže.",
   "skelbimo_tekstas": "LEGO Technic 42130 BMW M 1000 RR\nSurinktas vieną kartą, visos detalės ir keletas atsarginių. Originali dėžė ir instrukcija puikios būklės. Puiki dovana motociklų mėgėjui – rinkinys parduotuvėse kainuoja ~250 €. Siunčiu paštomatu arba atsiimti Vilniuje.",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "LEGO Technic 42130 BMW M 1000 RR – didelis motociklo modelis (1920 detalių, 2022). Parduotuvėse dar kainuoja ~250 €. Naudoto vertę lemia, ar yra visos detalės, dėžė ir instrukcija.",
+  "tikrinti": [
+   "Ar išardytas ir sudėtas į maišelius, ar surinktas (surinktą siųsti sunku).",
+   "Ar yra visos detalės, lipdukai ir instrukcija.",
+   "Ar dėžė ne suspausta."
+  ],
+  "galimybe": "Naujas ~250 €, šis su dėže ir instrukcija už 125 €. Tai apie 50 % naujo kainos, kai įprastai pilni naudoti rinkiniai parduodami už 60–65 %.",
+  "pardavimas": [
+   "Kainą nurodyk 170 €, derėkis iki ~155 €.",
+   "Nufotografuok surinktą modelį – tai parduoda geriausiai.",
+   "Lapkričio–gruodžio dovanų sezonas."
+  ]
  },
  "87814570": {
   "modelis": "LEGO BrickLink Designer Program 910031 General Store (naujas, neatidarytas)",
@@ -47,7 +59,18 @@
   "rizikos": "Nišinis riboto leidimo rinkinys – parduoti gali užtrukti; patikrink, ar pakuotė neatplėšta.",
   "skelbimo_tekstas": "LEGO 910031 General Store (BrickLink Designer Program)\nNaujas, neatidarytas riboto leidimo rinkinys, 1906 detalės. Kolekcionierių rinkinys, parduotuvėse nebeparduodamas. Siunčiu paštomatu arba atsiimti Vilniuje.",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "LEGO BrickLink Designer Program 910031 General Store – riboto tiražo kolekcinis rinkinys (2023), parduotuvėse jo nebėra. Vertę lemia tai, ar dėžė neatidaryta ir nepažeista.",
+  "tikrinti": [
+   "Ar dėžė užklijuota originaliais lipdukais (neatplėšta).",
+   "Dėžės kampai nesutrenkti – kolekcionieriams tai svarbu.",
+   "Ar tai tikrai 910031, o ne kopija („Lepin“ ar panaši) – paprašyk nuotraukų iš visų pusių."
+  ],
+  "galimybe": "Pasaulinė rinkos vertė (BrickEconomy) ~205 €, o prašoma 145 €. Lietuvoje tokio rinkinio pirkėjų mažai, todėl parduoti gali užtrukti 1–2 mėn. Gali pardavinėti ir per Vinted ar BrickLink užsieniečiams.",
+  "pardavimas": [
+   "Kainą nurodyk 195 €, pavadinime parašyk „BrickLink Designer Program, retas, neatidarytas“.",
+   "Siųsk tik gerai supakavęs (dėžę į dėžę)."
+  ]
  },
  "87814500": {
   "modelis": "LEGO Star Wars 75323 The Justifier (naujas)",
@@ -75,7 +98,16 @@
   "rizikos": "",
   "skelbimo_tekstas": "",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "LEGO Star Wars 75323 The Justifier (2022), naujas, neatidarytas. Parduotuvėse dar yra už 163–182 €.",
+  "tikrinti": [
+   "Ar dėžė neatplėšta.",
+   "Ar ne kopija – paprašyk nuotraukos su LEGO logotipu ir lipdukais."
+  ],
+  "galimybe": "Kol jis dar yra parduotuvėse (~163 €), naujo iš rankų niekas nepirks daug brangiau nei ~135 €. Uždirbti galima tik pirkus už ≤ 95 €. Kai rinkinys dings iš parduotuvių, jo vertė dažniausiai kyla.",
+  "pardavimas": [
+   "Jei nusiperki pigiai, gali palaukti, kol dings iš parduotuvių, arba parduoti prieš Kalėdas už ~140 €."
+  ]
  },
  "87817358": {
   "modelis": "DJI Mic Mini (2 TX + 1 RX + dėklas)",
@@ -153,7 +185,19 @@
   "rizikos": "Patikrink, ar ne Solar / AMOLED versija ir ar yra kroviklis.",
   "skelbimo_tekstas": "Garmin Instinct Crossover\nHibridinis (rodyklės + ekranas) sportinis laikrodis, beveik naujos būklės, mažai naudotas. Tvirtas, ilgai laikanti baterija. Parduotuvėse kainuoja nuo ~285 €. Atsiimti Vilniuje arba siunčiu paštomatu.",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "Garmin Instinct Crossover – hibridinis laikrodis su tikromis rodyklėmis ir ekranu, labai ilgai laikanti baterija. Yra paprasta, Solar ir AMOLED versijos – jos kainuoja labai skirtingai.",
+  "tikrinti": [
+   "Kuri versija (Standard, Solar ar AMOLED) – parašyta laikrodžio nugarėlėje arba nustatymuose „Apie“.",
+   "Ar laikrodis atsietas nuo pardavėjo Garmin Connect paskyros (kitaip negalėsi naudotis).",
+   "Ar yra kroviklio laidas.",
+   "Ar stiklas ir korpusas neįskilę."
+  ],
+  "galimybe": "Naujas Standard kainuoja nuo 285 €, prašoma 179 €. Tai apie 63 % naujo kainos, todėl pelno yra tik nusiderėjus. Jei tai Solar versija, vertė didesnė ir proga geresnė.",
+  "pardavimas": [
+   "Kainą nurodyk 215 €.",
+   "Garmin pirkėjai sportininkai – pavadinime rašyk tikslų modelį ir baterijos trukmę."
+  ]
  },
  "87816188": {
   "modelis": "DJI Osmo Action 5 Pro Adventure Combo",
@@ -203,7 +247,20 @@
   "rizikos": "Baterija: patikrink, kiek laiko veikia (turi būti ≥ 15 min. normaliu režimu); ar yra kroviklis.",
   "skelbimo_tekstas": "Dyson Cyclone V10 belaidis dulkių siurblys\nVeikiantis, baterija laiko gerai, su įprastomis naudojimo žymėmis. Komplekte siurblys, kroviklis ir antgaliai (kaip nuotraukose). Naujas kainuoja ~360 €. Atsiimti Vilniuje arba siunčiu paštomatu.",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "Dyson V10 – belaidis rankinis siurblys (2018). Jo vertę lemia baterija: nauja veikia ~60 min., sena 10–20 min. Pakaitinė baterija kainuoja ~40–60 €.",
+  "tikrinti": [
+   "Įjunk ir paleisk 5 min. normaliu režimu – neturi pulsuoti ar išsijunginėti (tai baterijos mirties ženklas).",
+   "Ar yra kroviklis ir bent 2 antgaliai (motorizuotas šepetys didina vertę).",
+   "Ar filtras ir dulkių talpa nesulaužyti, ar šepetys sukasi.",
+   "Klausk, kiek metų naudotas ir ar baterija keista."
+  ],
+  "galimybe": "Naujas kainuoja nuo ~360 €, o naudoti V10 Lietuvoje parduodami ~130–160 €. 100 € yra apatinė rinkos riba. Rizika tik viena – baterija, ir ją patikrinsi vietoje per 5 minutes.",
+  "pardavimas": [
+   "Išvalyk filtrą ir talpą – švarus siurblys parduodamas brangiau.",
+   "Kainą nurodyk 160 €, derėkis iki ~140 €.",
+   "Skelbime parašyk, kiek minučių laiko baterija (tai pirmas pirkėjų klausimas)."
+  ]
  },
  "87816974": {
   "modelis": "DeWalt DCD796 (komplektacija nežinoma)",
@@ -328,7 +385,22 @@
   "rizikos": "Paklausk serijos numerio (XAW… = V1, XKW… = V2) ir ar yra dokas, pulteliai, kroviklis.",
   "skelbimo_tekstas": "Nintendo Switch\nTvarkinga, veikianti konsolė su dokų stotimi, Joy-Con pulteliais ir krovikliu. Paruošta žaisti. Atsiimti Vilniuje arba siunčiu paštomatu.",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "Nintendo Switch – nešiojama ir prie TV jungiama žaidimų konsolė. Yra 3 versijos: V1 (2017, trumpiau laiko baterija), V2 (2019, baterija ~2× ilgiau, vertinga labiau), OLED (2021, didesnis ekranas). Switch 2 (2025) jų kainas spaudžia žemyn.",
+  "tikrinti": [
+   "Serijos numeris ant dėžutės ar apačioje: XAW… = V1, XKW… = V2 (V2 verta ~20 € daugiau).",
+   "Ar komplekte dokas, HDMI laidas, kroviklis ir abu Joy-Con pulteliai (be jų atimk 30–50 €).",
+   "Joy-Con „drift“: paprašyk vaizdo įrašo, kad veikėjas nejuda pats.",
+   "Ar konsolė neužblokuota (banned) – paprašyk ekrano nuotraukos su eShop.",
+   "Įbrėžimai ekrane ir ar ventiliatorius neūžia."
+  ],
+  "galimybe": "Prašo 100 €, o 4 iš 6 panašių skelbimų prašo 150–180 €. Aprašymas trumpas („naudotas tvarkingas“), todėl pigumą gali lemti ir trūkstami priedai – būtent tai ir patikrink. Jei komplektas pilnas, skirtumo nuo brangesnių nematau, išskyrus žaidimus, kuriuos kiti prideda.",
+  "pardavimas": [
+   "Skelbiu.lt ir Vinted kainą nurodyk 155 €, derėkis iki ~140 €.",
+   "Pavadinime nurodyk versiją (V1/V2) ir „pilnas komplektas“.",
+   "Nufotografuok įjungtą ekraną ir visus priedus.",
+   "Lapkritį ir gruodį paklausa didžiausia (dovanos)."
+  ]
  },
  "87792604": {
   "modelis": "Nintendo Switch (su ekrano įbrėžimais)",
@@ -343,7 +415,19 @@
   "rizikos": "Paprašyk ekrano nuotraukos šviesoje – gilūs įbrėžimai mažina kainą.",
   "skelbimo_tekstas": "",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "Tas pats Nintendo Switch modelis, bet ekranas subraižytas – tai mažina kainą 20–30 €.",
+  "tikrinti": [
+   "Ekrano nuotrauka įjungus baltą foną – gilūs įbrėžimai matosi žaidžiant.",
+   "Serijos numeris (XAW = V1, XKW = V2).",
+   "Komplektas: dokas, pulteliai, kroviklis.",
+   "Joy-Con drift ir ar konsolė neužblokuota."
+  ],
+  "galimybe": "Pigiausias iš 7 skelbimų, bet su defektu. Ekrano apsauginis stikliukas (~5 €) paslepia smulkius įbrėžimus – tada parduotum ~120–130 €.",
+  "pardavimas": [
+   "Užklijuok apsauginį stikliuką (~5 €) prieš fotografuodamas.",
+   "Kainą nurodyk 135 €, sąžiningai paminėk smulkius įbrėžimus."
+  ]
  },
  "87820916": {
   "modelis": "5 Dyson Motorhead antgaliai (V7/V8/V10/V11/V15)",
@@ -373,7 +457,19 @@
   "rizikos": "Daug padirbinių: tikrink gyvai serijos numerį ant rankenos ir patikrink jį Dyson svetainėje.",
   "skelbimo_tekstas": "",
   "stovas": false,
-  "ivertinta": "2026-10-26"
+  "ivertinta": "2026-10-26",
+  "apie": "Dyson Airwrap – plaukų formavimo prietaisas, originalas naujas kainuoja ~450–600 €. Tai vienas dažniausiai padirbinėjamų daiktų.",
+  "tikrinti": [
+   "Serijos numeris rankenoje: patikrink jį Dyson svetainėje (padirbiniai serijos neturi arba ji netikra).",
+   "Svoris ir garsas: originalas tylus, kokybiškos medžiagos.",
+   "Kiek ir kokie antgaliai komplekte, ar yra dėklas.",
+   "Pirk tik gyvai, po patikrinimo."
+  ],
+  "galimybe": "Jei originalas, 170 € yra pigu, nes naudoti originalai parduodami už ~200–250 €. Tačiau palyginimų mažai, o rinkoje daug padirbinių. Todėl tai proga tik po patikrinimo gyvai.",
+  "pardavimas": [
+   "Pridėk serijos numerio nuotrauką – originalumo įrodymas kelia kainą.",
+   "Kainą nurodyk 240 €."
+  ]
  },
  "87831164": {
   "modelis": "Dyson plaukų džiovintuvas (galimai Supersonic)",
@@ -494,5 +590,49 @@
   "skelbimo_tekstas": "",
   "stovas": false,
   "ivertinta": "2026-10-26"
+ },
+ "85547538": {
+  "modelis": "Kindle Paperwhite (karta nežinoma)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": null,
+  "kainos_pagrindimas": "",
+  "patikimumas": "žemas",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-10-26",
+  "sprendimas": "tikrinti",
+  "priezastis": "„Paperwhite“ yra 5 kartų (2012–2024), vertė nuo 25 € iki 140 €. Pirmiausia paklausk, kuri karta.",
+  "apie": "Kindle Paperwhite – el. knygų skaityklė. Kainą beveik vien lemia karta: PW1–PW3 (2012–2015) ~25–40 €, PW4 (2018) ~60–80 €, PW5 / 11-ta karta (2021) ~90–110 €.",
+  "tikrinti": [
+   "Kuri karta: Nustatymai → Įrenginio info arba serijos numerio pradžia.",
+   "Ar neužrakintas kito Amazon paskyroje.",
+   "Ar neįskilęs ekranas, ar laiko baterija."
+  ],
+  "galimybe": "Palyginimas neaiškus, nes tarp panašių skelbimų yra ir 2012, ir 2024 m. modelių. Verta tik tada, jei tai 11-ta karta (2021+).",
+  "pardavimas": [
+   "Pavadinime visada rašyk kartą ir metus."
+  ]
+ },
+ "87822186": {
+  "modelis": "PS5 žaidimas Mafia: The Old Country",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": null,
+  "kainos_pagrindimas": "",
+  "patikimumas": "žemas",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-10-26",
+  "sprendimas": "praleisti",
+  "priezastis": "Žaidimo diskas: pelnas ~5 €, nevertas tavo laiko.",
+  "apie": "",
+  "tikrinti": [],
+  "galimybe": "",
+  "pardavimas": []
  }
 }

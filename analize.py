@@ -332,7 +332,8 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
                  max_pirkimo=round(max_pirkimo) if max_pirkimo > 0 else 0,
                  pelnas_per_val=round(pelnas / k["valandos"]), sprendimas=spr, priezastis=prz, balas=round(min(balas, 100)))
     if claude:
-        for key in ("sprendimas", "priezastis", "skelbimo_tekstas", "rizikos", "ivertinta", "stovas", "naujo_saltinis"):
+        for key in ("sprendimas", "priezastis", "skelbimo_tekstas", "rizikos", "ivertinta", "stovas", "naujo_saltinis",
+                    "apie", "tikrinti", "galimybe", "pardavimas", "kainos_pagrindimas"):
             if claude.get(key) not in (None, ""):
                 r[key] = claude[key]
         if k["nepervezamas"]:

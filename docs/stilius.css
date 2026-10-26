@@ -139,3 +139,11 @@ td.t{white-space:normal;min-width:160px}
 .localtag{grid-column:1/-1;justify-self:start;font:700 .8rem var(--body);color:#fff;background:var(--loc);border-radius:999px;padding:3px 10px}
 @media (prefers-color-scheme:dark){.localtag{color:#0b1a28}}
 .card.local .axisbox,.card.local pre{background:var(--panel)}
+.acts{display:flex;flex-wrap:wrap;gap:8px}
+.acts .btn{display:inline-block;text-decoration:none;font:600 .85rem var(--body);border:1px solid var(--line);border-radius:8px;padding:8px 12px;color:var(--fg);background:var(--panel)}
+.acts .btn.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+details.sec{border-top:1px solid var(--line);padding-top:6px}
+details.sec>summary{font-weight:700;color:var(--fg);font-size:.95rem;padding:4px 0}
+.quote{font-size:.85rem;color:var(--muted);border-left:3px solid var(--line);padding-left:8px;margin:6px 0;white-space:pre-wrap}
+.evid a,.evt a{color:var(--fg)}
+.evt td.n{white-space:nowrap}

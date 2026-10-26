@@ -13,7 +13,7 @@ let D, B, filter = "verta", items = [], sha = null, editIdx = null, evidence = n
 
 // ---------- Kainų ašis: visi taškai vienoje linijoje, 100 % = naujo kaina (arba įprasta naudoto kaina) ----------
 const pc = (v, base) => Math.round(v / base * 100) + " %";
-function priceAxis(r) {
+function priceAxis(r, openEv) {
   const comps = r.visi_palyginami || [];
   if (!r.kaina || (!comps.length && !r.naujo_min)) return null;
   const base = r.naujo_min || r.mediana;
@@ -47,19 +47,19 @@ function priceAxis(r) {
   if (r.tiketina_pardavimo) pin(r.tiketina_pardavimo, "sell", "Parduosi " + fmt(r.tiketina_pardavimo), "down");
   if (r.naujo_min) pin(r.naujo_min, "new", "Naujas " + fmt(r.naujo_min), Math.abs(r.naujo_min - r.kaina) / top < 0.3 ? "up2" : "up");
   box.append(ax);
-  box.append(evidence_(r, base));
+  box.append(evidence_(r, base, openEv));
   return box;
 }
 
 // Įrodymų lentelė: kiekviena kaina su nuoroda
-function evidence_(r, base) {
+function evidence_(r, base, open) {
   const comps = r.visi_palyginami || [];
   const rows = comps.map(c => ({t: c.pavadinimas, url: c.nuoroda, v: c.kaina, risk: c.rizikos || [], cls: ""}));
   rows.push({t: "ŠIS SKELBIMAS", url: r.nuoroda, v: r.kaina, cls: "me"});
   (r.parduotuves || []).forEach(p => p.kaina && rows.push({t: "Naujas – " + (p.parduotuve || "parduotuvė"), url: p.url, v: p.kaina, cls: "new"}));
   rows.sort((a, b) => a.v - b.v);
-  const det = el("details", "evid");
-  det.append(el("summary", "", `Įrodymai: ${comps.length} panašūs skelbimai` + ((r.parduotuves || []).length ? ` ir ${r.parduotuves.length} parduotuvės` : "") + " su nuorodomis"));
+  const det = el("details", "evid"); det.open = !!open;
+  det.append(el("summary", "", (comps.length ? `Įrodymai: ${comps.length} panašūs skelbimai` : "Įrodymai: panašių skelbimų Skelbiu.lt dabar nėra") + ((r.parduotuves || []).length ? `, ${r.parduotuves.length} parduotuvės` : "") + " – su nuorodomis"));
   const t = el("table", "evt"); const tb = el("tbody");
   for (const x of rows) {
     const tr = el("tr", x.cls); const td = el("td");
@@ -116,6 +116,7 @@ function reasons(r) {
 // ---------- Radinio kortelė ----------
 function card(r, big) {
   const local = r.kastai && r.kastai.vietinis;
+  const main = ["verta", "derėtis"].includes(r.sprendimas);
   const c = el("article", "card" + (big ? " big" : "") + (local ? " local" : ""));
   const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer";
   img.onerror = () => img.style.visibility = "hidden"; if (r.nuotrauka) img.src = r.nuotrauka;
@@ -130,32 +131,65 @@ function card(r, big) {
   n("Prašo", fmt(r.kaina)); n("Parduosi už ~", fmt(r.tiketina_pardavimo));
   n("Pelnas", fmt(r.pelnas), r.pelnas > 0 ? "pos" : r.pelnas < 0 ? "neg" : "");
   n("Mokėk ne daugiau", r.max_pirkimo ? fmt(r.max_pirkimo) : "—");
-  body.append(nums, reasons(r));
-  const axb = priceAxis(r); if (axb) body.append(axb);
-  if (r.bukle) body.append(el("div", "meta", "Būklė: " + r.bukle));
-  const sf = safety(r, big); if (sf) body.append(sf);
-  const co = coach(r, big); if (co) body.append(co);
+  body.append(nums);
+  // aiškūs mygtukai: skelbimas ir naujo kainos įrodymas
+  const acts = el("div", "acts");
+  acts.append(link(r.nuoroda, "Atidaryti skelbimą ↗", "btn primary"));
+  const shop = (r.parduotuves || []).find(p => p.kaina === r.naujo_min) || (r.parduotuves || [])[0];
+  if (shop) acts.append(link(shop.url, `Naujas: ${fmt(shop.kaina)} – ${shop.parduotuve} ↗`, "btn"));
+  else if ((r.parduotuviu_paieska || [])[0]) acts.append(link(r.parduotuviu_paieska[0].url, "Ieškoti naujo kainos ↗", "btn"));
+  body.append(acts);
+
+  const sec = (title, open, ...nodes) => { const d = el("details", "sec"); d.open = open; d.append(el("summary", "", title), ...nodes.filter(Boolean)); body.append(d); return d; };
+  // 1. Kodėl tai galimybė
+  sec("1. Kodėl tai galimybė (ar ne)", true, r.galimybe ? el("p", "why", r.galimybe) : null, reasons(r), signals(r));
+  // 2. Apie daiktą
+  const ab = [];
+  if (r.apie) ab.push(el("p", "why", r.apie));
+  if ((r.tikrinti || []).length) { ab.push(el("div", "sub", "Prieš pirkdamas patikrink / paklausk:")); const ul = el("ul", "plan"); r.tikrinti.forEach(t => ul.append(el("li", "", t))); ab.push(ul); }
+  if (r.bukle) ab.push(el("div", "meta", "Būklė pagal skelbimą: " + r.bukle));
+  const apr = r.pilnas_aprasymas || r.aprasymas;
+  if (apr) ab.push(el("p", "quote", "Pardavėjo aprašymas: „" + apr.replace(/^Aprašymas:\s*/, "") + "“"));
+  if (!r.apie && main) ab.unshift(el("div", "note", "Daikto aprašymą ir ką tikrinti Claude parašys rytinėje peržiūroje."));
+  sec("2. Apie daiktą ir ką patikrinti", big && main, ...ab);
+  // 3. Kainos ir įrodymai
+  const axb = priceAxis(r, big || main);
+  const how = el("ol", "steps"); (r.zingsniai || []).forEach(z => how.append(el("li", "", z)));
+  sec("3. Kainos ir įrodymai", big, r.kainos_pagrindimas ? el("p", "why", "Kaip įvertinta: " + r.kainos_pagrindimas) : null, axb, how);
+  // 4–5. Saugikliai ir derybos
+  const sf = safety(r, big); if (sf) { sf.classList.add("sec"); sf.querySelector("summary").textContent = "4. Saugikliai: sukčių rizika " + r.saugumas.lygis; body.append(sf); }
+  const co = coach(r, false); if (co) { co.classList.add("sec"); co.querySelector("summary").textContent = "5. Derybos: pradėk nuo " + fmt(r.derybos.siulymas); body.append(co); }
+  // 6. Pardavimas
+  if (r.tiketina_pardavimo) {
+    const sp = el("ul", "plan");
+    const list = Math.ceil(r.tiketina_pardavimo * 1.1 / 5) * 5;
+    sp.append(el("li", "", `Įkelk už ${fmt(list)} (~10 % virš tikėtinos – vieta derėtis), žemiau ${fmt(Math.round(r.tiketina_pardavimo * 0.95))} nenuleisk pirmas 2 savaites.`));
+    (r.pardavimas || []).forEach(t => sp.append(el("li", "", t)));
+    sp.append(el("li", "", "Skelbk Skelbiu.lt ir Vinted vienu metu; nuotraukos dienos šviesoje, visi priedai, įjungtas ekranas (jei yra)."));
+    const nodes = [sp];
+    if (r.skelbimo_tekstas) { const pre = el("pre", "", r.skelbimo_tekstas); const btn = el("button", "copy", "Kopijuoti skelbimo tekstą"); btn.type = "button";
+      btn.onclick = () => navigator.clipboard.writeText(r.skelbimo_tekstas).then(() => btn.textContent = "Nukopijuota", () => getSelection().selectAllChildren(pre)); nodes.push(pre, btn); }
+    sec("6. Kaip parduoti", false, ...nodes);
+  }
   body.append(el("div", "meta", [r.modelis, "kainos patikimumas: " + r.patikimumas, r.pelnas_per_val != null ? "~" + fmt(r.pelnas_per_val) + "/val." : "", r.vieta_laikas].filter(Boolean).join(" · ")));
   if (r.stovas) body.append(el("div", "why", "Stovo tipo proga: naujas ES su siuntimu pigesnis nei LT skelbimuose."));
-  if (r.rizikos) body.append(el("div", "meta", "Claude: " + r.rizikos));
-
-  const apr = r.pilnas_aprasymas || r.aprasymas;
-  if (apr) { const d = el("details"); d.append(el("summary", "", r.pilnas_aprasymas ? "Pilnas aprašymas" : "Aprašymo pradžia"), el("p", "meta", apr)); body.append(d); }
-
-  const how = el("details"); how.append(el("summary", "", "Kaip apskaičiuota"));
-  const ol = el("ol", "steps"); (r.zingsniai || []).forEach(z => ol.append(el("li", "", z))); how.append(ol);
-  body.append(how);
-
-  if (r.skelbimo_tekstas) {
-    const d = el("details"); d.append(el("summary", "", "Paruoštas skelbimo tekstas"));
-    const pre = el("pre", "", r.skelbimo_tekstas); const btn = el("button", "copy", "Kopijuoti"); btn.type = "button";
-    btn.onclick = () => navigator.clipboard.writeText(r.skelbimo_tekstas).then(() => btn.textContent = "Nukopijuota", () => getSelection().selectAllChildren(pre));
-    d.append(pre, btn); body.append(d);
-  }
+  if (r.rizikos) body.append(el("div", "meta", "Rizikos: " + r.rizikos));
   const buy = el("button", "copy", "Pirkau → į žurnalą"); buy.type = "button";
   buy.onclick = () => { try { localStorage.setItem("pirkau", JSON.stringify(r)); } catch {} location.href = "zurnalas.html#naujas"; };
   body.append(buy);
   c.append(head, body); return c;
+}
+
+// Skelbimo signalai: kada įkeltas, ar mažinta kaina, aprašymo kokybė
+function signals(r) {
+  const ul = el("div", "reasons");
+  const s = t => ul.append(el("div", "rz", "• " + t));
+  if (r.vieta_laikas) s("Įkeltas: " + r.vieta_laikas.split(",").slice(1).join(",").trim() + (r.amzius_d != null && r.amzius_d <= 1 ? " – šviežias, greitai gali dingti." : r.amzius_d >= 14 ? " – kabo seniai, pardavėjas linkęs nusileisti." : "."));
+  if (r.kaina_sumazejo) s(`Kaina jau mažinta: ${fmt(r.kaina_sumazejo.nuo)} → ${fmt(r.kaina_sumazejo.iki)}.`);
+  const ap = r.aprasymas_analize || {};
+  s(ap.aprasymo_ilgis > 150 ? "Aprašymas išsamus." : "Aprašymas trumpas – klausimų pardavėjui reikės daugiau.");
+  s("Pardavėjo kitų skelbimų sistema nemato – atidaryk skelbimą ir paspausk pardavėjo vardą: daug tokių pat daiktų pigiai = perpardavėjas arba sukčius.");
+  return ul;
 }
 
 function render() {

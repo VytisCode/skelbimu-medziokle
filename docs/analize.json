@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-26T04:47:08Z",
+ "sugeneruota": "2026-10-26T05:27:15Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -144,6 +144,22 @@
    "rizikos": "Paklausk serijos numerio (XAW… = V1, XKW… = V2) ir ar yra dokas, pulteliai, kroviklis.",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "apie": "Nintendo Switch – nešiojama ir prie TV jungiama žaidimų konsolė. Yra 3 versijos: V1 (2017, trumpiau laiko baterija), V2 (2019, baterija ~2× ilgiau, vertinga labiau), OLED (2021, didesnis ekranas). Switch 2 (2025) jų kainas spaudžia žemyn.",
+   "tikrinti": [
+    "Serijos numeris ant dėžutės ar apačioje: XAW… = V1, XKW… = V2 (V2 verta ~20 € daugiau).",
+    "Ar komplekte dokas, HDMI laidas, kroviklis ir abu Joy-Con pulteliai (be jų atimk 30–50 €).",
+    "Joy-Con „drift“: paprašyk vaizdo įrašo, kad veikėjas nejuda pats.",
+    "Ar konsolė neužblokuota (banned) – paprašyk ekrano nuotraukos su eShop.",
+    "Įbrėžimai ekrane ir ar ventiliatorius neūžia."
+   ],
+   "galimybe": "Prašo 100 €, o 4 iš 6 panašių skelbimų prašo 150–180 €. Aprašymas trumpas („naudotas tvarkingas“), todėl pigumą gali lemti ir trūkstami priedai – būtent tai ir patikrink. Jei komplektas pilnas, skirtumo nuo brangesnių nematau, išskyrus žaidimus, kuriuos kiti prideda.",
+   "pardavimas": [
+    "Skelbiu.lt ir Vinted kainą nurodyk 155 €, derėkis iki ~140 €.",
+    "Pavadinime nurodyk versiją (V1/V2) ir „pilnas komplektas“.",
+    "Nufotografuok įjungtą ekraną ir visus priedus.",
+    "Lapkritį ir gruodį paklausa didžiausia (dovanos)."
+   ],
+   "kainos_pagrindimas": "Panašūs skelbimai prašo ~165 €, realiai parduodama ~140 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -340,6 +356,20 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/dyson-cyclone-v10-animal/",
+   "apie": "Dyson V10 – belaidis rankinis siurblys (2018). Jo vertę lemia baterija: nauja veikia ~60 min., sena 10–20 min. Pakaitinė baterija kainuoja ~40–60 €.",
+   "tikrinti": [
+    "Įjunk ir paleisk 5 min. normaliu režimu – neturi pulsuoti ar išsijunginėti (tai baterijos mirties ženklas).",
+    "Ar yra kroviklis ir bent 2 antgaliai (motorizuotas šepetys didina vertę).",
+    "Ar filtras ir dulkių talpa nesulaužyti, ar šepetys sukasi.",
+    "Klausk, kiek metų naudotas ir ar baterija keista."
+   ],
+   "galimybe": "Naujas kainuoja nuo ~360 €, o naudoti V10 Lietuvoje parduodami ~130–160 €. 100 € yra apatinė rinkos riba. Rizika tik viena – baterija, ir ją patikrinsi vietoje per 5 minutes.",
+   "pardavimas": [
+    "Išvalyk filtrą ir talpą – švarus siurblys parduodamas brangiau.",
+    "Kainą nurodyk 160 €, derėkis iki ~140 €.",
+    "Skelbime parašyk, kiek minučių laiko baterija (tai pirmas pirkėjų klausimas)."
+   ],
+   "kainos_pagrindimas": "Naujas V10 nuo ~359–399 €; naudoti V10 LT parduodami ~130–160 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -472,6 +502,18 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.brickeconomy.com/set/910031-1/lego-general-store",
+   "apie": "LEGO BrickLink Designer Program 910031 General Store – riboto tiražo kolekcinis rinkinys (2023), parduotuvėse jo nebėra. Vertę lemia tai, ar dėžė neatidaryta ir nepažeista.",
+   "tikrinti": [
+    "Ar dėžė užklijuota originaliais lipdukais (neatplėšta).",
+    "Dėžės kampai nesutrenkti – kolekcionieriams tai svarbu.",
+    "Ar tai tikrai 910031, o ne kopija („Lepin“ ar panaši) – paprašyk nuotraukų iš visų pusių."
+   ],
+   "galimybe": "Pasaulinė rinkos vertė (BrickEconomy) ~205 €, o prašoma 145 €. Lietuvoje tokio rinkinio pirkėjų mažai, todėl parduoti gali užtrukti 1–2 mėn. Gali pardavinėti ir per Vinted ar BrickLink užsieniečiams.",
+   "pardavimas": [
+    "Kainą nurodyk 195 €, pavadinime parašyk „BrickLink Designer Program, retas, neatidarytas“.",
+    "Siųsk tik gerai supakavęs (dėžę į dėžę)."
+   ],
+   "kainos_pagrindimas": "BrickEconomy: naujo vertė ~$224 (~205 €), BrickLink pigiausias ~$214; LT pirkėjų mažai, todėl ~185 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -616,6 +658,19 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kainos.lt/lego/lego-technic-bmw-m-1000-rr-42130-v2668900",
+   "apie": "LEGO Technic 42130 BMW M 1000 RR – didelis motociklo modelis (1920 detalių, 2022). Parduotuvėse dar kainuoja ~250 €. Naudoto vertę lemia, ar yra visos detalės, dėžė ir instrukcija.",
+   "tikrinti": [
+    "Ar išardytas ir sudėtas į maišelius, ar surinktas (surinktą siųsti sunku).",
+    "Ar yra visos detalės, lipdukai ir instrukcija.",
+    "Ar dėžė ne suspausta."
+   ],
+   "galimybe": "Naujas ~250 €, šis su dėže ir instrukcija už 125 €. Tai apie 50 % naujo kainos, kai įprastai pilni naudoti rinkiniai parduodami už 60–65 %.",
+   "pardavimas": [
+    "Kainą nurodyk 170 €, derėkis iki ~155 €.",
+    "Nufotografuok surinktą modelį – tai parduoda geriausiai.",
+    "Lapkričio–gruodžio dovanų sezonas."
+   ],
+   "kainos_pagrindimas": "Naujas LT nuo 249 € (4 pardavėjai); naudotas pilnas su dėže realiai ~60–65 % naujo.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -781,6 +836,19 @@
    "rizikos": "Paprašyk ekrano nuotraukos šviesoje – gilūs įbrėžimai mažina kainą.",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "apie": "Tas pats Nintendo Switch modelis, bet ekranas subraižytas – tai mažina kainą 20–30 €.",
+   "tikrinti": [
+    "Ekrano nuotrauka įjungus baltą foną – gilūs įbrėžimai matosi žaidžiant.",
+    "Serijos numeris (XAW = V1, XKW = V2).",
+    "Komplektas: dokas, pulteliai, kroviklis.",
+    "Joy-Con drift ir ar konsolė neužblokuota."
+   ],
+   "galimybe": "Pigiausias iš 7 skelbimų, bet su defektu. Ekrano apsauginis stikliukas (~5 €) paslepia smulkius įbrėžimus – tada parduotum ~120–130 €.",
+   "pardavimas": [
+    "Užklijuok apsauginį stikliuką (~5 €) prieš fotografuodamas.",
+    "Kainą nurodyk 135 €, sąžiningai paminėk smulkius įbrėžimus."
+   ],
+   "kainos_pagrindimas": "Panašūs ~165 € prašoma; su įbrėžimais realiai ~120 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -975,6 +1043,16 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/lego-star-wars-75323/",
+   "apie": "LEGO Star Wars 75323 The Justifier (2022), naujas, neatidarytas. Parduotuvėse dar yra už 163–182 €.",
+   "tikrinti": [
+    "Ar dėžė neatplėšta.",
+    "Ar ne kopija – paprašyk nuotraukos su LEGO logotipu ir lipdukais."
+   ],
+   "galimybe": "Kol jis dar yra parduotuvėse (~163 €), naujo iš rankų niekas nepirks daug brangiau nei ~135 €. Uždirbti galima tik pirkus už ≤ 95 €. Kai rinkinys dings iš parduotuvių, jo vertė dažniausiai kyla.",
+   "pardavimas": [
+    "Jei nusiperki pigiai, gali palaukti, kol dings iš parduotuvių, arba parduoti prieš Kalėdas už ~140 €."
+   ],
+   "kainos_pagrindimas": "Naujas parduotuvėse nuo 163 € (Market365), pigu.lt 182 €; naujas iš rankų realiai ~135 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -1119,6 +1197,19 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/garmin-instinct-crossover/",
+   "apie": "Garmin Instinct Crossover – hibridinis laikrodis su tikromis rodyklėmis ir ekranu, labai ilgai laikanti baterija. Yra paprasta, Solar ir AMOLED versijos – jos kainuoja labai skirtingai.",
+   "tikrinti": [
+    "Kuri versija (Standard, Solar ar AMOLED) – parašyta laikrodžio nugarėlėje arba nustatymuose „Apie“.",
+    "Ar laikrodis atsietas nuo pardavėjo Garmin Connect paskyros (kitaip negalėsi naudotis).",
+    "Ar yra kroviklio laidas.",
+    "Ar stiklas ir korpusas neįskilę."
+   ],
+   "galimybe": "Naujas Standard kainuoja nuo 285 €, prašoma 179 €. Tai apie 63 % naujo kainos, todėl pelno yra tik nusiderėjus. Jei tai Solar versija, vertė didesnė ir proga geresnė.",
+   "pardavimas": [
+    "Kainą nurodyk 215 €.",
+    "Garmin pirkėjai sportininkai – pavadinime rašyk tikslų modelį ir baterijos trukmę."
+   ],
+   "kainos_pagrindimas": "Naujas nuo 285 € (Gpro.lt), 313–332 € kitur; beveik naujas naudotas ~210 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -1176,197 +1267,6 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
-   }
-  },
-  {
-   "id": "85547538",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
-   "pavadinimas": "Kindle paperwhite",
-   "kaina": 80.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5012773892/kindle-paperwhite.jpg",
-   "aprasymas": "Ideali bukle. beveik nenaudota",
-   "vieta_laikas": "Kaunas, birželio 19 d.",
-   "paieska": "Kindle skaityklės",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "ideali bukle. beveik nenaudota",
-   "bukle": "Naudota",
-   "modelis": "kindle-paperwhite",
-   "raktas": "kindle-paperwhite",
-   "palyginamu": 4,
-   "mediana": 105,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "4 panašių skelbimų mediana 105 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
-     "vieta_laikas": "Vilnius, rugpjūčio 8, 2025"
-    },
-    {
-     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
-     "vieta_laikas": "Vilnius, birželio 19, 2014"
-    },
-    {
-     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
-     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
-    },
-    {
-     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
-     "vieta_laikas": "Vilnius, birželio 10, 2019"
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=kindle+paperwhite"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=kindle+paperwhite"
-    }
-   ],
-   "tiketina_pardavimo": 94,
-   "pelnas": 10,
-   "roi": 0.12,
-   "max_pirkimo": 67,
-   "pelnas_per_val": 10,
-   "sprendimas": "derėtis",
-   "priezastis": "verta tik nusiderėjus iki 66,7 €",
-   "balas": 18,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "ideali būklė",
-     "nenaudotas"
-    ],
-    "aprasymo_ilgis": 30,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 2,
-    "is": 5,
-    "min": 35.0,
-    "max": 140.0,
-    "mediana": 105.0,
-    "nuolaida": 0.24
-   },
-   "kodel": "2-as pigiausias iš 5 (kiti 35 €–140 €, mediana 105 €), 24% pigiau už medianą. Privalumai: ideali būklė, nenaudotas.",
-   "visi_palyginami": [
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
-     "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, rugpjūčio 8, 2025"
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
-     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, birželio 19, 2014"
-    },
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
-     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
-    },
-    {
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
-     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, birželio 10, 2019"
-    }
-   ],
-   "amzius_d": 129,
-   "derybos": {
-    "siulymas": 65,
-    "tarpinis": null,
-    "riba": 67,
-    "argumentai": [
-     {
-      "t": "Pigesnių panašių skelbimų: 1, pigiausias 35 €",
-      "url": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html"
-     },
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Skelbimas kabo jau ~129 d. – pardavėjas greičiausiai nori parduoti"
-     }
-    ],
-    "planas": [
-     "Pirma žinutė: siūlyk 65 € – tai 19 % mažiau nei prašo (80 €).",
-     "Paskutinis siūlymas 67 €. Jei nori daugiau – nepirk: pelnas nukristų žemiau 20 €."
-    ],
-    "kodel_suma": "Kodėl 65 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
-    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 80 € uždirbtum ~10 €, už 65 € – ~25 €."
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (kindle-paperwhite): 4 vnt., kainos 35 €–140 €, mediana 105 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94,5 €",
-    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 94,5 € − 80 € − 4,5 € = 10 € (12% pirkimo kainos)",
-    "Mokėti ne daugiau: min((94,5 € − 4,5 €) / 1.35; 94,5 € − 4,5 € − 20 €) = 66,7 €",
-    "Laikas ~1.0 val. → 10 €/val."
-   ],
-   "isvada": "Pirk tik nusiderėjęs iki 67 € (dabar prašo 80 €).",
-   "uz": [
-    "Iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~105 €, šis 24 % pigesnis.",
-    "Aprašyme: ideali būklė, nenaudotas."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 12 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Prašo 80 €, o apsimoka tik už ≤ 67 €."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -1478,6 +1378,19 @@
    "rizikos": "Daug padirbinių: tikrink gyvai serijos numerį ant rankenos ir patikrink jį Dyson svetainėje.",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "apie": "Dyson Airwrap – plaukų formavimo prietaisas, originalas naujas kainuoja ~450–600 €. Tai vienas dažniausiai padirbinėjamų daiktų.",
+   "tikrinti": [
+    "Serijos numeris rankenoje: patikrink jį Dyson svetainėje (padirbiniai serijos neturi arba ji netikra).",
+    "Svoris ir garsas: originalas tylus, kokybiškos medžiagos.",
+    "Kiek ir kokie antgaliai komplekte, ar yra dėklas.",
+    "Pirk tik gyvai, po patikrinimo."
+   ],
+   "galimybe": "Jei originalas, 170 € yra pigu, nes naudoti originalai parduodami už ~200–250 €. Tačiau palyginimų mažai, o rinkoje daug padirbinių. Todėl tai proga tik po patikrinimo gyvai.",
+   "pardavimas": [
+    "Pridėk serijos numerio nuotrauką – originalumo įrodymas kelia kainą.",
+    "Kainą nurodyk 240 €."
+   ],
+   "kainos_pagrindimas": "Originalus naudotas Airwrap LT ~200–250 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -1586,277 +1499,6 @@
     "Grąža 27 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Prašo 170 €, o apsimoka tik už ≤ 160 €.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "maža",
-    "zingsniai": [
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
-   }
-  },
-  {
-   "id": "87822186",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
-   "pavadinimas": "Mafia The Old Country Ps5",
-   "kaina": 25.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5283969198/mafia-the-old-country-ps5.jpg",
-   "aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
-   "vieta_laikas": "Vilnius, prieš 1 d.",
-   "paieska": "PlayStation 5",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
-   "bukle": "Naudota",
-   "modelis": "ps5",
-   "raktas": "ps5",
-   "palyginamu": 11,
-   "mediana": 38,
-   "naujo_kaina": null,
-   "patikimumas": "aukštas",
-   "saltiniai": [
-    "11 panašių skelbimų mediana 38 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "pavadinimas": "Horizon Forbiden West ps5 disc",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
-     "vieta_laikas": "Vilnius, prieš 12 min."
-    },
-    {
-     "pavadinimas": "007 James bond first light ps5",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Crimson desert ps5 disc",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
-     "vieta_laikas": "Vilnius, prieš 21 min."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Parduodu ps5 first light",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Saros Ps5",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "The Blood of Dawnwalker Ps5",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Ps5 silent hill town fall",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=ps5"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=ps5"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=ps5"
-    }
-   ],
-   "tiketina_pardavimo": 34,
-   "pelnas": 5,
-   "roi": 0.21,
-   "max_pirkimo": 10,
-   "pelnas_per_val": 3,
-   "sprendimas": "derėtis",
-   "priezastis": "verta tik nusiderėjus iki 10,2 €",
-   "balas": 10,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 67,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 3,
-    "is": 12,
-    "min": 15.0,
-    "max": 45.0,
-    "mediana": 38.0,
-    "nuolaida": 0.34
-   },
-   "kodel": "3-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 34% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
-     "pavadinimas": "Horizon Forbiden West ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 12 min."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "pavadinimas": "007 James bond first light ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
-     "pavadinimas": "Crimson desert ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 21 min."
-    },
-    {
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "pavadinimas": "Wolverine ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
-     "pavadinimas": "Parduodu ps5 first light",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
-     "pavadinimas": "Saros Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
-     "pavadinimas": "The Blood of Dawnwalker Ps5",
-     "rizikos": [
-      "braižytas"
-     ],
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "pavadinimas": "Ps5 silent hill town fall",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "pavadinimas": "Star wars zero company ps5",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    }
-   ],
-   "amzius_d": 1,
-   "derybos": {
-    "siulymas": 10,
-    "tarpinis": null,
-    "riba": 10,
-    "argumentai": [
-     {
-      "t": "Pigesnių panašių skelbimų: 2, pigiausias 15 €",
-      "url": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html"
-     },
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
-     }
-    ],
-    "planas": [
-     "Siūlyk 10 € (60 % mažiau nei prašo) ir daugiau nekelk – brangiau pelnas per mažas."
-    ],
-    "kodel_suma": "Kodėl 10 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
-    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 25 € uždirbtum ~5 €, už 10 € – ~20 €."
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 34,2 € − 25 € − 4 € = 5,2 € (21% pirkimo kainos)",
-    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
-    "Laikas ~1.5 val. → 3,5 €/val."
-   ],
-   "isvada": "Pirk tik nusiderėjęs iki 10 € (dabar prašo 25 €).",
-   "uz": [
-    "Iš 12 panašių skelbimų pigesnių yra 2; įprasta kaina ~38 €, šis 34 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~5 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Prašo 25 €, o apsimoka tik už ≤ 10 €."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -3230,6 +2872,7 @@
    "rizikos": "Paklausk, kurių modelių galvos ir ar veikia šepečių varikliai.",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Parduodant po vieną: V10/V11/V15 galvos ~25–30 €, V7/V8 ~15–20 € (įvertinimas, mažai duomenų).",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -3484,6 +3127,7 @@
    "rizikos": "Siunta iš Kupiškio; be baterijos patikrinti sunku – paprašyk vaizdo įrašo.",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "M18 FID2 be baterijos naudotas ~90–110 €, M12 ~50 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -3923,6 +3567,7 @@
    "rizikos": "4 vienodi vnt. – gali būti iš nuomos ar vogti; paklausk kilmės.",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "DCF887 be baterijos naudotas ~70–80 €, DCF787 ~50 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [
      "defektas"
@@ -4476,6 +4121,209 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
+   }
+  },
+  {
+   "id": "85547538",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-85547538.html",
+   "pavadinimas": "Kindle paperwhite",
+   "kaina": 80.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5012773892/kindle-paperwhite.jpg",
+   "aprasymas": "Ideali bukle. beveik nenaudota",
+   "vieta_laikas": "Kaunas, birželio 19 d.",
+   "paieska": "Kindle skaityklės",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "ideali bukle. beveik nenaudota",
+   "bukle": "Naudota",
+   "modelis": "Kindle Paperwhite (karta nežinoma)",
+   "raktas": "kindle-paperwhite",
+   "palyginamu": 4,
+   "mediana": 105,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "4 panašių skelbimų mediana 105 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
+     "vieta_laikas": "Vilnius, rugpjūčio 8, 2025"
+    },
+    {
+     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
+     "vieta_laikas": "Vilnius, birželio 19, 2014"
+    },
+    {
+     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
+     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
+    },
+    {
+     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
+     "vieta_laikas": "Vilnius, birželio 10, 2019"
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Kindle+Paperwhite+%28karta+ne%C5%BEinoma%29"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Kindle+Paperwhite+%28karta+ne%C5%BEinoma%29"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Kindle+Paperwhite+%28karta+ne%C5%BEinoma%29"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Kindle+Paperwhite+%28karta+ne%C5%BEinoma%29"
+    }
+   ],
+   "tiketina_pardavimo": 94,
+   "pelnas": 10,
+   "roi": 0.12,
+   "max_pirkimo": 67,
+   "pelnas_per_val": 10,
+   "sprendimas": "tikrinti",
+   "priezastis": "„Paperwhite“ yra 5 kartų (2012–2024), vertė nuo 25 € iki 140 €. Pirmiausia paklausk, kuri karta.",
+   "balas": 12,
+   "ivertinta": "2026-10-26",
+   "stovas": false,
+   "apie": "Kindle Paperwhite – el. knygų skaityklė. Kainą beveik vien lemia karta: PW1–PW3 (2012–2015) ~25–40 €, PW4 (2018) ~60–80 €, PW5 / 11-ta karta (2021) ~90–110 €.",
+   "tikrinti": [
+    "Kuri karta: Nustatymai → Įrenginio info arba serijos numerio pradžia.",
+    "Ar neužrakintas kito Amazon paskyroje.",
+    "Ar neįskilęs ekranas, ar laiko baterija."
+   ],
+   "galimybe": "Palyginimas neaiškus, nes tarp panašių skelbimų yra ir 2012, ir 2024 m. modelių. Verta tik tada, jei tai 11-ta karta (2021+).",
+   "pardavimas": [
+    "Pavadinime visada rašyk kartą ir metus."
+   ],
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "ideali būklė",
+     "nenaudotas"
+    ],
+    "aprasymo_ilgis": 30,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 2,
+    "is": 5,
+    "min": 35.0,
+    "max": 140.0,
+    "mediana": 105.0,
+    "nuolaida": 0.24
+   },
+   "kodel": "2-as pigiausias iš 5 (kiti 35 €–140 €, mediana 105 €), 24% pigiau už medianą. Privalumai: ideali būklė, nenaudotas.",
+   "visi_palyginami": [
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html",
+     "pavadinimas": "Kindle Paperwhite 1 (2012, 5th gen)",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, rugpjūčio 8, 2025"
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-4-10th-gen-skaitykle-19441764.html",
+     "pavadinimas": "Kindle Paperwhite 4 (10th Gen) skaityklė",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, birželio 19, 2014"
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-11-2024-paperwhite-12-2024-skaitykles-58945020.html",
+     "pavadinimas": "Kindle 11 (2024), Paperwhite 12 (2024) skaityklės",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, gruodžio 8, 2021"
+    },
+    {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-11-skaitykle-41676453.html",
+     "pavadinimas": "Kindle Paperwhite 11 skaityklė",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, birželio 10, 2019"
+    }
+   ],
+   "amzius_d": 129,
+   "derybos": {
+    "siulymas": 65,
+    "tarpinis": null,
+    "riba": 67,
+    "argumentai": [
+     {
+      "t": "Pigesnių panašių skelbimų: 1, pigiausias 35 €",
+      "url": "https://www.skelbiu.lt/skelbimai/kindle-paperwhite-1-2012-5th-gen-80962451.html"
+     },
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Skelbimas kabo jau ~129 d. – pardavėjas greičiausiai nori parduoti"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 65 € – tai 19 % mažiau nei prašo (80 €).",
+     "Paskutinis siūlymas 67 €. Jei nori daugiau – nepirk: pelnas nukristų žemiau 20 €."
+    ],
+    "kodel_suma": "Kodėl 65 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 80 € uždirbtum ~10 €, už 65 € – ~25 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (kindle-paperwhite): 4 vnt., kainos 35 €–140 €, mediana 105 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94,5 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 94,5 € − 80 € − 4,5 € = 10 € (12% pirkimo kainos)",
+    "Mokėti ne daugiau: min((94,5 € − 4,5 €) / 1.35; 94,5 € − 4,5 € − 20 €) = 66,7 €",
+    "Laikas ~1.0 val. → 10 €/val."
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~105 €, šis 24 % pigesnis.",
+    "Aprašyme: ideali būklė, nenaudotas."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 12 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -14168,6 +14016,7 @@
    "rizikos": "Padirbinys",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Pardavėjas pats rašo „nėra originalus“.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -14419,6 +14268,7 @@
    "rizikos": "Padirbinys",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Originalas naujas ~300–400 €; 150 € už „naują“ – tipinė padirbinio kaina.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -16590,6 +16440,260 @@
    }
   },
   {
+   "id": "87822186",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+   "pavadinimas": "Mafia The Old Country Ps5",
+   "kaina": 25.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5283969198/mafia-the-old-country-ps5.jpg",
+   "aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
+   "vieta_laikas": "Vilnius, prieš 1 d.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
+   "bukle": "Naudota",
+   "modelis": "PS5 žaidimas Mafia: The Old Country",
+   "raktas": "ps5",
+   "palyginamu": 11,
+   "mediana": 38,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "11 panašių skelbimų mediana 38 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "pavadinimas": "007 James bond first light ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "pavadinimas": "Wolverine ps5 disc",
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Parduodu ps5 first light",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Saros Ps5",
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Ps5 silent hill town fall",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    }
+   ],
+   "tiketina_pardavimo": 34,
+   "pelnas": 5,
+   "roi": 0.21,
+   "max_pirkimo": 10,
+   "pelnas_per_val": 3,
+   "sprendimas": "praleisti",
+   "priezastis": "Žaidimo diskas: pelnas ~5 €, nevertas tavo laiko.",
+   "balas": 4,
+   "ivertinta": "2026-10-26",
+   "stovas": false,
+   "tikrinti": [],
+   "pardavimas": [],
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 67,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 3,
+    "is": 12,
+    "min": 15.0,
+    "max": 45.0,
+    "mediana": 38.0,
+    "nuolaida": 0.34
+   },
+   "kodel": "3-as pigiausias iš 12 (kiti 15 €–45 €, mediana 38 €), 34% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "pavadinimas": "007 James bond first light ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "pavadinimas": "Wolverine ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "pavadinimas": "Parduodu ps5 first light",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "pavadinimas": "Saros Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "pavadinimas": "Ps5 silent hill town fall",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
+     "pavadinimas": "Star wars zero company ps5",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    }
+   ],
+   "amzius_d": 1,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 11 vnt., kainos 15 €–45 €, mediana 38 € × 0.90 (realiai parduodama pigiau nei prašoma) = 34,2 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 34,2 € − 25 € − 4 € = 5,2 € (21% pirkimo kainos)",
+    "Mokėti ne daugiau: min((34,2 € − 4 €) / 1.35; 34,2 € − 4 € − 20 €) = 10,2 €",
+    "Laikas ~1.5 val. → 3,5 €/val."
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~5 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 12 panašių skelbimų pigesnių yra 2; įprasta kaina ~38 €, šis 34 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~5 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
+  },
+  {
    "id": "87815436",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mini-4k-87815436.html",
    "pavadinimas": "Dji Mini 4k",
@@ -16871,6 +16975,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/dji-mic-mini-2-tx-1-rx-charging-case/",
+   "kainos_pagrindimas": "Naujas nuo 99 € (17 pardavėjų); naudotas ~75 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -18727,6 +18832,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/makita-dub363zv/",
+   "kainos_pagrindimas": "Naujas nuo 270 € (B2cshop); naudotas ~200 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -19569,6 +19675,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/nintendo-switch-lite/",
+   "kainos_pagrindimas": "Naujas nuo 155–170 €; naudoti ~100–115 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -20507,6 +20614,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/nintendo-switch-oled/",
+   "kainos_pagrindimas": "Naujas nuo 210 € (Geedie.lt), naudoti parduotuvėse 220 €; tiek pat prašo ir skelbimai.",
    "aprasymas_analize": {
     "rizikos_zodziai": [
      "defektas"
@@ -21413,6 +21521,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/dewalt-dck266p2/",
+   "kainos_pagrindimas": "Naujas DCD796+DCF887 be baterijų 244 €, su 2×5Ah 291 €; vienas DCD796 su baterija naudotas ~110–140 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -26098,6 +26207,7 @@
    "balas": 0,
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Seni Paperwhite 1 parduodami ~20–30 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -27110,6 +27220,7 @@
    "balas": 0,
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Senas modelis, naudoti ~40–60 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -28159,6 +28270,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/dji-osmo-action-5-pro-adventure/",
+   "kainos_pagrindimas": "Naujas nuo 389 € (Fokusta.lt), 399 € kitur; naudotas ~340 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -28314,6 +28426,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/mikrofonas-dji-mic-2-transmitter-cp-rn-00000329-01-pearl-white/",
+   "kainos_pagrindimas": "Naujas nuo 69 € (Dronai.lt); naudotas ~55 €.",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -30912,6 +31025,7 @@
    "ivertinta": "2026-10-26",
    "stovas": false,
    "naujo_saltinis": "https://www.kaina24.lt/p/xiaomi-s40c/",
+   "kainos_pagrindimas": "Naujas parduotuvėse nuo 112–117 € (38 pardavėjai).",
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
@@ -31020,6 +31134,7 @@
    "rizikos": "iCloud",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Ne iPad kategorija; iCloud užrakto rizika.",
    "aprasymas_analize": {
     "rizikos_zodziai": [
      "dalims",
@@ -32771,6 +32886,7 @@
    "rizikos": "Defektas",
    "ivertinta": "2026-10-26",
    "stovas": false,
+   "kainos_pagrindimas": "Smūginis ūžia, viena baterija silpna.",
    "aprasymas_analize": {
     "rizikos_zodziai": [
      "baterijos būklė"

@@ -28,12 +28,19 @@ Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų, ne daugiau 25 skelbimų p
      pažymėk `stovas: true` (tada verta pirkti naują ES ir parduoti LT).
    - Skelbimo tekstas Skelbiu.lt / Vinted: pavadinimas eilutėje, tada 3–5 sakiniai (būklė, komplektacija,
      kodėl verta, atsiėmimas / siuntimas). Be asmeninių duomenų.
+   - TIK `verta` ir `derėtis` (ir `tikrinti`, jei trūksta vieno atsakymo) – pradedančiajam suprantama instrukcija,
+     trumpai ir be mokslo:
+     - `apie`: 1–2 sakiniai – kas tai, versijos / kartos ir kas lemia kainą.
+     - `tikrinti`: 3–5 konkretūs dalykai, ką patikrinti ar paklausti prieš perkant (serijos nr., baterija, komplektas, padirbiniai).
+     - `galimybe`: kodėl tai proga – palygink su brangesniais to paties modelio skelbimais (ar matai skirtumą?), su nauja kaina.
+     - `pardavimas`: 2–4 patarimai, kaip ir už kiek parduoti (kaina skelbime, ką paminėti, sezonas).
 4. Įrašyk į `data/vertinimai.json` (raktas – skelbimo `id`):
    ```json
    {"modelis": "", "naujo_kaina": 0, "naujo_saltinis": "https://…",
     "parduotuves": [{"parduotuve": "pigu.lt", "kaina": 0, "su_siuntimu": true, "url": "https://…"}],
     "tiketina_pardavimo": 0, "kainos_pagrindimas": "", "patikimumas": "vidutinis", "sprendimas": "verta",
-    "priezastis": "", "rizikos": "", "skelbimo_tekstas": "", "stovas": false, "ivertinta": "YYYY-MM-DD"}
+    "priezastis": "", "rizikos": "", "skelbimo_tekstas": "", "stovas": false, "ivertinta": "YYYY-MM-DD",
+    "apie": "", "tikrinti": [], "galimybe": "", "pardavimas": []}
    ```
 5. Įrodymai pirkiniams: `docs/sandoriai.json` (pildo vartotojas svetainėje). Jei kuris įrašas turi nuorodą, bet neturi
    `irodymas`, užpildyk jį iš `data/skelbimai.json` (pavadinimas, kaina, vieta_laikas, aprasymas ≤ 600 simb., bukle,

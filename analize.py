@@ -226,6 +226,16 @@ def perka(s: dict) -> bool:
     return bool(PERKA.search(be_diakritiku(s.get("pavadinimas"))))
 
 
+def palyginamas(s: dict) -> bool:
+    """Į rinkos palyginimą – tik tinkami skelbimai ir tie, kurie atmesti vien dėl kainų ribų (ne automobiliai su „Sonos“ aprašyme)."""
+    if s.get("tinka", True):
+        return True
+    if s.get("atmesta_nes") not in ("per pigu", "per brangu"):
+        return False
+    mx = PAIESKOS.get(s.get("paieska"), {}).get("max_kaina")
+    return not (mx and s.get("kaina") and s["kaina"] > mx * 2)
+
+
 def palyginami(raktas: str, sid: str, visi: list[dict]) -> list[dict]:
     komp = [s for s in visi if s["_raktas"] == raktas and s["id"] != sid and s.get("kaina")
             and not perka(s)]
@@ -577,7 +587,7 @@ def main() -> int:
     except (OSError, ValueError):
         vertinimai = {}
     kal = kalibracija()
-    visi = [s for s in istorija.values() if not perka(s)]
+    visi = [s for s in istorija.values() if not perka(s) and palyginamas(s)]
     for s in visi:
         s["_raktas"] = modelio_raktas(s)
     riba = (datetime.now(timezone.utc) - timedelta(hours=SVIEZUMAS_VAL)).strftime("%Y-%m-%dT%H:%M:%SZ")

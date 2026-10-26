@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-26T05:27:15Z",
+ "sugeneruota": "2026-10-26T06:23:27Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -38,7 +38,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 281,
+ "skelbimu_istorijoje": 286,
  "radiniai": [
   {
    "id": "87829808",
@@ -2383,190 +2383,6 @@
    }
   },
   {
-   "id": "87794548",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
-   "pavadinimas": "Dewalt akumuliatorinis prožektorius",
-   "kaina": 45.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5279746652/dewalt-akumoliatorinis-prozektorius.jpg",
-   "aprasymas": "Naujas",
-   "vieta_laikas": "Kaišiadorių r., prieš 2 d.",
-   "paieska": "DeWalt įrankiai",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Nauja"
-   ],
-   "pilnas_aprasymas": "Naujas",
-   "bukle": "Nauja",
-   "modelis": "dewalt-kita",
-   "raktas": "dewalt-kita",
-   "palyginamu": 3,
-   "mediana": 100,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "3 panašių skelbimų mediana 100 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaišiadorių r.",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Dewalt impact suktukas",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
-     "vieta_laikas": "Utenos r., prieš 4 val."
-    },
-    {
-     "pavadinimas": "Dewalt Flexwolt staklės",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Dcle34031",
-     "kaina": 260.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dcle34031-87754336.html",
-     "vieta_laikas": "Klaipėdos r., spalio 21 d."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
-    }
-   ],
-   "tiketina_pardavimo": 90,
-   "pelnas": 40,
-   "roi": 0.9,
-   "max_pirkimo": 63,
-   "pelnas_per_val": 40,
-   "sprendimas": "tikrinti",
-   "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
-   "balas": 41,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "nauja",
-     "naujas"
-    ],
-    "aprasymo_ilgis": 6,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 2,
-    "is": 4,
-    "min": 35.0,
-    "max": 260.0,
-    "mediana": 100.0,
-    "nuolaida": 0.55
-   },
-   "kodel": "2-as pigiausias iš 4 (kiti 35 €–260 €, mediana 100 €), 55% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja, naujas.",
-   "visi_palyginami": [
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
-     "pavadinimas": "Dewalt impact suktukas",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Utenos r., prieš 4 val."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
-     "pavadinimas": "Dewalt Flexwolt staklės",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "kaina": 260.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dcle34031-87754336.html",
-     "pavadinimas": "Dcle34031",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėdos r., spalio 21 d."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": {
-    "siulymas": 35,
-    "tarpinis": 40,
-    "riba": 63,
-    "argumentai": [
-     {
-      "t": "Pigesnių panašių skelbimų: 1, pigiausias 35 €",
-      "url": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html"
-     },
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
-     }
-    ],
-    "planas": [
-     "Pirma žinutė: siūlyk 35 € – tai 22 % mažiau nei prašo (45 €).",
-     "Jei atsisako – kelk iki 40 €.",
-     "Jei visai nenuleidžia – vis tiek pirk už 45 €: pelnas ~40 €. Šio radinio dėl derybų neprarask."
-    ],
-    "kodel_suma": "Kodėl 35 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
-    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 45 € uždirbtum ~40 €, už 35 € – ~50 €."
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (dewalt-kita): 3 vnt., kainos 35 €–260 €, mediana 100 € × 0.90 (realiai parduodama pigiau nei prašoma) = 90 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: siunta į paštomatą iš Kaišiadorių r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 90 € − 45 € − 4,5 € = 40,5 € (90% pirkimo kainos)",
-    "Mokėti ne daugiau: min((90 € − 4,5 €) / 1.35; 90 € − 4,5 € − 20 €) = 63,3 €",
-    "Laikas ~1.0 val. → 40,5 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
-   "uz": [
-    "Iš 4 panašių skelbimų pigesnis tik vienas; įprasta kaina ~100 €, šis 55 % pigesnis.",
-    "Pelnas ~40 € (90 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
-    "Aprašyme: nauja, naujas."
-   ],
-   "pries": [
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
-    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaišiadorių r.: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.",
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "86652089",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/amazon-kindle-skaitykle-86652089.html",
    "pavadinimas": "Amazon kindle skaitykle",
@@ -3500,12 +3316,12 @@
    "modelis": "DeWalt smūginis suktuvas be baterijos (4 vnt.)",
    "raktas": "dewalt-kita",
    "palyginamu": 3,
-   "mediana": 100,
+   "mediana": 45,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
     "Claude įvertinimas",
-    "3 panašių skelbimų mediana 100 €"
+    "3 panašių skelbimų mediana 45 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Utenos r.",
@@ -3519,6 +3335,12 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
      "pavadinimas": "Dewalt akumuliatorinis prožektorius",
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
@@ -3529,12 +3351,6 @@
      "kaina": 100.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
      "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Dcle34031",
-     "kaina": 260.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dcle34031-87754336.html",
-     "vieta_laikas": "Klaipėdos r., spalio 21 d."
     }
    ],
    "parduotuves": [],
@@ -3577,15 +3393,22 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 1,
+    "vieta": 2,
     "is": 4,
-    "min": 45.0,
-    "max": 260.0,
-    "mediana": 100.0,
-    "nuolaida": 0.65
+    "min": 30.0,
+    "max": 100.0,
+    "mediana": 45.0,
+    "nuolaida": 0.22
    },
-   "kodel": "Pigiausias iš 4 to paties modelio skelbimų (kiti 45 €–260 €, mediana 100 €), 65% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašyme: defektas.",
+   "kodel": "2-as pigiausias iš 4 (kiti 30 €–100 €, mediana 45 €), 22% pigiau už medianą. Aprašyme: defektas.",
    "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+     "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
     {
      "kaina": 45.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
@@ -3599,13 +3422,6 @@
      "pavadinimas": "Dewalt Flexwolt staklės",
      "rizikos": [],
      "vieta_laikas": "Kaunas, prieš 2 d."
-    },
-    {
-     "kaina": 260.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dcle34031-87754336.html",
-     "pavadinimas": "Dcle34031",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėdos r., spalio 21 d."
     }
    ],
    "amzius_d": 0,
@@ -3615,13 +3431,14 @@
     "riba": 30,
     "argumentai": [
      {
+      "t": "Pigesnių panašių skelbimų: 1, pigiausias 30 €",
+      "url": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html"
+     },
+     {
       "t": "Aprašyme minima: defektas – trūkumai mažina vertę"
      },
      {
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
      }
     ],
     "planas": [
@@ -3633,7 +3450,7 @@
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (dewalt-kita): 3 vnt., kainos 45 €–260 €, mediana 100 € × 0.90 (realiai parduodama pigiau nei prašoma) = 90 €",
+    "Panašūs skelbimai (dewalt-kita): 3 vnt., kainos 30 €–100 €, mediana 45 € × 0.90 (realiai parduodama pigiau nei prašoma) = 40,5 €",
     "Claude įvertinimas (2026-10-26): 55 € – DCF887 be baterijos naudotas ~70–80 €, DCF787 ~50 €.",
     "Kaštai: siunta į paštomatą iš Utenos r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 55 € − 35 € − 4,5 € = 15,5 € (44% pirkimo kainos)",
@@ -3643,19 +3460,17 @@
    ],
    "isvada": "Gali būti proga, bet pirma patikrink: pelnas būtų tik ~16 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~100 €, šis 65 % pigesnis."
+    "Iš 4 panašių skelbimų pigesnis tik vienas; įprasta kaina ~45 €, šis 22 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~16 € – mažiau nei tavo minimumas 20 €.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
-    "Aprašyme minima: defektas.",
-    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
+    "Aprašyme minima: defektas."
    ],
    "logistika": "Siunta į paštomatą iš Utenos r.: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
-    "lygis": "didelė",
+    "lygis": "vidutinė",
     "zingsniai": [
-     "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.",
      "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
      "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
      "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
@@ -5207,8 +5022,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu labai geros būklės Nintendo Switch Lite žaidimų konsolę. Tik ant ekrano yra labai nežymių, beveik nepastebimų naudojimo žymių. Visi mygtukai tvirti, nekliba ir nėra išlaisvėję.",
+   "bukle": "Naudota",
    "modelis": "switch-lite",
    "raktas": "switch-lite",
    "palyginamu": 1,
@@ -5266,8 +5081,8 @@
     "privalumai": [
      "labai gera būklė"
     ],
-    "aprasymo_ilgis": 139,
-    "pilnas": false
+    "aprasymo_ilgis": 185,
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: labai gera būklė.",
    "visi_palyginami": [
@@ -5319,8 +5134,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu deveta Parduodu Garmin Fenix 7X Sapphire Solar, 51 mm Kaina 250 Eur, Miestas Alytus bet galiu issiust bet kur",
+   "bukle": "Naudota",
    "modelis": "garmin-fenix-7x",
    "raktas": "garmin-fenix-7x",
    "palyginamu": 1,
@@ -5377,7 +5192,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 118,
-    "pilnas": false
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [
@@ -5430,8 +5245,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotas Garmin Venu 3s laikrodis su dėžute, pakrovėju, pirkimo dokumentais (pirktas prieš nepilnai 2 metus). Ekranas turi įbrėžimų, tačiau uždėjus apsauginę plėvelę nebesimatytų. Naudojimui visai netrukdo, nes ekranas pilnai veikiantis. Galiu siųsti per lpexpress.",
+   "bukle": "Naudota",
    "modelis": "garmin-venu-3s",
    "raktas": "garmin-venu-3s",
    "palyginamu": 0,
@@ -5482,8 +5297,8 @@
     "privalumai": [
      "su dėže"
     ],
-    "aprasymo_ilgis": 141,
-    "pilnas": false
+    "aprasymo_ilgis": 265,
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: su dėže.",
    "visi_palyginami": [],
@@ -6172,139 +5987,6 @@
    }
   },
   {
-   "id": "87805002",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
-   "pavadinimas": "Dewalt Flexwolt staklės",
-   "kaina": 100.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5280940418/dewalt-stakles.jpg",
-   "aprasymas": "Sudegęs variklis, gal tiktų kam ant dalių",
-   "vieta_laikas": "Kaunas, prieš 2 d.",
-   "paieska": "DeWalt įrankiai",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "dewalt-kita",
-   "raktas": "dewalt-kita",
-   "palyginamu": 2,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Dewalt impact suktukas",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
-     "vieta_laikas": "Utenos r., prieš 4 val."
-    },
-    {
-     "pavadinimas": "Dewalt akumuliatorinis prožektorius",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
-     "vieta_laikas": "Kaišiadorių r., prieš 2 d."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Dewalt+Flexwolt+stakl%C4%97s"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Dewalt+Flexwolt+stakl%C4%97s"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Dewalt+Flexwolt+stakl%C4%97s"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Dewalt+Flexwolt+stakl%C4%97s"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 41,
-    "pilnas": false
-   },
-   "pozicija": {
-    "vieta": 3,
-    "is": 3,
-    "min": 35.0,
-    "max": 45.0,
-    "mediana": 40.0,
-    "nuolaida": -1.5
-   },
-   "kodel": "3-as pigiausias iš 3 (kiti 35 €–45 €, mediana 40 €), 150% brangiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
-     "pavadinimas": "Dewalt impact suktukas",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Utenos r., prieš 4 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
-     "pavadinimas": "Dewalt akumuliatorinis prožektorius",
-     "rizikos": [],
-     "vieta_laikas": "Kaišiadorių r., prieš 2 d."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 2 – per mažai kainai nustatyti",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
-   ],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [],
-   "pries": [
-    "Iš 3 panašių skelbimų pigesnių yra 2; įprasta kaina ~40 €, šis ne pigesnis už kitus.",
-    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "87783108",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-nivelyras-dw089-87783108.html",
    "pavadinimas": "Dewalt nivelyras Dw089",
@@ -6500,7 +6182,7 @@
    "id": "87832098",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
    "pavadinimas": "Mortal shell 2",
-   "kaina": 35.0,
+   "kaina": 30.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285612122/mortal-shell-2.jpg",
    "aprasymas": "Parduodamas mortal shell2 ps5, naudotas bet kaip naujas.",
    "vieta_laikas": "Vilnius, prieš 8 val.",
@@ -6570,12 +6252,17 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 35.0,
+    "iki": 30.0
+   },
    "zingsniai": [
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: nauja, naujas."
+    "Aprašyme: nauja, naujas.",
+    "Kaina jau sumažinta nuo 35 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
     "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -6945,7 +6632,7 @@
    "palyginami": [
     {
      "pavadinimas": "Gopro hero 13juodas power bundle",
-     "kaina": 280.0,
+     "kaina": 270.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13juodas-power-bundle-87753504.html",
      "vieta_laikas": "Klaipėda, spalio 21 d."
     }
@@ -6990,7 +6677,7 @@
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas, nauja, nenaudotas.",
    "visi_palyginami": [
     {
-     "kaina": 280.0,
+     "kaina": 270.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13juodas-power-bundle-87753504.html",
      "pavadinimas": "Gopro hero 13juodas power bundle",
      "rizikos": [],
@@ -7122,7 +6809,7 @@
    "id": "87753504",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13juodas-power-bundle-87753504.html",
    "pavadinimas": "Gopro hero 13juodas power bundle",
-   "kaina": 280.0,
+   "kaina": 270.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5273266566/gopro-hero-13juodas-power-bundle.jpg",
    "aprasymas": "Sveiki parduodu vieną kartą panaudotą kamerą go pro,yra papildomos 2baterijo ir dviejų vietų pakrovėjas,komplektacija power bundle,įdedu pi...",
    "vieta_laikas": "Klaipėda, spalio 21 d.",
@@ -7207,12 +6894,17 @@
    "amzius_d": 5,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 280.0,
+    "iki": 270.0
+   },
    "zingsniai": [
     "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: komplektas, nauja."
+    "Aprašyme: komplektas, nauja.",
+    "Kaina jau sumažinta nuo 280 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
     "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -7226,7 +6918,7 @@
      "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
      "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
      "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (280 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Suma didelė (270 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
@@ -8431,7 +8123,7 @@
    "id": "87833500",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-plauku-formavimo-prietaisas-87833500.html",
    "pavadinimas": "Dyson airwrap i.d plaukų formavimo prietaisas",
-   "kaina": 390.0,
+   "kaina": 385.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285671158/dyson-airwrap-i-d-plauku-formavimo-prietaisas.jpg",
    "aprasymas": "Naudotas nedaug, kai kurie antgaliai dar nenaudoti. Taip pat pridedu papildomą antgalį, kurio nebuvo komplektacijoje. Yra pirkimo kvitas, garanti...",
    "vieta_laikas": "Vilnius, prieš 7 val.",
@@ -8444,7 +8136,7 @@
    "bukle": null,
    "modelis": "dyson-airwrap",
    "raktas": "dyson-airwrap",
-   "palyginamu": 1,
+   "palyginamu": 2,
    "mediana": null,
    "naujo_kaina": null,
    "patikimumas": "žemas",
@@ -8460,6 +8152,12 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Dyson airwrap",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-87847204.html",
+     "vieta_laikas": "Kėdainių r., prieš 16 min."
+    },
     {
      "pavadinimas": "Dyson airwrap i.d.",
      "kaina": 400.0,
@@ -8504,8 +8202,23 @@
     "aprasymo_ilgis": 148,
     "pilnas": false
    },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas, kvitas, nenaudotas.",
+   "pozicija": {
+    "vieta": 2,
+    "is": 3,
+    "min": 250.0,
+    "max": 400.0,
+    "mediana": 325.0,
+    "nuolaida": -0.18
+   },
+   "kodel": "2-as pigiausias iš 3 (kiti 250 €–400 €, mediana 325 €), 18% brangiau už medianą. Privalumai: komplektas, kvitas, nenaudotas.",
    "visi_palyginami": [
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-87847204.html",
+     "pavadinimas": "Dyson airwrap",
+     "rizikos": [],
+     "vieta_laikas": "Kėdainių r., prieš 16 min."
+    },
     {
      "kaina": 400.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-87770814.html",
@@ -8517,15 +8230,21 @@
    "amzius_d": 0,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 390.0,
+    "iki": 385.0
+   },
    "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: komplektas, kvitas, nenaudotas."
+    "Aprašyme: komplektas, kvitas, nenaudotas.",
+    "Kaina jau sumažinta nuo 390 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Iš 3 panašių skelbimų pigesnis tik vienas; įprasta kaina ~325 €, šis ne pigesnis už kitus.",
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -8649,7 +8368,7 @@
    "bukle": null,
    "modelis": "dyson-airwrap",
    "raktas": "dyson-airwrap",
-   "palyginamu": 1,
+   "palyginamu": 2,
    "mediana": null,
    "naujo_kaina": null,
    "patikimumas": "žemas",
@@ -8666,8 +8385,14 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Dyson airwrap",
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-87847204.html",
+     "vieta_laikas": "Kėdainių r., prieš 16 min."
+    },
+    {
      "pavadinimas": "Dyson airwrap i.d plaukų formavimo prietaisas",
-     "kaina": 390.0,
+     "kaina": 385.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-plauku-formavimo-prietaisas-87833500.html",
      "vieta_laikas": "Vilnius, prieš 7 val."
     }
@@ -8709,10 +8434,25 @@
     "aprasymo_ilgis": 111,
     "pilnas": false
    },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: garantija, nauja, naujas.",
+   "pozicija": {
+    "vieta": 3,
+    "is": 3,
+    "min": 250.0,
+    "max": 385.0,
+    "mediana": 317.5,
+    "nuolaida": -0.26
+   },
+   "kodel": "3-as pigiausias iš 3 (kiti 250 €–385 €, mediana 317,5 €), 26% brangiau už medianą. Privalumai: garantija, nauja, naujas.",
    "visi_palyginami": [
     {
-     "kaina": 390.0,
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-87847204.html",
+     "pavadinimas": "Dyson airwrap",
+     "rizikos": [],
+     "vieta_laikas": "Kėdainių r., prieš 16 min."
+    },
+    {
+     "kaina": 385.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-plauku-formavimo-prietaisas-87833500.html",
      "pavadinimas": "Dyson airwrap i.d plaukų formavimo prietaisas",
      "rizikos": [],
@@ -8723,14 +8463,15 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
     "Aprašyme: garantija, nauja, naujas."
    ],
    "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Iš 3 panašių skelbimų pigesnių yra 2; įprasta kaina ~317,5 €, šis ne pigesnis už kitus.",
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -13235,7 +12976,7 @@
    "bukle": null,
    "modelis": "steamdeck-lcd-512",
    "raktas": "steamdeck-lcd-512",
-   "palyginamu": 0,
+   "palyginamu": 1,
    "mediana": null,
    "naujo_kaina": null,
    "patikimumas": "žemas",
@@ -13250,7 +12991,14 @@
     "didelis": false,
     "nepervezamas": false
    },
-   "palyginami": [],
+   "palyginami": [
+    {
+     "pavadinimas": "Valve Steam Deck LCD 512gb",
+     "kaina": 330.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/valve-steam-deck-lcd-512gb-87846956.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    }
+   ],
    "parduotuves": [],
    "parduotuviu_paieska": [
     {
@@ -13287,17 +13035,27 @@
     "pilnas": false
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
-   "visi_palyginami": [],
+   "visi_palyginami": [
+    {
+     "kaina": 330.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/valve-steam-deck-lcd-512gb-87846956.html",
+     "pavadinimas": "Valve Steam Deck LCD 512gb",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    }
+   ],
    "amzius_d": 24,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": [],
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
     "Aprašyme: mažai naudotas."
    ],
    "pries": [
-    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -13888,6 +13646,342 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87847204",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-87847204.html",
+   "pavadinimas": "Dyson airwrap",
+   "kaina": 250.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5287754246/dyson-airwrap.jpg",
+   "aprasymas": "Gavau dovanų 2025 pavasarį, viskas puikiai veikia, naudotas tik kelis kartus. Ne mano nervams. Galima apžiūrėti gyvai Kėdainiuose. Kaina galu...",
+   "vieta_laikas": "Kėdainių r., prieš 16 min.",
+   "paieska": "Dyson",
+   "pastebetas": "2026-10-26T06:22:23Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Gavau dovanų 2025 pavasarį, viskas puikiai veikia, naudotas tik kelis kartus. Ne mano nervams. Galima apžiūrėti gyvai Kėdainiuose. Kaina galutinė.",
+   "bukle": "Naudota",
+   "modelis": "dyson-airwrap",
+   "raktas": "dyson-airwrap",
+   "palyginamu": 2,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Kėdainių r.)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Dyson airwrap i.d plaukų formavimo prietaisas",
+     "kaina": 385.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-plauku-formavimo-prietaisas-87833500.html",
+     "vieta_laikas": "Vilnius, prieš 7 val."
+    },
+    {
+     "pavadinimas": "Dyson airwrap i.d.",
+     "kaina": 400.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-87770814.html",
+     "vieta_laikas": "Vilnius, spalio 22 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=dyson+airwrap"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=dyson+airwrap"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=dyson+airwrap"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=dyson+airwrap"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 146,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 3,
+    "min": 385.0,
+    "max": 400.0,
+    "mediana": 392.5,
+    "nuolaida": 0.36
+   },
+   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 385 €–400 €, mediana 392,5 €), 36% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 385.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-plauku-formavimo-prietaisas-87833500.html",
+     "pavadinimas": "Dyson airwrap i.d plaukų formavimo prietaisas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 7 val."
+    },
+    {
+     "kaina": 400.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-airwrap-i-d-87770814.html",
+     "pavadinimas": "Dyson airwrap i.d.",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, spalio 22 d."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti"
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~392,5 €, šis 36 % pigesnis."
+   ],
+   "pries": [
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Kėdainių r.): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
+  },
+  {
+   "id": "87846946",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-pure-hot-cool-ventiliatorius-sildytuvas-87846946.html",
+   "pavadinimas": "Dyson pure hot + cool ventiliatorius šildytuvas",
+   "kaina": 250.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5287612952/dyson-pure-hot-cool-ventiliatorius-sildytuvas.jpg",
+   "aprasymas": "Dyson ventiliatorius šildytuvas, veikiantis, ventilioja ir šildo, vienintele tik meta oros kokybes klaida. Pirktas naujas kainavo 600€. Garanti...",
+   "vieta_laikas": "Klaipėda, prieš 19 min.",
+   "paieska": "Dyson",
+   "pastebetas": "2026-10-26T06:22:23Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "dyson-hot+cool",
+   "raktas": "dyson-hot+cool",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Klaipėda",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=dyson+hot%2Bcool"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=dyson+hot%2Bcool"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=dyson+hot%2Bcool"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=dyson+hot%2Bcool"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja",
+     "naujas"
+    ],
+    "aprasymo_ilgis": 146,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
+   "visi_palyginami": [],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "didelė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Suma didelė (250 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87846956",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/valve-steam-deck-lcd-512gb-87846956.html",
+   "pavadinimas": "Valve Steam Deck LCD 512gb",
+   "kaina": 330.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5287598576/valve-steam-deck-lcd-512gb.jpg",
+   "aprasymas": "Parduodamas tvarkingas, pilnai veikiantis Valve Steam Deck LCD, 512 GB talpos! Konsolė puikios būklės, veikia puikiai, neturi beveik jokių nau...",
+   "vieta_laikas": "Vilnius, prieš 1 val.",
+   "paieska": "Steam Deck",
+   "pastebetas": "2026-10-26T06:22:23Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "steamdeck-lcd-512",
+   "raktas": "steamdeck-lcd-512",
+   "palyginamu": 1,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Steam deck LCD 512gb",
+     "kaina": 310.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-lcd-512gb-87420536.html",
+     "vieta_laikas": "Klaipėda, spalio 02 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=steamdeck+lcd+512"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=steamdeck+lcd+512"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=steamdeck+lcd+512"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=steamdeck+lcd+512"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "puiki būklė"
+    ],
+    "aprasymo_ilgis": 145,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: puiki būklė.",
+   "visi_palyginami": [
+    {
+     "kaina": 310.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-lcd-512gb-87420536.html",
+     "pavadinimas": "Steam deck LCD 512gb",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, spalio 02 d."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: puiki būklė."
+   ],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
    }
   },
   {
@@ -16437,6 +16531,162 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
+   }
+  },
+  {
+   "id": "87752872",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+   "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+   "kaina": 30.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5273121554/dewalt-bosch-milwaukee-festool-ryobi-hikoki.jpg",
+   "aprasymas": "Dewalt po 30eur Dewalt seno modelis 30eur Hikoki 30eur Bosch 30eur Bosch 12 w su baterija 50eur Milwaukee 100eur Ryobi 40eur Festool 80eur ...",
+   "vieta_laikas": "Kaunas, spalio 21 d.",
+   "paieska": "DeWalt įrankiai",
+   "pastebetas": "2026-10-26T06:22:23Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Dewalt po 30eur Dewalt seno modelis 30eur Hikoki 30eur Bosch 30eur Bosch 12 w su baterija 50eur Milwaukee 100eur Ryobi 40eur Festool 80eur Dewalt 12 w visi 130eur VEIKENTIS VISI",
+   "bukle": "Naudota",
+   "modelis": "dewalt-kita",
+   "raktas": "dewalt-kita",
+   "palyginamu": 3,
+   "mediana": 45,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "3 panašių skelbimų mediana 45 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Dewalt impact suktukas",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
+     "vieta_laikas": "Utenos r., prieš 4 val."
+    },
+    {
+     "pavadinimas": "Dewalt akumuliatorinis prožektorius",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
+     "vieta_laikas": "Kaišiadorių r., prieš 2 d."
+    },
+    {
+     "pavadinimas": "Dewalt Flexwolt staklės",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Dewalt+Bosch+Milwaukee+Festool+Ryobi+hikoki"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Dewalt+Bosch+Milwaukee+Festool+Ryobi+hikoki"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Dewalt+Bosch+Milwaukee+Festool+Ryobi+hikoki"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Dewalt+Bosch+Milwaukee+Festool+Ryobi+hikoki"
+    }
+   ],
+   "tiketina_pardavimo": 40,
+   "pelnas": 6,
+   "roi": 0.2,
+   "max_pirkimo": 16,
+   "pelnas_per_val": 6,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 6,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 177,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 4,
+    "min": 35.0,
+    "max": 100.0,
+    "mediana": 45.0,
+    "nuolaida": 0.33
+   },
+   "kodel": "Pigiausias iš 4 to paties modelio skelbimų (kiti 35 €–100 €, mediana 45 €), 33% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
+     "pavadinimas": "Dewalt impact suktukas",
+     "rizikos": [
+      "defektas"
+     ],
+     "vieta_laikas": "Utenos r., prieš 4 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
+     "pavadinimas": "Dewalt akumuliatorinis prožektorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaišiadorių r., prieš 2 d."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
+     "pavadinimas": "Dewalt Flexwolt staklės",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    }
+   ],
+   "amzius_d": 5,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (dewalt-kita): 3 vnt., kainos 35 €–100 €, mediana 45 € × 0.90 (realiai parduodama pigiau nei prašoma) = 40,5 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 40,5 € − 30 € − 4,5 € = 6 € (20% pirkimo kainos)",
+    "Mokėti ne daugiau: min((40,5 € − 4,5 €) / 1.35; 40,5 € − 4,5 € − 20 €) = 16 €",
+    "Laikas ~1.0 val. → 6 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~45 €, šis 33 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 20 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -19071,12 +19321,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 7,
-   "mediana": 35,
+   "palyginamu": 8,
+   "mediana": 31,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "7 panašių skelbimų mediana 35 €"
+    "8 panašių skelbimų mediana 31 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -19094,6 +19344,12 @@
      "kaina": 15.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-priedai-87755800.html",
      "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Vaikiški Nintendo switch žaidimai",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/vaikiski-nintendo-switch-zaidimai-87846140.html",
+     "vieta_laikas": "Panevėžys, prieš 19 min."
     },
     {
      "pavadinimas": "Nintendo Switch Žaidimai",
@@ -19151,11 +19407,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Kyzar+vairas+su+pedalais+Nintendo+Switch%2Fpc"
     }
    ],
-   "tiketina_pardavimo": 32,
-   "pelnas": -18,
-   "roi": -0.39,
-   "max_pirkimo": 8,
-   "pelnas_per_val": -12,
+   "tiketina_pardavimo": 28,
+   "pelnas": -21,
+   "roi": -0.47,
+   "max_pirkimo": 4,
+   "pelnas_per_val": -14,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -19169,14 +19425,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 8,
+    "vieta": 7,
+    "is": 9,
     "min": 15.0,
     "max": 50.0,
-    "mediana": 35.0,
-    "nuolaida": -0.29
+    "mediana": 31.0,
+    "nuolaida": -0.45
    },
-   "kodel": "6-as pigiausias iš 8 (kiti 15 €–50 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "7-as pigiausias iš 9 (kiti 15 €–50 €, mediana 31 €), 45% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -19184,6 +19440,13 @@
      "pavadinimas": "Nintendo Switch žaidimai, priedai",
      "rizikos": [],
      "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/vaikiski-nintendo-switch-zaidimai-87846140.html",
+     "pavadinimas": "Vaikiški Nintendo switch žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 19 min."
     },
     {
      "kaina": 25.0,
@@ -19232,21 +19495,21 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 7 vnt., kainos 15 €–50 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (switch-priedai): 8 vnt., kainos 15 €–50 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 31,5 € − 45 € − 4 € = -17,5 € (-39% pirkimo kainos)",
-    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
-    "Laikas ~1.5 val. → -11,7 €/val."
+    "Pelnas = 27,9 € − 45 € − 4 € = -21,1 € (-47% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
+    "Laikas ~1.5 val. → -14,1 €/val."
    ],
-   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 9 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -39 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 9 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-21 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -19608,8 +19871,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Kaip naujas, žaista apie 1val, be dėžutės",
+   "bukle": "Naudota",
    "modelis": "Nintendo Switch Lite (be dėžutės)",
    "raktas": "switch-lite",
    "palyginamu": 1,
@@ -19683,7 +19946,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 41,
-    "pilnas": false
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
    "visi_palyginami": [
@@ -19744,12 +20007,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 7,
-   "mediana": 35,
+   "palyginamu": 8,
+   "mediana": 31,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "7 panašių skelbimų mediana 35 €"
+    "8 panašių skelbimų mediana 31 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -19767,6 +20030,12 @@
      "kaina": 15.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-priedai-87755800.html",
      "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Vaikiški Nintendo switch žaidimai",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/vaikiski-nintendo-switch-zaidimai-87846140.html",
+     "vieta_laikas": "Panevėžys, prieš 19 min."
     },
     {
      "pavadinimas": "Nintendo Switch Žaidimai",
@@ -19824,11 +20093,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Zelda%3A+Breath+of+the+Wild+%E2%80%93+Switch+2+edition"
     }
    ],
-   "tiketina_pardavimo": 32,
-   "pelnas": -22,
-   "roi": -0.45,
-   "max_pirkimo": 8,
-   "pelnas_per_val": -15,
+   "tiketina_pardavimo": 28,
+   "pelnas": -26,
+   "roi": -0.52,
+   "max_pirkimo": 4,
+   "pelnas_per_val": -17,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -19839,14 +20108,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 8,
-    "is": 8,
+    "vieta": 9,
+    "is": 9,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 35.0,
-    "nuolaida": -0.43
+    "mediana": 31.0,
+    "nuolaida": -0.61
    },
-   "kodel": "8-as pigiausias iš 8 (kiti 15 €–45 €, mediana 35 €), 43% brangiau už medianą.",
+   "kodel": "9-as pigiausias iš 9 (kiti 15 €–45 €, mediana 31 €), 61% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -19854,6 +20123,13 @@
      "pavadinimas": "Nintendo Switch žaidimai, priedai",
      "rizikos": [],
      "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/vaikiski-nintendo-switch-zaidimai-87846140.html",
+     "pavadinimas": "Vaikiški Nintendo switch žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 19 min."
     },
     {
      "kaina": 25.0,
@@ -19902,19 +20178,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 7 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (switch-priedai): 8 vnt., kainos 15 €–45 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 31,5 € − 50 € − 4 € = -22,5 € (-45% pirkimo kainos)",
-    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
-    "Laikas ~1.5 val. → -15 €/val."
+    "Pelnas = 27,9 € − 50 € − 4 € = -26,1 € (-52% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
+    "Laikas ~1.5 val. → -17,4 €/val."
    ],
-   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 7; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 9 panašių skelbimų pigesnių yra 8; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 8 panašių skelbimų pigesnių yra 7; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-22 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -45 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 9 panašių skelbimų pigesnių yra 8; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-26 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -52 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -19946,12 +20222,12 @@
    "bukle": null,
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
-   "palyginamu": 7,
-   "mediana": 35,
+   "palyginamu": 8,
+   "mediana": 31,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "7 panašių skelbimų mediana 35 €"
+    "8 panašių skelbimų mediana 31 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -19969,6 +20245,12 @@
      "kaina": 15.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-zaidimai-priedai-87755800.html",
      "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Vaikiški Nintendo switch žaidimai",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/vaikiski-nintendo-switch-zaidimai-87846140.html",
+     "vieta_laikas": "Panevėžys, prieš 19 min."
     },
     {
      "pavadinimas": "Nintendo Switch Žaidimai",
@@ -20026,11 +20308,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Splatoon+Raiders+%28Nintendo+Switch+2%29"
     }
    ],
-   "tiketina_pardavimo": 32,
-   "pelnas": -18,
-   "roi": -0.39,
-   "max_pirkimo": 8,
-   "pelnas_per_val": -12,
+   "tiketina_pardavimo": 28,
+   "pelnas": -21,
+   "roi": -0.47,
+   "max_pirkimo": 4,
+   "pelnas_per_val": -14,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -20041,14 +20323,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 8,
+    "vieta": 7,
+    "is": 9,
     "min": 15.0,
     "max": 50.0,
-    "mediana": 35.0,
-    "nuolaida": -0.29
+    "mediana": 31.0,
+    "nuolaida": -0.45
    },
-   "kodel": "6-as pigiausias iš 8 (kiti 15 €–50 €, mediana 35 €), 29% brangiau už medianą.",
+   "kodel": "7-as pigiausias iš 9 (kiti 15 €–50 €, mediana 31 €), 45% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -20056,6 +20338,13 @@
      "pavadinimas": "Nintendo Switch žaidimai, priedai",
      "rizikos": [],
      "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/vaikiski-nintendo-switch-zaidimai-87846140.html",
+     "pavadinimas": "Vaikiški Nintendo switch žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 19 min."
     },
     {
      "kaina": 25.0,
@@ -20104,19 +20393,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 7 vnt., kainos 15 €–50 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (switch-priedai): 8 vnt., kainos 15 €–50 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 31,5 € − 45 € − 4 € = -17,5 € (-39% pirkimo kainos)",
-    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
-    "Laikas ~1.5 val. → -11,7 €/val."
+    "Pelnas = 27,9 € − 45 € − 4 € = -21,1 € (-47% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27,9 € − 4 €) / 1.35; 27,9 € − 4 € − 20 €) = 3,9 €",
+    "Laikas ~1.5 val. → -14,1 €/val."
    ],
-   "isvada": "Praleisk: iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 9 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 8 panašių skelbimų pigesnių yra 5; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -39 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 9 panašių skelbimų pigesnių yra 6; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-21 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -47 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -21563,6 +21852,321 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
+   }
+  },
+  {
+   "id": "87805002",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
+   "pavadinimas": "Dewalt Flexwolt staklės",
+   "kaina": 100.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5280940418/dewalt-stakles.jpg",
+   "aprasymas": "Sudegęs variklis, gal tiktų kam ant dalių",
+   "vieta_laikas": "Kaunas, prieš 2 d.",
+   "paieska": "DeWalt įrankiai",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "dewalt-kita",
+   "raktas": "dewalt-kita",
+   "palyginamu": 3,
+   "mediana": 35,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "3 panašių skelbimų mediana 35 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Dewalt impact suktukas",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
+     "vieta_laikas": "Utenos r., prieš 4 val."
+    },
+    {
+     "pavadinimas": "Dewalt akumuliatorinis prožektorius",
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
+     "vieta_laikas": "Kaišiadorių r., prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Dewalt+Flexwolt+stakl%C4%97s"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Dewalt+Flexwolt+stakl%C4%97s"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Dewalt+Flexwolt+stakl%C4%97s"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Dewalt+Flexwolt+stakl%C4%97s"
+    }
+   ],
+   "tiketina_pardavimo": 32,
+   "pelnas": -73,
+   "roi": -0.73,
+   "max_pirkimo": 7,
+   "pelnas_per_val": -73,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 41,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 4,
+    "is": 4,
+    "min": 30.0,
+    "max": 45.0,
+    "mediana": 35.0,
+    "nuolaida": -1.86
+   },
+   "kodel": "4-as pigiausias iš 4 (kiti 30 €–45 €, mediana 35 €), 186% brangiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+     "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
+     "pavadinimas": "Dewalt impact suktukas",
+     "rizikos": [
+      "defektas"
+     ],
+     "vieta_laikas": "Utenos r., prieš 4 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
+     "pavadinimas": "Dewalt akumuliatorinis prožektorius",
+     "rizikos": [],
+     "vieta_laikas": "Kaišiadorių r., prieš 2 d."
+    }
+   ],
+   "amzius_d": 2,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (dewalt-kita): 3 vnt., kainos 30 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 31,5 € − 100 € − 4,5 € = -73 € (-73% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
+    "Laikas ~1.0 val. → -73 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnių yra 3; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 4 panašių skelbimų pigesnių yra 3; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-73 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -73 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87794548",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-akumuliatorinis-prozektorius-87794548.html",
+   "pavadinimas": "Dewalt akumuliatorinis prožektorius",
+   "kaina": 45.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5279746652/dewalt-akumoliatorinis-prozektorius.jpg",
+   "aprasymas": "Naujas",
+   "vieta_laikas": "Kaišiadorių r., prieš 2 d.",
+   "paieska": "DeWalt įrankiai",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Nauja"
+   ],
+   "pilnas_aprasymas": "Naujas",
+   "bukle": "Nauja",
+   "modelis": "dewalt-kita",
+   "raktas": "dewalt-kita",
+   "palyginamu": 3,
+   "mediana": 35,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "3 panašių skelbimų mediana 35 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaišiadorių r.",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "pavadinimas": "Dewalt impact suktukas",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
+     "vieta_laikas": "Utenos r., prieš 4 val."
+    },
+    {
+     "pavadinimas": "Dewalt Flexwolt staklės",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Dewalt+akumuliatorinis+pro%C5%BEektorius"
+    }
+   ],
+   "tiketina_pardavimo": 32,
+   "pelnas": -18,
+   "roi": -0.4,
+   "max_pirkimo": 7,
+   "pelnas_per_val": -18,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja",
+     "naujas"
+    ],
+    "aprasymo_ilgis": 6,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 3,
+    "is": 4,
+    "min": 30.0,
+    "max": 100.0,
+    "mediana": 35.0,
+    "nuolaida": -0.29
+   },
+   "kodel": "3-as pigiausias iš 4 (kiti 30 €–100 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
+   "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-bosch-milwaukee-festool-ryobi-hikoki-87752872.html",
+     "pavadinimas": "Dewalt Bosch Milwaukee Festool Ryobi hikoki",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, spalio 21 d."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-impact-suktukas-87835738.html",
+     "pavadinimas": "Dewalt impact suktukas",
+     "rizikos": [
+      "defektas"
+     ],
+     "vieta_laikas": "Utenos r., prieš 4 val."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dewalt-flexwolt-stakles-87805002.html",
+     "pavadinimas": "Dewalt Flexwolt staklės",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 d."
+    }
+   ],
+   "amzius_d": 2,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (dewalt-kita): 3 vnt., kainos 30 €–100 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Kaišiadorių r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 31,5 € − 45 € − 4,5 € = -18 € (-40% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
+    "Laikas ~1.0 val. → -18 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnių yra 2; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja, naujas."
+   ],
+   "pries": [
+    "Iš 4 panašių skelbimų pigesnių yra 2; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaišiadorių r.: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -33325,7 +33929,7 @@
    "max": 200.0
   },
   "switch-priedai": {
-   "n": 8,
+   "n": 9,
    "mediana": 35,
    "min": 15.0,
    "max": 50.0
@@ -33349,8 +33953,8 @@
    "max": 380.0
   },
   "dewalt-kita": {
-   "n": 6,
-   "mediana": 72,
+   "n": 7,
+   "mediana": 45,
    "min": 12.0,
    "max": 360.0
   },
@@ -33392,9 +33996,9 @@
   },
   "gopro-13": {
    "n": 2,
-   "mediana": 275,
+   "mediana": 270,
    "min": 270.0,
-   "max": 280.0
+   "max": 270.0
   },
   "gopro-8": {
    "n": 2,
@@ -33427,9 +34031,9 @@
    "max": 120.0
   },
   "dyson-airwrap": {
-   "n": 2,
-   "mediana": 395,
-   "min": 390.0,
+   "n": 3,
+   "mediana": 385,
+   "min": 250.0,
    "max": 400.0
   },
   "dyson-kita": {
@@ -33521,6 +34125,12 @@
    "mediana": 360,
    "min": 330.0,
    "max": 435.0
+  },
+  "steamdeck-lcd-512": {
+   "n": 2,
+   "mediana": 320,
+   "min": 310.0,
+   "max": 330.0
   }
  }
 }

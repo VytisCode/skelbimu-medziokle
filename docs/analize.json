@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-27T04:46:21Z",
+ "sugeneruota": "2026-10-27T05:15:12Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -38,7 +38,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 376,
+ "skelbimu_istorijoje": 377,
  "radiniai": [
   {
    "id": "87833858",
@@ -4047,8 +4047,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodamas visiškai naujas, patikrintas ir nenaudotas išmanusis robotas-siurblys „Xiaomi Mi Robot Vacuum-Mop P“ (modelis: STYTJ02YM). Komplektacija visiškai pilna: pats robotas, įkrovimo stotelė, maitinimo laidas, dulkės/vandens talpykla bei plovimo šluostė. Svarbu: Pažeista originali kartoninė pakuotė, o transportuojant ar sandėliuojant ant korpuso atsirado vienas kitas visiškai smulkus, į akis nekrintantis įbrėžimas (visi trūkumai matomi nuotraukose). Įrenginys techniškai tvarkingas, patikrintas ir paruoštas darbui! Pagrindiniai privalumai: 2 viename: Efektyvus tiek sausas siurbimas, tiek drėgnas grindų plovimas. Pačios geriausios komplektacijos: Visi priedai ir elementai yra visiškai nauji. Puiki kaina: Įsigykite kokybišką ir populiarų įrenginį pigiau nei parduotuvėje!",
+   "bukle": "Naudota",
    "modelis": "robotas-kita",
    "raktas": "robotas-kita",
    "palyginamu": 5,
@@ -4126,16 +4126,17 @@
    "pelnas_per_val": 54,
    "sprendimas": "tikrinti",
    "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
-   "balas": 46,
+   "balas": 49,
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [
+     "komplektas",
      "nauja",
      "naujas",
      "nenaudotas"
     ],
-    "aprasymo_ilgis": 143,
-    "pilnas": false
+    "aprasymo_ilgis": 783,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -4145,7 +4146,7 @@
     "mediana": 170.0,
     "nuolaida": 0.44
    },
-   "kodel": "2-as pigiausias iš 6 (kiti 80 €–410 €, mediana 170 €), 44% pigiau už medianą. Privalumai: nauja, naujas, nenaudotas.",
+   "kodel": "2-as pigiausias iš 6 (kiti 80 €–410 €, mediana 170 €), 44% pigiau už medianą. Privalumai: komplektas, nauja, naujas, nenaudotas.",
    "visi_palyginami": [
     {
      "kaina": 80.0,
@@ -4222,7 +4223,7 @@
    "uz": [
     "Iš 6 panašių skelbimų pigesnis tik vienas; įprasta kaina ~170 €, šis 44 % pigesnis.",
     "Pelnas ~54 € (56 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
-    "Aprašyme: nauja, naujas, nenaudotas."
+    "Aprašyme: komplektas, nauja, naujas, nenaudotas."
    ],
    "pries": [
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
@@ -8301,8 +8302,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu naudotą DJI Osmo Pocket 3 kamerą su priedais – 270 € Parduodu mažai naudotą DJI Osmo Pocket 3 kamerą kartu su priedais. Komplekte: - DJI Osmo Pocket 3 kamera - Originali pakuotė - Apsauginis dėklas - Papildomi priedai, matomi nuotraukose - UEGOGO Pocket filtrų rinkinys Kompaktiška kamera, puikiai tinkanti kelionėms, vlogams ir kasdieniams vaizdo įrašams filmuoti. Kaina už visą komplektą – 270 €. Parduodu tik viską kartu, atskirai neparduodu.",
+   "bukle": "Naudota",
    "modelis": "dji-osmopocket",
    "raktas": "dji-osmopocket",
    "palyginamu": 2,
@@ -8365,10 +8366,11 @@
     "rizikos_zodziai": [],
     "privalumai": [
      "komplektas",
-     "mažai naudotas"
+     "mažai naudotas",
+     "originali pakuotė"
     ],
-    "aprasymo_ilgis": 140,
-    "pilnas": false
+    "aprasymo_ilgis": 454,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -8378,7 +8380,7 @@
     "mediana": 345.0,
     "nuolaida": 0.22
    },
-   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 340 €–350 €, mediana 345 €), 22% pigiau už medianą. Privalumai: komplektas, mažai naudotas.",
+   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 340 €–350 €, mediana 345 €), 22% pigiau už medianą. Privalumai: komplektas, mažai naudotas, originali pakuotė.",
    "visi_palyginami": [
     {
      "kaina": 340.0,
@@ -8404,7 +8406,7 @@
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
     "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~345 €, šis 22 % pigesnis.",
-    "Aprašyme: komplektas, mažai naudotas."
+    "Aprašyme: komplektas, mažai naudotas, originali pakuotė."
    ],
    "pries": [
     "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
@@ -16172,16 +16174,16 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "pavadinimas": "Lego wear žieminis kombinezonas",
@@ -16258,17 +16260,17 @@
    "visi_palyginami": [
     {
      "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
      "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
+     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
     },
     {
      "kaina": 49.0,
@@ -16368,16 +16370,16 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "pavadinimas": "Lego wear žieminis kombinezonas",
@@ -16454,17 +16456,17 @@
    "visi_palyginami": [
     {
      "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
      "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
+     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
     },
     {
      "kaina": 49.0,
@@ -17774,6 +17776,189 @@
    }
   },
   {
+   "id": "87857182",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+   "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+   "kaina": 30.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5289378374/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends.jpg",
+   "aprasymas": "Parduodamas didelis LEGO detalių rinkinys, puikiai tinkantis tiek kūrybiniam konstravimui, tiek turimų rinkinių papildymui! Rinkinį sudaro: LE...",
+   "vieta_laikas": "Šiauliai, prieš 5 val.",
+   "paieska": "Lego",
+   "pastebetas": "2026-10-26T19:24:16Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodamas didelis LEGO detalių rinkinys, puikiai tinkantis tiek kūrybiniam konstravimui, tiek turimų rinkinių papildymui! Rinkinį sudaro: LEGO detalės: Numatytas svoris apie ~2.5 kg (sumaišytos detalės iš įvairių rinkinių). LEGO Marvel figūrėlės: Didžioji Thanos (BigFig) figūrėlė, Thor, Iron Man, Captain America, Scarlet Witch ir kt. LEGO Friends figūrėlės: Lėlytės bei maži gyvūnėliai. Popierinės instrukcijos: Pridedamos 2 instrukcijos (tarp jų LEGO Friends 41714 ir kt.). SVARBU: Parduodama BE DĖŽIŲ, tik su nuotraukose matomomis instrukcijomis. Dalis detalių išbarstytos dubenyje, rinkiniai iki galo nesurinkti ir nepertikrinti pagal detalių sąrašą. Parduodama viskas kartu, kas pavaizduota nuotraukose.",
+   "bukle": "Naudota",
+   "modelis": "lego-rinkinys",
+   "raktas": "lego-rinkinys",
+   "palyginamu": 5,
+   "mediana": 50,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "5 panašių skelbimų mediana 50 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Šiauliai",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
+     "vieta_laikas": "Vilnius, prieš 6 val."
+    },
+    {
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Lego",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Lego minecraft, bionicle, hero factory",
+     "kaina": 111.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Įvairios Lego kaladėlės",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
+     "vieta_laikas": "Vilnius, prieš 23 min."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
+    }
+   ],
+   "tiketina_pardavimo": 45,
+   "pelnas": 10,
+   "roi": 0.35,
+   "max_pirkimo": 20,
+   "pelnas_per_val": 10,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 14,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 711,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 6,
+    "min": 30.0,
+    "max": 150.0,
+    "mediana": 50.0,
+    "nuolaida": 0.4
+   },
+   "kodel": "Pigiausias iš 6 to paties modelio skelbimų (kiti 30 €–150 €, mediana 50 €), 40% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
+     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
+    },
+    {
+     "kaina": 49.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
+     "pavadinimas": "Lego wear žieminis kombinezonas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
+     "pavadinimas": "Lego",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 1 d."
+    },
+    {
+     "kaina": 111.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
+     "pavadinimas": "Lego minecraft, bionicle, hero factory",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
+     "pavadinimas": "Įvairios Lego kaladėlės",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 23 min."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 35.0,
+    "iki": 30.0
+   },
+   "zingsniai": [
+    "Panašūs skelbimai (lego-rinkinys): 5 vnt., kainos 30 €–150 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 45 € − 30 € − 4,5 € = 10,5 € (35% pirkimo kainos)",
+    "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
+    "Laikas ~1.0 val. → 10,5 €/val."
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 6 panašių skelbimų pigesnio nėra; įprasta kaina ~50 €, šis 40 % pigesnis.",
+    "Kaina jau sumažinta nuo 35 € – pardavėjas linkęs nusileisti."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~10 € – mažiau nei tavo minimumas 20 €.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87431784",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/vogels-sound-4201-sonos-koloneliu-laikikliai-87431784.html",
    "pavadinimas": "Vogels Sound 4201 Sonos kolonėlių laikikliai",
@@ -18824,13 +19009,13 @@
    "bukle": "Nauja",
    "modelis": "PS5 žaidimas Horizon Forbidden West",
    "raktas": "ps5",
-   "palyginamu": 16,
-   "mediana": 36,
+   "palyginamu": 17,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
     "Claude įvertinimas",
-    "16 panašių skelbimų mediana 36 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -18868,6 +19053,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -18896,12 +19087,6 @@
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
      "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
    "parduotuves": [],
@@ -18945,13 +19130,13 @@
    },
    "pozicija": {
     "vieta": 4,
-    "is": 17,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 36.0,
-    "nuolaida": 0.44
+    "mediana": 35.0,
+    "nuolaida": 0.43
    },
-   "kodel": "4-as pigiausias iš 17 (kiti 15 €–45 €, mediana 36 €), 44% pigiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "4-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 43% pigiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -18980,6 +19165,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -19074,7 +19266,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 36 € × 0.90 (realiai parduodama pigiau nei prašoma) = 32,4 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Claude įvertinimas (2026-10-27): 25 € – Naudoti žaidimai ~20–30 €.",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 25 € − 20 € − 4 € = 1 € (5% pirkimo kainos)",
@@ -19083,7 +19275,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~1 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 17 panašių skelbimų pigesnių yra 3; įprasta kaina ~36 €, šis 44 % pigesnis.",
+    "Iš 18 panašių skelbimų pigesnių yra 3; įprasta kaina ~35 €, šis 43 % pigesnis.",
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
@@ -19139,7 +19331,7 @@
    "palyginami": [
     {
      "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
+     "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
      "vieta_laikas": "Šiauliai, prieš 5 val."
     },
@@ -19204,15 +19396,15 @@
    "pozicija": {
     "vieta": 1,
     "is": 6,
-    "min": 35.0,
+    "min": 30.0,
     "max": 150.0,
     "mediana": 50.0,
     "nuolaida": 0.4
    },
-   "kodel": "Pigiausias iš 6 to paties modelio skelbimų (kiti 35 €–150 €, mediana 50 €), 40% pigiau už medianą.",
+   "kodel": "Pigiausias iš 6 to paties modelio skelbimų (kiti 30 €–150 €, mediana 50 €), 40% pigiau už medianą.",
    "visi_palyginami": [
     {
-     "kaina": 35.0,
+     "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
      "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
      "rizikos": [],
@@ -19251,7 +19443,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 5 vnt., kainos 35 €–150 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
+    "Panašūs skelbimai (lego-rinkinys): 5 vnt., kainos 30 €–150 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 45 € − 30 € − 4 € = 11 € (37% pirkimo kainos)",
@@ -19945,185 +20137,6 @@
     "Aprašyme minima: defektas."
    ],
    "logistika": "Siunta į paštomatą iš Kupiškio r.: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87857182",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-   "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-   "kaina": 35.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5289378374/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends.jpg",
-   "aprasymas": "Parduodamas didelis LEGO detalių rinkinys, puikiai tinkantis tiek kūrybiniam konstravimui, tiek turimų rinkinių papildymui! Rinkinį sudaro: LE...",
-   "vieta_laikas": "Šiauliai, prieš 5 val.",
-   "paieska": "Lego",
-   "pastebetas": "2026-10-26T19:24:16Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "lego-rinkinys",
-   "raktas": "lego-rinkinys",
-   "palyginamu": 5,
-   "mediana": 50,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "5 panašių skelbimų mediana 50 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Šiauliai",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego wear žieminis kombinezonas",
-     "kaina": 49.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Lego",
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
-     "vieta_laikas": "Marijampolė, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Lego minecraft, bionicle, hero factory",
-     "kaina": 111.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Įvairios Lego kaladėlės",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
-     "vieta_laikas": "Vilnius, prieš 23 min."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Lego+rinkinys+~2.5+kg%2C+Marvel+%28Thanos%29+ir+Friends"
-    }
-   ],
-   "tiketina_pardavimo": 45,
-   "pelnas": 6,
-   "roi": 0.16,
-   "max_pirkimo": 20,
-   "pelnas_per_val": 6,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 5,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 145,
-    "pilnas": false
-   },
-   "pozicija": {
-    "vieta": 2,
-    "is": 6,
-    "min": 30.0,
-    "max": 150.0,
-    "mediana": 50.0,
-    "nuolaida": 0.3
-   },
-   "kodel": "2-as pigiausias iš 6 (kiti 30 €–150 €, mediana 50 €), 30% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 49.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
-     "pavadinimas": "Lego wear žieminis kombinezonas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
-     "pavadinimas": "Lego",
-     "rizikos": [],
-     "vieta_laikas": "Marijampolė, prieš 1 d."
-    },
-    {
-     "kaina": 111.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
-     "pavadinimas": "Lego minecraft, bionicle, hero factory",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
-     "pavadinimas": "Įvairios Lego kaladėlės",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 23 min."
-    }
-   ],
-   "amzius_d": 0,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 5 vnt., kainos 30 €–150 €, mediana 50 € × 0.90 (realiai parduodama pigiau nei prašoma) = 45 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 45 € − 35 € − 4,5 € = 5,5 € (16% pirkimo kainos)",
-    "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
-    "Laikas ~1.0 val. → 5,5 €/val."
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 6 panašių skelbimų pigesnis tik vienas; įprasta kaina ~50 €, šis 30 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 16 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
     "lygis": "vidutinė",
     "zingsniai": [
@@ -20979,6 +20992,301 @@
    }
   },
   {
+   "id": "87868090",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+   "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+   "kaina": 25.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5291399790/clair-obscur-expedition-33-ps5.jpg",
+   "aprasymas": "Clair Obscur: Expedition 33, perzaistas ir parduodamas. Kaunas, romainiai.",
+   "vieta_laikas": "Kaunas, prieš 1 min.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-27T05:14:02Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Clair Obscur: Expedition 33, perzaistas ir parduodamas. Kaunas, romainiai.",
+   "bukle": "Naudota",
+   "modelis": "ps5",
+   "raktas": "ps5",
+   "palyginamu": 17,
+   "mediana": 35,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "17 panašių skelbimų mediana 35 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Wreckfest ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "007 James bond first light ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "pavadinimas": "Dune awakening Ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dune-awakening-ps5-87861742.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Crimson Desert Ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Wolverine ps5 disc",
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=ps5"
+    }
+   ],
+   "tiketina_pardavimo": 32,
+   "pelnas": 2,
+   "roi": 0.08,
+   "max_pirkimo": 7,
+   "pelnas_per_val": 2,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 4,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 74,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 5,
+    "is": 18,
+    "min": 15.0,
+    "max": 45.0,
+    "mediana": 35.0,
+    "nuolaida": 0.29
+   },
+   "kodel": "5-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 29% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
+     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
+     "pavadinimas": "Wreckfest ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "pavadinimas": "007 James bond first light ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dune-awakening-ps5-87861742.html",
+     "pavadinimas": "Dune awakening Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
+     "pavadinimas": "Crimson Desert Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "pavadinimas": "Wolverine ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "pavadinimas": "Parduodu ps5 first light",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "pavadinimas": "Saros Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-87863674.html",
+     "pavadinimas": "Wolverine Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "pavadinimas": "Ps5 silent hill town fall",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
+     "pavadinimas": "Star wars zero company ps5",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 31,5 € − 25 € − 4,5 € = 2 € (8% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
+    "Laikas ~1.0 val. → 2 €/val."
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 18 panašių skelbimų pigesnių yra 4; įprasta kaina ~35 €, šis 29 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87835252",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/akumuliatorinis-smuginis-suktuvas-makita-dtd152z-87835252.html",
    "pavadinimas": "Akumuliatorinis smūginis suktuvas Makita Dtd152z",
@@ -21100,297 +21408,6 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87822186",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
-   "pavadinimas": "Mafia The Old Country Ps5",
-   "kaina": 25.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5283969198/mafia-the-old-country-ps5.jpg",
-   "aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
-   "vieta_laikas": "Vilnius, prieš 1 d.",
-   "paieska": "PlayStation 5",
-   "pastebetas": "2026-10-25T18:29:25Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
-   "bukle": "Naudota",
-   "modelis": "PS5 žaidimas Mafia: The Old Country",
-   "raktas": "ps5",
-   "palyginamu": 16,
-   "mediana": 36,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "16 panašių skelbimų mediana 36 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
-     "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wreckfest ps5",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "pavadinimas": "Horizon Forbiden West ps5 disc",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
-     "vieta_laikas": "Vilnius, prieš 12 min."
-    },
-    {
-     "pavadinimas": "007 James bond first light ps5",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Crimson desert ps5 disc",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
-     "vieta_laikas": "Vilnius, prieš 21 min."
-    },
-    {
-     "pavadinimas": "Dune awakening Ps5",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dune-awakening-ps5-87861742.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Crimson Desert Ps5",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
-     "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
-    }
-   ],
-   "tiketina_pardavimo": 32,
-   "pelnas": 3,
-   "roi": 0.14,
-   "max_pirkimo": 8,
-   "pelnas_per_val": 2,
-   "sprendimas": "praleisti",
-   "priezastis": "Žaidimo diskas: pelnas ~5 €, nevertas tavo laiko.",
-   "balas": 3,
-   "ivertinta": "2026-10-26",
-   "stovas": false,
-   "tikrinti": [],
-   "pardavimas": [],
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 67,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 5,
-    "is": 17,
-    "min": 15.0,
-    "max": 45.0,
-    "mediana": 36.0,
-    "nuolaida": 0.31
-   },
-   "kodel": "5-as pigiausias iš 17 (kiti 15 €–45 €, mediana 36 €), 31% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
-     "pavadinimas": "Assassins creed Mirage / Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
-     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
-     "pavadinimas": "Wreckfest ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 11 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
-     "pavadinimas": "Horizon Forbiden West ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 12 min."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
-     "pavadinimas": "007 James bond first light ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
-     "pavadinimas": "Crimson desert ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 21 min."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dune-awakening-ps5-87861742.html",
-     "pavadinimas": "Dune awakening Ps5",
-     "rizikos": [
-      "braižytas"
-     ],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
-     "pavadinimas": "Crimson Desert Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "pavadinimas": "Wolverine ps5 disc",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
-     "pavadinimas": "Parduodu ps5 first light",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
-     "pavadinimas": "Saros Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-87863674.html",
-     "pavadinimas": "Wolverine Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
-     "pavadinimas": "The Blood of Dawnwalker Ps5",
-     "rizikos": [
-      "braižytas"
-     ],
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
-     "pavadinimas": "Ps5 silent hill town fall",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
-     "pavadinimas": "Star wars zero company ps5",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    }
-   ],
-   "amzius_d": 1,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 36 € × 0.90 (realiai parduodama pigiau nei prašoma) = 32,4 €",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 32,4 € − 25 € − 4 € = 3,4 € (14% pirkimo kainos)",
-    "Mokėti ne daugiau: min((32,4 € − 4 €) / 1.35; 32,4 € − 4 € − 20 €) = 8,4 €",
-    "Laikas ~1.5 val. → 2,3 €/val."
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~3 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 17 panašių skelbimų pigesnių yra 4; įprasta kaina ~36 €, šis 31 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~3 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 14 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "maža",
-    "zingsniai": [
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
    }
   },
   {
@@ -21825,6 +21842,304 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87822186",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+   "pavadinimas": "Mafia The Old Country Ps5",
+   "kaina": 25.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5283969198/mafia-the-old-country-ps5.jpg",
+   "aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
+   "vieta_laikas": "Vilnius, prieš 1 d.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-10-25T18:29:25Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Puikus žaidimas. Patogiausia susitikti Pilaitėje, siuntimas +3 Eur.",
+   "bukle": "Naudota",
+   "modelis": "PS5 žaidimas Mafia: The Old Country",
+   "raktas": "ps5",
+   "palyginamu": 17,
+   "mediana": 35,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "17 panašių skelbimų mediana 35 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Wreckfest ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
+     "pavadinimas": "007 James bond first light ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Crimson desert ps5 disc",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "pavadinimas": "Dune awakening Ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dune-awakening-ps5-87861742.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Crimson Desert Ps5",
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Wolverine ps5 disc",
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=PS5+%C5%BEaidimas+Mafia%3A+The+Old+Country"
+    }
+   ],
+   "tiketina_pardavimo": 32,
+   "pelnas": 2,
+   "roi": 0.1,
+   "max_pirkimo": 8,
+   "pelnas_per_val": 2,
+   "sprendimas": "praleisti",
+   "priezastis": "Žaidimo diskas: pelnas ~5 €, nevertas tavo laiko.",
+   "balas": 2,
+   "ivertinta": "2026-10-26",
+   "stovas": false,
+   "tikrinti": [],
+   "pardavimas": [],
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 67,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 5,
+    "is": 18,
+    "min": 15.0,
+    "max": 45.0,
+    "mediana": 35.0,
+    "nuolaida": 0.29
+   },
+   "kodel": "5-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 29% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
+     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
+     "pavadinimas": "Wreckfest ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "pavadinimas": "007 James bond first light ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dune-awakening-ps5-87861742.html",
+     "pavadinimas": "Dune awakening Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
+     "pavadinimas": "Crimson Desert Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "kaina": 37.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
+     "pavadinimas": "Wolverine ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 min."
+    },
+    {
+     "kaina": 38.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
+     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-ps5-first-light-87839174.html",
+     "pavadinimas": "Parduodu ps5 first light",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/saros-ps5-87821266.html",
+     "pavadinimas": "Saros Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-87863674.html",
+     "pavadinimas": "Wolverine Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-ps5-87831458.html",
+     "pavadinimas": "The Blood of Dawnwalker Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-silent-hill-town-fall-87830316.html",
+     "pavadinimas": "Ps5 silent hill town fall",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/star-wars-zero-company-ps5-87828498.html",
+     "pavadinimas": "Star wars zero company ps5",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    }
+   ],
+   "amzius_d": 1,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 31,5 € − 25 € − 4 € = 2,5 € (10% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
+    "Laikas ~1.5 val. → 1,7 €/val."
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 18 panašių skelbimų pigesnių yra 4; įprasta kaina ~35 €, šis 29 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
    }
   },
   {
@@ -24360,11 +24675,11 @@
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
    "palyginamu": 4,
-   "mediana": 42,
+   "mediana": 40,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "4 panašių skelbimų mediana 42 €"
+    "4 panašių skelbimų mediana 39,5 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Marijampolė",
@@ -24378,16 +24693,16 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "pavadinimas": "Lego wear žieminis kombinezonas",
@@ -24421,11 +24736,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Lego"
     }
    ],
-   "tiketina_pardavimo": 38,
-   "pelnas": -17,
-   "roi": -0.33,
-   "max_pirkimo": 13,
-   "pelnas_per_val": -17,
+   "tiketina_pardavimo": 36,
+   "pelnas": -19,
+   "roi": -0.38,
+   "max_pirkimo": 11,
+   "pelnas_per_val": -19,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -24440,24 +24755,24 @@
     "is": 5,
     "min": 30.0,
     "max": 111.0,
-    "mediana": 42.0,
-    "nuolaida": -0.19
+    "mediana": 39.5,
+    "nuolaida": -0.27
    },
-   "kodel": "4-as pigiausias iš 5 (kiti 30 €–111 €, mediana 42 €), 19% brangiau už medianą.",
+   "kodel": "4-as pigiausias iš 5 (kiti 30 €–111 €, mediana 39,5 €), 27% brangiau už medianą.",
    "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
     {
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "kaina": 49.0,
@@ -24478,19 +24793,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 4 vnt., kainos 30 €–111 €, mediana 42 € × 0.90 (realiai parduodama pigiau nei prašoma) = 37,8 €",
+    "Panašūs skelbimai (lego-rinkinys): 4 vnt., kainos 30 €–111 €, mediana 39,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,6 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Marijampolė 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 37,8 € − 50 € − 4,5 € = -16,7 € (-33% pirkimo kainos)",
-    "Mokėti ne daugiau: min((37,8 € − 4,5 €) / 1.35; 37,8 € − 4,5 € − 20 €) = 13,3 €",
-    "Laikas ~1.0 val. → -16,7 €/val."
+    "Pelnas = 35,6 € − 50 € − 4,5 € = -18,9 € (-38% pirkimo kainos)",
+    "Mokėti ne daugiau: min((35,6 € − 4,5 €) / 1.35; 35,6 € − 4,5 € − 20 €) = 11,1 €",
+    "Laikas ~1.0 val. → -18,9 €/val."
    ],
-   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~42 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~39,5 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~42 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-17 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~39,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-19 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -38 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Marijampolė: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -30646,12 +30961,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -30695,6 +31010,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -30717,12 +31038,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
    "parduotuves": [],
@@ -30759,14 +31074,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 10,
-    "is": 17,
+    "vieta": 11,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.06
    },
-   "kodel": "10-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 6% brangiau už medianą.",
+   "kodel": "11-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 6% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -30802,6 +31117,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -30889,16 +31211,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 37 € − 4 € = -9,5 € (-26% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -6,3 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 9; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 10; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 9; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 10; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-10 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -26 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -30931,12 +31253,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -30980,6 +31302,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -31002,12 +31330,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -31044,14 +31366,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 12,
-    "is": 17,
+    "vieta": 13,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.14
    },
-   "kodel": "12-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 14% brangiau už medianą.",
+   "kodel": "13-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 14% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -31087,6 +31409,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -31174,16 +31503,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 40 € − 4,5 € = -13 € (-32% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -13 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 12; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 12; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-13 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -31218,12 +31547,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -31267,6 +31596,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -31289,12 +31624,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -31331,14 +31660,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 11,
-    "is": 17,
+    "vieta": 12,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.09
    },
-   "kodel": "11-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 9% brangiau už medianą.",
+   "kodel": "12-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 9% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -31374,6 +31703,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -31461,16 +31797,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 38 € − 4 € = -10,5 € (-28% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -7 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 10; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 10; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-10 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -28 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -31503,12 +31839,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
-   "mediana": 36,
+   "palyginamu": 17,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 36 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -31552,6 +31888,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "Crimson desert ps5 disc",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
@@ -31574,12 +31916,6 @@
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
      "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
    "parduotuves": [],
@@ -31602,10 +31938,10 @@
     }
    ],
    "tiketina_pardavimo": 32,
-   "pelnas": -7,
-   "roi": -0.19,
+   "pelnas": -8,
+   "roi": -0.21,
    "max_pirkimo": 8,
-   "pelnas_per_val": -4,
+   "pelnas_per_val": -5,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -31616,14 +31952,14 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 17,
+    "vieta": 7,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 36.0,
-    "nuolaida": 0.03
+    "mediana": 35.0,
+    "nuolaida": 0.0
    },
-   "kodel": "6-as pigiausias iš 17 (kiti 15 €–45 €, mediana 36 €), 3% pigiau už medianą.",
+   "kodel": "7-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 0% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -31659,6 +31995,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -31746,18 +32089,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 36 € × 0.90 (realiai parduodama pigiau nei prašoma) = 32,4 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 32,4 € − 35 € − 4 € = -6,6 € (-19% pirkimo kainos)",
-    "Mokėti ne daugiau: min((32,4 € − 4 €) / 1.35; 32,4 € − 4 € − 20 €) = 8,4 €",
-    "Laikas ~1.5 val. → -4,4 €/val."
+    "Pelnas = 31,5 € − 35 € − 4 € = -7,5 € (-21% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
+    "Laikas ~1.5 val. → -5 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
-    "Pelnas būtų tik ~-7 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+    "Iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -31788,12 +32131,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -31837,6 +32180,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -31859,12 +32208,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -31903,14 +32246,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 15,
-    "is": 17,
+    "vieta": 16,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.29
    },
-   "kodel": "15-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 29% brangiau už medianą. Aprašyme: braižytas.",
+   "kodel": "16-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 29% brangiau už medianą. Aprašyme: braižytas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -31946,6 +32289,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -32031,16 +32381,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 45 € − 4,5 € = -18 € (-40% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -18 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 14; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 15; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 14; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 15; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Aprašyme minima: braižytas."
@@ -32076,12 +32426,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -32125,6 +32475,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -32147,12 +32503,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -32192,14 +32542,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 15,
-    "is": 17,
+    "vieta": 16,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.29
    },
-   "kodel": "15-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "16-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -32235,6 +32585,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -32322,18 +32679,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 45 € − 4,5 € = -18 € (-40% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -18 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 14; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 15; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 14; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 15; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -32529,12 +32886,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -32578,6 +32935,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -32600,12 +32963,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -32642,14 +32999,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 15,
-    "is": 17,
+    "vieta": 16,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.29
    },
-   "kodel": "15-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 29% brangiau už medianą.",
+   "kodel": "16-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 29% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -32685,6 +33042,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -32772,16 +33136,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 45 € − 4,5 € = -18 € (-40% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -18 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 14; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 15; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 14; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 15; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -32816,12 +33180,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -32865,6 +33229,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -32887,12 +33257,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -32929,14 +33293,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 12,
-    "is": 17,
+    "vieta": 13,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.14
    },
-   "kodel": "12-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 14% brangiau už medianą.",
+   "kodel": "13-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 14% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -32972,6 +33336,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -33059,16 +33430,16 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 40 € − 4 € = -12,5 € (-31% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -8,3 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 12; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 12; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-12 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -31 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -36150,12 +36521,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
-   "mediana": 36,
+   "palyginamu": 17,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 36 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -36199,6 +36570,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -36221,12 +36598,6 @@
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
      "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
    "parduotuves": [],
@@ -36249,10 +36620,10 @@
     }
    ],
    "tiketina_pardavimo": 32,
-   "pelnas": -7,
-   "roi": -0.19,
+   "pelnas": -8,
+   "roi": -0.21,
    "max_pirkimo": 8,
-   "pelnas_per_val": -4,
+   "pelnas_per_val": -5,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -36263,14 +36634,14 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 17,
+    "vieta": 7,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 36.0,
-    "nuolaida": 0.03
+    "mediana": 35.0,
+    "nuolaida": 0.0
    },
-   "kodel": "6-as pigiausias iš 17 (kiti 15 €–45 €, mediana 36 €), 3% pigiau už medianą.",
+   "kodel": "7-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 0% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -36306,6 +36677,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -36393,18 +36771,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 36 € × 0.90 (realiai parduodama pigiau nei prašoma) = 32,4 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 32,4 € − 35 € − 4 € = -6,6 € (-19% pirkimo kainos)",
-    "Mokėti ne daugiau: min((32,4 € − 4 €) / 1.35; 32,4 € − 4 € − 20 €) = 8,4 €",
-    "Laikas ~1.5 val. → -4,4 €/val."
+    "Pelnas = 31,5 € − 35 € − 4 € = -7,5 € (-21% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
+    "Laikas ~1.5 val. → -5 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
-    "Pelnas būtų tik ~-7 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -19 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+    "Iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -41836,16 +42214,16 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "pavadinimas": "Lego",
@@ -41913,17 +42291,17 @@
    "visi_palyginami": [
     {
      "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
      "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
+     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
     },
     {
      "kaina": 50.0,
@@ -41999,11 +42377,11 @@
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
    "palyginamu": 4,
-   "mediana": 42,
+   "mediana": 40,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "4 panašių skelbimų mediana 42 €"
+    "4 panašių skelbimų mediana 39,5 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -42017,16 +42395,16 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "pavadinimas": "Lego wear žieminis kombinezonas",
@@ -42060,11 +42438,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Lego+minecraft%2C+bionicle%2C+hero+factory"
     }
    ],
-   "tiketina_pardavimo": 38,
-   "pelnas": -78,
-   "roi": -0.7,
-   "max_pirkimo": 13,
-   "pelnas_per_val": -78,
+   "tiketina_pardavimo": 36,
+   "pelnas": -80,
+   "roi": -0.72,
+   "max_pirkimo": 11,
+   "pelnas_per_val": -80,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -42079,24 +42457,24 @@
     "is": 5,
     "min": 30.0,
     "max": 50.0,
-    "mediana": 42.0,
-    "nuolaida": -1.64
+    "mediana": 39.5,
+    "nuolaida": -1.81
    },
-   "kodel": "5-as pigiausias iš 5 (kiti 30 €–50 €, mediana 42 €), 164% brangiau už medianą.",
+   "kodel": "5-as pigiausias iš 5 (kiti 30 €–50 €, mediana 39,5 €), 181% brangiau už medianą.",
    "visi_palyginami": [
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
     {
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "kaina": 49.0,
@@ -42117,19 +42495,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 4 vnt., kainos 30 €–50 €, mediana 42 € × 0.90 (realiai parduodama pigiau nei prašoma) = 37,8 €",
+    "Panašūs skelbimai (lego-rinkinys): 4 vnt., kainos 30 €–50 €, mediana 39,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 35,6 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 37,8 € − 111 € − 4,5 € = -77,7 € (-70% pirkimo kainos)",
-    "Mokėti ne daugiau: min((37,8 € − 4,5 €) / 1.35; 37,8 € − 4,5 € − 20 €) = 13,3 €",
-    "Laikas ~1.0 val. → -77,7 €/val."
+    "Pelnas = 35,6 € − 111 € − 4,5 € = -79,9 € (-72% pirkimo kainos)",
+    "Mokėti ne daugiau: min((35,6 € − 4,5 €) / 1.35; 35,6 € − 4,5 € − 20 €) = 11,1 €",
+    "Laikas ~1.0 val. → -79,9 €/val."
    ],
-   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~42 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~39,5 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~42 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-78 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -70 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~39,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-80 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -72 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -42715,16 +43093,16 @@
    },
    "palyginami": [
     {
+     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "pavadinimas": "Lego Technic 2022 Ford GT 42154",
      "kaina": 30.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
      "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "pavadinimas": "Lego wear žieminis kombinezonas",
@@ -42790,17 +43168,17 @@
    "visi_palyginami": [
     {
      "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
      "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
+     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
     },
     {
      "kaina": 49.0,
@@ -43682,8 +44060,8 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Perforatorius Dewalt analogas naujas kaina be baterijos",
+   "bukle": "Nauja",
    "modelis": "dewalt-kita",
    "raktas": "dewalt-kita",
    "palyginamu": 6,
@@ -43775,7 +44153,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 55,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 4,
@@ -44353,12 +44731,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
-   "mediana": 36,
+   "palyginamu": 17,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 36 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -44402,6 +44780,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -44424,12 +44808,6 @@
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
      "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
    "parduotuves": [],
@@ -44452,10 +44830,10 @@
     }
    ],
    "tiketina_pardavimo": 32,
-   "pelnas": -7,
-   "roi": -0.2,
-   "max_pirkimo": 8,
-   "pelnas_per_val": -7,
+   "pelnas": -8,
+   "roi": -0.23,
+   "max_pirkimo": 7,
+   "pelnas_per_val": -8,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -44468,14 +44846,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 17,
+    "vieta": 7,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 36.0,
-    "nuolaida": 0.03
+    "mediana": 35.0,
+    "nuolaida": 0.0
    },
-   "kodel": "6-as pigiausias iš 17 (kiti 15 €–45 €, mediana 36 €), 3% pigiau už medianą. Aprašyme: braižytas.",
+   "kodel": "7-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 0% pigiau už medianą. Aprašyme: braižytas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -44511,6 +44889,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -44596,18 +44981,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 36 € × 0.90 (realiai parduodama pigiau nei prašoma) = 32,4 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 32,4 € − 35 € − 4,5 € = -7,1 € (-20% pirkimo kainos)",
-    "Mokėti ne daugiau: min((32,4 € − 4,5 €) / 1.35; 32,4 € − 4,5 € − 20 €) = 7,9 €",
-    "Laikas ~1.0 val. → -7,1 €/val."
+    "Pelnas = 31,5 € − 35 € − 4,5 € = -8 € (-23% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
+    "Laikas ~1.0 val. → -8 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
-    "Pelnas būtų tik ~-7 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -20 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -23 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Aprašyme minima: braižytas."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -44641,12 +45026,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
-   "mediana": 36,
+   "palyginamu": 17,
+   "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 36 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Utenos r.",
@@ -44690,6 +45075,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -44712,12 +45103,6 @@
      "kaina": 37.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
      "vieta_laikas": "Vilnius, prieš 5 min."
-    },
-    {
-     "pavadinimas": "Parduodu Marvel's Wolverine ps5",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-marvel-s-wolverine-ps5-87838100.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
    "parduotuves": [],
@@ -44740,10 +45125,10 @@
     }
    ],
    "tiketina_pardavimo": 32,
-   "pelnas": -7,
-   "roi": -0.2,
-   "max_pirkimo": 8,
-   "pelnas_per_val": -7,
+   "pelnas": -8,
+   "roi": -0.23,
+   "max_pirkimo": 7,
+   "pelnas_per_val": -8,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -44756,14 +45141,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 6,
-    "is": 17,
+    "vieta": 7,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
-    "mediana": 36.0,
-    "nuolaida": 0.03
+    "mediana": 35.0,
+    "nuolaida": 0.0
    },
-   "kodel": "6-as pigiausias iš 17 (kiti 15 €–45 €, mediana 36 €), 3% pigiau už medianą. Privalumai: puiki būklė.",
+   "kodel": "7-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 0% pigiau už medianą. Privalumai: puiki būklė.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -44799,6 +45184,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -44886,20 +45278,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 36 € × 0.90 (realiai parduodama pigiau nei prašoma) = 32,4 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Utenos r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 32,4 € − 35 € − 4,5 € = -7,1 € (-20% pirkimo kainos)",
-    "Mokėti ne daugiau: min((32,4 € − 4,5 €) / 1.35; 32,4 € − 4,5 € − 20 €) = 7,9 €",
-    "Laikas ~1.0 val. → -7,1 €/val."
+    "Pelnas = 31,5 € − 35 € − 4,5 € = -8 € (-23% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
+    "Laikas ~1.0 val. → -8 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: puiki būklė."
    ],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 5; įprasta kaina ~36 €, šis 3 % pigesnis.",
-    "Pelnas būtų tik ~-7 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -20 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+    "Iš 18 panašių skelbimų pigesnių yra 6; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -23 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Siunta į paštomatą iš Utenos r.: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -46428,8 +46820,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodamos puikios bukles aktyvios hifi koloneles. Komplekte: - Koloneles, storas (geros kokybes) jungiamasis laidas, ir maitinimo laidas. - Sonos Connect grotuvas (galima per wifi leisti muzika is Spotify ir kitu platformu neprarandant kokybes). - Digital audio konverteris (leidzia prijungti koloneles prie siuolaikiniu TV).",
+   "bukle": "Naudota",
    "modelis": "sonos-kita",
    "raktas": "sonos-kita",
    "palyginamu": 5,
@@ -46514,8 +46906,8 @@
      "komplektas",
      "puiki būklė"
     ],
-    "aprasymo_ilgis": 150,
-    "pilnas": false
+    "aprasymo_ilgis": 327,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 6,
@@ -47213,12 +47605,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 16,
+   "palyginamu": 17,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "16 panašių skelbimų mediana 35 €"
+    "17 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -47262,6 +47654,12 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     },
     {
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
      "pavadinimas": "007 James bond first light ps5",
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
@@ -47284,12 +47682,6 @@
      "kaina": 35.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-87856778.html",
      "vieta_laikas": "Utenos r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Wolverine ps5 disc",
-     "kaina": 37.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/wolverine-ps5-disc-87840146.html",
-     "vieta_laikas": "Vilnius, prieš 5 min."
     }
    ],
    "parduotuves": [],
@@ -47328,14 +47720,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 12,
-    "is": 17,
+    "vieta": 13,
+    "is": 18,
     "min": 15.0,
     "max": 45.0,
     "mediana": 35.0,
     "nuolaida": -0.14
    },
-   "kodel": "12-as pigiausias iš 17 (kiti 15 €–45 €, mediana 35 €), 14% brangiau už medianą. Privalumai: puiki būklė.",
+   "kodel": "13-as pigiausias iš 18 (kiti 15 €–45 €, mediana 35 €), 14% brangiau už medianą. Privalumai: puiki būklė.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -47371,6 +47763,13 @@
      "pavadinimas": "Mafia The Old Country Ps5",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
     },
     {
      "kaina": 35.0,
@@ -47458,18 +47857,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 16 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 17 vnt., kainos 15 €–45 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 40 € − 4 € = -12,5 € (-31% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -8,3 €/val."
    ],
-   "isvada": "Praleisk: iš 17 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 18 panašių skelbimų pigesnių yra 12; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: puiki būklė."
    ],
    "pries": [
-    "Iš 17 panašių skelbimų pigesnių yra 11; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 18 panašių skelbimų pigesnių yra 12; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-12 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -31 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -47578,8 +47977,8 @@
    "max": 250.0
   },
   "ps5": {
-   "n": 23,
-   "mediana": 40,
+   "n": 24,
+   "mediana": 39,
    "min": 15.0,
    "max": 580.0
   },

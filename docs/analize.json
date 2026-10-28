@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-28T04:47:44Z",
+ "sugeneruota": "2026-10-28T06:55:04Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -38,7 +38,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 465,
+ "skelbimu_istorijoje": 470,
  "radiniai": [
   {
    "id": "87833858",
@@ -53,8 +53,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Garmin Fenix 5 sportinis GPS laikrodis su originalia apyranke. Veikia, naudotas – yra naudojimo žymių (žr. nuotraukas). Dėžutės nėra. Atsiėmimas Vilniuje arba siunčiu paštomatu.",
+   "bukle": "Naudota",
    "modelis": "Garmin Fenix 7 (standartinis, be dėžutės)",
    "raktas": "garmin-fenix-7",
    "palyginamu": 0,
@@ -132,8 +132,8 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
-    "aprasymo_ilgis": 141,
-    "pilnas": false
+    "aprasymo_ilgis": 177,
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
@@ -1269,8 +1269,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotas Garmin Venu 3 45mm. Numeris:010-02784-01. Dokumentai, dezute., pakrovimo laidas. Garantinis jau pasibaiges. Viskas veikia. Komplekte kelios naudotos apyrankes.",
+   "bukle": "Naudota",
    "modelis": "Garmin Venu 3 45 mm",
    "raktas": "garmin-venu-3",
    "palyginamu": 1,
@@ -1352,8 +1352,8 @@
     "privalumai": [
      "komplektas"
     ],
-    "aprasymo_ilgis": 149,
-    "pilnas": false
+    "aprasymo_ilgis": 168,
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas.",
    "visi_palyginami": [
@@ -4491,7 +4491,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": {
     "siulymas": 210,
     "tarpinis": null,
@@ -4531,6 +4531,186 @@
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Kėdainių r.): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
+  },
+  {
+   "id": "87889062",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+   "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+   "kaina": 80.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5293707872/nintendo-ds-lite-pink-konsole.jpg",
+   "aprasymas": "Nintendo DS Lite – rožinė Parduodu originalią rožinės spalvos „Nintendo DS Lite“ konsolę. Puikus pasirinkimas mėgstantiems retro ža...",
+   "vieta_laikas": "Vilnius, prieš 3 min.",
+   "paieska": "Nintendo Switch",
+   "pastebetas": "2026-10-28T06:53:57Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Nintendo DS Lite – rožinė Parduodu originalią rožinės spalvos „Nintendo DS Lite“ konsolę. Puikus pasirinkimas mėgstantiems retro žaidimus, norintiems prisiminti vaikystę arba papildyti savo kolekciją. Konsolė kompaktiška, patogi pasiimti su savimi, turi du ekranus, į rinkinį įeina net 5 žaidimai, kelioninis, apsauginis dėklas, dvi lazdelės, pakrovėjas, servetėlė.",
+   "bukle": "Naudota",
+   "modelis": "switch-lite",
+   "raktas": "switch-lite",
+   "palyginamu": 4,
+   "mediana": 115,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "4 panašių skelbimų mediana 115 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo Switch Lite",
+     "kaina": 99.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
+     "vieta_laikas": "Kaunas, prieš 58 min."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Lite ružavas",
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Lite (Turquoise) su priedais",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-turquoise-su-priedais-87591928.html",
+     "vieta_laikas": "Vilnius, prieš 10 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
+    }
+   ],
+   "tiketina_pardavimo": 104,
+   "pelnas": 20,
+   "roi": 0.24,
+   "max_pirkimo": 74,
+   "pelnas_per_val": 13,
+   "sprendimas": "derėtis",
+   "priezastis": "verta tik nusiderėjus iki 73,7 €",
+   "balas": 17,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 365,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 5,
+    "min": 99.0,
+    "max": 160.0,
+    "mediana": 115.0,
+    "nuolaida": 0.3
+   },
+   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 99 €–160 €, mediana 115 €), 30% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 99.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
+     "pavadinimas": "Nintendo Switch Lite",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 58 min."
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
+     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
+     "pavadinimas": "Nintendo Switch Lite ružavas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-turquoise-su-priedais-87591928.html",
+     "pavadinimas": "Nintendo Switch Lite (Turquoise) su priedais",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 10 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": {
+    "siulymas": 65,
+    "tarpinis": null,
+    "riba": 74,
+    "argumentai": [
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 65 € – tai 19 % mažiau nei prašo (80 €).",
+     "Paskutinis siūlymas 74 €. Jei nori daugiau – nepirk: pelnas nukristų žemiau 20 €."
+    ],
+    "kodel_suma": "Kodėl 65 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 80 € uždirbtum ~20 €, už 65 € – ~35 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-lite): 4 vnt., kainos 99 €–160 €, mediana 115 € × 0.90 (realiai parduodama pigiau nei prašoma) = 103,5 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 103,5 € − 80 € − 4 € = 19,5 € (24% pirkimo kainos)",
+    "Mokėti ne daugiau: min((103,5 € − 4 €) / 1.35; 103,5 € − 4 € − 20 €) = 73,7 €",
+    "Laikas ~1.5 val. → 13 €/val."
+   ],
+   "isvada": "Pirk tik nusiderėjęs iki 74 € (dabar prašo 80 €).",
+   "uz": [
+    "Iš 5 panašių skelbimų pigesnio nėra; įprasta kaina ~115 €, šis 30 % pigesnis."
+   ],
+   "pries": [
+    "Grąža 24 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Prašo 80 €, o apsimoka tik už ≤ 74 €."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
     "lygis": "maža",
     "zingsniai": [
@@ -12162,7 +12342,7 @@
    "bukle": null,
    "modelis": "steamdeck-oled-1tb",
    "raktas": "steamdeck-oled-1tb",
-   "palyginamu": 0,
+   "palyginamu": 1,
    "mediana": null,
    "naujo_kaina": null,
    "patikimumas": "žemas",
@@ -12177,7 +12357,14 @@
     "didelis": false,
     "nepervezamas": false
    },
-   "palyginami": [],
+   "palyginami": [
+    {
+     "pavadinimas": "Steam Deck 1tb Oled – Puiki būklė, su priedais",
+     "kaina": 600.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-1tb-oled-puiki-bukle-su-priedais-87884678.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    }
+   ],
    "parduotuves": [],
    "parduotuviu_paieska": [
     {
@@ -12214,17 +12401,27 @@
     "pilnas": false
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
-   "visi_palyginami": [],
+   "visi_palyginami": [
+    {
+     "kaina": 600.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-1tb-oled-puiki-bukle-su-priedais-87884678.html",
+     "pavadinimas": "Steam Deck 1tb Oled – Puiki būklė, su priedais",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    }
+   ],
    "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
-   "zingsniai": [],
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
     "Aprašyme: mažai naudotas."
    ],
    "pries": [
-    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
    "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -12354,7 +12551,7 @@
    "id": "87425566",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-lcd-1tb-steam-deck-87425566.html",
    "pavadinimas": "Parduodamas LCD 1tb steam deck",
-   "kaina": 450.0,
+   "kaina": 400.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5220354922/parduodamas-lcd-1tb-steam-deck.jpg",
    "aprasymas": "Parduodamas, 2 metus tarnavęs steam deck, daug nežaista, ssd pats keičiau iš 64gbit į 1tb",
    "vieta_laikas": "Vilnius, spalio 03 d.",
@@ -12421,9 +12618,15 @@
    "amzius_d": 25,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 450.0,
+    "iki": 400.0
+   },
    "zingsniai": [],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [],
+   "uz": [
+    "Kaina jau sumažinta nuo 450 € – pardavėjas linkęs nusileisti."
+   ],
    "pries": [
     "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
@@ -13090,7 +13293,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
    "visi_palyginami": [],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13222,7 +13425,7 @@
      "vieta_laikas": "Raseinių r., prieš 4 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -18161,6 +18364,204 @@
    }
   },
   {
+   "id": "87888680",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/vivoactive-4s-laikrodis-87888680.html",
+   "pavadinimas": "Vivoactive 4S laikrodis",
+   "kaina": 60.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5293667220/vivoactive-4s-laikrodis.jpg",
+   "aprasymas": "Parduodu geros būklės Garmin Vivoactive 4S",
+   "vieta_laikas": "Vilnius, prieš 59 min.",
+   "paieska": "Garmin laikrodžiai",
+   "pastebetas": "2026-10-28T06:53:57Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "garmin-vivoactive-4s",
+   "raktas": "garmin-vivoactive-4s",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=garmin+vivoactive+4s"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=garmin+vivoactive+4s"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=garmin+vivoactive+4s"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=garmin+vivoactive+4s"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 42,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti.",
+   "visi_palyginami": [],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
+  },
+  {
+   "id": "87884678",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-1tb-oled-puiki-bukle-su-priedais-87884678.html",
+   "pavadinimas": "Steam Deck 1tb Oled – Puiki būklė, su priedais",
+   "kaina": 600.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5292935786/steam-deck-1tb-oled-puiki-bukle-su-priedais.jpg",
+   "aprasymas": "Parduodu mylėtą ir prižiūrėtą „Steam Deck 1TB OLED“. Įrenginys veikia nepriekaištingai, baterija veikia puikiai, o ekranas apsaugotas j...",
+   "vieta_laikas": "Kaunas, prieš 1 val.",
+   "paieska": "Steam Deck",
+   "pastebetas": "2026-10-28T06:53:57Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "steamdeck-oled-1tb",
+   "raktas": "steamdeck-oled-1tb",
+   "palyginamu": 1,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Steam Deck 1tb Oled",
+     "kaina": 550.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-1tb-oled-87754132.html",
+     "vieta_laikas": "Šiauliai, spalio 21 d."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=steamdeck+oled+1tb"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=steamdeck+oled+1tb"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=steamdeck+oled+1tb"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=steamdeck+oled+1tb"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 138,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti.",
+   "visi_palyginami": [
+    {
+     "kaina": 550.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/steam-deck-1tb-oled-87754132.html",
+     "pavadinimas": "Steam Deck 1tb Oled",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, spalio 21 d."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [],
+   "pries": [
+    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "didelė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Suma didelė (600 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87763360",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/milwaukee-suktukas-impact-m18-87763360.html",
    "pavadinimas": "Milwaukee suktukas impact M18",
@@ -21535,6 +21936,114 @@
    }
   },
   {
+   "id": "87828640",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-hrm-600-87828640.html",
+   "pavadinimas": "Garmin Hrm 600",
+   "kaina": 100.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285457210/garmin-hrm-600.jpg",
+   "aprasymas": "Parduodu mažai naudotą Garmin HRM 600 širdies ritmo monitorių-diržą. Būklė: Puiki / veikia nepriekaištingai. Pirkimo data: 2025 m. gruod...",
+   "vieta_laikas": "Vilnius, prieš 10 val.",
+   "paieska": "Garmin laikrodžiai",
+   "pastebetas": "2026-10-25T17:36:10Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodu mažai naudotą Garmin HRM 600 širdies ritmo monitorių-diržą. Būklė: Puiki / veikia nepriekaištingai. Pirkimo data: 2025 m. gruodis. Garantija: Yra (pridedamas pirkimo dokumentas). Kaina: 100 € Puikus pasirinkimas tiksliam širdies ritmo ir bėgimo dinamikos sekimui treniruočių metu. Atsiėmimas tik Vilniuje. Nesiunčiu. Selling a lightly used Garmin HRM 600 heart rate monitor chest strap. Condition: Excellent / fully functional. Purchased: December 2025. Warranty: Included (comes with proof of purchase). Price: 100 € Great for accurate heart rate tracking and running dynamics during your workouts. Local pick-up only in Vilnius. No shipping.",
+   "bukle": "Naudota",
+   "modelis": "Garmin HRM 600",
+   "raktas": "garmin-hrm-600",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "Claude įvertinimas"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Garmin+HRM+600"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Garmin+HRM+600"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Garmin+HRM+600"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Garmin+HRM+600"
+    }
+   ],
+   "tiketina_pardavimo": 110,
+   "pelnas": 6,
+   "roi": 0.06,
+   "max_pirkimo": 79,
+   "pelnas_per_val": 4,
+   "sprendimas": "praleisti",
+   "priezastis": "Pelno nėra.",
+   "balas": 11,
+   "ivertinta": "2026-10-27",
+   "stovas": false,
+   "tikrinti": [],
+   "pardavimas": [],
+   "kainos_pagrindimas": "Naudoti ~100–120 €.",
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "garantija",
+     "mažai naudotas"
+    ],
+    "aprasymo_ilgis": 652,
+    "pilnas": true
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: garantija, mažai naudotas.",
+   "visi_palyginami": [],
+   "amzius_d": 2,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Claude įvertinimas (2026-10-27): 110 € – Naudoti ~100–120 €.",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 110 € − 100 € − 4 € = 6 € (6% pirkimo kainos)",
+    "Mokėti ne daugiau: min((110 € − 4 €) / 1.35; 110 € − 4 € − 20 €) = 78,5 €",
+    "Laikas ~1.5 val. → 4 €/val."
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Aprašyme: garantija, mažai naudotas."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 6 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
+  },
+  {
    "id": "87814980",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/deze-irankiams-87814980.html",
    "pavadinimas": "Dėžė įrankiams",
@@ -22451,7 +22960,7 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -22942,113 +23451,6 @@
     "Grąža 17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
     "Aprašyme minima: defektas."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "maža",
-    "zingsniai": [
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
-   }
-  },
-  {
-   "id": "87828640",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-hrm-600-87828640.html",
-   "pavadinimas": "Garmin Hrm 600",
-   "kaina": 100.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285457210/garmin-hrm-600.jpg",
-   "aprasymas": "Parduodu mažai naudotą Garmin HRM 600 širdies ritmo monitorių-diržą. Būklė: Puiki / veikia nepriekaištingai. Pirkimo data: 2025 m. gruod...",
-   "vieta_laikas": "Vilnius, prieš 10 val.",
-   "paieska": "Garmin laikrodžiai",
-   "pastebetas": "2026-10-25T17:36:10Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "Garmin HRM 600",
-   "raktas": "garmin-hrm-600",
-   "palyginamu": 0,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "Claude įvertinimas"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Garmin+HRM+600"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Garmin+HRM+600"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Garmin+HRM+600"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Garmin+HRM+600"
-    }
-   ],
-   "tiketina_pardavimo": 110,
-   "pelnas": 6,
-   "roi": 0.06,
-   "max_pirkimo": 79,
-   "pelnas_per_val": 4,
-   "sprendimas": "praleisti",
-   "priezastis": "Pelno nėra.",
-   "balas": 8,
-   "ivertinta": "2026-10-27",
-   "stovas": false,
-   "tikrinti": [],
-   "pardavimas": [],
-   "kainos_pagrindimas": "Naudoti ~100–120 €.",
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "mažai naudotas"
-    ],
-    "aprasymo_ilgis": 139,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
-   "visi_palyginami": [],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Claude įvertinimas (2026-10-27): 110 € – Naudoti ~100–120 €.",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 110 € − 100 € − 4 € = 6 € (6% pirkimo kainos)",
-    "Mokėti ne daugiau: min((110 € − 4 €) / 1.35; 110 € − 4 € − 20 €) = 78,5 €",
-    "Laikas ~1.5 val. → 4 €/val."
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Aprašyme: mažai naudotas."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 6 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -26276,158 +26678,6 @@
     "Grąža 4 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87862380",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
-   "pavadinimas": "Nintendo Switch Lite",
-   "kaina": 99.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5289643138/nintendo-switch-lite.jpg",
-   "aprasymas": "Konsole veikia be priekaistu. Kaune is ranku i rankas, kitur galiu siusti pastomatais.",
-   "vieta_laikas": "Kaunas, prieš 58 min.",
-   "paieska": "Nintendo Switch",
-   "pastebetas": "2026-10-26T19:24:16Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Konsole veikia be priekaistu. Kaune is ranku i rankas, kitur galiu siusti pastomatais.",
-   "bukle": "Naudota",
-   "modelis": "switch-lite",
-   "raktas": "switch-lite",
-   "palyginamu": 3,
-   "mediana": 120,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "3 panašių skelbimų mediana 120 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
-     "vieta_laikas": "Kaunas, prieš 3 d."
-    },
-    {
-     "pavadinimas": "Nintendo Switch Lite ružavas",
-     "kaina": 120.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Nintendo Switch Lite (Turquoise) su priedais",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-turquoise-su-priedais-87591928.html",
-     "vieta_laikas": "Vilnius, prieš 10 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=nintendo+switch+lite"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=nintendo+switch+lite"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+lite"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
-    }
-   ],
-   "tiketina_pardavimo": 108,
-   "pelnas": 4,
-   "roi": 0.05,
-   "max_pirkimo": 77,
-   "pelnas_per_val": 4,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 3,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 86,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 1,
-    "is": 4,
-    "min": 110.0,
-    "max": 160.0,
-    "mediana": 120.0,
-    "nuolaida": 0.18
-   },
-   "kodel": "Pigiausias iš 4 to paties modelio skelbimų (kiti 110 €–160 €, mediana 120 €), 18% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
-     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 3 d."
-    },
-    {
-     "kaina": 120.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
-     "pavadinimas": "Nintendo Switch Lite ružavas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-turquoise-su-priedais-87591928.html",
-     "pavadinimas": "Nintendo Switch Lite (Turquoise) su priedais",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 10 val."
-    }
-   ],
-   "amzius_d": 1,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (switch-lite): 3 vnt., kainos 110 €–160 €, mediana 120 € × 0.90 (realiai parduodama pigiau nei prašoma) = 108 €",
-    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 108 € − 99 € − 4,5 € = 4,5 € (5% pirkimo kainos)",
-    "Mokėti ne daugiau: min((108 € − 4,5 €) / 1.35; 108 € − 4,5 € − 20 €) = 76,7 €",
-    "Laikas ~1.0 val. → 4,5 €/val."
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~4 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 4 panašių skelbimų pigesnio nėra; įprasta kaina ~120 €, šis 18 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~4 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 5 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
     "lygis": "vidutinė",
     "zingsniai": [
@@ -31452,13 +31702,13 @@
    "bukle": "Naudota",
    "modelis": "Nintendo Switch Lite (be dėžutės)",
    "raktas": "switch-lite",
-   "palyginamu": 3,
-   "mediana": 110,
+   "palyginamu": 4,
+   "mediana": 104,
    "naujo_kaina": 155.0,
    "patikimumas": "aukštas",
    "saltiniai": [
     "Claude įvertinimas",
-    "3 panašių skelbimų mediana 110 €",
+    "4 panašių skelbimų mediana 104,5 €",
     "naujas ~155 €"
    ],
    "kastai": {
@@ -31472,6 +31722,12 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
     {
      "pavadinimas": "Nintendo Switch Lite",
      "kaina": 99.0,
@@ -31539,15 +31795,22 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 3,
-    "is": 4,
-    "min": 99.0,
+    "vieta": 4,
+    "is": 5,
+    "min": 80.0,
     "max": 160.0,
-    "mediana": 110.0,
-    "nuolaida": -0.09
+    "mediana": 104.5,
+    "nuolaida": -0.15
    },
-   "kodel": "3-as pigiausias iš 4 (kiti 99 €–160 €, mediana 110 €), 9% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "4-as pigiausias iš 5 (kiti 80 €–160 €, mediana 104,5 €), 15% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
     {
      "kaina": 99.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
@@ -31574,19 +31837,19 @@
    "derybos": null,
    "naujo_min": 170.0,
    "zingsniai": [
-    "Panašūs skelbimai (switch-lite): 3 vnt., kainos 99 €–160 €, mediana 110 € × 0.90 (realiai parduodama pigiau nei prašoma) = 99 €",
+    "Panašūs skelbimai (switch-lite): 4 vnt., kainos 80 €–160 €, mediana 104,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94 €",
     "Claude įvertinimas (2026-10-26): 110 € – Naujas nuo 155–170 €; naudoti ~100–115 €.",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 110 € − 120 € − 4 € = -14 € (-12% pirkimo kainos)",
     "Mokėti ne daugiau: min((110 € − 4 €) / 1.35; 110 € − 4 € − 20 €) = 78,5 €",
     "Laikas ~1.5 val. → -9,3 €/val."
    ],
-   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnių yra 2; įprasta kaina ~110 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~104,5 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 4 panašių skelbimų pigesnių yra 2; įprasta kaina ~110 €, šis ne pigesnis už kitus.",
+    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~104,5 €, šis ne pigesnis už kitus.",
     "Naujas parduotuvėje nuo 170 €, šis kainuoja 71 % naujo kainos.",
     "Pelnas būtų tik ~-14 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -12 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
@@ -33032,12 +33295,12 @@
    "bukle": "Naudota",
    "modelis": "switch-lite",
    "raktas": "switch-lite",
-   "palyginamu": 3,
-   "mediana": 120,
+   "palyginamu": 4,
+   "mediana": 110,
    "naujo_kaina": null,
-   "patikimumas": "žemas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
-    "3 panašių skelbimų mediana 120 €"
+    "4 panašių skelbimų mediana 109,5 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -33050,6 +33313,12 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
     {
      "pavadinimas": "Nintendo Switch Lite",
      "kaina": 99.0,
@@ -33088,11 +33357,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
     }
    ],
-   "tiketina_pardavimo": 108,
-   "pelnas": -6,
-   "roi": -0.06,
-   "max_pirkimo": 77,
-   "pelnas_per_val": -6,
+   "tiketina_pardavimo": 99,
+   "pelnas": -16,
+   "roi": -0.15,
+   "max_pirkimo": 70,
+   "pelnas_per_val": -16,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -33105,15 +33374,22 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 2,
-    "is": 4,
-    "min": 99.0,
+    "vieta": 3,
+    "is": 5,
+    "min": 80.0,
     "max": 160.0,
-    "mediana": 120.0,
-    "nuolaida": 0.08
+    "mediana": 109.5,
+    "nuolaida": -0.0
    },
-   "kodel": "2-as pigiausias iš 4 (kiti 99 €–160 €, mediana 120 €), 8% pigiau už medianą. Privalumai: labai gera būklė.",
+   "kodel": "3-as pigiausias iš 5 (kiti 80 €–160 €, mediana 109,5 €), 0% brangiau už medianą. Privalumai: labai gera būklė.",
    "visi_palyginami": [
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
     {
      "kaina": 99.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
@@ -33140,21 +33416,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-lite): 3 vnt., kainos 99 €–160 €, mediana 120 € × 0.90 (realiai parduodama pigiau nei prašoma) = 108 €",
+    "Panašūs skelbimai (switch-lite): 4 vnt., kainos 80 €–160 €, mediana 109,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 98,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 108 € − 110 € − 4,5 € = -6,5 € (-6% pirkimo kainos)",
-    "Mokėti ne daugiau: min((108 € − 4,5 €) / 1.35; 108 € − 4,5 € − 20 €) = 76,7 €",
-    "Laikas ~1.0 val. → -6,5 €/val."
+    "Pelnas = 98,5 € − 110 € − 4,5 € = -16 € (-15% pirkimo kainos)",
+    "Mokėti ne daugiau: min((98,5 € − 4,5 €) / 1.35; 98,5 € − 4,5 € − 20 €) = 69,7 €",
+    "Laikas ~1.0 val. → -16 €/val."
    ],
-   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnis tik vienas; įprasta kaina ~120 €, šis 8 % pigesnis.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~109,5 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: labai gera būklė."
    ],
    "pries": [
-    "Iš 4 panašių skelbimų pigesnis tik vienas; įprasta kaina ~120 €, šis 8 % pigesnis.",
-    "Pelnas būtų tik ~-6 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -6 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+    "Iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~109,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-16 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -15 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -36670,8 +36945,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Pereitas todėl parduodu",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 21,
@@ -36784,7 +37059,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 23,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 12,
@@ -42267,8 +42542,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Kaip naujas, naudotas mažai. Viskas matosi nuotraukose. 15 ciklų, veikia puikiai.",
+   "bukle": "Naudota",
    "modelis": "DJI Mini 3",
    "raktas": "dji-mini3",
    "palyginamu": 2,
@@ -42350,7 +42625,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 81,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -50674,6 +50949,169 @@
    }
   },
   {
+   "id": "87862380",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
+   "pavadinimas": "Nintendo Switch Lite",
+   "kaina": 99.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5289643138/nintendo-switch-lite.jpg",
+   "aprasymas": "Konsole veikia be priekaistu. Kaune is ranku i rankas, kitur galiu siusti pastomatais.",
+   "vieta_laikas": "Kaunas, prieš 58 min.",
+   "paieska": "Nintendo Switch",
+   "pastebetas": "2026-10-26T19:24:16Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Konsole veikia be priekaistu. Kaune is ranku i rankas, kitur galiu siusti pastomatais.",
+   "bukle": "Naudota",
+   "modelis": "switch-lite",
+   "raktas": "switch-lite",
+   "palyginamu": 4,
+   "mediana": 115,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "4 panašių skelbimų mediana 115 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Lite ružavas",
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Nintendo Switch Lite (Turquoise) su priedais",
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-turquoise-su-priedais-87591928.html",
+     "vieta_laikas": "Vilnius, prieš 10 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=nintendo+switch+lite"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
+    }
+   ],
+   "tiketina_pardavimo": 104,
+   "pelnas": 0,
+   "roi": 0.0,
+   "max_pirkimo": 73,
+   "pelnas_per_val": 0,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 86,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 2,
+    "is": 5,
+    "min": 80.0,
+    "max": 160.0,
+    "mediana": 115.0,
+    "nuolaida": 0.14
+   },
+   "kodel": "2-as pigiausias iš 5 (kiti 80 €–160 €, mediana 115 €), 14% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-labai-geros-bukles-87783020.html",
+     "pavadinimas": "Nintendo Switch Lite – labai geros būklės",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 3 d."
+    },
+    {
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-ruzavas-87813376.html",
+     "pavadinimas": "Nintendo Switch Lite ružavas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-turquoise-su-priedais-87591928.html",
+     "pavadinimas": "Nintendo Switch Lite (Turquoise) su priedais",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 10 val."
+    }
+   ],
+   "amzius_d": 1,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (switch-lite): 4 vnt., kainos 80 €–160 €, mediana 115 € × 0.90 (realiai parduodama pigiau nei prašoma) = 103,5 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 103,5 € − 99 € − 4,5 € = 0 € (0% pirkimo kainos)",
+    "Mokėti ne daugiau: min((103,5 € − 4,5 €) / 1.35; 103,5 € − 4,5 € − 20 €) = 73,3 €",
+    "Laikas ~1.0 val. → 0 €/val."
+   ],
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~115 €, šis 14 % pigesnis.",
+   "uz": [],
+   "pries": [
+    "Iš 5 panašių skelbimų pigesnis tik vienas; įprasta kaina ~115 €, šis 14 % pigesnis.",
+    "Pelnas būtų tik ~0 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 0 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87861794",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-su-priedais-87861794.html",
    "pavadinimas": "Nintendo switch su priedais",
@@ -50921,12 +51359,12 @@
    "bukle": null,
    "modelis": "switch-lite",
    "raktas": "switch-lite",
-   "palyginamu": 3,
-   "mediana": 110,
+   "palyginamu": 4,
+   "mediana": 104,
    "naujo_kaina": null,
-   "patikimumas": "žemas",
+   "patikimumas": "vidutinis",
    "saltiniai": [
-    "3 panašių skelbimų mediana 110 €"
+    "4 panašių skelbimų mediana 104,5 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -50939,6 +51377,12 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
     {
      "pavadinimas": "Nintendo Switch Lite",
      "kaina": 99.0,
@@ -50977,11 +51421,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=nintendo+switch+lite"
     }
    ],
-   "tiketina_pardavimo": 99,
-   "pelnas": -65,
-   "roi": -0.41,
-   "max_pirkimo": 70,
-   "pelnas_per_val": -43,
+   "tiketina_pardavimo": 94,
+   "pelnas": -70,
+   "roi": -0.44,
+   "max_pirkimo": 67,
+   "pelnas_per_val": -47,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -50992,15 +51436,22 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 4,
-    "is": 4,
-    "min": 99.0,
+    "vieta": 5,
+    "is": 5,
+    "min": 80.0,
     "max": 120.0,
-    "mediana": 110.0,
-    "nuolaida": -0.45
+    "mediana": 104.5,
+    "nuolaida": -0.53
    },
-   "kodel": "4-as pigiausias iš 4 (kiti 99 €–120 €, mediana 110 €), 45% brangiau už medianą.",
+   "kodel": "5-as pigiausias iš 5 (kiti 80 €–120 €, mediana 104,5 €), 53% brangiau už medianą.",
    "visi_palyginami": [
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-ds-lite-pink-konsole-su-zaidimais-deklu-87889062.html",
+     "pavadinimas": "Nintendo DS Lite Pink konsolė su žaidimais, dėklu",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 min."
+    },
     {
      "kaina": 99.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/nintendo-switch-lite-87862380.html",
@@ -51027,19 +51478,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-lite): 3 vnt., kainos 99 €–120 €, mediana 110 € × 0.90 (realiai parduodama pigiau nei prašoma) = 99 €",
+    "Panašūs skelbimai (switch-lite): 4 vnt., kainos 80 €–120 €, mediana 104,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 94 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 99 € − 160 € − 4 € = -65 € (-41% pirkimo kainos)",
-    "Mokėti ne daugiau: min((99 € − 4 €) / 1.35; 99 € − 4 € − 20 €) = 70,4 €",
-    "Laikas ~1.5 val. → -43,3 €/val."
+    "Pelnas = 94 € − 160 € − 4 € = -70 € (-44% pirkimo kainos)",
+    "Mokėti ne daugiau: min((94 € − 4 €) / 1.35; 94 € − 4 € − 20 €) = 66,7 €",
+    "Laikas ~1.5 val. → -46,6 €/val."
    ],
-   "isvada": "Praleisk: iš 4 panašių skelbimų pigesnių yra 3; įprasta kaina ~110 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~104,5 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 4 panašių skelbimų pigesnių yra 3; įprasta kaina ~110 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-65 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -41 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+    "Iš 5 panašių skelbimų pigesnių yra 4; įprasta kaina ~104,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-70 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -44 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -62985,9 +63435,9 @@
    "max": 55.0
   },
   "switch-lite": {
-   "n": 4,
-   "mediana": 115,
-   "min": 99.0,
+   "n": 5,
+   "mediana": 110,
+   "min": 80.0,
    "max": 160.0
   },
   "garmin-fenix-7x": {
@@ -63057,8 +63507,8 @@
    "max": 45.0
   },
   "ps5-digital": {
-   "n": 7,
-   "mediana": 520,
+   "n": 8,
+   "mediana": 510,
    "min": 400.0,
    "max": 550.0
   },
@@ -63100,9 +63550,9 @@
   },
   "dji-mini4pro": {
    "n": 2,
-   "mediana": 595,
+   "mediana": 620,
    "min": 590.0,
-   "max": 600.0
+   "max": 650.0
   },
   "dji-kita": {
    "n": 16,
@@ -63165,9 +63615,9 @@
    "max": 280.0
   },
   "kitchenaid-artisan": {
-   "n": 3,
-   "mediana": 259,
-   "min": 199.0,
+   "n": 4,
+   "mediana": 229,
+   "min": 50.0,
    "max": 430.0
   },
   "kitchenaid-kita": {
@@ -63277,6 +63727,12 @@
    "mediana": 360,
    "min": 320.0,
    "max": 435.0
+  },
+  "steamdeck-oled-1tb": {
+   "n": 2,
+   "mediana": 575,
+   "min": 550.0,
+   "max": 600.0
   },
   "steamdeck-lcd-64": {
    "n": 2,

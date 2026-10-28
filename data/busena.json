@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-28T00:34:34Z",
+ "paleista": "2026-10-28T06:53:57Z",
  "proxy": true,
  "paieskos": [
   {
@@ -29,8 +29,8 @@
    "puslapio_pavadinimas": "nintendo switch skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Garmin laikrodžiai",
@@ -39,8 +39,8 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 3,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "DeWalt įrankiai",
@@ -69,7 +69,7 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 2,
    "atrinkta_nauju": 0
   },
   {
@@ -78,7 +78,7 @@
    "kb_per_proxy": 148.9,
    "puslapio_pavadinimas": "kindle skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
-   "rasta_skelbimu": 18,
+   "rasta_skelbimu": 17,
    "nauju": 0,
    "atrinkta_nauju": 0
   },
@@ -128,8 +128,8 @@
    "kb_per_proxy": 148.9,
    "puslapio_pavadinimas": "kitchenaid skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
-   "rasta_skelbimu": 18,
-   "nauju": 0,
+   "rasta_skelbimu": 19,
+   "nauju": 1,
    "atrinkta_nauju": 0
   },
   {
@@ -189,7 +189,7 @@
    "puslapio_pavadinimas": "vezimelis skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 3,
    "atrinkta_nauju": 0
   },
   {
@@ -199,8 +199,8 @@
    "puslapio_pavadinimas": "steam deck skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   }
  ],
  "detales": {

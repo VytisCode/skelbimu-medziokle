@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-27T21:24:04Z",
+ "sugeneruota": "2026-10-28T00:35:37Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -190,6 +190,163 @@
    }
   },
   {
+   "id": "87834174",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-s7-robotas-dulkiu-siurblys-su-plovimu-87834174.html",
+   "pavadinimas": "Roborock S7 robotas dulkių siurblys su plovimu",
+   "kaina": 95.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285701598/roborock-s7-robotas-dulkiu-siurblys-su-plovimu.jpg",
+   "aprasymas": "Parduodamas „Roborock S7“ robotas dulkių siurblys su grindų plovimo funkcija. * Siurbia dulkes ir plauna grindis * Išmanioji navigacija ir ...",
+   "vieta_laikas": "Kaunas, prieš 6 val.",
+   "paieska": "Robotai siurbliai",
+   "pastebetas": "2026-10-25T19:26:26Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "Roborock S7 (siurbia ir plauna)",
+   "raktas": "roborock-s7",
+   "palyginamu": 1,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "Claude įvertinimas"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Siurblys robotas Roborock S7",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
+     "vieta_laikas": "Klaipėda, prieš 1 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Roborock+S7+%28siurbia+ir+plauna%29"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Roborock+S7+%28siurbia+ir+plauna%29"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Roborock+S7+%28siurbia+ir+plauna%29"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Roborock+S7+%28siurbia+ir+plauna%29"
+    }
+   ],
+   "tiketina_pardavimo": 140,
+   "pelnas": 40,
+   "roi": 0.43,
+   "max_pirkimo": 100,
+   "pelnas_per_val": 40,
+   "sprendimas": "verta",
+   "priezastis": "Pelnas ~36 € (37 %), siunta iš Kauno.",
+   "balas": 58,
+   "rizikos": "Didelė dėžė – patikrink, ar telpa į paštomatą (L dydis); kitaip kurjeris.",
+   "ivertinta": "2026-10-27",
+   "stovas": false,
+   "apie": "Roborock S7 – robotas siurblys su lazerine navigacija ir plovimo funkcija (2021). Vertę lemia baterija, šepečiai ir ar yra įkrovimo stotelė.",
+   "tikrinti": [
+    "Ar yra įkrovimo stotelė, plovimo modulis ir vandens bakelis.",
+    "Paprašyk vaizdo įrašo, kaip jis išvažiuoja ir grįžta į stotelę.",
+    "Kiek metų naudotas, ar keista baterija ir filtrai.",
+    "Ar atsietas nuo pardavėjo programėlės paskyros."
+   ],
+   "galimybe": "Prašo 99 €, o veikiantys S7 parduodami už ~140 €. Tai vienas patikimiausių Roborock modelių, jam lengvai gaunamos dalys.",
+   "pardavimas": [
+    "Išvalyk šepečius ir filtrą, nufotografuok švarų.",
+    "Įkelk už 155 €.",
+    "Paminėk, kad veikia su Roborock programėle ir žemėlapiais."
+   ],
+   "kainos_pagrindimas": "Naudoti S7 parduodami ~130–160 €; naujo S7 nebėra (pakeistas S8).",
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 142,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti.",
+   "visi_palyginami": [
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
+     "pavadinimas": "Siurblys robotas Roborock S7",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 val."
+    }
+   ],
+   "amzius_d": 2,
+   "derybos": {
+    "siulymas": 80,
+    "tarpinis": 85,
+    "riba": 100,
+    "argumentai": [
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 80 € – tai 16 % mažiau nei prašo (95 €).",
+     "Jei atsisako – kelk iki 85 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 95 €: pelnas ~40 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 80 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 95 € uždirbtum ~40 €, už 80 € – ~55 €."
+   },
+   "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 99.0,
+    "iki": 95.0
+   },
+   "zingsniai": [
+    "Panašių skelbimų tik 1 – per mažai kainai nustatyti",
+    "Claude įvertinimas (2026-10-27): 140 € – Naudoti S7 parduodami ~130–160 €; naujo S7 nebėra (pakeistas S8).",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 140 € − 95 € − 4,5 € = 40,5 € (43% pirkimo kainos)",
+    "Mokėti ne daugiau: min((140 € − 4,5 €) / 1.35; 140 € − 4,5 € − 20 €) = 100,4 €",
+    "Laikas ~1.0 val. → 40,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Pirk, jei gausi ne daugiau kaip už 100 €. Tikėtinas pelnas ~40 €.",
+   "uz": [
+    "Pelnas ~40 € (43 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Kaina jau sumažinta nuo 99 € – pardavėjas linkęs nusileisti."
+   ],
+   "pries": [],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
    "id": "87834106",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-rc-pultelis-87834106.html",
    "pavadinimas": "Dji RC pultelis",
@@ -352,158 +509,6 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
-   }
-  },
-  {
-   "id": "87834174",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-s7-robotas-dulkiu-siurblys-su-plovimu-87834174.html",
-   "pavadinimas": "Roborock S7 robotas dulkių siurblys su plovimu",
-   "kaina": 99.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5285701598/roborock-s7-robotas-dulkiu-siurblys-su-plovimu.jpg",
-   "aprasymas": "Parduodamas „Roborock S7“ robotas dulkių siurblys su grindų plovimo funkcija. * Siurbia dulkes ir plauna grindis * Išmanioji navigacija ir ...",
-   "vieta_laikas": "Kaunas, prieš 6 val.",
-   "paieska": "Robotai siurbliai",
-   "pastebetas": "2026-10-25T19:26:26Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "Roborock S7 (siurbia ir plauna)",
-   "raktas": "roborock-s7",
-   "palyginamu": 1,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "Claude įvertinimas"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Siurblys robotas Roborock S7",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
-     "vieta_laikas": "Klaipėda, prieš 1 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Roborock+S7+%28siurbia+ir+plauna%29"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Roborock+S7+%28siurbia+ir+plauna%29"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Roborock+S7+%28siurbia+ir+plauna%29"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Roborock+S7+%28siurbia+ir+plauna%29"
-    }
-   ],
-   "tiketina_pardavimo": 140,
-   "pelnas": 36,
-   "roi": 0.37,
-   "max_pirkimo": 100,
-   "pelnas_per_val": 36,
-   "sprendimas": "verta",
-   "priezastis": "Pelnas ~36 € (37 %), siunta iš Kauno.",
-   "balas": 47,
-   "rizikos": "Didelė dėžė – patikrink, ar telpa į paštomatą (L dydis); kitaip kurjeris.",
-   "ivertinta": "2026-10-27",
-   "stovas": false,
-   "apie": "Roborock S7 – robotas siurblys su lazerine navigacija ir plovimo funkcija (2021). Vertę lemia baterija, šepečiai ir ar yra įkrovimo stotelė.",
-   "tikrinti": [
-    "Ar yra įkrovimo stotelė, plovimo modulis ir vandens bakelis.",
-    "Paprašyk vaizdo įrašo, kaip jis išvažiuoja ir grįžta į stotelę.",
-    "Kiek metų naudotas, ar keista baterija ir filtrai.",
-    "Ar atsietas nuo pardavėjo programėlės paskyros."
-   ],
-   "galimybe": "Prašo 99 €, o veikiantys S7 parduodami už ~140 €. Tai vienas patikimiausių Roborock modelių, jam lengvai gaunamos dalys.",
-   "pardavimas": [
-    "Išvalyk šepečius ir filtrą, nufotografuok švarų.",
-    "Įkelk už 155 €.",
-    "Paminėk, kad veikia su Roborock programėle ir žemėlapiais."
-   ],
-   "kainos_pagrindimas": "Naudoti S7 parduodami ~130–160 €; naujo S7 nebėra (pakeistas S8).",
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 142,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti.",
-   "visi_palyginami": [
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/siurblys-robotas-roborock-s7-87841982.html",
-     "pavadinimas": "Siurblys robotas Roborock S7",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": {
-    "siulymas": 80,
-    "tarpinis": 85,
-    "riba": 100,
-    "argumentai": [
-     {
-      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
-     },
-     {
-      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
-     }
-    ],
-    "planas": [
-     "Pirma žinutė: siūlyk 80 € – tai 19 % mažiau nei prašo (99 €).",
-     "Jei atsisako – kelk iki 85 €.",
-     "Jei visai nenuleidžia – vis tiek pirk už 99 €: pelnas ~36 €. Šio radinio dėl derybų neprarask."
-    ],
-    "kodel_suma": "Kodėl 80 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
-    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 99 € uždirbtum ~36 €, už 80 € – ~55 €."
-   },
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti",
-    "Claude įvertinimas (2026-10-27): 140 € – Naudoti S7 parduodami ~130–160 €; naujo S7 nebėra (pakeistas S8).",
-    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 140 € − 99 € − 4,5 € = 36,5 € (37% pirkimo kainos)",
-    "Mokėti ne daugiau: min((140 € − 4,5 €) / 1.35; 140 € − 4,5 € − 20 €) = 100,4 €",
-    "Laikas ~1.0 val. → 36,5 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Pirk, jei gausi ne daugiau kaip už 100 €. Tikėtinas pelnas ~36 €.",
-   "uz": [
-    "Pelnas ~36 € (37 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
-   ],
-   "pries": [],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -3235,7 +3240,7 @@
      "vieta_laikas": "Kita, prieš 4 val."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": {
     "siulymas": 140,
     "tarpinis": 150,
@@ -5880,7 +5885,7 @@
      "vieta_laikas": "Vilnius, spalio 27, 2016"
     }
    ],
-   "amzius_d": 61,
+   "amzius_d": 62,
    "derybos": {
     "siulymas": 25,
     "tarpinis": null,
@@ -5893,7 +5898,7 @@
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
      },
      {
-      "t": "Skelbimas kabo jau ~61 d. – pardavėjas greičiausiai nori parduoti"
+      "t": "Skelbimas kabo jau ~62 d. – pardavėjas greičiausiai nori parduoti"
      }
     ],
     "planas": [
@@ -6731,7 +6736,7 @@
      "vieta_laikas": "Klaipėda, prieš 2 d."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": {
     "siulymas": 25,
     "tarpinis": null,
@@ -7582,7 +7587,7 @@
      "vieta_laikas": "Vilnius, spalio 27, 2016"
     }
    ],
-   "amzius_d": 64,
+   "amzius_d": 65,
    "derybos": {
     "siulymas": 50,
     "tarpinis": 55,
@@ -7783,7 +7788,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 14,
+   "amzius_d": 15,
    "derybos": {
     "siulymas": 30,
     "tarpinis": 35,
@@ -7793,7 +7798,7 @@
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
      },
      {
-      "t": "Skelbimas kabo jau ~14 d. – pardavėjas greičiausiai nori parduoti"
+      "t": "Skelbimas kabo jau ~15 d. – pardavėjas greičiausiai nori parduoti"
      },
      {
       "t": "Galiu atsiimti greitai ir atsiskaityti iškart"
@@ -8342,7 +8347,7 @@
      "vieta_laikas": "Vilnius, birželio 10, 2019"
     }
    ],
-   "amzius_d": 130,
+   "amzius_d": 131,
    "derybos": {
     "siulymas": 60,
     "tarpinis": null,
@@ -8356,7 +8361,7 @@
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
      },
      {
-      "t": "Skelbimas kabo jau ~130 d. – pardavėjas greičiausiai nori parduoti"
+      "t": "Skelbimas kabo jau ~131 d. – pardavėjas greičiausiai nori parduoti"
      }
     ],
     "planas": [
@@ -9260,7 +9265,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
    "visi_palyginami": [],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -9472,7 +9477,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja.",
    "visi_palyginami": [],
-   "amzius_d": 254,
+   "amzius_d": 255,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -9707,7 +9712,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja.",
    "visi_palyginami": [],
-   "amzius_d": 5,
+   "amzius_d": 6,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -9837,7 +9842,7 @@
      "vieta_laikas": "Šiauliai, prieš 4 val."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -9941,7 +9946,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas.",
    "visi_palyginami": [],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -10047,7 +10052,7 @@
      "vieta_laikas": "Molėtų r., spalio 16 d."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -10153,7 +10158,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 9,
+   "amzius_d": 10,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -10247,7 +10252,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 15,
+   "amzius_d": 16,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -11015,7 +11020,7 @@
      "vieta_laikas": "Klaipėda, spalio 21 d."
     }
    ],
-   "amzius_d": 5,
+   "amzius_d": 6,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -11153,7 +11158,7 @@
      "vieta_laikas": "Kaunas, spalio 22 d."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -11293,7 +11298,7 @@
      "vieta_laikas": "Kaunas, spalio 22 d."
     }
    ],
-   "amzius_d": 7,
+   "amzius_d": 8,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -11424,7 +11429,7 @@
      "vieta_laikas": "Vilnius, rugpjūčio 06 d."
     }
    ],
-   "amzius_d": 17,
+   "amzius_d": 18,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -11553,7 +11558,7 @@
      "vieta_laikas": "Vilnius, spalio 10 d."
     }
    ],
-   "amzius_d": 82,
+   "amzius_d": 83,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -11645,7 +11650,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 183,
+   "amzius_d": 184,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -11834,7 +11839,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas, nauja, nenaudotas.",
    "visi_palyginami": [],
-   "amzius_d": 8,
+   "amzius_d": 9,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -11928,7 +11933,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 11,
+   "amzius_d": 12,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -12022,7 +12027,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja.",
    "visi_palyginami": [],
-   "amzius_d": 16,
+   "amzius_d": 17,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -12954,7 +12959,7 @@
      "vieta_laikas": "Kaunas, prieš 7 val."
     }
    ],
-   "amzius_d": 5,
+   "amzius_d": 6,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -13332,7 +13337,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 10,
+   "amzius_d": 11,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13421,7 +13426,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 11,
+   "amzius_d": 12,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13514,7 +13519,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja.",
    "visi_palyginami": [],
-   "amzius_d": 16,
+   "amzius_d": 17,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13608,7 +13613,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: ideali būklė, nauja.",
    "visi_palyginami": [],
-   "amzius_d": 17,
+   "amzius_d": 18,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13704,7 +13709,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja. Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos.",
    "visi_palyginami": [],
-   "amzius_d": 20,
+   "amzius_d": 21,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13798,7 +13803,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 22,
+   "amzius_d": 23,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -13893,7 +13898,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 29,
+   "amzius_d": 30,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13985,7 +13990,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 30,
+   "amzius_d": 31,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -14078,7 +14083,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 37,
+   "amzius_d": 38,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -14524,7 +14529,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
    "visi_palyginami": [],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -14633,7 +14638,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 14,
+   "amzius_d": 15,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -14727,7 +14732,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 24,
+   "amzius_d": 25,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -14854,7 +14859,7 @@
      "vieta_laikas": "Raseinių r., prieš 4 val."
     }
    ],
-   "amzius_d": 25,
+   "amzius_d": 26,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -14966,7 +14971,7 @@
      "vieta_laikas": "Kaunas, prieš 1 d."
     }
    ],
-   "amzius_d": 33,
+   "amzius_d": 34,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -15096,7 +15101,7 @@
      "vieta_laikas": "Jurbarko r., prieš 9 val."
     }
    ],
-   "amzius_d": 34,
+   "amzius_d": 35,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -15251,7 +15256,7 @@
    "palyginami": [
     {
      "pavadinimas": "Roborock S7 robotas dulkių siurblys su plovimu",
-     "kaina": 99.0,
+     "kaina": 95.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-s7-robotas-dulkiu-siurblys-su-plovimu-87834174.html",
      "vieta_laikas": "Kaunas, prieš 6 val."
     }
@@ -15294,7 +15299,7 @@
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
    "visi_palyginami": [
     {
-     "kaina": 99.0,
+     "kaina": 95.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-s7-robotas-dulkiu-siurblys-su-plovimu-87834174.html",
      "pavadinimas": "Roborock S7 robotas dulkių siurblys su plovimu",
      "rizikos": [],
@@ -17360,7 +17365,7 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -17495,7 +17500,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -17607,7 +17612,7 @@
      "vieta_laikas": "Vilnius, prieš 9 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -17742,7 +17747,7 @@
      "vieta_laikas": "Vilnius, prieš 1 d."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -20725,7 +20730,7 @@
      "vieta_laikas": "Kaunas, prieš 4 val."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -21455,8 +21460,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "ipad air 11128gb, M3, ideali bukle, visada su deklu buvo ir ekrano plevele. Yra dezute ir galiojanti garantija iki 2027 kovo galo. Baterija rodo 100%, 54 ciklai Modelis MCA04HC/A",
+   "bukle": "Naudota",
    "modelis": "ipad-air-11",
    "raktas": "ipad-air-11",
    "palyginamu": 3,
@@ -21529,8 +21534,8 @@
      "garantija",
      "ideali būklė"
     ],
-    "aprasymo_ilgis": 149,
-    "pilnas": false
+    "aprasymo_ilgis": 178,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -22285,7 +22290,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 23,
+   "amzius_d": 24,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -23048,8 +23053,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Gipso freza M18. Iš USA. Išpakuota, pabandyta ir nenaudota, tai galima sakyt nauja. Kaunas arba siuntos paštomatu arba autobusu.",
+   "bukle": "Naudota",
    "modelis": "milwaukee-kita",
    "raktas": "milwaukee-kita",
    "palyginamu": 15,
@@ -23165,7 +23170,7 @@
      "nenaudotas"
     ],
     "aprasymo_ilgis": 128,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 5,
@@ -23643,7 +23648,7 @@
      "vieta_laikas": "Kaunas, spalio 04 d."
     }
    ],
-   "amzius_d": 24,
+   "amzius_d": 25,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -23799,7 +23804,7 @@
      "vieta_laikas": "Tauragės r., spalio 21 d."
     }
    ],
-   "amzius_d": 23,
+   "amzius_d": 24,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -24751,8 +24756,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Freza MILWAUKEE, beveik nenaudotas - 220 Eur, originalus atsuktuvas BOSCH ,pagaminta Malaizijoje - 120 Eur Фрезер MILWAUKEE, пользовался несколько раз - 220 Евро, ОРИГИНАЛ шуруповерт BOSCH. Сделано в Малайзии, 120 Евро",
+   "bukle": "Naudota",
    "modelis": "milwaukee-kita",
    "raktas": "milwaukee-kita",
    "palyginamu": 15,
@@ -24866,8 +24871,8 @@
     "privalumai": [
      "nenaudotas"
     ],
-    "aprasymo_ilgis": 135,
-    "pilnas": false
+    "aprasymo_ilgis": 218,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 5,
@@ -25850,7 +25855,7 @@
      "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": 76.01,
    "zingsniai": [
@@ -25901,8 +25906,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Siaurapjūklis, ir du suktukai. Naudoti, impactui biški įskilus korpuso plastmasė, bet naudoti nemaišo. Yra vienas akumuliatorius ir vienas kroviklis. Akumuliatorius 5Ah, kroviklis rapidas, krauna ir M18 ir M12 . Po viena įrankį 40€ -vnt. Visus kartu su akumuliatoriumi ir krovikliu 120€. Siunčiu tiem Omniva ir kitais paštomatais, galiu ir per autobusa.",
+   "bukle": "Naudota",
    "modelis": "milwaukee-kita",
    "raktas": "milwaukee-kita",
    "palyginamu": 15,
@@ -26016,8 +26021,8 @@
      "įskilęs"
     ],
     "privalumai": [],
-    "aprasymo_ilgis": 145,
-    "pilnas": false
+    "aprasymo_ilgis": 353,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 5,
@@ -26672,7 +26677,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 12,
+   "amzius_d": 13,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -28474,7 +28479,7 @@
      "vieta_laikas": "Kaunas, spalio 04 d."
     }
    ],
-   "amzius_d": 18,
+   "amzius_d": 19,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -34978,7 +34983,7 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -36930,7 +36935,7 @@
      "vieta_laikas": "Kaunas, prieš 4 val."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -36980,8 +36985,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotai pažaista keletą valandu",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 21,
@@ -37094,7 +37099,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 32,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 11,
@@ -41526,7 +41531,7 @@
      "vieta_laikas": "Kaunas, spalio 18 d."
     }
    ],
-   "amzius_d": 8,
+   "amzius_d": 9,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -41725,7 +41730,7 @@
      "vieta_laikas": "Vilnius, spalio 19 d."
     }
    ],
-   "amzius_d": 9,
+   "amzius_d": 10,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -41930,7 +41935,7 @@
      "vieta_laikas": "Kaunas, spalio 18 d."
     }
    ],
-   "amzius_d": 12,
+   "amzius_d": 13,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -44634,7 +44639,7 @@
      "vieta_laikas": "Kita, prieš 4 val."
     }
    ],
-   "amzius_d": 5,
+   "amzius_d": 6,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -44793,7 +44798,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 5,
+   "amzius_d": 6,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -45053,7 +45058,7 @@
      "vieta_laikas": "Kita, prieš 4 val."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -45313,7 +45318,7 @@
      "vieta_laikas": "Kita, prieš 4 val."
     }
    ],
-   "amzius_d": 7,
+   "amzius_d": 8,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -45576,7 +45581,7 @@
      "vieta_laikas": "Kita, prieš 4 val."
     }
    ],
-   "amzius_d": 7,
+   "amzius_d": 8,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -45760,7 +45765,7 @@
      "vieta_laikas": "Kaunas, gruodžio 21, 2025"
     }
    ],
-   "amzius_d": 116,
+   "amzius_d": 117,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -46690,7 +46695,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 15,
+   "amzius_d": 16,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -46861,7 +46866,7 @@
      "vieta_laikas": "Kaunas, spalio 04 d."
     }
    ],
-   "amzius_d": 17,
+   "amzius_d": 18,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -47027,7 +47032,7 @@
      "vieta_laikas": "Vilnius, prieš 3 d."
     }
    ],
-   "amzius_d": 23,
+   "amzius_d": 24,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -47952,7 +47957,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 16,
+   "amzius_d": 17,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -48132,7 +48137,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 35,
+   "amzius_d": 36,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -48596,7 +48601,7 @@
      "vieta_laikas": "Vilnius, rugsėjo 29 d."
     }
    ],
-   "amzius_d": 6,
+   "amzius_d": 7,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -48750,7 +48755,7 @@
      "vieta_laikas": "Vilnius, prieš 8 val."
     }
    ],
-   "amzius_d": 9,
+   "amzius_d": 10,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -48906,7 +48911,7 @@
      "vieta_laikas": "Klaipėda, spalio 18 d."
     }
    ],
-   "amzius_d": 12,
+   "amzius_d": 13,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -49062,7 +49067,7 @@
      "vieta_laikas": "Tauragės r., spalio 21 d."
     }
    ],
-   "amzius_d": 28,
+   "amzius_d": 29,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -49871,7 +49876,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -50019,7 +50024,7 @@
      "vieta_laikas": "Tauragės r., spalio 21 d."
     }
    ],
-   "amzius_d": 38,
+   "amzius_d": 39,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -55902,7 +55907,7 @@
      "vieta_laikas": "Šiauliai, prieš 7 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -56231,7 +56236,7 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -60985,8 +60990,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Pilnai veikentis Su akumu Oroginalus Skubei ! Kaina dar derinama",
+   "bukle": "Naudota",
    "modelis": "dewalt-kita",
    "raktas": "dewalt-kita",
    "palyginamu": 11,
@@ -61099,7 +61104,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 64,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 6,
@@ -62712,8 +62717,8 @@
   },
   "roborock-s7": {
    "n": 2,
-   "mediana": 104,
-   "min": 99.0,
+   "mediana": 102,
+   "min": 95.0,
    "max": 110.0
   },
   "robotas-kita": {

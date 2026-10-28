@@ -1,7 +1,7 @@
 # Kasdienis Claude vertinimas
 
 Šias instrukcijas kiekvieną rytą vykdo Claude suplanuota užduotis. Tikslas: pradedančiajam perpardavėjui
-(2–3 val. per savaitę, kapitalas 200–300 €, gyvena Vilniuje / Kėdainiuose; kitur – tik siunta į paštomatą) pasakyti, ką pirkti, už kiek ir už kiek parduoti.
+(2–3 val. per savaitę, kapitalas 200–300 €, gyvena Vilniuje; kitur – tik siunta į paštomatą) pasakyti, ką pirkti, už kiek ir už kiek parduoti.
 Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų, ne daugiau 25 skelbimų per dieną.
 
 ## Žingsniai
@@ -17,7 +17,7 @@ Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų, ne daugiau 25 skelbimų p
    - Tikėtina pardavimo kaina Lietuvoje naudotam daiktui (realiai parduodama, ne prašoma): remkis
      `docs/analize.json` → `rinka`, `data/skelbimai.json` panašiais skelbimais, būkle, komplektacija.
      Niekada ne daugiau 85 % naujo kainos. `kainos_pagrindimas` – vienas sakinys, iš ko tai išvesta (skaičiai).
-   - Didelis daiktas (netelpa į paštomatą) ne iš Vilniaus / Kėdainių – `praleisti`.
+   - Didelis daiktas (netelpa į paštomatą) ne iš Vilniaus – `praleisti`.
    - Patikimumas: `aukštas` (daug panašių skelbimų ir aiški naujo kaina), `vidutinis`, `žemas`.
    - Sprendimas: `verta` (pelnas ≥ 20 € ir ≥ 35 % po 6 € kaštų), `derėtis` (verta tik už mažesnę kainą – nurodyk
      kiek), `praleisti`. Priežastis – vienas sakinys lietuviškai, su skaičiais.

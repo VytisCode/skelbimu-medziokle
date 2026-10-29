@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-29T00:02:43Z",
+ "paleista": "2026-10-29T05:56:05Z",
  "proxy": true,
  "paieskos": [
   {
@@ -29,8 +29,8 @@
    "puslapio_pavadinimas": "nintendo switch skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Garmin laikrodžiai",
@@ -39,7 +39,7 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 1,
    "atrinkta_nauju": 0
   },
   {
@@ -68,9 +68,9 @@
    "kb_per_proxy": 148.9,
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
-   "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "rasta_skelbimu": 23,
+   "nauju": 2,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Kindle skaityklės",
@@ -109,8 +109,8 @@
    "puslapio_pavadinimas": "dyson skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Thermomix",
@@ -149,7 +149,7 @@
    "puslapio_pavadinimas": "robotas siurblys skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -159,7 +159,7 @@
    "puslapio_pavadinimas": "ipad skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 3,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -170,7 +170,7 @@
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
    "nauju": 1,
-   "atrinkta_nauju": 0
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Bosch Professional",
@@ -199,7 +199,7 @@
    "puslapio_pavadinimas": "steam deck skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 1,
    "atrinkta_nauju": 0
   }
  ],

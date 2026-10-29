@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-29T13:13:00Z",
+ "paleista": "2026-10-29T18:59:16Z",
  "proxy": true,
  "paieskos": [
   {
@@ -9,8 +9,8 @@
    "puslapio_pavadinimas": "makita skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
-   "atrinkta_nauju": 2
+   "nauju": 1,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Lego",
@@ -19,8 +19,8 @@
    "puslapio_pavadinimas": "lego skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 5,
-   "atrinkta_nauju": 4
+   "nauju": 2,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Nintendo Switch",
@@ -30,7 +30,7 @@
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
    "nauju": 2,
-   "atrinkta_nauju": 0
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Garmin laikrodžiai",
@@ -39,8 +39,8 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 7,
-   "atrinkta_nauju": 3
+   "nauju": 2,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "DeWalt įrankiai",
@@ -49,7 +49,7 @@
    "puslapio_pavadinimas": "dewalt skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
+   "nauju": 3,
    "atrinkta_nauju": 1
   },
   {
@@ -59,8 +59,8 @@
    "puslapio_pavadinimas": "milwaukee skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "PlayStation 5",
@@ -69,8 +69,8 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 12,
-   "atrinkta_nauju": 5
+   "nauju": 10,
+   "atrinkta_nauju": 4
   },
   {
    "pavadinimas": "Kindle skaityklės",
@@ -89,8 +89,8 @@
    "puslapio_pavadinimas": "gopro skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "DJI dronai",
@@ -100,7 +100,7 @@
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
    "nauju": 3,
-   "atrinkta_nauju": 1
+   "atrinkta_nauju": 2
   },
   {
    "pavadinimas": "Dyson",
@@ -109,8 +109,8 @@
    "puslapio_pavadinimas": "dyson skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Thermomix",
@@ -139,7 +139,7 @@
    "puslapio_pavadinimas": "sonos skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 1,
    "atrinkta_nauju": 0
   },
   {
@@ -149,7 +149,7 @@
    "puslapio_pavadinimas": "robotas siurblys skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 4,
+   "nauju": 2,
    "atrinkta_nauju": 1
   },
   {
@@ -159,8 +159,8 @@
    "puslapio_pavadinimas": "ipad skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 6,
-   "atrinkta_nauju": 3
+   "nauju": 3,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Fotoaparatai",
@@ -169,8 +169,8 @@
    "puslapio_pavadinimas": "fotoaparatas skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 6,
-   "atrinkta_nauju": 0
+   "nauju": 3,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Bosch Professional",
@@ -179,8 +179,8 @@
    "puslapio_pavadinimas": "bosch professional skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Vežimėliai",
@@ -189,8 +189,8 @@
    "puslapio_pavadinimas": "vezimelis skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 19,
-   "atrinkta_nauju": 0
+   "nauju": 4,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Steam Deck",
@@ -199,8 +199,8 @@
    "puslapio_pavadinimas": "steam deck skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   }
  ],
  "detales": {

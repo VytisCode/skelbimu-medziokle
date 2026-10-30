@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-29T23:20:50Z",
+ "paleista": "2026-10-30T02:41:43Z",
  "proxy": true,
  "paieskos": [
   {
@@ -19,8 +19,8 @@
    "puslapio_pavadinimas": "lego skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 3,
-   "atrinkta_nauju": 2
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Nintendo Switch",
@@ -39,7 +39,7 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -49,7 +49,7 @@
    "puslapio_pavadinimas": "dewalt skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -69,7 +69,7 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -89,8 +89,8 @@
    "puslapio_pavadinimas": "gopro skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "DJI dronai",
@@ -99,8 +99,8 @@
    "puslapio_pavadinimas": "dji skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Dyson",
@@ -169,8 +169,8 @@
    "puslapio_pavadinimas": "fotoaparatas skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
-   "atrinkta_nauju": 1
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Bosch Professional",

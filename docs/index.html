@@ -10,26 +10,37 @@
 </head>
 <body>
 <div class="wrap">
-  <header style="display:grid;gap:10px">
-    <div class="eyebrow">Skelbiu.lt radiniai · atnaujinama kas valandą</div>
-    <h1>Ką pirkti šiandien</h1>
-    <nav class="nav"><a href="index.html" aria-current="page">Radiniai</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html">Rinkos kainos</a></nav>
+  <header class="hdr">
+    <nav class="nav"><a href="index.html" aria-current="page">Ką pirkti</a><a href="istorija.html">Istorija</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html">Rinka</a></nav>
+    <div class="status" id="status"><span class="chip">Kraunama…</span></div>
   </header>
   <div id="vmiTop"></div>
+  <section class="buy" id="radiniai">
+    <div class="buyhead">
+      <h1>Ką pirkti dabar</h1>
+      <p class="summary" id="summary"></p>
+    </div>
+    <div class="fbar" id="fbar">
+      <div class="seg" id="seg" role="group" aria-label="Sprendimas"></div>
+      <div class="frow">
+        <input type="search" id="q" placeholder="Ieškoti: Switch, Makita…" aria-label="Ieškoti">
+        <button type="button" class="btn" id="fmore" aria-expanded="false">Filtrai</button>
+      </div>
+      <div class="fpanel" id="fpanel" hidden>
+        <label>Kategorija<select id="fkat"><option value="">Visos</option></select></label>
+        <label>Atsiėmimas<select id="fvieta"><option value="">Visi</option><option value="vietinis">📍 Vilniuje gyvai</option><option value="siunta">🚚 Siunta</option></select></label>
+        <label>Kaina iki, €<input type="number" id="fmax" inputmode="numeric" min="0" placeholder="pvz. 300"></label>
+        <label>Pelnas nuo, €<input type="number" id="fpel" inputmode="numeric" placeholder="pvz. 20"></label>
+        <label>Rikiuoti<select id="fsort"><option value="pelnas">Didžiausias pelnas</option><option value="balas">Geriausias balas</option><option value="naujausi">Naujausi</option><option value="pigiausi">Pigiausi</option></select></label>
+        <button type="button" class="btn" id="freset">Išvalyti filtrus</button>
+      </div>
+      <p class="note" id="fcount"></p>
+    </div>
+    <div class="list" id="list"></div>
+  </section>
   <div id="remind"></div>
-  <div class="status" id="status"><span class="chip">Kraunama…</span></div>
-  <section class="best" id="bestWrap" hidden>
-    <h2>Geriausi dabar</h2>
-    <div class="cards" id="best"></div>
-  </section>
-  <div class="tiles" id="tiles"></div>
-  <section style="display:grid;gap:10px" id="radiniai">
-    <div class="tabs" id="tabs"></div>
-    <div class="cards" id="cards"></div>
-  </section>
-
-  </div>
-<datalist id="kategorijos"><option>Nintendo Switch</option><option>PlayStation 5</option><option>Lego</option><option>Makita</option><option>DeWalt</option><option>Milwaukee</option><option>Garmin</option><option>Kindle</option><option>GoPro</option><option>DJI</option></datalist>
+  <p class="note" id="funnel"></p>
+</div>
 <script src="app.js"></script>
 </body>
 </html>

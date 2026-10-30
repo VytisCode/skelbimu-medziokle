@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Rekomendacijų istorija</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="stilius.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="hdr">
+    <nav class="nav"><a href="index.html">Ką pirkti</a><a href="istorija.html" aria-current="page">Istorija</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html">Rinka</a></nav>
+    <div class="status" id="status"></div>
+  </header>
+  <section class="buy">
+    <h1>Rekomendacijų istorija</h1>
+    <p class="note">Visi skelbimai, kuriuos sistema siūlė pirkti ar derėtis: ar dar galima nupirkti, kada dingo ir per kiek laiko. Taip matysi, kaip greitai reikia reaguoti.</p>
+    <div class="kpis" id="hkpis"></div>
+    <div class="seg" id="hseg" role="group" aria-label="Būsena"></div>
+    <div class="list" id="hlist"></div>
+    <details class="note"><summary>Kaip nustatoma, kad skelbimas dingo</summary>
+      <p>Paieška kas valandą mato tik pirmą kiekvienos kategorijos puslapį, todėl skelbimas, kurio ten nebėra, dažnai tik nukrito žemiau. Tokius rekomenduotus skelbimus sistema atidaro (ne dažniau kaip kas 6 val., po 3 per paleidimą, kad taupytų proxy). „Dingo“ reiškia, kad skelbimo puslapio nebėra – greičiausiai parduota arba ištrinta.</p>
+      <p>„Gyvavo“ skaičiuojama nuo to, kada paieška skelbimą pirmą kartą pamatė, iki tada, kai patikra rado jį dingusį. Jei tarp paskutinio „dar yra“ ir „nebėra“ praėjo daugiau nei 7 val., rodomas intervalas.</p>
+    </details>
+  </section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

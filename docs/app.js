@@ -114,7 +114,7 @@ function reasons(r) {
 }
 
 // ---------- Radinio kortelė ----------
-function card(r, big) {
+function card(r, big, inner) {
   const local = r.kastai && r.kastai.vietinis;
   const main = ["verta", "derėtis"].includes(r.sprendimas);
   const c = el("article", "card" + (big ? " big" : "") + (local ? " local" : ""));
@@ -177,7 +177,8 @@ function card(r, big) {
   const buy = el("button", "copy", "Pirkau → į žurnalą"); buy.type = "button";
   buy.onclick = () => { try { localStorage.setItem("pirkau", JSON.stringify(r)); } catch {} location.href = "zurnalas.html#naujas"; };
   body.append(buy);
-  c.append(head, body); return c;
+  if (inner) { c.className = "card inner"; c.append(body); } else c.append(head, body);
+  return c;
 }
 
 // Skelbimo signalai: kada įkeltas, ar mažinta kaina, aprašymo kokybė
@@ -192,6 +193,57 @@ function signals(r) {
   return ul;
 }
 
+// ---------- Pagrindinis sąrašas: viršuje tai, ką pirkti; viską galima filtruoti ----------
+const SEG = [["geri", "Pirkti + derėtis"], ["verta", "Pirkti"], ["derėtis", "Derėtis"], ["tikrinti", "Patikrinti"], ["nežinoma", "Laukia"], ["praleisti", "Praleisti"], ["visi", "Visi"]];
+const FDEF = {seg: "geri", q: "", kat: "", vieta: "", max: "", pel: "", sort: "pelnas"};
+let F = {...FDEF};
+try { F = {...FDEF, ...JSON.parse(localStorage.getItem("filtrai") || "{}")}; } catch {}
+const saveF = () => { try { localStorage.setItem("filtrai", JSON.stringify(F)); } catch {} };
+const isLocal = r => !!(r.kastai && r.kastai.vietinis);
+const city = r => (r.vieta_laikas || "").split(",")[0].trim();
+const when = r => (r.vieta_laikas || "").split(",").slice(1).join(",").trim();
+const segOk = (r, k) => k === "visi" || (k === "geri" ? ["verta", "derėtis"].includes(r.sprendimas) : r.sprendimas === k);
+
+function passes(r, skipSeg) {
+  if (!skipSeg && !segOk(r, F.seg)) return false;
+  if (F.q && !(r.pavadinimas + " " + (r.modelis || "") + " " + (r.paieska || "")).toLowerCase().includes(F.q.toLowerCase())) return false;
+  if (F.kat && r.paieska !== F.kat) return false;
+  if (F.vieta === "vietinis" && !isLocal(r)) return false;
+  if (F.vieta === "siunta" && isLocal(r)) return false;
+  if (F.max !== "" && (r.kaina || 0) > Number(F.max)) return false;
+  if (F.pel !== "" && (r.pelnas == null || r.pelnas < Number(F.pel))) return false;
+  return true;
+}
+const SORT = {
+  pelnas: (a, b) => (b.pelnas ?? -1e9) - (a.pelnas ?? -1e9),
+  balas: (a, b) => (b.balas || 0) - (a.balas || 0),
+  naujausi: (a, b) => (b.pastebetas || "").localeCompare(a.pastebetas || ""),
+  pigiausi: (a, b) => (a.kaina || 0) - (b.kaina || 0),
+};
+const ORDER = {verta: 0, derėtis: 1, tikrinti: 2, nežinoma: 3, praleisti: 4};
+
+// Kompaktiška eilutė; paspaudus atsiveria visa instrukcija
+function row(r) {
+  const d = el("details", "item v-" + r.sprendimas + (isLocal(r) ? " local" : ""));
+  const s = el("summary");
+  const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer";
+  img.onerror = () => img.style.visibility = "hidden"; if (r.nuotrauka) img.src = r.nuotrauka;
+  const mid = el("div", "mid");
+  const t1 = el("div", "t1"); t1.append(el("span", "ttl", r.pavadinimas || "(be pavadinimo)"), el("span", "verdict v-" + r.sprendimas, LABEL[r.sprendimas] || r.sprendimas));
+  const t2 = el("div", "t2");
+  t2.append(el("b", "mono", fmt(r.kaina)));
+  if (r.tiketina_pardavimo) t2.append(el("span", "mono", "→ " + fmt(r.tiketina_pardavimo)));
+  if (r.pelnas != null) t2.append(el("b", "mono " + (r.pelnas > 0 ? "pos" : "neg"), (r.pelnas > 0 ? "+" : "") + fmt(r.pelnas)));
+  const t3 = el("div", "t3");
+  t3.append(el("span", isLocal(r) ? "loc" : "", (isLocal(r) ? "📍 " : "🚚 ") + (city(r) || "—")), el("span", "", when(r)));
+  if (r.sprendimas === "derėtis" && r.max_pirkimo) t3.append(el("span", "warnt", "derėkis iki " + fmt(r.max_pirkimo)));
+  if (r.kaina_sumazejo) t3.append(el("span", "pos", "kaina sumažinta"));
+  mid.append(t1, t2, t3);
+  s.append(img, mid); d.append(s);
+  d.addEventListener("toggle", () => { if (d.open && d.children.length === 1) d.append(card(r, true, true)); });
+  return d;
+}
+
 function render() {
   const R = D.radiniai;
   if ($("market")) {
@@ -199,33 +251,80 @@ function render() {
     $("market").replaceChildren(...m.map(([k, v]) => { const tr = el("tr"); tr.append(el("td", "", k), el("td", "n", v.n), el("td", "n", fmt(v.mediana)), el("td", "n", fmt(v.min) + "–" + fmt(v.max))); return tr; }));
     assumptions();
   }
-  if (!$("cards")) return;
-  const cnt = k => R.filter(r => r.sprendimas === k).length;
-  const best = R.filter(r => r.sprendimas === "verta" || r.sprendimas === "derėtis").sort((a, b) => b.balas - a.balas).slice(0, 3);
-  $("bestWrap").hidden = !best.length;
-  $("best").replaceChildren(...best.map(r => card(r, true)));
-  const profit = R.filter(r => r.sprendimas === "verta").reduce((s, r) => s + (r.pelnas || 0), 0);
-  $("tiles").replaceChildren(...[["verta", "Pirkti", cnt("verta")], ["derėtis", "Derėtis", cnt("derėtis")], ["tikrinti", "Patikrinti", cnt("tikrinti")], ["verta", "Galimas pelnas", fmt(profit)]]
-    .map(([k, t, v]) => { const b = el("button", "tile"); b.type = "button"; b.append(el("span", "eyebrow", t), el("b", "", v));
-      b.onclick = () => { filter = k; render(); $("radiniai").scrollIntoView({behavior: "smooth"}); }; return b; }));
-  const isLocal = r => r.kastai && r.kastai.vietinis;
-  const goodLocal = R.filter(r => isLocal(r) && ["verta", "derėtis", "tikrinti"].includes(r.sprendimas));
-  $("tabs").replaceChildren(...["verta", "derėtis", "tikrinti", "vietiniai", "nežinoma", "praleisti", "visi"].map(k => {
-    const b = el("button", "", (k === "vietiniai" ? "📍 Vietiniai" : LABEL[k] || "Visi") + " (" + (k === "visi" ? R.length : k === "vietiniai" ? goodLocal.length : cnt(k)) + ")");
-    b.type = "button"; b.setAttribute("aria-pressed", k === filter); b.onclick = () => { filter = k; render(); }; return b;
+  if ($("hlist")) renderHistory();
+  if (!$("list")) return;
+  const verta = R.filter(r => r.sprendimas === "verta"), der = R.filter(r => r.sprendimas === "derėtis");
+  const pel = verta.reduce((a, r) => a + (r.pelnas || 0), 0);
+  $("summary").textContent = verta.length
+    ? `${verta.length} verta pirkti dabar (galimas pelnas ~${fmt(pel)}), dar ${der.length} – nusiderėjus.`
+    : `Šiuo metu nėra ką pirkti už prašomą kainą. ${der.length} apsimoka nusiderėjus.`;
+  // filtrų valdikliai (užpildomi kartą)
+  if (!$("fkat").dataset.ok) {
+    [...new Set(R.map(r => r.paieska).filter(Boolean))].sort().forEach(k => $("fkat").append(new Option(k, k)));
+    $("fkat").dataset.ok = 1;
+    const bind = (id, key, ev) => { $(id).value = F[key]; $(id).addEventListener(ev || "change", () => { F[key] = $(id).value; saveF(); render(); }); };
+    bind("q", "q", "input"); bind("fkat", "kat"); bind("fvieta", "vieta"); bind("fmax", "max", "input"); bind("fpel", "pel", "input"); bind("fsort", "sort");
+    $("fmore").onclick = () => { const h = !$("fpanel").hidden; $("fpanel").hidden = h; $("fmore").setAttribute("aria-expanded", !h); };
+    $("freset").onclick = () => { F = {...FDEF}; saveF(); ["q", "fkat", "fvieta", "fmax", "fpel", "fsort"].forEach((id, i) => $(id).value = F[["q", "kat", "vieta", "max", "pel", "sort"][i]]); render(); };
+  }
+  const extra = ["kat", "vieta", "max", "pel"].filter(k => F[k] !== "").length;
+  $("fmore").textContent = "Filtrai" + (extra ? ` (${extra})` : "");
+  const base = R.filter(r => passes(r, true));
+  $("seg").replaceChildren(...SEG.map(([k, t]) => {
+    const b = el("button", "", `${t} ${base.filter(r => segOk(r, k)).length}`); b.type = "button";
+    b.setAttribute("aria-pressed", k === F.seg); b.onclick = () => { F.seg = k; saveF(); render(); }; return b;
   }));
-  // piltuvas: kiek peržiūrėta ir kodėl atmesta – kad būtų matyti, jog tikrinama plačiai
-  let fu = $("funnel"); if (!fu) { fu = el("p", "note"); fu.id = "funnel"; $("tiles").after(fu); }
+  const rows = base.filter(r => segOk(r, F.seg)).sort((a, b) => (ORDER[a.sprendimas] - ORDER[b.sprendimas]) * (F.seg === "visi" || F.seg === "geri" ? 1 : 0) || SORT[F.sort](a, b));
+  $("fcount").textContent = `Rodoma ${rows.length} iš ${R.length} stebimų skelbimų. Paspausk eilutę – atsivers visa instrukcija.`;
+  $("list").replaceChildren(...(rows.length ? rows.map(row) : [el("p", "note", "Pagal šiuos filtrus nieko nėra. Pabandyk „Visi“ arba išvalyk filtrus.")]));
+  // piltuvas: kiek peržiūrėta ir kodėl atmesta
   const why = {}; const add = k => why[k] = (why[k] || 0) + 1;
   R.forEach(r => { const z = r.priezastis || "";
     if (r.sprendimas === "praleisti") add(z.startsWith("didelis") ? "didelis daiktas iš kito miesto" : "per mažas pelnas ar grąža");
     else if (r.sprendimas === "nežinoma") add("nėra su kuo palyginti (įvertins Claude)");
     else if (r.sprendimas === "tikrinti") add("įtartina kaina, defektai ar neaiškus modelis"); });
   const kat = new Set(R.map(r => r.paieska)).size;
-  fu.textContent = `Dabar stebima ${R.length} skelbimų iš ${kat} kategorijų (${(B && B.paieskos || []).length} paieškos). Atmesta ar laukia: ` +
-    Object.entries(why).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k} – ${v}`).join(", ") + ". Kiekvieno priežastis – kortelėje.";
-  const rows = filter === "vietiniai" ? goodLocal.sort((a, b) => b.balas - a.balas) : R.filter(r => filter === "visi" || r.sprendimas === filter);
-  $("cards").replaceChildren(...(rows.length ? rows.map(r => card(r)) : [el("p", "note", "Šioje grupėje šiuo metu nieko nėra.")]));
+  $("funnel").textContent = `Stebima ${R.length} skelbimų (pastarosios 3 d.) iš ${kat} kategorijų. Atmesta ar laukia: ` +
+    Object.entries(why).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k} – ${v}`).join(", ") + ". Kiekvieno priežastis – atsivertus eilutę.";
+}
+
+// ---------- Rekomendacijų istorija ----------
+let HF = "visi";
+const hrs = h => h < 48 ? Math.round(h) + " val." : Math.round(h / 24) + " d.";
+function renderHistory() {
+  const H = D.istorija; if (!H) { $("hlist").replaceChildren(el("p", "note", "Istorija dar kaupiama.")); return; }
+  const X = H.irasai;
+  const K = [
+    ["Rekomenduota", H.rekomenduota, "", "Pirkti ar derėtis"],
+    ["Dingo", H.dingo, "", "skelbimo nebėra – greičiausiai parduota"],
+    ["Nupirkai", H.nupirkta, "", "pažymėta žurnale"],
+    ["Praleistas pelnas", fmt(H.praleistas_pelnas), H.praleistas_pelnas ? "neg" : "", "dingusių, kurių nepirkai"],
+    ["Geras skelbimas gyvuoja", H.gyvavo_mediana_val == null ? "—" : "~" + hrs(H.gyvavo_mediana_val), "", H.tiksliu ? `mediana iš ${H.tiksliu}` : "dar nėra tikslių matavimų"],
+    ["Dingo per parą", H.tiksliu ? `${H.dingo_per_24h} iš ${H.tiksliu}` : "—", "", "kiek dingo per 24 val."],
+  ];
+  $("hkpis").replaceChildren(...K.map(([t, v, c, s]) => { const d = el("div", "kpi"); d.append(el("span", "eyebrow", t), el("b", c, v), el("small", "", s)); return d; }));
+  const segs = [["visi", "Visi"], ["aktyvus", "Nedingę"], ["dingo", "Dingo"], ["nupirkta", "Nupirkau"]];
+  $("hseg").replaceChildren(...segs.map(([k, t]) => { const b = el("button", "", `${t} ${k === "visi" ? X.length : X.filter(x => x.busena === k).length}`); b.type = "button";
+    b.setAttribute("aria-pressed", k === HF); b.onclick = () => { HF = k; renderHistory(); }; return b; }));
+  const rows = X.filter(x => HF === "visi" || x.busena === HF);
+  const now = Date.now();
+  $("hlist").replaceChildren(...(rows.length ? rows.map(x => {
+    const a = link(x.nuoroda, ""); a.className = "hrow b-" + x.busena;
+    const img = el("img"); img.loading = "lazy"; img.alt = ""; img.referrerPolicy = "no-referrer"; img.onerror = () => img.style.visibility = "hidden"; if (x.nuotrauka) img.src = x.nuotrauka;
+    const mid = el("div", "mid");
+    const t1 = el("div", "t1"); t1.append(el("span", "ttl", x.pavadinimas), el("span", "verdict v-" + x.sprendimas, LABEL[x.sprendimas]));
+    const t2 = el("div", "t2"); t2.append(el("b", "mono", fmt(x.kaina)));
+    if (x.pelnas != null) t2.append(el("b", "mono " + (x.pelnas > 0 ? "pos" : "neg"), (x.pelnas > 0 ? "+" : "") + fmt(x.pelnas)));
+    t2.append(el("span", "", (x.vietinis ? "📍 " : "🚚 ") + ((x.vieta_laikas || "").split(",")[0])));
+    const rek = new Date(x.rekomenduota).toLocaleString("lt-LT", {timeZone: "Europe/Vilnius", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
+    let st;
+    if (x.busena === "dingo") st = "Dingo po " + (x.tikslu ? "~" + hrs(x.gyvavo_val) : `${hrs(x.gyvavo_min_val)}–${hrs(x.gyvavo_val)}`) + " nuo įkėlimo";
+    else if (x.busena === "nupirkta") st = "Nupirkai";
+    else { const ago = x.dar_buvo ? (now - new Date(x.dar_buvo)) / 3600e3 : 1e9;
+      st = ago <= 8 ? `Dar yra (matytas prieš ${hrs(ago)}) – gali pirkti` : `Neaišku, ar dar yra (paskutinį kartą matytas prieš ${hrs(ago)}) – atidaryk ir pažiūrėk`; }
+    const t3 = el("div", "t3"); t3.append(el("span", "st", st), el("span", "", "rekomenduota " + rek));
+    mid.append(t1, t2, t3); a.append(img, mid); return a;
+  }) : [el("p", "note", "Čia nieko nėra.")]));
 }
 
 function assumptions() {

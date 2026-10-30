@@ -147,3 +147,39 @@ details.sec>summary{font-weight:700;color:var(--fg);font-size:.95rem;padding:4px
 .quote{font-size:.85rem;color:var(--muted);border-left:3px solid var(--line);padding-left:8px;margin:6px 0;white-space:pre-wrap}
 .evid a,.evt a{color:var(--fg)}
 .evt td.n{white-space:nowrap}
+/* ---- Pertvarkymas 2026-10-30: viršuje „Ką pirkti“, filtrai, kompaktiškos eilutės, istorija ---- */
+.hdr{display:grid;gap:8px}
+.buy{display:grid;gap:12px}
+.buyhead{display:grid;gap:4px}
+.summary{margin:0;font-weight:600}
+.fbar{background:var(--bg);padding:8px 0;display:grid;gap:8px;border-bottom:1px solid var(--line)}
+.seg{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.seg::-webkit-scrollbar{display:none}
+.seg button{flex:none;font:600 .85rem var(--body);border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;padding:6px 12px;cursor:pointer;white-space:nowrap}
+.seg button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.frow{display:grid;grid-template-columns:1fr auto;gap:8px}
+.frow input,.fpanel input,.fpanel select{font:inherit;color:var(--fg);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px;min-width:0;width:100%}
+.fpanel{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px;align-items:end;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px}
+.fpanel label{display:grid;gap:4px;font-size:.8rem;color:var(--muted)}
+.fpanel input,.fpanel select{background:var(--bg)}
+.fbar .note{margin:0}
+.list{display:grid;gap:8px}
+.item,.hrow{background:var(--panel);border:1px solid var(--line);border-radius:10px;min-width:0}
+.item>summary,.hrow{display:grid;grid-template-columns:56px 1fr;gap:10px;padding:10px;list-style:none;color:var(--fg);cursor:pointer;align-items:start}
+.item>summary::-webkit-details-marker{display:none}
+.item img,.hrow img{width:56px;height:56px;object-fit:cover;border-radius:6px;background:var(--line)}
+.item.v-verta{border-left:5px solid var(--ok)}.item.v-derėtis{border-left:5px solid var(--warn)}
+.item.local{background:var(--locbg)}
+.item[open]>summary{border-bottom:1px solid var(--line)}
+.mid{display:grid;gap:3px;min-width:0}
+.t1{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.ttl{font-weight:600;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow-wrap:anywhere}
+.t2{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;font-size:.95rem}
+.t3{display:flex;flex-wrap:wrap;gap:2px 10px;font-size:.8rem;color:var(--muted)}
+.t3 .loc{color:var(--loc);font-weight:700}.t3 .warnt{color:var(--warn);font-weight:600}.t3 .pos{color:var(--ok)}
+.card.inner{border:0;background:transparent;padding:10px 12px 14px}
+.item.local .card.inner .axisbox,.item.local .card.inner pre{background:var(--panel)}
+.hrow{text-decoration:none;cursor:pointer}
+.hrow.b-dingo{opacity:.75}.hrow.b-aktyvus{border-left:5px solid var(--ok)}.hrow.b-nupirkta{border-left:5px solid var(--new)}
+.hrow .st{font-weight:700;color:var(--fg)}
+.hrow.b-aktyvus .st{color:var(--ok)}

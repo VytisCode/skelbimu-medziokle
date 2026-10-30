@@ -204,6 +204,7 @@ def main() -> int:
         for i, p in enumerate(cfg["paieskos"]):
             apdoroti(nar, i, p, cfg, istorija, busena, laikas)
         busena["detales"] = detales(nar, istorija)
+        busena["dingimai"] = tikrinti_dingusius(nar, istorija, laikas)
     busena["kb_per_proxy_viso"] = round(sum(b.get("kb_per_proxy") or 0 for b in busena["paieskos"]), 1)
     SKELBIMAI.write_text(json.dumps(istorija, ensure_ascii=False, indent=1), encoding="utf-8")
     BUSENA.write_text(json.dumps(busena, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -248,6 +249,44 @@ def detales(nar, istorija: dict) -> dict:
     for s in istorija.values():
         s.pop("_r", None)
     print(f"Detalės: {rez}")
+    return rez
+
+
+MAX_TIKRINIMU = 3        # rekomenduotų skelbimų puslapių per paleidimą (~200 KB kiekvienas)
+TIKRINTI_KAS_VAL = 6
+
+
+def tikrinti_dingusius(nar, istorija: dict, laikas: str) -> dict:
+    """Rekomenduoti skelbimai, kurių šįkart nebuvo paieškos rezultatuose: atidaro jų puslapį ir pažymi, ar skelbimas
+    dar yra (aktyvus_patikrinta) ar dingo (dingo). Paieškoje nematomas skelbimas dažniausiai tik nukrito į 2-ą puslapį,
+    todėl dingimas fiksuojamas tik kai puslapio nebėra. Kiekvienas tikrinamas ne dažniau kaip kas 6 val."""
+    from datetime import timedelta
+    try:
+        rek = json.loads((DATA / "rekomendacijos.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        rek = {}
+    riba = (datetime.now(timezone.utc) - timedelta(hours=TIKRINTI_KAS_VAL)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    zinoma = lambda s: max(s.get("paskutini_karta_matytas", ""), s.get("aktyvus_patikrinta", ""))
+    kand = [s for sid in rek if (s := istorija.get(sid)) and not s.get("dingo")
+            and s.get("paskutini_karta_matytas") != laikas and zinoma(s) < riba]
+    kand.sort(key=zinoma, reverse=True)     # pirma neseniai matyti – tiksliau žinosim, kiek gyvavo
+    rez = {"tikrinta": 0, "dingo": 0, "kb_per_proxy": 0.0}
+    for s in kand[:MAX_TIKRINIMU]:
+        try:
+            kodas, h, baitai = nar.atidaryti(s["nuoroda"], laukti='class="description"')
+        except Exception as e:  # noqa: BLE001
+            print(f"Dingimas {s['id']}: {paslepti(str(e))[:120]}")
+            continue
+        rez["kb_per_proxy"] += round(baitai / 1024, 1)
+        if any(z.lower() in h.lower() for z in BLOKAVIMO_ZYMES):
+            continue                            # Cloudflare – nežinia, bandysim kitą kartą
+        rez["tikrinta"] += 1
+        if s["id"] in (nar.page.url or "") and kodas not in (404, 410) and 'class="description"' in h:
+            s["aktyvus_patikrinta"] = dabar()
+        else:
+            s["dingo"] = dabar()
+            rez["dingo"] += 1
+    print(f"Dingimų patikra: {rez} (kandidatų {len(kand)})")
     return rez
 
 

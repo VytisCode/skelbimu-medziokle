@@ -318,7 +318,7 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
             spr, prz = "verta", f"pelnas ~{eur(pelnas)} ({roi:.0%}), {k['budas']}"
         elif pelnas >= N["min_pelnas_eur"] and roi >= N["min_roi"]:
             spr, prz = "tikrinti", "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus"
-        elif patik != "žemas" and max_pirkimo > 0 and kaina - max_pirkimo <= max(15, kaina * 0.25):
+        elif patik != "žemas" and max_pirkimo > 0 and kaina - max_pirkimo <= kaina * 0.25:
             spr, prz = "derėtis", f"verta tik nusiderėjus iki {eur(max_pirkimo)}"
         else:
             spr, prz = "praleisti", "per brangu perpardavimui"
@@ -338,6 +338,17 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
                 r[key] = claude[key]
         if k["nepervezamas"]:
             r["sprendimas"] = "praleisti"
+    # Sprendimas turi atitikti skaičius: jei apsimoka ir už prašomą kainą – ne „derėtis“; jei ne – ne „verta“.
+    mp = r.get("max_pirkimo")
+    if kaina and mp is not None and r.get("pelnas") is not None:
+        if r["sprendimas"] == "derėtis" and mp >= kaina:
+            r["sprendimas"] = "verta" if patik != "žemas" else "tikrinti"
+            r["priezastis"] = (f"apsimoka ir už prašomą {eur(kaina)} (riba {eur(mp)}), pelnas ~{eur(r['pelnas'])}"
+                               + ("" if patik != "žemas" else " – bet kaina neaiški, patikrink panašius"))
+        elif r["sprendimas"] == "derėtis" and mp <= 0:
+            r["sprendimas"], r["priezastis"] = "praleisti", "neapsimoka net nusiderėjus"
+        elif r["sprendimas"] == "verta" and mp < kaina:
+            r["sprendimas"], r["priezastis"] = "derėtis", f"verta tik nusiderėjus iki {eur(mp)} (prašo {eur(kaina)})"
     # Vieta tarp to paties modelio skelbimų ir „kodėl būtent šis“.
     ap = aprasymo_analize(s)
     r["aprasymas_analize"] = ap
@@ -579,6 +590,74 @@ def pardavimo_pagalba(visi: list[dict]) -> dict:
     return out
 
 
+REKOMENDACIJOS = ROOT / "data" / "rekomendacijos.json"
+GERI = ("verta", "derėtis")
+
+
+def _laikas(t: str | None):
+    return datetime.strptime(t, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc) if t else None
+
+
+def rekomendaciju_istorija(radiniai: list[dict], istorija: dict, vertinimai: dict) -> dict:
+    """Kiekvienas kada nors rekomenduotas („Pirkti“ / „Derėtis“) skelbimas lieka data/rekomendacijos.json.
+    Kada skelbimas dingo, nustato skelbiu.py (atidaro jo puslapį). Gyvavimo laikas = nuo pastebėjimo iki dingimo;
+    jei tarp paskutinio „dar yra“ ir „nebėra“ praėjo daugiau nei 7 val., rodomas intervalas, ne tikslus skaičius."""
+    try:
+        rek = json.loads(REKOMENDACIJOS.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        rek = {}
+    dabar_ = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    if not rek:   # pirmas kartas: ankstesni Claude „verta“ / „derėtis“ vertinimai
+        for sid, v in vertinimai.items():
+            s = istorija.get(sid)
+            if s and v.get("sprendimas") in GERI and v.get("ivertinta"):
+                rek[sid] = {"rekomenduota": max(s.get("pastebetas", ""), v["ivertinta"] + "T04:45:00Z"),
+                            "sprendimas": v["sprendimas"], "tiketina_pardavimo": v.get("tiketina_pardavimo"),
+                            "pelnas": round(v["tiketina_pardavimo"] - s["kaina"] - 6) if v.get("tiketina_pardavimo") and s.get("kaina") else None}
+    for r in radiniai:
+        if r["sprendimas"] not in GERI:
+            continue
+        e = rek.setdefault(str(r["id"]), {"rekomenduota": dabar_})
+        e["paskutini_karta_rekomenduota"] = dabar_
+        if r["sprendimas"] == "verta" or e.get("sprendimas") != "verta":
+            e["sprendimas"] = r["sprendimas"]
+        e.update(pelnas=r.get("pelnas"), max_pirkimo=r.get("max_pirkimo"), tiketina_pardavimo=r.get("tiketina_pardavimo"),
+                 vietinis=bool((r.get("kastai") or {}).get("vietinis")))
+    REKOMENDACIJOS.write_text(json.dumps(rek, ensure_ascii=False, indent=1), encoding="utf-8")
+    try:
+        sand = json.loads((ROOT / "docs" / "sandoriai.json").read_text(encoding="utf-8")).get("sandoriai", [])
+    except (OSError, ValueError):
+        sand = []
+    pirkta = {str((x.get("irodymas") or {}).get("skelbimo_id")) for x in sand} | {x.get("nuoroda") for x in sand}
+    irasai = []
+    for sid, e in rek.items():
+        s = istorija.get(sid)
+        if not s:
+            continue
+        busena = "nupirkta" if sid in pirkta or s.get("nuoroda") in pirkta else "dingo" if s.get("dingo") else "aktyvus"
+        x = {"id": sid, "pavadinimas": s.get("pavadinimas"), "nuoroda": s.get("nuoroda"), "nuotrauka": s.get("nuotrauka"),
+             "kaina": s.get("kaina"), "vieta_laikas": s.get("vieta_laikas"), "paieska": s.get("paieska"),
+             "pastebetas": s.get("pastebetas"), "rekomenduota": e.get("rekomenduota"), "sprendimas": e.get("sprendimas"),
+             "pelnas": e.get("pelnas"), "max_pirkimo": e.get("max_pirkimo"), "tiketina_pardavimo": e.get("tiketina_pardavimo"),
+             "vietinis": e.get("vietinis"), "busena": busena, "dingo": s.get("dingo"),
+             "dar_buvo": max(s.get("paskutini_karta_matytas", ""), s.get("aktyvus_patikrinta", "")) or None}
+        if s.get("dingo"):
+            nuo, iki = _laikas(s["pastebetas"]), _laikas(s["dingo"])
+            dar_buvo = _laikas(max(s.get("paskutini_karta_matytas", ""), s.get("aktyvus_patikrinta", "")) or s["pastebetas"])
+            x["gyvavo_val"] = round((iki - nuo).total_seconds() / 3600, 1)
+            x["gyvavo_min_val"] = round((dar_buvo - nuo).total_seconds() / 3600, 1)
+            x["tikslu"] = (iki - dar_buvo).total_seconds() <= 7 * 3600
+        irasai.append(x)
+    irasai.sort(key=lambda x: x.get("dingo") or x.get("rekomenduota") or "", reverse=True)
+    dingo = [x for x in irasai if x["busena"] == "dingo"]
+    tikslus = sorted(x["gyvavo_val"] for x in dingo if x.get("tikslu"))
+    return {"irasai": irasai, "rekomenduota": len(irasai), "dingo": len(dingo),
+            "nupirkta": sum(x["busena"] == "nupirkta" for x in irasai),
+            "praleistas_pelnas": round(sum(x.get("pelnas") or 0 for x in dingo if (x.get("pelnas") or 0) > 0)),
+            "gyvavo_mediana_val": round(statistics.median(tikslus), 1) if tikslus else None,
+            "dingo_per_24h": sum(v <= 24 for v in tikslus), "tiksliu": len(tikslus)}
+
+
 def main() -> int:
     vert_kelias = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "data" / "vertinimai.json"
     isvestis = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "docs" / "analize.json"
@@ -600,6 +679,7 @@ def main() -> int:
         radiniai.append({k: s.get(k) for k in ("id", "nuoroda", "pavadinimas", "kaina", "nuotrauka", "aprasymas",
                                                "vieta_laikas", "paieska", "pastebetas", "parametrai", "pilnas_aprasymas",
                                                "bukle")} | a)
+    istor = rekomendaciju_istorija(radiniai, istorija, vertinimai)
     tvarka = {"verta": 0, "derėtis": 1, "tikrinti": 2, "nežinoma": 3, "praleisti": 4}
     radiniai.sort(key=lambda r: (tvarka.get(r["sprendimas"], 9), -(r["balas"] or 0)))
     rinka = {}
@@ -608,7 +688,7 @@ def main() -> int:
             rinka.setdefault(s["_raktas"], []).append(s["kaina"])
     out = {"sugeneruota": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "prielaidos": N,
            "skelbimu_istorijoje": len(visi), "radiniai": radiniai, "kalibracija": kal,
-           "pardavimas": pardavimo_pagalba(visi),
+           "pardavimas": pardavimo_pagalba(visi), "istorija": istor,
            "rinka": {k: {"n": len(v), "mediana": round(statistics.median(v)), "min": min(v), "max": max(v)}
                      for k, v in rinka.items() if len(v) >= 2}}
     isvestis.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")

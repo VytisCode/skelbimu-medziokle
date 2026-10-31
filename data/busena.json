@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-31T08:29:45Z",
+ "paleista": "2026-10-31T15:23:16Z",
  "proxy": true,
  "paieskos": [
   {
@@ -29,8 +29,8 @@
    "puslapio_pavadinimas": "nintendo switch skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 0
+   "nauju": 4,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Garmin laikrodžiai",
@@ -39,8 +39,8 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 0
+   "nauju": 5,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "DeWalt įrankiai",
@@ -49,8 +49,8 @@
    "puslapio_pavadinimas": "dewalt skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 0
+   "nauju": 4,
+   "atrinkta_nauju": 3
   },
   {
    "pavadinimas": "Milwaukee įrankiai",
@@ -69,8 +69,8 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 6,
-   "atrinkta_nauju": 2
+   "nauju": 14,
+   "atrinkta_nauju": 4
   },
   {
    "pavadinimas": "Kindle skaityklės",
@@ -89,8 +89,8 @@
    "puslapio_pavadinimas": "gopro skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "DJI dronai",
@@ -99,8 +99,8 @@
    "puslapio_pavadinimas": "dji skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 0
+   "nauju": 7,
+   "atrinkta_nauju": 2
   },
   {
    "pavadinimas": "Dyson",
@@ -109,8 +109,8 @@
    "puslapio_pavadinimas": "dyson skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 1
+   "nauju": 3,
+   "atrinkta_nauju": 2
   },
   {
    "pavadinimas": "Thermomix",
@@ -128,7 +128,7 @@
    "kb_per_proxy": 148.9,
    "puslapio_pavadinimas": "kitchenaid skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
-   "rasta_skelbimu": 17,
+   "rasta_skelbimu": 16,
    "nauju": 0,
    "atrinkta_nauju": 0
   },
@@ -139,7 +139,7 @@
    "puslapio_pavadinimas": "sonos skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 1,
    "atrinkta_nauju": 0
   },
   {
@@ -149,8 +149,8 @@
    "puslapio_pavadinimas": "robotas siurblys skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
-   "atrinkta_nauju": 0
+   "nauju": 5,
+   "atrinkta_nauju": 3
   },
   {
    "pavadinimas": "iPad",
@@ -159,8 +159,8 @@
    "puslapio_pavadinimas": "ipad skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
-   "atrinkta_nauju": 2
+   "nauju": 4,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Fotoaparatai",
@@ -169,8 +169,8 @@
    "puslapio_pavadinimas": "fotoaparatas skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 3,
-   "atrinkta_nauju": 0
+   "nauju": 9,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Bosch Professional",
@@ -189,7 +189,7 @@
    "puslapio_pavadinimas": "vezimelis skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 3,
+   "nauju": 4,
    "atrinkta_nauju": 0
   },
   {
@@ -199,8 +199,8 @@
    "puslapio_pavadinimas": "steam deck skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   }
  ],
  "detales": {

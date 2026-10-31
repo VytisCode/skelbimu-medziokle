@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-10-30T21:35:19Z",
+ "sugeneruota": "2026-10-31T01:39:47Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -36,7 +36,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 666,
+ "skelbimu_istorijoje": 667,
  "radiniai": [
   {
    "id": "87911146",
@@ -6525,7 +6525,7 @@
    "bukle": null,
    "modelis": "ipad-air",
    "raktas": "ipad-air",
-   "palyginamu": 1,
+   "palyginamu": 2,
    "mediana": null,
    "naujo_kaina": null,
    "patikimumas": "žemas",
@@ -6541,6 +6541,12 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "iPad air",
+     "kaina": 400.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-air-87942730.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
     {
      "pavadinimas": "Apple iPad Air M3 13/128gb",
      "kaina": 450.0,
@@ -6584,8 +6590,23 @@
     "aprasymo_ilgis": 142,
     "pilnas": false
    },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
+   "pozicija": {
+    "vieta": 3,
+    "is": 3,
+    "min": 400.0,
+    "max": 450.0,
+    "mediana": 425.0,
+    "nuolaida": -0.41
+   },
+   "kodel": "3-as pigiausias iš 3 (kiti 400 €–450 €, mediana 425 €), 41% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
+    {
+     "kaina": 400.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-air-87942730.html",
+     "pavadinimas": "iPad air",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
     {
      "kaina": 450.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-ipad-air-m3-13-128gb-87824288.html",
@@ -6598,14 +6619,15 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+    "Iš 3 panašių skelbimų pigesnių yra 2; įprasta kaina ~425 €, šis ne pigesnis už kitus.",
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
    "saugumas": {
@@ -7703,7 +7725,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -7794,7 +7816,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -9295,7 +9317,7 @@
      "vieta_laikas": "Kaunas, balandžio 27 d."
     }
    ],
-   "amzius_d": 108,
+   "amzius_d": 109,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -9843,6 +9865,139 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "87942730",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-air-87942730.html",
+   "pavadinimas": "iPad air",
+   "kaina": 400.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5298967890/ipad-air.jpg",
+   "aprasymas": "Ipad Air, 5th gen, pirktas 2024m. Ideali bukle. Yra ikrovimo laidas.",
+   "vieta_laikas": "Vilnius, prieš 4 val.",
+   "paieska": "iPad",
+   "pastebetas": "2026-10-31T01:38:33Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Ipad Air, 5th gen, pirktas 2024m. Ideali bukle. Yra ikrovimo laidas.",
+   "bukle": "Naudota",
+   "modelis": "ipad-air",
+   "raktas": "ipad-air",
+   "palyginamu": 2,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Apple iPad Air M3 13/128gb",
+     "kaina": 450.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-ipad-air-m3-13-128gb-87824288.html",
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "pavadinimas": "iPad Air M3 256gb",
+     "kaina": 600.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-air-m3-256gb-87915744.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=ipad+air"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=ipad+air"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ipad+air"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=ipad+air"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "ideali būklė"
+    ],
+    "aprasymo_ilgis": 68,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 1,
+    "is": 3,
+    "min": 450.0,
+    "max": 600.0,
+    "mediana": 525.0,
+    "nuolaida": 0.24
+   },
+   "kodel": "Pigiausias iš 3 to paties modelio skelbimų (kiti 450 €–600 €, mediana 525 €), 24% pigiau už medianą. Privalumai: ideali būklė.",
+   "visi_palyginami": [
+    {
+     "kaina": 450.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-ipad-air-m3-13-128gb-87824288.html",
+     "pavadinimas": "Apple iPad Air M3 13/128gb",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 600.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-air-m3-256gb-87915744.html",
+     "pavadinimas": "iPad Air M3 256gb",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašių skelbimų tik 2 – per mažai kainai nustatyti"
+   ],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Iš 3 panašių skelbimų pigesnio nėra; įprasta kaina ~525 €, šis 24 % pigesnis.",
+    "Aprašyme: ideali būklė."
+   ],
+   "pries": [
+    "Rasta tik 2 panašūs skelbimai – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Apple daiktai: paprašyk serijos numerio ir patikrink checkcoverage.apple.com. Prieš mokėdamas įsitikink, kad išjungtas „Find My“ (iCloud užraktas).",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
    }
   },
   {
@@ -12146,7 +12301,7 @@
      "vieta_laikas": "Kaunas, prieš 8 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -18810,7 +18965,7 @@
      "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -19005,7 +19160,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -24827,8 +24982,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu naudotą vaikišką konstruktorių LEGO Technic42153 NASCAR next Gen Chevrolet Camaro. Stovis 10/10 Visos detalės Su instrukcija Naujo kaina - apie 218 Eur",
+   "bukle": "Naudota",
    "modelis": "LEGO 42153 NASCAR Camaro",
    "raktas": "lego-rinkinys",
    "palyginamu": 19,
@@ -24944,8 +25099,8 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
-    "aprasymo_ilgis": 141,
-    "pilnas": false
+    "aprasymo_ilgis": 160,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 4,
@@ -25093,7 +25248,7 @@
      "vieta_laikas": "Šiaulių r., prieš 24 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -25321,7 +25476,7 @@
      "vieta_laikas": "Šiauliai, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -29721,7 +29876,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87939376",
@@ -29759,7 +29914,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87911146",
@@ -29778,7 +29933,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87882296",
@@ -29816,7 +29971,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T16:44:40Z"
+    "dar_buvo": "2026-10-31T01:39:47Z"
    },
    {
     "id": "87876712",
@@ -29835,7 +29990,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T16:44:41Z"
+    "dar_buvo": "2026-10-31T01:39:46Z"
    },
    {
     "id": "87878892",
@@ -29854,7 +30009,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87896344",
@@ -29873,7 +30028,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87890154",
@@ -29911,7 +30066,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87855048",
@@ -29930,7 +30085,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T16:44:41Z"
+    "dar_buvo": "2026-10-31T01:39:45Z"
    },
    {
     "id": "87851496",
@@ -29968,7 +30123,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87857228",
@@ -30025,7 +30180,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87890256",
@@ -30044,7 +30199,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87889062",
@@ -30063,7 +30218,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87786040",
@@ -30120,7 +30275,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87798852",
@@ -30139,7 +30294,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87753504",
@@ -30158,7 +30313,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87851294",
@@ -30215,7 +30370,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87779754",
@@ -30291,7 +30446,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87833858",
@@ -30481,7 +30636,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-10-30T21:34:10Z"
+    "dar_buvo": "2026-10-31T01:38:33Z"
    },
    {
     "id": "87847204",
@@ -30977,9 +31132,9 @@
    "max": 299.0
   },
   "ipad-air": {
-   "n": 2,
-   "mediana": 525,
-   "min": 450.0,
+   "n": 3,
+   "mediana": 450,
+   "min": 400.0,
    "max": 600.0
   },
   "ipad-kita": {

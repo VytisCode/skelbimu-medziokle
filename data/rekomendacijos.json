@@ -253,7 +253,7 @@
   "sprendimas": "verta",
   "tiketina_pardavimo": 269,
   "pelnas": 75,
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "max_pirkimo": 196,
   "vietinis": true
  },
@@ -271,7 +271,7 @@
   "sprendimas": "derėtis",
   "tiketina_pardavimo": 245,
   "pelnas": 30,
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "max_pirkimo": 178,
   "vietinis": false
  },
@@ -298,7 +298,7 @@
   "sprendimas": "derėtis",
   "tiketina_pardavimo": 260,
   "pelnas": 36,
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "max_pirkimo": 190,
   "vietinis": true
  },
@@ -307,13 +307,13 @@
   "sprendimas": "derėtis",
   "tiketina_pardavimo": 50,
   "pelnas": 16,
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "max_pirkimo": 26,
   "vietinis": false
  },
  "87930130": {
   "rekomenduota": "2026-10-30T15:35:00Z",
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "sprendimas": "derėtis",
   "pelnas": 56,
   "max_pirkimo": 167,
@@ -340,7 +340,7 @@
  },
  "87915362": {
   "rekomenduota": "2026-10-31T04:42:57Z",
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "sprendimas": "derėtis",
   "pelnas": 36,
   "max_pirkimo": 116,
@@ -349,7 +349,7 @@
  },
  "87913748": {
   "rekomenduota": "2026-10-31T04:42:57Z",
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "sprendimas": "verta",
   "pelnas": 46,
   "max_pirkimo": 93,
@@ -358,7 +358,7 @@
  },
  "87921088": {
   "rekomenduota": "2026-10-31T04:42:57Z",
-  "paskutini_karta_rekomenduota": "2026-10-31T04:42:57Z",
+  "paskutini_karta_rekomenduota": "2026-10-31T08:30:54Z",
   "sprendimas": "derėtis",
   "pelnas": 126,
   "max_pirkimo": 427,

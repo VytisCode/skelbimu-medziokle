@@ -1,5 +1,5 @@
 {
- "paleista": "2026-10-31T23:26:41Z",
+ "paleista": "2026-11-01T06:17:49Z",
  "proxy": true,
  "paieskos": [
   {
@@ -30,7 +30,7 @@
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
    "nauju": 1,
-   "atrinkta_nauju": 1
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Garmin laikrodžiai",
@@ -39,8 +39,8 @@
    "puslapio_pavadinimas": "garmin skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 4,
-   "atrinkta_nauju": 3
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "DeWalt įrankiai",
@@ -59,7 +59,7 @@
    "puslapio_pavadinimas": "milwaukee skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 1,
+   "nauju": 0,
    "atrinkta_nauju": 0
   },
   {
@@ -69,8 +69,8 @@
    "puslapio_pavadinimas": "ps5 skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 3,
-   "atrinkta_nauju": 2
+   "nauju": 0,
+   "atrinkta_nauju": 0
   },
   {
    "pavadinimas": "Kindle skaityklės",
@@ -99,8 +99,8 @@
    "puslapio_pavadinimas": "dji skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
-   "atrinkta_nauju": 0
+   "nauju": 1,
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "Dyson",
@@ -150,7 +150,7 @@
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
    "nauju": 1,
-   "atrinkta_nauju": 0
+   "atrinkta_nauju": 1
   },
   {
    "pavadinimas": "iPad",
@@ -159,7 +159,7 @@
    "puslapio_pavadinimas": "ipad skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 2,
+   "nauju": 1,
    "atrinkta_nauju": 1
   },
   {
@@ -169,7 +169,7 @@
    "puslapio_pavadinimas": "fotoaparatas skelbimai - Skelbiu.lt",
    "blokavimo_zymes": [],
    "rasta_skelbimu": 24,
-   "nauju": 0,
+   "nauju": 1,
    "atrinkta_nauju": 0
   },
   {
@@ -205,7 +205,7 @@
  ],
  "detales": {
   "atidaryta": 6,
-  "kb_per_proxy": 1182.6
+  "kb_per_proxy": 1175.1
  },
  "dingimai": {
   "tikrinta": 3,

@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-01T22:54:26Z",
+ "sugeneruota": "2026-11-02T02:36:29Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -498,7 +498,7 @@
      "vieta_laikas": "Vilnius, prieš 9 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 130,
     "tarpinis": 140,
@@ -2180,7 +2180,7 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 185,
     "tarpinis": 200,
@@ -2460,7 +2460,7 @@
      "vieta_laikas": "Kaunas, prieš 1 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 40,
     "tarpinis": 45,
@@ -6737,206 +6737,6 @@
    }
   },
   {
-   "id": "87923504",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-8421-87923504.html",
-   "pavadinimas": "Lego Technic 8421",
-   "kaina": 150.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5296611334/lego-technic-8421.jpg",
-   "aprasymas": "Originalus lego Technic 8421 rinkinys Tokios būklės kaip matosi nuotraukose Elektronika veikia, tik yra pakeistas laidas nuo baterijų į varik...",
-   "vieta_laikas": "Širvintų r., prieš 3 val.",
-   "paieska": "Lego",
-   "pastebetas": "2026-10-29T23:20:50Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "lego-8421",
-   "raktas": "lego-8421",
-   "palyginamu": 0,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Širvintų r.",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=lego+8421"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=lego+8421"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+8421"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=lego+8421"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 144,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti.",
-   "visi_palyginami": [],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [],
-   "pries": [
-    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Siunta į paštomatą iš Širvintų r.: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87923864",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-a7-iv-sony-fe-50mm-f-1-8-objektyvas-87923864.html",
-   "pavadinimas": "Sony A7 Iv + Sony Fe 50mm f/1.8 objektyvas",
-   "kaina": 1400.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5296627996/sony-a7-iv-sony-fe-50mm-f-1-8-objektyvas.jpg",
-   "aprasymas": "Parduodu Sony A7 IV fotoaparatą su 50mm f/1.8 objektyvu. Naudotas mažai, būklė labai gera. Turiu originalią dėžę. Tinka fotografijai ir vi...",
-   "vieta_laikas": "Kauno r., prieš 3 val.",
-   "paieska": "Fotoaparatai",
-   "pastebetas": "2026-10-29T23:20:50Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "foto-a7iv",
-   "raktas": "foto-a7iv",
-   "palyginamu": 1,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kauno r.",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Sony A7 Iv su „Sony Fe 28–70 mm f/3.5–5",
-     "kaina": 1350.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-a7-iv-su-sony-fe-28-70-mm-f-3-5-5-87974096.html",
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=foto+a7iv"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=foto+a7iv"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=foto+a7iv"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=foto+a7iv"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 141,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti.",
-   "visi_palyginami": [
-    {
-     "kaina": 1350.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-a7-iv-su-sony-fe-28-70-mm-f-3-5-5-87974096.html",
-     "pavadinimas": "Sony A7 Iv su „Sony Fe 28–70 mm f/3.5–5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [],
-   "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Siunta į paštomatą iš Kauno r.: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (1 400 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "87930058",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-xgt-40v-4ah-akumuliatoriai-bl4040f-87930058.html",
    "pavadinimas": "Makita xgt 40v 4ah akumuliatoriai Bl4040f",
@@ -8283,7 +8083,7 @@
      "vieta_laikas": "Kaunas, balandžio 27 d."
     }
    ],
-   "amzius_d": 110,
+   "amzius_d": 111,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -8497,7 +8297,9 @@
      "kaina": 350.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-ipad-11-a16-128gb-wifi-plansete-87890926.html",
      "pavadinimas": "Apple iPad 11 A16 128gb WiFi plansete",
-     "rizikos": [],
+     "rizikos": [
+      "braižytas"
+     ],
      "vieta_laikas": "Šilutės r., prieš 5 val."
     }
    ],
@@ -8956,7 +8758,7 @@
      "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -10115,7 +9917,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -10208,7 +10010,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Aprašyme: braižytas.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -16615,7 +16417,7 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -17268,295 +17070,6 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87924510",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/betafpv-pavo-20-pro-87924510.html",
-   "pavadinimas": "Betafpv Pavo 20 pro",
-   "kaina": 100.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5296666656/betafpv-pavo-20-pro.jpg",
-   "aprasymas": "Parduodu BetaFPV Pavo20 Pro 2.2\" cinewhoop droną be vaizdo sistemos (be O3 / O4). Tinka bet kuriai suderinamai skaitmeninei sistemai (DJI O3,...",
-   "vieta_laikas": "Vilnius, prieš 1 val.",
-   "paieska": "DJI dronai",
-   "pastebetas": "2026-10-29T23:20:50Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Parduodu BetaFPV Pavo20 Pro 2.2\" cinewhoop droną be vaizdo sistemos (be O3 / O4). Tinka bet kuriai suderinamai skaitmeninei sistemai (DJI O3, O4 Pro, Caddx Vista, RunCam Link). Dronas nedaug naudotas, baterijos turi iki 20 ciklų, viskas veikia puikiai. Su 3S baterija sveria iki 150 g, geras variantas freestyle ir video kadrams. Techninės detalės: FC: BetaFPV F4 2-3S 20A AIO Varikliai: LAVA 1104 Propeleriai: Gemfan 2218 3-mentės Imtuvas: 2.4 GHz (ELRS) Komplekte (viskas nuotraukoje): Pavo20 Pro dronas 4 x LAVA 550 mAh 3S baterijos (XT30), iki 20 ciklų Atsarginis rėmas / apsauga Didelis kiekis atsarginių propelerių Vaizdo sistemos laikiklio dalis LED juostelės USB-C adapteris ir kabeliai Maišelis su varžteliais ir smulkiomis atsarginėmis dalimis. Vieta: Vilnius. Galiu susitikti, galimas siuntimas paštomatu.",
-   "bukle": "Naudota",
-   "modelis": "BetaFPV Pavo20 Pro be VTX",
-   "raktas": "dji-kita",
-   "palyginamu": 15,
-   "mediana": 215,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "Claude įvertinimas",
-    "15 panašių skelbimų mediana 215 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Naujas Dji Mic 2 Tx mikrofonas",
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/naujas-dji-mic-2-tx-mikrofonas-87791476.html",
-     "vieta_laikas": "Vilnius, prieš 2 d."
-    },
-    {
-     "pavadinimas": "Dji mic mini",
-     "kaina": 70.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mic-mini-87817358.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Dji Fpv Remote Controller 2 RC 2",
-     "kaina": 90.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-fpv-remote-controller-2-rc-2-87851030.html",
-     "vieta_laikas": "Kaunas, prieš 10 val."
-    },
-    {
-     "pavadinimas": "Dji RC pultas",
-     "kaina": 99.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-rc-pultas-87882886.html",
-     "vieta_laikas": "Elektrėnai, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Parduodamas mažai naudotas Dji Phantom 3 Standard",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-mazai-naudotas-dji-phantom-3-standard-87956414.html",
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "pavadinimas": "Skyzone,dji goggles v1",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/skyzone-dji-goggles-v1-87837618.html",
-     "vieta_laikas": "Panevėžys, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Dji Mini 4k",
-     "kaina": 180.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mini-4k-87815436.html",
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Dji Goggles N3",
-     "kaina": 215.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-goggles-n3-87830122.html",
-     "vieta_laikas": "Vilnius, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Dji mini 4k",
-     "kaina": 220.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mini-4k-87836936.html",
-     "vieta_laikas": "Ukmergės r., prieš 3 val."
-    },
-    {
-     "pavadinimas": "Dji Goggles 2",
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-goggles-2-87889946.html",
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=BetaFPV+Pavo20+Pro+be+VTX"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=BetaFPV+Pavo20+Pro+be+VTX"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=BetaFPV+Pavo20+Pro+be+VTX"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=BetaFPV+Pavo20+Pro+be+VTX"
-    }
-   ],
-   "tiketina_pardavimo": 110,
-   "pelnas": 6,
-   "roi": 0.06,
-   "max_pirkimo": 79,
-   "pelnas_per_val": 4,
-   "sprendimas": "praleisti",
-   "priezastis": "Mažas pelnas, nišinis pirkėjas.",
-   "balas": 6,
-   "ivertinta": "2026-10-30",
-   "stovas": false,
-   "kainos_pagrindimas": "Nišinis FPV, naudoti ~90–120 €.",
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "komplektas"
-    ],
-    "aprasymo_ilgis": 816,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 5,
-    "is": 16,
-    "min": 60.0,
-    "max": 420.0,
-    "mediana": 215.0,
-    "nuolaida": 0.53
-   },
-   "kodel": "5-as pigiausias iš 16 (kiti 60 €–420 €, mediana 215 €), 53% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: komplektas.",
-   "visi_palyginami": [
-    {
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/naujas-dji-mic-2-tx-mikrofonas-87791476.html",
-     "pavadinimas": "Naujas Dji Mic 2 Tx mikrofonas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 2 d."
-    },
-    {
-     "kaina": 70.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mic-mini-87817358.html",
-     "pavadinimas": "Dji mic mini",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 90.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-fpv-remote-controller-2-rc-2-87851030.html",
-     "pavadinimas": "Dji Fpv Remote Controller 2 RC 2",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 10 val."
-    },
-    {
-     "kaina": 99.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-rc-pultas-87882886.html",
-     "pavadinimas": "Dji RC pultas",
-     "rizikos": [],
-     "vieta_laikas": "Elektrėnai, prieš 2 val."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-mazai-naudotas-dji-phantom-3-standard-87956414.html",
-     "pavadinimas": "Parduodamas mažai naudotas Dji Phantom 3 Standard",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/skyzone-dji-goggles-v1-87837618.html",
-     "pavadinimas": "Skyzone,dji goggles v1",
-     "rizikos": [],
-     "vieta_laikas": "Panevėžys, prieš 2 val."
-    },
-    {
-     "kaina": 180.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mini-4k-87815436.html",
-     "pavadinimas": "Dji Mini 4k",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 215.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-goggles-n3-87830122.html",
-     "pavadinimas": "Dji Goggles N3",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 9 val."
-    },
-    {
-     "kaina": 220.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-mini-4k-87836936.html",
-     "pavadinimas": "Dji mini 4k",
-     "rizikos": [],
-     "vieta_laikas": "Ukmergės r., prieš 3 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-goggles-2-87889946.html",
-     "pavadinimas": "Dji Goggles 2",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 250.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/geprc-cinelog25-cinewhoop-su-dji-o3-87955010.html",
-     "pavadinimas": "Geprc Cinelog25 cinewhoop su Dji O3",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 17 min."
-    },
-    {
-     "kaina": 290.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-goggle-v2-87850988.html",
-     "pavadinimas": "Dji Goggle V2",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 10 val."
-    },
-    {
-     "kaina": 300.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dronas-dji-87828520.html",
-     "pavadinimas": "Dronas Dji",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 d."
-    },
-    {
-     "kaina": 400.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-dji-phantom-4-pro-dronas-87949804.html",
-     "pavadinimas": "Parduodamas Dji Phantom 4 Pro dronas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    },
-    {
-     "kaina": 420.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-lito-x1-dji-care-24-men-draudimu-87853290.html",
-     "pavadinimas": "Dji Lito X1 + Dji Care 24 men draudimu",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 8 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (dji-kita): 15 vnt., kainos 60 €–420 €, mediana 215 € × 0.90 (realiai parduodama pigiau nei prašoma) = 193,5 €",
-    "Claude įvertinimas (2026-10-30): 110 € – Nišinis FPV, naudoti ~90–120 €.",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 110 € − 100 € − 4 € = 6 € (6% pirkimo kainos)",
-    "Mokėti ne daugiau: min((110 € − 4 €) / 1.35; 110 € − 4 € − 20 €) = 78,5 €",
-    "Laikas ~1.5 val. → 4 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 16 panašių skelbimų pigesnių yra 4; įprasta kaina ~215 €, šis 53 % pigesnis.",
-    "Aprašyme: komplektas."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 6 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
-    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.",
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
    }
   },
   {
@@ -18471,557 +17984,6 @@
      "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
      "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
      "Suma didelė (170 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87923466",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic42153-nascar-next-gen-chevrolet-camaro-87923466.html",
-   "pavadinimas": "Lego Technic42153 Nascar next Gen Chevrolet Camaro",
-   "kaina": 49.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5296601876/lego-technic42153-nascar-next-gen-chevrolet-camaro.jpg",
-   "aprasymas": "Parduodu naudotą vaikišką konstruktorių LEGO Technic42153 NASCAR next Gen Chevrolet Camaro. Stovis 10/10 Visos detalės Su instrukcija Nauj...",
-   "vieta_laikas": "Vilnius, prieš 3 val.",
-   "paieska": "Lego",
-   "pastebetas": "2026-10-29T23:20:50Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Parduodu naudotą vaikišką konstruktorių LEGO Technic42153 NASCAR next Gen Chevrolet Camaro. Stovis 10/10 Visos detalės Su instrukcija Naujo kaina - apie 218 Eur",
-   "bukle": "Naudota",
-   "modelis": "LEGO 42153 NASCAR Camaro",
-   "raktas": "lego-rinkinys",
-   "palyginamu": 20,
-   "mediana": 75,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "Claude įvertinimas",
-    "20 panašių skelbimų mediana 75 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "vieta_laikas": "Šiauliai, prieš 5 val."
-    },
-    {
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "pavadinimas": "Ikea Kalax lentyna su Lekman dėžėmis",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ikea-kalax-lentyna-su-lekman-dezemis-87913720.html",
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Lego figurėlės",
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-figureles-87953986.html",
-     "vieta_laikas": "Panevėžys, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Lego wear žieminis kombinezonas",
-     "kaina": 49.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Lego",
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
-     "vieta_laikas": "Marijampolė, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Žaislai",
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaislai-87883802.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "150 įvairių Lego stiliaus minifigūrėlių",
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/150-ivairiu-lego-stiliaus-minifigureliu-87927828.html",
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Lego stalas",
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-stalas-87974140.html",
-     "vieta_laikas": "Kauno r., prieš 3 val."
-    },
-    {
-     "pavadinimas": "Lego Duplo – traukinukas, mašinos ir kt.",
-     "kaina": 65.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-duplo-traukinukas-masinos-ir-kt-87966926.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=LEGO+42153+NASCAR+Camaro"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=LEGO+42153+NASCAR+Camaro"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=LEGO+42153+NASCAR+Camaro"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=LEGO+42153+NASCAR+Camaro"
-    }
-   ],
-   "tiketina_pardavimo": 35,
-   "pelnas": -18,
-   "roi": -0.37,
-   "max_pirkimo": 11,
-   "pelnas_per_val": -12,
-   "sprendimas": "praleisti",
-   "priezastis": "Brangiau nei parduotum.",
-   "balas": 0,
-   "ivertinta": "2026-10-30",
-   "stovas": false,
-   "kainos_pagrindimas": "Naujas 50 €; naudotas ~30–35 €.",
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 160,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 5,
-    "is": 21,
-    "min": 30.0,
-    "max": 160.0,
-    "mediana": 75.0,
-    "nuolaida": 0.35
-   },
-   "kodel": "5-as pigiausias iš 21 (kiti 30 €–160 €, mediana 75 €), 35% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-rinkinys-2-5-kg-marvel-thanos-ir-friends-87857182.html",
-     "pavadinimas": "Lego rinkinys ~2.5 kg, Marvel (Thanos) ir Friends",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 5 val."
-    },
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-2022-ford-gt-42154-87855048.html",
-     "pavadinimas": "Lego Technic 2022 Ford GT 42154",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ikea-kalax-lentyna-su-lekman-dezemis-87913720.html",
-     "pavadinimas": "Ikea Kalax lentyna su Lekman dėžėmis",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-figureles-87953986.html",
-     "pavadinimas": "Lego figurėlės",
-     "rizikos": [],
-     "vieta_laikas": "Panevėžys, prieš 1 val."
-    },
-    {
-     "kaina": 49.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-wear-zieminis-kombinezonas-87842202.html",
-     "pavadinimas": "Lego wear žieminis kombinezonas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87816920.html",
-     "pavadinimas": "Lego",
-     "rizikos": [],
-     "vieta_laikas": "Marijampolė, prieš 1 d."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaislai-87883802.html",
-     "pavadinimas": "Žaislai",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/150-ivairiu-lego-stiliaus-minifigureliu-87927828.html",
-     "pavadinimas": "150 įvairių Lego stiliaus minifigūrėlių",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-stalas-87974140.html",
-     "pavadinimas": "Lego stalas",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Kauno r., prieš 3 val."
-    },
-    {
-     "kaina": 65.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-duplo-traukinukas-masinos-ir-kt-87966926.html",
-     "pavadinimas": "Lego Duplo – traukinukas, mašinos ir kt.",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 85.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-originalius-lego-rinkinius-87920194.html",
-     "pavadinimas": "Parduodu originalius Lego rinkinius",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 2 val."
-    },
-    {
-     "kaina": 95.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technik-lamborghini-revuelto-87899056.html",
-     "pavadinimas": "Lego Technik Lamborghini Revuelto",
-     "rizikos": [],
-     "vieta_laikas": "Varėnos r., prieš 5 val."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-konstruktoriai-87911886.html",
-     "pavadinimas": "Lego konstruktoriai",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 4 val."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-lego-87965032.html",
-     "pavadinimas": "Parduodu Lego",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 3 val."
-    },
-    {
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-indiana-jones-race-for-the-stolen-treasure-87914184.html",
-     "pavadinimas": "Lego Indiana Jones - Race for the Stolen Treasure",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 2 val."
-    },
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87937038.html",
-     "pavadinimas": "Lego",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "kaina": 111.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-minecraft-bionicle-hero-factory-87841972.html",
-     "pavadinimas": "Lego minecraft, bionicle, hero factory",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 120.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-kaladeles-87930114.html",
-     "pavadinimas": "Lego kaladėlės",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 2 val."
-    },
-    {
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
-     "pavadinimas": "Įvairios Lego kaladėlės",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-87919986.html",
-     "pavadinimas": "Lego",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 2 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 20 vnt., kainos 30 €–160 €, mediana 75 € × 0.90 (realiai parduodama pigiau nei prašoma) = 67,5 €",
-    "Claude įvertinimas (2026-10-30): 35 € – Naujas 50 €; naudotas ~30–35 €.",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 35 € − 49 € − 4 € = -18 € (-37% pirkimo kainos)",
-    "Mokėti ne daugiau: min((35 € − 4 €) / 1.35; 35 € − 4 € − 20 €) = 11 €",
-    "Laikas ~1.5 val. → -12 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 21 panašių skelbimų pigesnių yra 4; įprasta kaina ~75 €, šis 35 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -37 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "maža",
-    "zingsniai": [
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
-   }
-  },
-  {
-   "id": "87921346",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-session-87921346.html",
-   "pavadinimas": "Gopro Hero Session",
-   "kaina": 80.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5296531918/gopro-hero-session.jpg",
-   "aprasymas": "Max video: 1080p60 arba 1440p30 Nuotraukos: 8MP Atsparus vandeniui: 10 m / 33 ft be dėklo Baterija: įmontuota (neišimama) Jungtys: microSD + mic...",
-   "vieta_laikas": "Kaunas, prieš 3 val.",
-   "paieska": "GoPro kameros",
-   "pastebetas": "2026-10-29T23:20:50Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Max video: 1080p60 arba 1440p30 Nuotraukos: 8MP Atsparus vandeniui: 10 m / 33 ft be dėklo Baterija: įmontuota (neišimama) Jungtys: microSD + micro-USB Ryšys: Wi-Fi + Bluetooth Valdymas: vieno mygtuko, be ekranų (tik statuso LED)",
-   "bukle": "Naudota",
-   "modelis": "GoPro HERO Session (2015)",
-   "raktas": "gopro-kita",
-   "palyginamu": 8,
-   "mediana": 250,
-   "naujo_kaina": null,
-   "patikimumas": "vidutinis",
-   "saltiniai": [
-    "Claude įvertinimas",
-    "8 panašių skelbimų mediana 250 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Gopro 11",
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-11-87867288.html",
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "pavadinimas": "Gopro 11 Black",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-11-black-87877810.html",
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "pavadinimas": "Parduodu gopro 11 Vilnius",
-     "kaina": 200.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-gopro-11-vilnius-87777960.html",
-     "vieta_laikas": "Vilnius, prieš 3 d."
-    },
-    {
-     "pavadinimas": "Parduodu Gopro Lithero kamerą",
-     "kaina": 200.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-gopro-lithero-kamera-87644692.html",
-     "vieta_laikas": "Kaišiadorių r., spalio 15 d."
-    },
-    {
-     "pavadinimas": "Gopro Hero Black12",
-     "kaina": 300.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-black12-87721346.html",
-     "vieta_laikas": "Vilnius, spalio 19 d."
-    },
-    {
-     "pavadinimas": "Nauja Hero gopro13.",
-     "kaina": 300.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nauja-hero-gopro13-87692452.html",
-     "vieta_laikas": "Kaunas, spalio 18 d."
-    },
-    {
-     "pavadinimas": "Gopro 12",
-     "kaina": 340.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-12-87939548.html",
-     "vieta_laikas": "Vilnius, prieš 10 min."
-    },
-    {
-     "pavadinimas": "Gopro 13",
-     "kaina": 600.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-13-87940636.html",
-     "vieta_laikas": "Šiauliai, prieš 2 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=GoPro+HERO+Session+%282015%29"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=GoPro+HERO+Session+%282015%29"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=GoPro+HERO+Session+%282015%29"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO+Session+%282015%29"
-    }
-   ],
-   "tiketina_pardavimo": 45,
-   "pelnas": -40,
-   "roi": -0.49,
-   "max_pirkimo": 20,
-   "pelnas_per_val": -40,
-   "sprendimas": "praleisti",
-   "priezastis": "Senas modelis, pelnas < 0.",
-   "balas": 0,
-   "ivertinta": "2026-10-30",
-   "stovas": false,
-   "kainos_pagrindimas": "Seni Session ~35–55 €; palyginimai su naujesnėmis GoPro klaidingi.",
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 228,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 1,
-    "is": 9,
-    "min": 130.0,
-    "max": 600.0,
-    "mediana": 250.0,
-    "nuolaida": 0.68
-   },
-   "kodel": "Pigiausias iš 9 to paties modelio skelbimų (kiti 130 €–600 €, mediana 250 €), 68% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
-   "visi_palyginami": [
-    {
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-11-87867288.html",
-     "pavadinimas": "Gopro 11",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-11-black-87877810.html",
-     "pavadinimas": "Gopro 11 Black",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "kaina": 200.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-gopro-11-vilnius-87777960.html",
-     "pavadinimas": "Parduodu gopro 11 Vilnius",
-     "rizikos": [
-      "neoriginalus"
-     ],
-     "vieta_laikas": "Vilnius, prieš 3 d."
-    },
-    {
-     "kaina": 200.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-gopro-lithero-kamera-87644692.html",
-     "pavadinimas": "Parduodu Gopro Lithero kamerą",
-     "rizikos": [],
-     "vieta_laikas": "Kaišiadorių r., spalio 15 d."
-    },
-    {
-     "kaina": 300.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-black12-87721346.html",
-     "pavadinimas": "Gopro Hero Black12",
-     "rizikos": [
-      "braižytas",
-      "defektas"
-     ],
-     "vieta_laikas": "Vilnius, spalio 19 d."
-    },
-    {
-     "kaina": 300.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/nauja-hero-gopro13-87692452.html",
-     "pavadinimas": "Nauja Hero gopro13.",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, spalio 18 d."
-    },
-    {
-     "kaina": 340.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-12-87939548.html",
-     "pavadinimas": "Gopro 12",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 10 min."
-    },
-    {
-     "kaina": 600.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-13-87940636.html",
-     "pavadinimas": "Gopro 13",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 2 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (gopro-kita): 8 vnt., kainos 130 €–600 €, mediana 250 € × 0.90 (realiai parduodama pigiau nei prašoma) = 225 €",
-    "Claude įvertinimas (2026-10-30): 45 € – Seni Session ~35–55 €; palyginimai su naujesnėmis GoPro klaidingi.",
-    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 45 € − 80 € − 4,5 € = -39,5 € (-49% pirkimo kainos)",
-    "Mokėti ne daugiau: min((45 € − 4,5 €) / 1.35; 45 € − 4,5 € − 20 €) = 20,5 €",
-    "Laikas ~1.0 val. → -39,5 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~-40 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 9 panašių skelbimų pigesnio nėra; įprasta kaina ~250 €, šis 68 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~-40 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -49 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.",
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
@@ -29171,7 +28133,7 @@
      "vieta_laikas": "Vilnius, prieš 4 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -30717,8 +29679,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Puikio bukles",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 48,
@@ -30831,7 +29793,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 13,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 27,
@@ -33662,7 +32624,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87967496",
@@ -33681,7 +32643,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87958800",
@@ -33700,7 +32662,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87956186",
@@ -33719,7 +32681,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87952420",
@@ -33738,7 +32700,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87915362",
@@ -33757,7 +32719,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87913748",
@@ -33795,7 +32757,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87939564",
@@ -33814,7 +32776,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87939376",
@@ -33852,7 +32814,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87911146",
@@ -33947,7 +32909,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T19:00:08Z"
+    "dar_buvo": "2026-11-02T02:36:28Z"
    },
    {
     "id": "87896344",
@@ -34061,7 +33023,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87857228",
@@ -34118,7 +33080,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87890256",
@@ -34156,7 +33118,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T19:00:08Z"
+    "dar_buvo": "2026-11-02T02:36:27Z"
    },
    {
     "id": "87786040",
@@ -34232,7 +33194,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87753504",
@@ -34251,7 +33213,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T19:00:07Z"
+    "dar_buvo": "2026-11-02T02:36:28Z"
    },
    {
     "id": "87851294",
@@ -34384,7 +33346,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87833858",
@@ -34574,7 +33536,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-01T22:53:17Z"
+    "dar_buvo": "2026-11-02T02:35:21Z"
    },
    {
     "id": "87847204",

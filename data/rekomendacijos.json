@@ -367,7 +367,7 @@
  },
  "87952420": {
   "rekomenduota": "2026-10-31T15:24:29Z",
-  "paskutini_karta_rekomenduota": "2026-11-03T02:58:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
   "sprendimas": "derėtis",
   "pelnas": 11,
   "max_pirkimo": 112,
@@ -376,25 +376,25 @@
  },
  "87956186": {
   "rekomenduota": "2026-10-31T19:25:19Z",
-  "paskutini_karta_rekomenduota": "2026-11-03T02:58:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
   "sprendimas": "derėtis",
-  "pelnas": 21,
-  "max_pirkimo": 156,
-  "tiketina_pardavimo": 215,
+  "pelnas": 24,
+  "max_pirkimo": 158,
+  "tiketina_pardavimo": 218,
   "vietinis": true
  },
  "87958800": {
   "rekomenduota": "2026-10-31T23:27:52Z",
-  "paskutini_karta_rekomenduota": "2026-11-03T02:58:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
   "sprendimas": "verta",
-  "pelnas": 56,
-  "max_pirkimo": 156,
-  "tiketina_pardavimo": 215,
+  "pelnas": 58,
+  "max_pirkimo": 158,
+  "tiketina_pardavimo": 218,
   "vietinis": false
  },
  "87954412": {
   "rekomenduota": "2026-11-01T22:54:26Z",
-  "paskutini_karta_rekomenduota": "2026-11-03T02:58:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
   "sprendimas": "verta",
   "pelnas": 82,
   "max_pirkimo": 223,
@@ -403,7 +403,7 @@
  },
  "87967496": {
   "rekomenduota": "2026-11-01T22:54:26Z",
-  "paskutini_karta_rekomenduota": "2026-11-03T02:58:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
   "sprendimas": "verta",
   "pelnas": 107,
   "max_pirkimo": 224,
@@ -412,11 +412,20 @@
  },
  "87987532": {
   "rekomenduota": "2026-11-02T20:51:40Z",
-  "paskutini_karta_rekomenduota": "2026-11-03T02:58:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
   "sprendimas": "derėtis",
   "pelnas": 21,
   "max_pirkimo": 112,
   "tiketina_pardavimo": 155,
   "vietinis": true
+ },
+ "87998376": {
+  "rekomenduota": "2026-11-03T11:00:15Z",
+  "paskutini_karta_rekomenduota": "2026-11-03T11:00:15Z",
+  "sprendimas": "verta",
+  "pelnas": 107,
+  "max_pirkimo": 220,
+  "tiketina_pardavimo": 301,
+  "vietinis": false
  }
 }

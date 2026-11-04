@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-04T00:01:49Z",
+ "sugeneruota": "2026-11-04T06:38:00Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -36,7 +36,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 964,
+ "skelbimu_istorijoje": 968,
  "radiniai": [
   {
    "id": "87998376",
@@ -426,8 +426,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodama geros buklės Nintendo Switch žaidimu konsolė. Ant ekrano užklijuotas naujas apsauginis stikliukas. Priedai: dėklas ir du pilnaverčiai pulteliai skirti žaisti prisijungus prie didesnio ekrano.",
+   "bukle": "Naudota",
    "modelis": "switch-v1",
    "raktas": "switch-v1",
    "palyginamu": 25,
@@ -542,8 +542,8 @@
      "nauja",
      "naujas"
     ],
-    "aprasymo_ilgis": 144,
-    "pilnas": false
+    "aprasymo_ilgis": 202,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 7,
@@ -1515,18 +1515,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -2548,18 +2548,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -7333,345 +7333,6 @@
    }
   },
   {
-   "id": "87962862",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-flip-fly-more-combo-rc2-full-komplkektas-87962862.html",
-   "pavadinimas": "Dji Flip Fly More Combo Rc2 Full komplkektas +",
-   "kaina": 430.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5302817326/dji-flip-fly-more-combo-rc2-full-komplkektas.jpg",
-   "aprasymas": "Pavasarį įsigytas Bitėje. Sąskaita. Garantija. Draudimo apdraustas buvo metams. Pasinaudojau Flyaway. Nes praradau. Gavau Liepos gal mėnesį ...",
-   "vieta_laikas": "Kaunas, prieš 55 min.",
-   "paieska": "DJI dronai",
-   "pastebetas": "2026-11-01T06:17:49Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "dji-flip",
-   "raktas": "dji-flip",
-   "palyginamu": 1,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Dji Flip Fly More Combo (Dji RC 2). Kaip naujas",
-     "kaina": 430.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-flip-fly-more-combo-dji-rc-2-kaip-naujas-87872308.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=dji+flip"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=dji+flip"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=dji+flip"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=dji+flip"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "garantija",
-     "sąskaita"
-    ],
-    "aprasymo_ilgis": 143,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: garantija, sąskaita.",
-   "visi_palyginami": [
-    {
-     "kaina": 430.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-flip-fly-more-combo-dji-rc-2-kaip-naujas-87872308.html",
-     "pavadinimas": "Dji Flip Fly More Combo (Dji RC 2). Kaip naujas",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [
-    "Aprašyme: garantija, sąskaita."
-   ],
-   "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (430 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "87147640",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-q8-max-87147640.html",
-   "pavadinimas": "Roborock Q8 Max",
-   "kaina": 80.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5177738768/roborock-q8-max.jpg",
-   "aprasymas": "Naudotas robotas siurblys, veikia, siurbia ir plauna. Pilna komplektacija (matosi nuotraukose). Papildomai yra naujų dalių pakeitimui. Su origina...",
-   "vieta_laikas": "Vilnius, prieš 19 min.",
-   "paieska": "Robotai siurbliai",
-   "pastebetas": "2026-11-01T06:17:49Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "roborock-q8max",
-   "raktas": "roborock-q8max",
-   "palyginamu": 1,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Roborock Q8 Max +",
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-q8-max-87938804.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=roborock+q8max"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=roborock+q8max"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=roborock+q8max"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=roborock+q8max"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "komplektas"
-    ],
-    "aprasymo_ilgis": 148,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: komplektas.",
-   "visi_palyginami": [
-    {
-     "kaina": 105.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/roborock-q8-max-87938804.html",
-     "pavadinimas": "Roborock Q8 Max +",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [
-    "Aprašyme: komplektas."
-   ],
-   "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "maža",
-    "zingsniai": [
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
-   }
-  },
-  {
-   "id": "87959186",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-pro-10-5-2017-87959186.html",
-   "pavadinimas": "iPad Pro 10.5 2017",
-   "kaina": 250.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5301308886/ipad-pro-10-5-2017.jpg",
-   "aprasymas": "Puikiai veikia, parduodama be pakrovėjo ir be dėžės.",
-   "vieta_laikas": "Kazlų Rūda, prieš 15 min.",
-   "paieska": "iPad",
-   "pastebetas": "2026-11-01T06:17:49Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "ipad-pro-10",
-   "raktas": "ipad-pro-10",
-   "palyginamu": 1,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kazlų Rūda",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "iPad Pro 10.5 64gb",
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-pro-10-5-64gb-87971390.html",
-     "vieta_laikas": "Kazlų Rūda, prieš 2 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=ipad+pro+10"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=ipad+pro+10"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ipad+pro+10"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=ipad+pro+10"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [
-     "be pakrovėjo"
-    ],
-    "privalumai": [],
-    "aprasymo_ilgis": 52,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Aprašyme: be pakrovėjo.",
-   "visi_palyginami": [
-    {
-     "kaina": 130.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-pro-10-5-64gb-87971390.html",
-     "pavadinimas": "iPad Pro 10.5 64gb",
-     "rizikos": [
-      "be pakrovėjo"
-     ],
-     "vieta_laikas": "Kazlų Rūda, prieš 2 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [],
-   "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje).",
-    "Aprašyme minima: be pakrovėjo."
-   ],
-   "logistika": "Siunta į paštomatą iš Kazlų Rūda: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (250 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
-     "Apple daiktai: paprašyk serijos numerio ir patikrink checkcoverage.apple.com. Prieš mokėdamas įsitikink, kad išjungtas „Find My“ (iCloud užraktas).",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "87967664",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-42132-motociklas-ir-42164-race-buggy-87967664.html",
    "pavadinimas": "Lego Technic 42132 Motociklas ir 42164 Race Buggy",
@@ -10711,7 +10372,7 @@
    "id": "87993578",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-venu-3-su-garantija-87993578.html",
    "pavadinimas": "Garmin Venu 3 su garantija",
-   "kaina": 230.0,
+   "kaina": 220.0,
    "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5305965026/garmin-venu-3.jpg",
    "aprasymas": "Parduodu labai geros būklės „Garmin Venu 3“ laikrodį. Viskas veikia nepriekaištingai. Pridedama originali dėžutė Pridedamas įkrovimo...",
    "vieta_laikas": "Kaunas, prieš 17 min.",
@@ -10796,9 +10457,9 @@
     "min": 130.0,
     "max": 200.0,
     "mediana": 165.0,
-    "nuolaida": -0.39
+    "nuolaida": -0.33
    },
-   "kodel": "3-as pigiausias iš 3 (kiti 130 €–200 €, mediana 165 €), 39% brangiau už medianą. Privalumai: garantija, labai gera būklė, su dėže.",
+   "kodel": "3-as pigiausias iš 3 (kiti 130 €–200 €, mediana 165 €), 33% brangiau už medianą. Privalumai: garantija, labai gera būklė, su dėže.",
    "visi_palyginami": [
     {
      "kaina": 130.0,
@@ -10818,12 +10479,17 @@
    "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
+   "kaina_sumazejo": {
+    "nuo": 230.0,
+    "iki": 220.0
+   },
    "zingsniai": [
     "Panašių skelbimų tik 2 – per mažai kainai nustatyti"
    ],
    "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
    "uz": [
-    "Aprašyme: garantija, labai gera būklė, su dėže."
+    "Aprašyme: garantija, labai gera būklė, su dėže.",
+    "Kaina jau sumažinta nuo 230 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
     "Iš 3 panašių skelbimų pigesnių yra 2; įprasta kaina ~165 €, šis ne pigesnis už kitus.",
@@ -10838,7 +10504,7 @@
      "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
      "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
      "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (230 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
+     "Suma didelė (220 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
@@ -11118,7 +10784,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -12507,6 +12173,101 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
+   }
+  },
+  {
+   "id": "88015864",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-advento-kalendorius-88015864.html",
+   "pavadinimas": "Lego Advento Kalendorius",
+   "kaina": 38.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5310528552/lego-advento-kalendorius.jpg",
+   "aprasymas": "Parduodu LEGO Marvel „Avengers“ advento kalendorių, rinkinio numeris 76267. Rinkinį sudaro 243 detalės ir 24 langeliai su minikonstruktoria...",
+   "vieta_laikas": "Kaunas, prieš 53 min.",
+   "paieska": "Lego",
+   "pastebetas": "2026-11-04T06:36:52Z",
+   "parametrai": [
+    "Būklė: Nauja"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "lego-76267",
+   "raktas": "lego-76267",
+   "palyginamu": 0,
+   "mediana": null,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=lego+76267"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=lego+76267"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+76267"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=lego+76267"
+    }
+   ],
+   "tiketina_pardavimo": null,
+   "pelnas": null,
+   "roi": null,
+   "max_pirkimo": null,
+   "pelnas_per_val": null,
+   "sprendimas": "nežinoma",
+   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja"
+    ],
+    "aprasymo_ilgis": 142,
+    "pilnas": false
+   },
+   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja.",
+   "visi_palyginami": [],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [],
+   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
+   "uz": [
+    "Aprašyme: nauja."
+   ],
+   "pries": [
+    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -14518,18 +14279,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -15712,8 +15473,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Kaina derinama",
+   "bukle": "Naudota",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
    "palyginamu": 35,
@@ -15826,7 +15587,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 14,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 12,
@@ -16032,18 +15793,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -17618,18 +17379,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -19109,18 +18870,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -22585,18 +22346,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -23566,18 +23327,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -26280,18 +26041,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -26703,18 +26464,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -27127,18 +26888,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -27551,18 +27312,18 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -27974,18 +27735,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -29727,8 +29488,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Wolverine PS5. Naudotas. Vilnius. Keitimai nebent domina į Control Resonant, Onimusha.",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 62,
@@ -29841,7 +29602,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 86,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 36,
@@ -30185,8 +29946,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu ps5 zaidima wolverine , bukle ideali",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 62,
@@ -30301,7 +30062,7 @@
      "ideali būklė"
     ],
     "aprasymo_ilgis": 45,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 36,
@@ -33769,7 +33530,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -33872,7 +33633,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: garantija.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -36269,18 +36030,18 @@
      "vieta_laikas": "Kelmės r., prieš 4 val."
     },
     {
+     "kaina": 140.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
+     "pavadinimas": "Lego Technic Porsche 911 Rsr",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 37 min."
+    },
+    {
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ivairios-lego-kaladeles-87862790.html",
      "pavadinimas": "Įvairios Lego kaladėlės",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 155.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-technic-porsche-911-rsr-88012162.html",
-     "pavadinimas": "Lego Technic Porsche 911 Rsr",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 37 min."
     },
     {
      "kaina": 160.0,
@@ -36665,8 +36426,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Keisciau i onimusha",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 62,
@@ -36779,7 +36540,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 19,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 36,
@@ -40011,7 +39772,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87998376",
@@ -40030,7 +39791,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87987532",
@@ -40049,7 +39810,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87954412",
@@ -40068,7 +39829,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87967496",
@@ -40087,7 +39848,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87958800",
@@ -40106,7 +39867,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87956186",
@@ -40163,7 +39924,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:01:48Z"
+    "dar_buvo": "2026-11-04T06:37:58Z"
    },
    {
     "id": "87913748",
@@ -40220,7 +39981,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:01:47Z"
+    "dar_buvo": "2026-11-04T06:37:59Z"
    },
    {
     "id": "87939376",
@@ -40619,7 +40380,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87798852",
@@ -40638,7 +40399,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:01:49Z"
+    "dar_buvo": "2026-11-04T06:37:57Z"
    },
    {
     "id": "87753504",
@@ -40790,7 +40551,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87833858",
@@ -40980,7 +40741,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T00:00:37Z"
+    "dar_buvo": "2026-11-04T06:36:52Z"
    },
    {
     "id": "87847204",
@@ -41239,7 +41000,7 @@
    "n": 3,
    "mediana": 200,
    "min": 130.0,
-   "max": 230.0
+   "max": 220.0
   },
   "garmin-forerunner-970": {
    "n": 2,
@@ -41290,7 +41051,7 @@
    "max": 350.0
   },
   "ps5": {
-   "n": 105,
+   "n": 106,
    "mediana": 45,
    "min": 10.0,
    "max": 750.0
@@ -41638,8 +41399,8 @@
    "max": 630.0
   },
   "dyson-v16": {
-   "n": 2,
-   "mediana": 585,
+   "n": 3,
+   "mediana": 600,
    "min": 570.0,
    "max": 600.0
   },
@@ -41681,8 +41442,8 @@
   },
   "dji-flip": {
    "n": 2,
-   "mediana": 430,
-   "min": 430.0,
+   "mediana": 415,
+   "min": 400.0,
    "max": 430.0
   },
   "thule-chariot": {

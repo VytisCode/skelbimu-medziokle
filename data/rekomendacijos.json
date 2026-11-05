@@ -412,16 +412,16 @@
  },
  "87987532": {
   "rekomenduota": "2026-11-02T20:51:40Z",
-  "paskutini_karta_rekomenduota": "2026-11-05T11:06:56Z",
+  "paskutini_karta_rekomenduota": "2026-11-05T18:49:48Z",
   "sprendimas": "derėtis",
-  "pelnas": 14,
-  "max_pirkimo": 107,
-  "tiketina_pardavimo": 148,
+  "pelnas": 19,
+  "max_pirkimo": 110,
+  "tiketina_pardavimo": 153,
   "vietinis": true
  },
  "87998376": {
   "rekomenduota": "2026-11-03T11:00:15Z",
-  "paskutini_karta_rekomenduota": "2026-11-05T11:06:56Z",
+  "paskutini_karta_rekomenduota": "2026-11-05T18:49:48Z",
   "sprendimas": "verta",
   "pelnas": 107,
   "max_pirkimo": 220,
@@ -430,20 +430,20 @@
  },
  "88012230": {
   "rekomenduota": "2026-11-03T18:30:33Z",
-  "paskutini_karta_rekomenduota": "2026-11-05T11:06:56Z",
+  "paskutini_karta_rekomenduota": "2026-11-05T18:49:48Z",
   "sprendimas": "derėtis",
-  "pelnas": 14,
-  "max_pirkimo": 107,
-  "tiketina_pardavimo": 148,
+  "pelnas": 19,
+  "max_pirkimo": 110,
+  "tiketina_pardavimo": 153,
   "vietinis": true
  },
  "88036948": {
   "rekomenduota": "2026-11-04T21:58:45Z",
-  "paskutini_karta_rekomenduota": "2026-11-05T11:06:56Z",
+  "paskutini_karta_rekomenduota": "2026-11-05T18:49:48Z",
   "sprendimas": "derėtis",
-  "pelnas": 4,
-  "max_pirkimo": 107,
-  "tiketina_pardavimo": 148,
+  "pelnas": 8,
+  "max_pirkimo": 110,
+  "tiketina_pardavimo": 153,
   "vietinis": false
  }
 }

@@ -1,13 +1,168 @@
 {
  "atnaujinta": null,
  "parduotuves": [
-  {"pavadinimas": "Amazon.de", "salis": "DE", "url": "https://www.amazon.de", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Dalį prekių siunčia į LT; tikrinti krepšelyje su LT adresu.", "patikrinta": null},
-  {"pavadinimas": "Amazon.pl", "salis": "PL", "url": "https://www.amazon.pl", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Tikrinti krepšelyje su LT adresu.", "patikrinta": null},
-  {"pavadinimas": "Allegro.pl", "salis": "PL", "url": "https://allegro.pl", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Priklauso nuo pardavėjo: nustatymuose pasirink pristatymą į Lietuvą ir filtruok.", "patikrinta": "2026-11-07"},
-  {"pavadinimas": "Galaxus.de", "salis": "DE", "url": "https://www.galaxus.de", "siuncia_i_lt": false, "siunta_eur": null, "pastaba": "Galaxus: kitų šalių šiuo metu nepristato (galaxus.de/de/guide/28).", "patikrinta": "2026-11-07"},
-  {"pavadinimas": "aio.lv", "salis": "LV", "url": "https://aio.lv", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Pagrindiniame puslapyje minimas tik pristatymas Latvijoje.", "patikrinta": "2026-11-07"},
-  {"pavadinimas": "Toolbrothers", "salis": "DE", "url": "https://www.toolbrothers.de", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Įrankiai (Makita, DeWalt). Siuntimo į LT sąlygų nepavyko perskaityti.", "patikrinta": null},
-  {"pavadinimas": "bol.com", "salis": "NL", "url": "https://www.bol.com", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Siuntimo puslapyje tik NL / BE sąlygos.", "patikrinta": "2026-11-07"}
+  {
+   "pavadinimas": "Amazon.de",
+   "salis": "DE",
+   "url": "https://www.amazon.de",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Dalį prekių siunčia į LT; tikrinti krepšelyje su LT adresu.",
+   "patikrinta": null
+  },
+  {
+   "pavadinimas": "Amazon.pl",
+   "salis": "PL",
+   "url": "https://www.amazon.pl",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Tikrinti krepšelyje su LT adresu.",
+   "patikrinta": null
+  },
+  {
+   "pavadinimas": "Allegro.pl",
+   "salis": "PL",
+   "url": "https://allegro.pl",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Priklauso nuo pardavėjo: nustatymuose pasirink pristatymą į Lietuvą ir filtruok.",
+   "patikrinta": "2026-11-07"
+  },
+  {
+   "pavadinimas": "Galaxus.de",
+   "salis": "DE",
+   "url": "https://www.galaxus.de",
+   "siuncia_i_lt": false,
+   "siunta_eur": null,
+   "pastaba": "Galaxus: kitų šalių šiuo metu nepristato (galaxus.de/de/guide/28).",
+   "patikrinta": "2026-11-07"
+  },
+  {
+   "pavadinimas": "aio.lv",
+   "salis": "LV",
+   "url": "https://aio.lv",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Pagrindiniame puslapyje minimas tik pristatymas Latvijoje.",
+   "patikrinta": "2026-11-07"
+  },
+  {
+   "pavadinimas": "Toolbrothers",
+   "salis": "DE",
+   "url": "https://www.toolbrothers.de",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Įrankiai (Makita, DeWalt). Siuntimo į LT sąlygų nepavyko perskaityti.",
+   "patikrinta": null
+  },
+  {
+   "pavadinimas": "bol.com",
+   "salis": "NL",
+   "url": "https://www.bol.com",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Siuntimo puslapyje tik NL / BE sąlygos.",
+   "patikrinta": "2026-11-07"
+  },
+  {
+   "pavadinimas": "Photopoint.ee",
+   "salis": "EE",
+   "url": "https://www.photopoint.ee",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "Baltijos foto / elektronikos parduotuvė; siuntimo į LT sąlygas patikrinti.",
+   "patikrinta": null
+  },
+  {
+   "pavadinimas": "Dateks.lv",
+   "salis": "LV",
+   "url": "https://dateks.lv",
+   "siuncia_i_lt": null,
+   "siunta_eur": null,
+   "pastaba": "LV elektronika; siuntimo į LT sąlygas patikrinti.",
+   "patikrinta": null
+  }
  ],
- "produktai": []
+ "produktai": [
+  {
+   "id": "dji-osmo-pocket-3",
+   "modelis": "DJI Osmo Pocket 3 (standartinis)",
+   "kategorija": "DJI",
+   "raktas": "dji-osmopocket",
+   "lt": [
+    {
+     "parduotuve": "kaina24.lt (pigiausia LT)",
+     "url": "https://www.kaina24.lt/p/dji-pocket-3/"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "Dateks.lv",
+     "salis": "LV",
+     "url": "https://dateks.lv/en/cenas/sporta-kameras/1019138-dji-osmo-pocket-3",
+     "siunta_eur": 5,
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    },
+    {
+     "parduotuve": "aio.lv",
+     "salis": "LV",
+     "url": "https://aio.lv/en/product--dji-cpos0000030103--10714485",
+     "siunta_eur": 5,
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": null,
+   "pastabos": "Pradinis sąrašas: kainas surinks automatinis tikrintuvas."
+  },
+  {
+   "id": "gopro-hero13-black",
+   "modelis": "GoPro HERO13 Black",
+   "kategorija": "GoPro",
+   "raktas": "gopro-13",
+   "lt": [
+    {
+     "parduotuve": "kaina24.lt (pigiausia LT)",
+     "url": "https://www.kaina24.lt/p/gopro-hero13-black/"
+    },
+    {
+     "parduotuve": "kainos.lt",
+     "url": "https://www.kainos.lt/veiksmo-kameros/gopro-hero-13-black-juoda-v3630743"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "Photopoint.ee",
+     "salis": "EE",
+     "url": "https://www.photopoint.ee/en/cameras/5246690-gopro-hero13-black",
+     "siunta_eur": 5,
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": null,
+   "pastabos": ""
+  },
+  {
+   "id": "garmin-venu-3",
+   "modelis": "Garmin Venu 3 (45 mm)",
+   "kategorija": "Garmin",
+   "raktas": "garmin-venu-3",
+   "lt": [
+    {
+     "parduotuve": "shopro.lt",
+     "url": "https://www.shopro.lt/garmin-venu-3-3-56-cm-1-4-amoled-45-mm-digital-454-x-454-pixels-touchscreen-silver-white-wi-fi-gps-satellite-lt"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "aio.lv",
+     "salis": "LV",
+     "url": "https://aio.lv/en/product--garmin-753759314743--10722107",
+     "siunta_eur": 5,
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": null,
+   "pastabos": ""
+  }
+ ]
 }

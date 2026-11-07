@@ -713,10 +713,24 @@ def nauji_daiktai(visi: list[dict]) -> dict:
         if s.get("kaina"):
             pagal_rakta.setdefault(s["_raktas"], []).append(s)
     siandien = datetime.now(timezone.utc).date()
+    try:
+        auto = json.loads((ROOT / "data" / "kainos_auto.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        auto = {}
+
+    def su_auto(x):      # automatiškai patikrinta kaina (kainos.py) pakeičia rankinę, jei šviežesnė
+        a = auto.get(x.get("url") or "", {})
+        x = dict(x)
+        if a.get("kaina") and (a.get("kainos_laikas") or "")[:10] >= (x.get("patikrinta") or ""):
+            x.update(kaina=a["kaina"], patikrinta=a["kainos_laikas"][:10], auto=True)
+        elif a.get("klaida"):
+            x["auto_klaida"] = a["klaida"]
+        return x
+
     out = []
     for p in d.get("produktai", []):
-        lt = [x for x in p.get("lt", []) if x.get("kaina")]
-        es = [dict(x, viso=round(x["kaina"] + (x.get("siunta_eur") or 0), 2)) for x in p.get("es", []) if x.get("kaina")]
+        lt = [x for x in map(su_auto, p.get("lt", [])) if x.get("kaina")]
+        es = [dict(x, viso=round(x["kaina"] + (x.get("siunta_eur") or 0), 2)) for x in map(su_auto, p.get("es", [])) if x.get("kaina")]
         sk = pagal_rakta.get(p.get("raktas") or "", [])
         sk_nauji = [x for x in sk if naujas_skelbimas(x)]
         lt_min = min((x["kaina"] for x in lt), default=None)

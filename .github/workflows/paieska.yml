@@ -35,6 +35,9 @@ jobs:
         id: paieska
         continue-on-error: true
         run: xvfb-run -a python -u skelbiu.py
+      - name: Naujų daiktų kainos (kartą per parą kiekvienai nuorodai)
+        continue-on-error: true
+        run: python -u kainos.py
       - name: Analizė svetainei
         if: always()
         run: |

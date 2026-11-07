@@ -340,6 +340,11 @@ function renderStatus() {
   const st = $("status"); if (!st) return; st.replaceChildren();
   const t = new Date(B.paleista).toLocaleString("lt-LT", {timeZone: "Europe/Vilnius", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
   st.append(el("span", "chip " + (Date.now() - new Date(B.paleista) > 3 * 3600e3 ? "bad" : "ok"), "Paieška " + t));
+  const sv = (typeof D !== "undefined" && D && D.sveikata) || {};
+  if (sv.claude_vertinimas !== undefined) {
+    const sen = sv.claude_vertinimas ? days(sv.claude_vertinimas, today()) : 99;
+    st.append(el("span", "chip " + (sen > 1 ? "bad" : "ok"), sen > 1 ? `Claude vertinimas sustojo (${sv.claude_vertinimas || "niekada"})` : "Claude vertinimas " + sv.claude_vertinimas));
+  }
   const bad = B.paieskos.filter(p => p.kodas !== 200);
   st.append(el("span", "chip " + (bad.length ? "bad" : ""), B.paieskos.length + " paieškos" + (bad.length ? ", nepavyko: " + bad.map(p => p.pavadinimas).join(", ") : "")));
 }

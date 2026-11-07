@@ -32,5 +32,23 @@
     "vežimėl",
     "vezimel"
   ],
-  "sezono_daugiklis": 1.15
+  "sezono_daugiklis": 1.15,
+  "laiskai": {
+    "_paaiskinimas": "Laiškas tik apie „Pirkti“ (verta), kai tenkina visas ribas. Kiti – tik svetainėje.",
+    "min_pelnas_eur": 20,
+    "max_kaina_eur": 300,
+    "max_amzius_d": 7,
+    "tylos_valandos": [
+      23,
+      7
+    ]
+  },
+  "nauji": {
+    "_paaiskinimas": "Naujų daiktų testas: ES parduotuvė → parduoti LT. Pardavimo kaina = pigiausia LT parduotuvė × lt_nuolaida.",
+    "lt_nuolaida": 0.88,
+    "kastai_eur": 3.0,
+    "min_pelnas_eur": 25,
+    "min_roi": 0.15,
+    "max_amzius_d": 10
+  }
 }

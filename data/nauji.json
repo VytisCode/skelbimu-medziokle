@@ -1,0 +1,13 @@
+{
+ "atnaujinta": null,
+ "parduotuves": [
+  {"pavadinimas": "Amazon.de", "salis": "DE", "url": "https://www.amazon.de", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Dalį prekių siunčia į LT; tikrinti krepšelyje su LT adresu.", "patikrinta": null},
+  {"pavadinimas": "Amazon.pl", "salis": "PL", "url": "https://www.amazon.pl", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Tikrinti krepšelyje su LT adresu.", "patikrinta": null},
+  {"pavadinimas": "Allegro.pl", "salis": "PL", "url": "https://allegro.pl", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Priklauso nuo pardavėjo: nustatymuose pasirink pristatymą į Lietuvą ir filtruok.", "patikrinta": "2026-11-07"},
+  {"pavadinimas": "Galaxus.de", "salis": "DE", "url": "https://www.galaxus.de", "siuncia_i_lt": false, "siunta_eur": null, "pastaba": "Galaxus: kitų šalių šiuo metu nepristato (galaxus.de/de/guide/28).", "patikrinta": "2026-11-07"},
+  {"pavadinimas": "aio.lv", "salis": "LV", "url": "https://aio.lv", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Pagrindiniame puslapyje minimas tik pristatymas Latvijoje.", "patikrinta": "2026-11-07"},
+  {"pavadinimas": "Toolbrothers", "salis": "DE", "url": "https://www.toolbrothers.de", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Įrankiai (Makita, DeWalt). Siuntimo į LT sąlygų nepavyko perskaityti.", "patikrinta": null},
+  {"pavadinimas": "bol.com", "salis": "NL", "url": "https://www.bol.com", "siuncia_i_lt": null, "siunta_eur": null, "pastaba": "Siuntimo puslapyje tik NL / BE sąlygos.", "patikrinta": "2026-11-07"}
+ ],
+ "produktai": []
+}

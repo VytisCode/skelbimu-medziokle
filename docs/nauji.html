@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Nauji iš ES</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="stilius.css">
+<style>
+.nrow{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px;display:grid;gap:8px;min-width:0}
+.nrow.proga{border-color:var(--ok);border-width:2px}
+.nrow h3{margin:0;font:600 1.05rem var(--body);overflow-wrap:anywhere}
+.nhead{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.ntab{width:100%;border-collapse:collapse;font-size:.85rem}
+.ntab td{padding:4px 6px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
+.ntab a{color:var(--fg)}
+.v-proga{background:var(--okbg);color:var(--ok)}.v-ribinis{background:var(--warnbg);color:var(--warn)}
+.v-ne,.v-pasenę,.v-trūksta{background:var(--line);color:var(--muted)}
+.nlist{display:grid;gap:10px;margin-top:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="hdr">
+    <nav class="nav"><a href="index.html">Ką pirkti</a><a href="nauji.html" aria-current="page">Nauji iš ES</a><a href="istorija.html">Istorija</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html">Rinka</a></nav>
+    <div class="status" id="status"></div>
+  </header>
+  <section class="buy">
+    <h1>Nauji daiktai: ES parduotuvė → Lietuva</h1>
+    <p class="note" id="lead">Testas: ar naują daiktą galima nupirkti ES e. parduotuvėje pigiau ir parduoti Lietuvoje už rinkos kainą.</p>
+    <div class="kpis" id="kpis"></div>
+    <div class="nlist" id="list"></div>
+    <details class="note"><summary>Kaip skaičiuojama</summary>
+      <p id="how"></p>
+      <p>Pirkėjas naują daiktą gali nusipirkti Lietuvos parduotuvėje su garantija ir grąžinimu, todėl privačiai jį parduosi tik pigiau. Dėl to pardavimo kaina skaičiuojama nuo pigiausios LT parduotuvės, o Skelbiu.lt nauji skelbimai riboja ją iš viršaus. ES ir LT kainas su nuorodomis kasdien atnaujina Claude. Prieš pirkdamas visada patikrink krepšelyje galutinę kainą su siuntimu į Lietuvą.</p>
+    </details>
+  </section>
+</div>
+<script>
+const $ = id => document.getElementById(id);
+const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; };
+const a_ = (h, x) => { const a = el("a", "", x); a.href = h; a.target = "_blank"; a.rel = "noopener"; return a; };
+const fmt = n => n == null || isNaN(n) ? "—" : Math.round(n).toLocaleString("lt-LT") + " €";
+const LBL = {proga: "Proga", ribinis: "Ribinis", ne: "Neapsimoka", "pasenę": "Kainos pasenę", "trūksta kainų": "Trūksta kainų"};
+fetch("analize.json", {cache: "no-store"}).then(r => r.json()).then(D => {
+  const N = D.nauji || {produktai: []}, P = N.produktai, pr = N.prielaidos || {};
+  const t = new Date(D.sugeneruota).toLocaleString("lt-LT", {timeZone: "Europe/Vilnius", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
+  $("status").append(el("span", "chip", "Atnaujinta " + t), el("span", "chip " + (N.atnaujinta ? "ok" : "bad"), "ES kainos: " + (N.atnaujinta || "dar nesurinktos")));
+  $("how").textContent = `Pelnas = pigiausia LT parduotuvė × ${pr.lt_nuolaida} (ir ne daugiau nei nauji Skelbiu.lt skelbimai × 0,95) − ES kaina su siuntimu − ${pr.kastai_eur} € kaštų. „Proga“, kai pelnas ≥ ${pr.min_pelnas_eur} € ir ≥ ${Math.round((pr.min_roi || 0) * 100)} % ES kainos. Kainos senesnės nei ${pr.max_amzius_d} d. nevertinamos.`;
+  const cnt = k => P.filter(p => p.sprendimas === k).length;
+  [["Stebima modelių", P.length], ["Progos", cnt("proga")], ["Ribinės", cnt("ribinis")], ["Neapsimoka", cnt("ne")]].forEach(([k, v]) => { const d = el("div", "tile"); d.append(el("b", "", v), el("span", "", k)); $("kpis").append(d); });
+  if (!P.length) { $("list").append(el("p", "note", "Produktų sąrašas dar tuščias. Pirmas ES ir LT kainas Claude surinks artimiausio vertinimo metu.")); return; }
+  for (const p of P) {
+    const box = el("div", "nrow " + (p.sprendimas === "proga" ? "proga" : ""));
+    const h = el("div", "nhead"); h.append(el("h3", "", p.modelis), el("span", "verdict v-" + (p.sprendimas || "").split(" ")[0], LBL[p.sprendimas] || p.sprendimas)); box.append(h);
+    const nums = el("div", "nums");
+    [["ES su siuntimu", fmt(p.es_kaina)], ["LT parduotuvė", fmt(p.lt_min)], ["Parduosi ~", fmt(p.pardavimo)], ["Pelnas", fmt(p.pelnas)]].forEach(([k, v], i) => { const s = el("span", "", k); const b = el("b", i === 3 ? (p.pelnas > 0 ? "pos" : "neg") : "", v); s.prepend(b); nums.append(s); });
+    box.append(nums, el("div", "meta", p.skaiciavimas || ""));
+    const tb = el("table", "ntab"); const body = el("tbody");
+    const add = (k, x, v) => { const tr = el("tr"); const td = el("td"); x.url ? td.append(a_(x.url, k)) : td.append(k); tr.append(td, el("td", "n", v)); body.append(tr); };
+    (p.es || []).forEach(x => add(`ES: ${x.parduotuve}${x.salis ? " (" + x.salis + ")" : ""}${x.patikrinta ? " · " + x.patikrinta : ""}`, x, `${fmt(x.kaina)} + ${fmt(x.siunta_eur || 0)} = ${fmt(x.viso)}`));
+    (p.lt || []).forEach(x => add(`LT: ${x.parduotuve}${x.patikrinta ? " · " + x.patikrinta : ""}`, x, fmt(x.kaina)));
+    ((p.skelbiu || {}).pavyzdziai || []).slice(0, 6).forEach(x => add(`Skelbiu.lt${x.naujas ? " (naujas)" : ""}: ${x.pavadinimas}`, {url: x.nuoroda}, fmt(x.kaina)));
+    tb.append(body); const det = el("details"); det.append(el("summary", "", "Kainos su nuorodomis")); det.append(tb); if (p.pastabos) det.append(el("p", "note", p.pastabos)); box.append(det);
+    $("list").append(box);
+  }
+}).catch(() => $("status").append(el("span", "chip bad", "Nepavyko įkelti duomenų.")));
+</script>
+</body>
+</html>

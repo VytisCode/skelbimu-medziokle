@@ -1,0 +1,42 @@
+{
+ "https://www.kaina24.lt/p/dji-pocket-3/": {
+  "laikas": "2026-11-07T10:24:11Z",
+  "klaida": "robots.txt neprieinamas"
+ },
+ "https://dateks.lv/en/cenas/sporta-kameras/1019138-dji-osmo-pocket-3": {
+  "laikas": "2026-11-07T10:24:12Z",
+  "kaina": 474.52,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-07T10:24:12Z"
+ },
+ "https://aio.lv/en/product--dji-cpos0000030103--10714485": {
+  "laikas": "2026-11-07T10:24:17Z",
+  "kaina": 329.0,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-07T10:24:17Z"
+ },
+ "https://www.kaina24.lt/p/gopro-hero13-black/": {
+  "laikas": "2026-11-07T10:24:22Z",
+  "klaida": "robots.txt neprieinamas"
+ },
+ "https://www.kainos.lt/veiksmo-kameros/gopro-hero-13-black-juoda-v3630743": {
+  "laikas": "2026-11-07T10:24:23Z",
+  "klaida": "neprieinama (HTTP 403)"
+ },
+ "https://www.photopoint.ee/en/cameras/5246690-gopro-hero13-black": {
+  "laikas": "2026-11-07T10:24:27Z",
+  "kaina": 362.9,
+  "budas": "meta",
+  "kainos_laikas": "2026-11-07T10:24:27Z"
+ },
+ "https://www.shopro.lt/garmin-venu-3-3-56-cm-1-4-amoled-45-mm-digital-454-x-454-pixels-touchscreen-silver-white-wi-fi-gps-satellite-lt": {
+  "laikas": "2026-11-07T10:24:33Z",
+  "klaida": "neprieinama (HTTP 404)"
+ },
+ "https://aio.lv/en/product--garmin-753759314743--10722107": {
+  "laikas": "2026-11-07T10:24:38Z",
+  "kaina": 357.49,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-07T10:24:38Z"
+ }
+}

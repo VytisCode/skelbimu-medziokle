@@ -61,13 +61,19 @@ Skelbiu.lt – tik LT kainų šaltinis. Duomenys `data/nauji.json`, svetainė `d
    n ≥ 4), naujas kainuoja 60–400 €, telpa į paštomatą, ne šalmai / kėdutės / maistas / kosmetika. Pvz. DJI Osmo Pocket 3,
    GoPro Hero 13, Garmin Venu 3, Garmin Forerunner 265, Kindle Paperwhite, LEGO Technic rinkiniai, Makita DTD153Z, Dyson V-serija,
    Nintendo Switch žaidimai / pultai. Nenaudingus (3 kartus iš eilės `ne`) pakeisk naujais.
-2. Kasdien atnaujink iki 8 produktų, kurių `atnaujinta` seniausia (> 3 d.) arba kurių kainų dar nėra. Kiekvienam (WebSearch
-   „standard“, ≤ 3 paieškos produktui):
-   - `lt`: 2–3 pigiausios LT parduotuvės (kaina24.lt, kainos.lt, pigu.lt, varle.lt, 1a.lt, technorama.lt, topocentras.lt,
-     senukai.lt) su tikslia produkto nuoroda ir kaina.
-   - `es`: 1–3 pigiausi pasiūlymai ES parduotuvėse, kurios SIUNČIA Į LIETUVĄ (`parduotuves` sąrašas žemiau), su tikslia
-     produkto nuoroda, kaina ir `siunta_eur` į LT. Jei siuntimo į LT kainos nežinai – įrašyk geriausią įvertį ir `pastaba`.
+2. Kasdien atnaujink iki 8 produktų, kurių `atnaujinta` seniausia (> 3 d.) arba kurių kainų dar nėra. KAINAS RENKA
+   AUTOMATAS (`kainos.py`, GitHub Actions per LT proxy) – tavo darbas rasti TIKSLIAS PRODUKTŲ NUORODAS (WebSearch „standard“,
+   ≤ 3 paieškos produktui). Kaina, kurią matai paieškoje, gali būti įrašyta kaip pradinė su `patikrinta`, automatas ją pakeis.
+   - `lt`: 2–3 LT parduotuvių produkto puslapiai: pigu.lt, varle.lt, bigbox.lt, technorama.lt, topocentras.lt, 1a.lt,
+     senukai.lt. NE kaina24.lt / kainos.lt (blokuoja automatą). Be LT kainos produktas nevertinamas.
+   - `es`: 1–3 ES parduotuvių, kurios SIUNČIA Į LIETUVĄ (`parduotuves` sąrašas žemiau), produkto puslapiai su `siunta_eur`
+     į LT. Jei siuntimo į LT kainos nežinai – įrašyk geriausią įvertį ir `pastaba`.
      Parduotuvę, kuri nesiunčia į LT, įrašyk į `parduotuves` su `siuncia_i_lt: false` ir jos nebenaudok.
+   - Žiūrėk `docs/analize.json` → `nauji.tikrinamos`: parduotuvių su `neveikia` nuorodas pakeisk kitų parduotuvių nuorodomis.
+   - `skelbiu_tinka` / `skelbiu_atmesti`: regex (be diakritikų) Skelbiu.lt pavadinimams, kad būtų lyginama tik tas pats modelis
+     (pvz. Pocket 3: tinka `pocket\\s*3`, atmesti `pocket\\s*[24]|combo|creator`). Privaloma.
+   - Atranka pagal duomenis: pirmenybė modeliams, kurių nauji Skelbiu.lt skelbimai ar LT parduotuvės kaina bent 20 % didesnė
+     už ES kainą su siuntimu. Jei ES kaina ≥ naujų Skelbiu skelbimų kainos (kaip GoPro 13 2026-11-07), produktą keisk.
    - `patikrinta`: data (YYYY-MM-DD) kiekvienai kainai; produktui `atnaujinta`.
    - Lygink TIK tą patį modelį ir komplektaciją (pvz. Pocket 3 vs Pocket 3 Creator Combo – skirtingi produktai).
    - `raktas`: `docs/analize.json` → `rinka` raktas, kuriuo Skelbiu.lt žymi tą modelį (pvz. `dji-osmopocket`), jei yra.

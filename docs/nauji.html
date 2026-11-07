@@ -18,6 +18,11 @@
 .v-proga{background:var(--okbg);color:var(--ok)}.v-ribinis{background:var(--warnbg);color:var(--warn)}
 .v-ne,.v-pasenę,.v-trūksta{background:var(--line);color:var(--muted)}
 .nlist{display:grid;gap:10px;margin-top:12px}
+.ntop{display:grid;grid-template-columns:72px 1fr;gap:10px;align-items:start}
+.ntop img{width:72px;height:72px;object-fit:contain;background:#fff;border-radius:8px}
+.ntop .noimg{width:72px;height:72px;border-radius:8px;background:var(--line)}
+.shops{margin-top:12px}.shops h2{font:600 1.1rem var(--body);margin:0 0 6px}
+.b-veikia{color:var(--ok)}.b-neveikia{color:var(--bad,#e06c4c)}.b-iš{color:var(--warn)}
 </style>
 </head>
 <body>
@@ -31,6 +36,7 @@
     <p class="note" id="lead">Testas: ar naują daiktą galima nupirkti ES e. parduotuvėje pigiau ir parduoti Lietuvoje už rinkos kainą.</p>
     <div class="kpis" id="kpis"></div>
     <div class="nlist" id="list"></div>
+    <div class="shops nrow"><h2>Kokios parduotuvės tikrinamos</h2><p class="note">Kainą kasdien automatiškai paima iš kiekvienos parduotuvės puslapio. „Neveikia“ – parduotuvė blokuoja automatinį tikrinimą arba nuoroda neteisinga; tokiai prekei ieškoma kitos parduotuvės.</p><table class="ntab"><tbody id="shops"></tbody></table></div>
     <details class="note"><summary>Kaip skaičiuojama</summary>
       <p id="how"></p>
       <p>Pirkėjas naują daiktą gali nusipirkti Lietuvos parduotuvėje su garantija ir grąžinimu, todėl privačiai jį parduosi tik pigiau. Dėl to pardavimo kaina skaičiuojama nuo pigiausios LT parduotuvės, o Skelbiu.lt nauji skelbimai riboja ją iš viršaus. ES ir LT kainas su nuorodomis kasdien atnaujina Claude. Prieš pirkdamas visada patikrink krepšelyje galutinę kainą su siuntimu į Lietuvą.</p>
@@ -46,16 +52,24 @@ const LBL = {proga: "Proga", ribinis: "Ribinis", ne: "Neapsimoka", "pasenę": "K
 fetch("analize.json", {cache: "no-store"}).then(r => r.json()).then(D => {
   const N = D.nauji || {produktai: []}, P = N.produktai, pr = N.prielaidos || {};
   const t = new Date(D.sugeneruota).toLocaleString("lt-LT", {timeZone: "Europe/Vilnius", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
-  $("status").append(el("span", "chip", "Atnaujinta " + t), el("span", "chip " + (N.atnaujinta ? "ok" : "bad"), "ES kainos: " + (N.atnaujinta || "dar nesurinktos")));
+  $("status").append(el("span", "chip", "Atnaujinta " + t), el("span", "chip " + (N.atnaujinta ? "ok" : "bad"), "Kainos tikrintos: " + (N.atnaujinta || "dar ne")));
   $("how").textContent = `Pelnas = pigiausia LT parduotuvė × ${pr.lt_nuolaida} (ir ne daugiau nei nauji Skelbiu.lt skelbimai × 0,95) − ES kaina su siuntimu − ${pr.kastai_eur} € kaštų. „Proga“, kai pelnas ≥ ${pr.min_pelnas_eur} € ir ≥ ${Math.round((pr.min_roi || 0) * 100)} % ES kainos. Kainos senesnės nei ${pr.max_amzius_d} d. nevertinamos.`;
   const cnt = k => P.filter(p => p.sprendimas === k).length;
   [["Stebima modelių", P.length], ["Progos", cnt("proga")], ["Ribinės", cnt("ribinis")], ["Neapsimoka", cnt("ne")]].forEach(([k, v]) => { const d = el("div", "tile"); d.append(el("b", "", v), el("span", "", k)); $("kpis").append(d); });
+  const BS = {veikia: "Veikia", "iš dalies": "Iš dalies", neveikia: "Neveikia", "dar netikrinta": "Dar netikrinta"};
+  (N.tikrinamos || []).forEach(b => { const tr = el("tr"); tr.append(el("td", "", `${b.tipas}: ${b.parduotuve}`), el("td", "b-" + b.busena.split(" ")[0], `${BS[b.busena] || b.busena} (${b.kainu}/${b.nuorodu})` + (b.klaida && b.busena !== "veikia" ? " · " + b.klaida : ""))); $("shops").append(tr); });
+  if (!(N.tikrinamos || []).length) $("shops").append(el("tr", "", "Dar netikrinta."));
   if (!P.length) { $("list").append(el("p", "note", "Produktų sąrašas dar tuščias. Pirmas ES ir LT kainas Claude surinks artimiausio vertinimo metu.")); return; }
   for (const p of P) {
     const box = el("div", "nrow " + (p.sprendimas === "proga" ? "proga" : ""));
-    const h = el("div", "nhead"); h.append(el("h3", "", p.modelis), el("span", "verdict v-" + (p.sprendimas || "").split(" ")[0], LBL[p.sprendimas] || p.sprendimas)); box.append(h);
+    const h = el("div", "nhead"); h.append(el("h3", "", p.modelis), el("span", "verdict v-" + (p.sprendimas || "").split(" ")[0], LBL[p.sprendimas] || p.sprendimas));
+    const top = el("div", "ntop"); let im;
+    if (p.paveikslas) { im = el("img"); im.src = p.paveikslas; im.alt = ""; im.loading = "lazy"; im.referrerPolicy = "no-referrer"; im.onerror = () => im.replaceWith(el("div", "noimg")); } else im = el("div", "noimg");
+    const right = el("div"); right.append(h); top.append(im, right); box.append(top);
+    const pirk = (p.es || [])[0], lt0 = (p.lt || [])[0];
+    if (pirk) right.append(el("div", "meta", `Pigiausia ES: ${pirk.parduotuve}${pirk.salis ? " (" + pirk.salis + ")" : ""}` + (lt0 ? ` · pigiausia LT: ${lt0.parduotuve}` : " · LT parduotuvės kainos nėra")));
     const nums = el("div", "nums");
-    [["ES su siuntimu", fmt(p.es_kaina)], ["LT parduotuvė", fmt(p.lt_min)], ["Parduosi ~", fmt(p.pardavimo)], ["Pelnas", fmt(p.pelnas)]].forEach(([k, v], i) => { const s = el("span", "", k); const b = el("b", i === 3 ? (p.pelnas > 0 ? "pos" : "neg") : "", v); s.prepend(b); nums.append(s); });
+    [["ES su siuntimu", fmt(p.es_kaina)], ["LT parduotuvė", fmt(p.lt_min)], ["Parduosi ~", fmt(p.pardavimo)], ["Pelnas", fmt(p.pelnas)]].forEach(([k, v], i) => { const s = el("span", "", k); const b = el("b", i === 3 && p.pelnas != null ? (p.pelnas > 0 ? "pos" : "neg") : "", v); s.prepend(b); nums.append(s); });
     box.append(nums, el("div", "meta", p.skaiciavimas || ""));
     const tb = el("table", "ntab"); const body = el("tbody");
     const add = (k, x, v) => { const tr = el("tr"); const td = el("td"); x.url ? td.append(a_(x.url, k)) : td.append(k); tr.append(td, el("td", "n", v)); body.append(tr); };

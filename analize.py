@@ -245,6 +245,31 @@ def palyginami(raktas: str, sid: str, visi: list[dict]) -> list[dict]:
     return sorted(komp, key=lambda k: k["kaina"])
 
 
+# Modelio kartos patikra: pavadinime „Fenix 7“, o aprašyme „Fenix 5“ – tai ne tas daiktas (2026-10-27 klaida).
+SEIMOS = r"(fenix|venu|forerunner|instinct|epix|vivoactive|enduro|hero|mini|air|avata|action|pocket|osmo\s?action|mavic|switch|ps|playstation|ipad\s?(?:pro|air|mini)?|iphone|v|tm|xbox|deck)"
+
+
+def _kartos(t: str) -> dict:
+    out = {}
+    for m in re.finditer(SEIMOS + r"[\s-]?(\d{1,2})(?![\d.,]|\s?(?:gb|tb|g\b|th|gen|kart|%|mm|cm|w\b|v\b))", be_diakritiku(t)):
+        sem = re.sub(r"\s", "", m.group(1))
+        if sem in ("v", "ps") and len(m.group(2)) > 2:
+            continue
+        out.setdefault(sem, set()).add(m.group(2))
+    return out
+
+
+def modelio_neatitikimas(s: dict) -> str | None:
+    """Grąžina paaiškinimą, jei aprašyme minima kita tos pačios šeimos karta nei pavadinime."""
+    pav = _kartos(s.get("pavadinimas") or "")
+    apr = _kartos((s.get("pilnas_aprasymas") or s.get("aprasymas") or ""))
+    for sem, nr in pav.items():
+        kiti = apr.get(sem, set()) - nr
+        if kiti and not (apr.get(sem, set()) & nr):
+            return f"pavadinime {sem} {', '.join(sorted(nr))}, o aprašyme {sem} {', '.join(sorted(kiti))} – patikrink, kuris modelis"
+    return None
+
+
 def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
     kaina = s.get("kaina") or 0
     raktas = s["_raktas"]
@@ -378,7 +403,14 @@ def ivertinti(s: dict, visi: list[dict], claude: dict | None) -> dict:
         sak += " Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos."
     r["kodel"] = sak
     # Rizikos žodžiai arba įtartinai maža kaina be pilno aprašymo – ne „Pirkti“, o „Patikrinti“.
-    if r["sprendimas"] in ("verta", "derėtis") and (ap["rizikos_zodziai"] or (istartinas and not (claude and claude.get("tiketina_pardavimo")))):
+    neatit = modelio_neatitikimas(s)
+    if neatit:
+        r["modelio_neatitikimas"] = neatit
+        r["kodel"] += " Modelis neaiškus: " + neatit + "."
+    if r["sprendimas"] in ("verta", "derėtis") and neatit:
+        r["sprendimas"], r["priezastis"] = "tikrinti", neatit
+        r["balas"] = round((r.get("balas") or 0) * 0.6)
+    elif r["sprendimas"] in ("verta", "derėtis") and (ap["rizikos_zodziai"] or (istartinas and not (claude and claude.get("tiketina_pardavimo")))):
         r["sprendimas"] = "tikrinti"
         r["priezastis"] = ("aprašyme: " + ", ".join(ap["rizikos_zodziai"])) if ap["rizikos_zodziai"] else "įtartinai pigu – patikrink, ar tai ne senesnis modelis ar defektas"
         r["balas"] = round((r.get("balas") or 0) * 0.6)
@@ -658,6 +690,93 @@ def rekomendaciju_istorija(radiniai: list[dict], istorija: dict, vertinimai: dic
             "dingo_per_24h": sum(v <= 24 for v in tikslus), "tiksliu": len(tikslus)}
 
 
+NAUJI = ROOT / "data" / "nauji.json"
+NAUJ_ZODZIAI = re.compile(r"\bnauj|neispakuot|uzplombuot|nenaudot|sealed", re.I)
+
+
+def naujas_skelbimas(s: dict) -> bool:
+    return bool(NAUJ_ZODZIAI.search(be_diakritiku(s.get("pavadinimas") or ""))) or (s.get("bukle") or "").lower().startswith("nauj")
+
+
+def nauji_daiktai(visi: list[dict]) -> dict:
+    """Naujų daiktų testas: pirkti naują ES e. parduotuvėje, parduoti Lietuvoje.
+    Pirkėjas naują daiktą visada gali nusipirkti LT parduotuvėje su garantija, todėl privačiai parduosi tik pigiau:
+    pardavimo kaina = pigiausia LT parduotuvė × lt_nuolaida (ir ne daugiau nei nauji Skelbiu.lt skelbimai).
+    ES ir LT kainas su nuorodomis pildo Claude (data/nauji.json), Skelbiu.lt duomenys – iš paieškų."""
+    cfg = N.get("nauji", {})
+    try:
+        d = json.loads(NAUJI.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        d = {}
+    pagal_rakta: dict[str, list[dict]] = {}
+    for s in visi:
+        if s.get("kaina"):
+            pagal_rakta.setdefault(s["_raktas"], []).append(s)
+    siandien = datetime.now(timezone.utc).date()
+    out = []
+    for p in d.get("produktai", []):
+        lt = [x for x in p.get("lt", []) if x.get("kaina")]
+        es = [dict(x, viso=round(x["kaina"] + (x.get("siunta_eur") or 0), 2)) for x in p.get("es", []) if x.get("kaina")]
+        sk = pagal_rakta.get(p.get("raktas") or "", [])
+        sk_nauji = [x for x in sk if naujas_skelbimas(x)]
+        lt_min = min((x["kaina"] for x in lt), default=None)
+        sk_new_med = statistics.median([x["kaina"] for x in sk_nauji]) if len(sk_nauji) >= 2 else None
+        kainos = []
+        if lt_min:
+            kainos.append(lt_min * cfg.get("lt_nuolaida", 0.88))
+        if sk_new_med:
+            kainos.append(sk_new_med * 0.95)
+        pardavimo = min(kainos) if kainos else None
+        es_best = min(es, key=lambda x: x["viso"]) if es else None
+        r = {"id": p.get("id"), "modelis": p.get("modelis"), "kategorija": p.get("kategorija"), "raktas": p.get("raktas"),
+             "lt": sorted(lt, key=lambda x: x["kaina"]), "es": sorted(es, key=lambda x: x["viso"]),
+             "lt_min": lt_min, "skelbiu": {"n": len(sk), "nauju": len(sk_nauji),
+                                           "mediana": round(statistics.median([x["kaina"] for x in sk])) if len(sk) >= 2 else None,
+                                           "nauju_mediana": round(sk_new_med) if sk_new_med else None,
+                                           "pavyzdziai": [{"pavadinimas": x["pavadinimas"][:70], "kaina": x["kaina"], "nuoroda": x["nuoroda"],
+                                                           "naujas": naujas_skelbimas(x)} for x in sorted(sk, key=lambda x: x["kaina"])[:12]]},
+             "atnaujinta": p.get("atnaujinta"), "pastabos": p.get("pastabos", "")}
+        amzius = (siandien - datetime.strptime(p["atnaujinta"], "%Y-%m-%d").date()).days if p.get("atnaujinta") else None
+        r["amzius_d"] = amzius
+        if pardavimo and es_best:
+            kastai = cfg.get("kastai_eur", 3.0)
+            pelnas = pardavimo - es_best["viso"] - kastai
+            r.update(pardavimo=round(pardavimo), es_kaina=es_best["viso"], es_parduotuve=es_best.get("parduotuve"),
+                     kastai=kastai, pelnas=round(pelnas), roi=round(pelnas / es_best["viso"], 2),
+                     skaiciavimas=(f"Parduosi ~{eur(pardavimo)} (" + (f"pigiausia LT parduotuvė {eur(lt_min)} × {cfg.get('lt_nuolaida', 0.88):.2f}" if lt_min else "")
+                                   + ("; " if lt_min and sk_new_med else "") + (f"nauji Skelbiu.lt skelbimai ~{eur(sk_new_med)} × 0,95" if sk_new_med else "")
+                                   + f") − ES {eur(es_best['viso'])} su siuntimu − kaštai {eur(kastai)} = {eur(pelnas)}"))
+            if amzius is not None and amzius > cfg.get("max_amzius_d", 10):
+                r["sprendimas"] = "pasenę"
+            elif pelnas >= cfg.get("min_pelnas_eur", 25) and pelnas / es_best["viso"] >= cfg.get("min_roi", 0.15):
+                r["sprendimas"] = "proga"
+            elif pelnas >= 10:
+                r["sprendimas"] = "ribinis"
+            else:
+                r["sprendimas"] = "ne"
+        else:
+            r.update(pardavimo=None, pelnas=None, roi=None,
+                     sprendimas="trūksta kainų", skaiciavimas="Trūksta " + ("LT kainos" if not pardavimo else "ES kainos") + ".")
+        out.append(r)
+    tv = {"proga": 0, "ribinis": 1, "ne": 2, "pasenę": 3, "trūksta kainų": 4}
+    out.sort(key=lambda r: (tv.get(r["sprendimas"], 9), -(r.get("pelnas") or -999)))
+    return {"produktai": out, "parduotuves": d.get("parduotuves", []), "atnaujinta": d.get("atnaujinta"),
+            "prielaidos": cfg}
+
+
+def sveikata(vertinimai: dict) -> dict:
+    try:
+        b = json.loads((ROOT / "data" / "busena.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        b = {}
+    try:
+        nd = json.loads(NAUJI.read_text(encoding="utf-8")).get("atnaujinta")
+    except (OSError, ValueError):
+        nd = None
+    return {"paieska": b.get("paleista"), "claude_vertinimas": max((v.get("ivertinta") or "" for v in vertinimai.values()), default=None),
+            "nauji_atnaujinta": nd}
+
+
 def main() -> int:
     vert_kelias = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "data" / "vertinimai.json"
     isvestis = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "docs" / "analize.json"
@@ -689,6 +808,7 @@ def main() -> int:
     out = {"sugeneruota": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "prielaidos": N,
            "skelbimu_istorijoje": len(visi), "radiniai": radiniai, "kalibracija": kal,
            "pardavimas": pardavimo_pagalba(visi), "istorija": istor,
+           "nauji": nauji_daiktai(visi), "sveikata": sveikata(vertinimai),
            "rinka": {k: {"n": len(v), "mediana": round(statistics.median(v)), "min": min(v), "max": max(v)}
                      for k, v in rinka.items() if len(v) >= 2}}
     isvestis.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")

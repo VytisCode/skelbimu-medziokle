@@ -2,16 +2,20 @@
 
 Šias instrukcijas kiekvieną rytą vykdo Claude suplanuota užduotis. Tikslas: pradedančiajam perpardavėjui
 (2–3 val. per savaitę, kapitalas 200–300 €, gyvena Vilniuje; kitur – tik siunta į paštomatą) pasakyti, ką pirkti, už kiek ir už kiek parduoti.
-Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų, ne daugiau 25 skelbimų per dieną.
+Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų. Per dieną: ne daugiau 15 naudotų skelbimų (A dalis) ir 8 naujų daiktų kainų patikrų (B dalis).
+
+**A dalis – naudoti skelbimai (Skelbiu.lt).**
 
 ## Žingsniai
 
 1. `python3 analize.py` (sukuria `docs/analize.json` iš naujausių duomenų).
 2. Iš `docs/analize.json` → `radiniai` paimk skelbimus, kurių sprendimas `verta`, `derėtis`, `tikrinti` arba
    `nežinoma`, ir kurių dar nėra `data/vertinimai.json` (arba įvertinti prieš > 3 dienas ir kaina pasikeitė).
-   Pirmenybė: didžiausias galimas pelnas, tada naujausi. Ne daugiau 25.
+   Pirmenybė: `verta` (laiško kandidatai), tada didžiausias galimas pelnas, tada naujausi. Ne daugiau 15.
 3. Kiekvienam (vienodo modelio skelbimams paieškos daryk vieną kartą):
-   - Tiksliai atpažink modelį (pvz. „Makita DTD152Z be baterijos“, „LEGO 42125 Ferrari 488 GTE“).
+   - Tiksliai atpažink modelį (pvz. „Makita DTD152Z be baterijos“, „LEGO 42125 Ferrari 488 GTE“). Perskaityk VISĄ aprašymą:
+     jei aprašyme kitas modelis ar karta nei pavadinime (pvz. pavadinime Fenix 7, aprašyme Fenix 5), vertink pagal aprašymą ir
+     sprendimas `tikrinti`. Defektai aprašyme (neveikia, Wi-Fi, įskilęs, užrakintas) – niekada ne `verta`.
    - Naujo daikto kaina: 2–3 patikimos ES / LT e. parduotuvės su kaina ir siuntimu į Lietuvą (WebSearch,
      „standard“, daugiausia 2 paieškos modeliui). Kiekvieną įrašyk į `parduotuves` su tikslia produkto nuoroda.
    - Tikėtina pardavimo kaina Lietuvoje naudotam daiktui (realiai parduodama, ne prašoma): remkis
@@ -45,11 +49,43 @@ Taupyk limitą: dirbk tiesiai, be ilgų paaiškinimų, ne daugiau 25 skelbimų p
 5. Įrodymai pirkiniams: `docs/sandoriai.json` (pildo vartotojas svetainėje). Jei kuris įrašas turi nuorodą, bet neturi
    `irodymas`, užpildyk jį iš `data/skelbimai.json` (pavadinimas, kaina, vieta_laikas, aprasymas ≤ 600 simb., bukle,
    pastebetas, uzfiksuota, saltinis: "istorija"). Kitų žurnalo laukų nekeisk.
-6. Vėl `python3 analize.py`, tada `git pull --rebase origin main`, commit „Claude vertinimas YYYY-MM-DD“, push į `main`.
+6. Atlik B dalį (žemiau).
+7. Vėl `python3 analize.py`, tada `git pull --rebase origin main`, commit „Claude vertinimas YYYY-MM-DD“, push į `main`.
+
+## B dalis – nauji daiktai: ES parduotuvė → parduoti Lietuvoje
+
+Vartotojo testas (nuo 2026-11-07, kelias savaites): ar naują daiktą galima nupirkti ES e. parduotuvėje pigiau ir parduoti LT.
+Skelbiu.lt – tik LT kainų šaltinis. Duomenys `data/nauji.json`, svetainė `docs/nauji.html` skaičiuoja pelną pati.
+
+1. Produktų sąrašas `produktai` – iki 30 konkrečių naujų modelių. Rinkis: populiarūs Skelbiu.lt (`docs/analize.json` → `rinka`,
+   n ≥ 4), naujas kainuoja 60–400 €, telpa į paštomatą, ne šalmai / kėdutės / maistas / kosmetika. Pvz. DJI Osmo Pocket 3,
+   GoPro Hero 13, Garmin Venu 3, Garmin Forerunner 265, Kindle Paperwhite, LEGO Technic rinkiniai, Makita DTD153Z, Dyson V-serija,
+   Nintendo Switch žaidimai / pultai. Nenaudingus (3 kartus iš eilės `ne`) pakeisk naujais.
+2. Kasdien atnaujink iki 8 produktų, kurių `atnaujinta` seniausia (> 3 d.) arba kurių kainų dar nėra. Kiekvienam (WebSearch
+   „standard“, ≤ 3 paieškos produktui):
+   - `lt`: 2–3 pigiausios LT parduotuvės (kaina24.lt, kainos.lt, pigu.lt, varle.lt, 1a.lt, technorama.lt, topocentras.lt,
+     senukai.lt) su tikslia produkto nuoroda ir kaina.
+   - `es`: 1–3 pigiausi pasiūlymai ES parduotuvėse, kurios SIUNČIA Į LIETUVĄ (`parduotuves` sąrašas žemiau), su tikslia
+     produkto nuoroda, kaina ir `siunta_eur` į LT. Jei siuntimo į LT kainos nežinai – įrašyk geriausią įvertį ir `pastaba`.
+     Parduotuvę, kuri nesiunčia į LT, įrašyk į `parduotuves` su `siuncia_i_lt: false` ir jos nebenaudok.
+   - `patikrinta`: data (YYYY-MM-DD) kiekvienai kainai; produktui `atnaujinta`.
+   - Lygink TIK tą patį modelį ir komplektaciją (pvz. Pocket 3 vs Pocket 3 Creator Combo – skirtingi produktai).
+   - `raktas`: `docs/analize.json` → `rinka` raktas, kuriuo Skelbiu.lt žymi tą modelį (pvz. `dji-osmopocket`), jei yra.
+3. `parduotuves` – ES parduotuvių sąrašas su `pavadinimas`, `salis`, `url`, `siuncia_i_lt` (true / false / null – nežinoma),
+   `siunta_eur`, `pastaba`, `patikrinta`. Papildyk, kai randi naują pigią parduotuvę, siunčiančią į LT.
+4. Formatas:
+   ```json
+   {"atnaujinta": "YYYY-MM-DD", "parduotuves": [...],
+    "produktai": [{"id": "dji-osmo-pocket-3", "modelis": "DJI Osmo Pocket 3", "kategorija": "DJI", "raktas": "dji-osmopocket",
+      "lt": [{"parduotuve": "pigu.lt", "kaina": 0, "url": "https://…", "patikrinta": "YYYY-MM-DD"}],
+      "es": [{"parduotuve": "Amazon.de", "salis": "DE", "kaina": 0, "siunta_eur": 0, "url": "https://…", "patikrinta": "YYYY-MM-DD", "pastaba": ""}],
+      "atnaujinta": "YYYY-MM-DD", "pastabos": ""}]}
+   ```
+5. Niekada neįrašyk kainos be nuorodos ir neišgalvok kainų. Jei nepavyko rasti – palik tuščią ir parašyk `pastabos`.
 
 ## Taisyklės
 
 - Niekada nieko nepirk, nerašyk pardavėjams, nedėk skelbimų.
 - Repo viešas: jokių asmens duomenų (vardų, telefonų, adresų). Žurnalas vieša vartotojo sutikimu.
 - Nekeisk `skelbiu.py`, workflow failų ir `pension-fund-tracker` repo.
-- Pabaigoje viena eilutė: kiek įvertinta, kiek „verta“, geriausias radinys su pelnu.
+- Pabaigoje viena eilutė: kiek įvertinta, kiek „verta“, geriausias radinys su pelnu; kiek naujų daiktų atnaujinta ir geriausia ES proga.

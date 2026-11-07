@@ -14,11 +14,14 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import escape
 from pathlib import Path
+from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
+import re
 
 ANALIZE = Path("docs/analize.json")
 PRANESTA = Path("data/pranesta.json")
 SVETAINE = "https://vytiscode.github.io/skelbimu-medziokle/"
-SPRENDIMAI = ("verta", "derėtis")
+SPRENDIMAI = ("verta",)
 MAX_LAISKE = 5
 
 
@@ -81,23 +84,78 @@ def laiskas(siusti, viso):
     return msg
 
 
-def main():
-    user, pw, to = (os.environ.get(k, "").strip() for k in ("GMAIL_USER", "GMAIL_PASSWORD", "RECIPIENT_EMAIL"))
-    if not (user and pw and to):
-        print("Gmail secrets nenustatyti – pranešimai nesiunčiami.")
-        return
-    # App password Google rodo kaip „abcd efgh ijkl mnop“ – tarpai ir eilučių lūžiai tik kosmetika
-    pw = "".join(pw.split())
-    user = "".join(user.split())
-    print("Patikra: GMAIL_USER su @:", "@" in user, "| App password 16 raidžių:", len(pw) == 16 and pw.isalpha())
-    pranesta = set(json.loads(PRANESTA.read_text())) if PRANESTA.exists() else set()
-    radiniai = json.loads(ANALIZE.read_text()).get("radiniai", [])
-    nauji = [r for r in radiniai if r.get("sprendimas") in SPRENDIMAI and str(r["id"]) not in pranesta]
-    if not nauji:
-        print("Naujų radinių pranešimui nėra.")
-        return
-    nauji.sort(key=lambda r: -(r.get("balas") or 0))
-    msg = laiskas(nauji[:MAX_LAISKE], len(nauji))
+NUSTATYMAI = json.loads(Path("nustatymai.json").read_text(encoding="utf-8"))
+DEFEKTAI = re.compile(r"neveik|wi-?fi|neprisijung|įskil|iskil|suskil|skilęs|užrakint|uzrakint|dalims|be pulto|sugad|defekt|"
+                      r"nekraun|neįsijung|neisijung|blokuot|icloud", re.I)
+
+
+PADIRBINIAI = re.compile(r"supersonic|airwrap|corrale|airpods", re.I)
+
+
+def tinka_laiskui(r) -> str | None:
+    """Grąžina priežastį, kodėl NEsiųsti (None – siųsti). Ribos: nustatymai.json → laiskai."""
+    L = NUSTATYMAI.get("laiskai", {})
+    if r.get("sprendimas") != "verta":
+        return "ne „Pirkti“"
+    if (r.get("pelnas") or 0) < L.get("min_pelnas_eur", 20):
+        return "per mažas pelnas"
+    if (r.get("kaina") or 0) > L.get("max_kaina_eur", 300):
+        return "brangiau nei kapitalas"
+    if r.get("amzius_d") is not None and r["amzius_d"] > L.get("max_amzius_d", 7):
+        return "senas skelbimas"
+    if DEFEKTAI.search((r.get("pilnas_aprasymas") or r.get("aprasymas") or "") + " " + (r.get("pavadinimas") or "")):
+        return "defekto žodžiai aprašyme"
+    if r.get("modelio_neatitikimas"):
+        return "modelis neaiškus"
+    if PADIRBINIAI.search(r.get("pavadinimas") or "") and not (r.get("kastai") or {}).get("vietinis"):
+        return "dažnai klastojamas daiktas siunta"
+    return None
+
+
+def tyla() -> bool:
+    nuo, iki = NUSTATYMAI.get("laiskai", {}).get("tylos_valandos", [23, 7])
+    h = datetime.now(ZoneInfo("Europe/Vilnius")).hour
+    return h >= nuo or h < iki
+
+
+def nauju_laiskas(progos):
+    pirmas = progos[0]
+    tema = (f"Naujas iš ES: {pirmas['modelis'][:45]} – galima uždirbti ~{eur(pirmas.get('pelnas'))}" if len(progos) == 1
+            else f"Nauji iš ES: {len(progos)} progos – geriausia {pirmas['modelis'][:35]} (~{eur(pirmas.get('pelnas'))})")
+    txt, html = ["Labas,\n\nradau naujų daiktų, kuriuos ES parduotuvėje galima nupirkti pigiau, nei jie parduodami Lietuvoje."], \
+        ["<p>Labas,</p><p>radau naujų daiktų, kuriuos ES parduotuvėje galima nupirkti pigiau, nei jie parduodami Lietuvoje.</p>"]
+    for r in progos[:MAX_LAISKE]:
+        es = r["es"][0]
+        pa = [f"Pirk: {es.get('parduotuve')} už {eur(es['viso'])} su siuntimu į LT.",
+              f"Lietuvoje pigiausia parduotuvė: {eur(r.get('lt_min'))}. Parduosi ~{eur(r.get('pardavimo'))}.",
+              r.get("skaiciavimas", ""),
+              "Prieš pirkdamas krepšelyje patikrink galutinę kainą su siuntimu į Lietuvą ir ar prekė dar yra."]
+        txt.append(f"{r['modelis']}\n" + "\n".join(pa) + f"\n{es.get('url', '')}")
+        html.append('<div style="margin:18px 0;padding:14px 16px;border:1px solid #ddd;border-radius:10px">'
+                    f'<div style="font-size:17px;font-weight:bold;margin-bottom:6px">{escape(r["modelis"])}</div>'
+                    + "".join(f'<p style="margin:4px 0">{escape(x)}</p>' for x in pa)
+                    + f'<p style="margin:10px 0 0"><a href="{escape(es.get("url", SVETAINE))}" style="background:#2a62b8;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none;display:inline-block">Atidaryti parduotuvę</a></p></div>')
+    txt.append(f"Visi skaičiavimai: {SVETAINE}nauji.html")
+    html.append(f'<p>Visi skaičiavimai: <a href="{SVETAINE}nauji.html">{SVETAINE}nauji.html</a></p>')
+    return tema, txt, html
+
+
+def sveikatos_laiskas(problemos):
+    tema = "Skelbimų medžioklė: sistema neveikia kaip turi"
+    txt = ["Labas,", "radau problemų, dėl kurių gali praleisti progas:"] + ["– " + p for p in problemos] + [SVETAINE]
+    html = ["<p>Labas,</p><p>radau problemų, dėl kurių gali praleisti progas:</p><ul>"] + [f"<li>{escape(p)}</li>" for p in problemos] + [f"</ul><p><a href=\"{SVETAINE}\">{SVETAINE}</a></p>"]
+    return tema, txt, html
+
+
+def sudaryti(tema, txt, html):
+    msg = MIMEMultipart("alternative")
+    msg.attach(MIMEText("\n\n".join(txt), "plain", "utf-8"))
+    msg.attach(MIMEText('<div style="font-family:Arial,sans-serif;font-size:15px;line-height:1.45;color:#222;max-width:560px">' + "".join(html) + "</div>", "html", "utf-8"))
+    msg["Subject"] = tema
+    return msg
+
+
+def siusti(user, pw, to, msg) -> bool:
     msg["From"], msg["To"] = formataddr((str(Header("Skelbimų medžioklė", "utf-8")), user)), to
     klaidos = []
     for bandymas in range(3):
@@ -111,19 +169,79 @@ def main():
             etapas = "prisijungimas"; s.login(user, pw)
             etapas = "siuntimas"; s.sendmail(user, [a.strip() for a in to.split(",") if a.strip()], msg.as_string())
             s.quit()
-            break
+            return True
         except smtplib.SMTPAuthenticationError as e:
             print("Gmail atmetė prisijungimą – patikrink GMAIL_USER ir GMAIL_PASSWORD (reikia App password):", e.smtp_code)
-            sys.exit(0)
+            return False
         except Exception as e:
             klaidos.append(f"{etapas}: {type(e).__name__}: {e}")
             time.sleep(5)
-    else:
-        print("Laiško išsiųsti nepavyko:", "; ".join(klaidos))
-        sys.exit(0)
-    pranesta.update(str(r["id"]) for r in nauji)
-    PRANESTA.write_text(json.dumps(sorted(pranesta), ensure_ascii=False))
-    print(f"Išsiųsta apie {len(nauji)} radinius.")
+    print("Laiško išsiųsti nepavyko:", "; ".join(klaidos))
+    return False
+
+
+def problemos(a) -> list[str]:
+    sv = a.get("sveikata") or {}
+    out = []
+    now = datetime.now(timezone.utc)
+    cv = sv.get("claude_vertinimas")
+    if not cv or now.date() - datetime.strptime(cv, "%Y-%m-%d").date() > timedelta(days=1):
+        out.append(f"Claude vertinimas nevyko nuo {cv or 'niekada'}. Patikrink suplanuotą užduotį „Skelbimų vertinimas“.")
+    nd = sv.get("nauji_atnaujinta")
+    if not nd or now.date() - datetime.strptime(nd, "%Y-%m-%d").date() > timedelta(days=3):
+        out.append(f"Naujų daiktų ES kainos neatnaujintos nuo {nd or 'niekada'}.")
+    return out
+
+
+def main():
+    user, pw, to = (os.environ.get(k, "").strip() for k in ("GMAIL_USER", "GMAIL_PASSWORD", "RECIPIENT_EMAIL"))
+    if not (user and pw and to):
+        print("Gmail secrets nenustatyti – pranešimai nesiunčiami.")
+        return
+    # App password Google rodo kaip „abcd efgh ijkl mnop“ – tarpai ir eilučių lūžiai tik kosmetika
+    pw = "".join(pw.split())
+    user = "".join(user.split())
+    if tyla():
+        print("Tylos valandos (Vilniaus laiku) – laiškai bus išsiųsti ryte.")
+        return
+    pranesta = set(json.loads(PRANESTA.read_text())) if PRANESTA.exists() else set()
+    a = json.loads(ANALIZE.read_text())
+    pakeista = False
+
+    # 1. Naudoti daiktai: tik „Pirkti“, perėję visas ribas
+    nauji, atmesti = [], {}
+    for r in a.get("radiniai", []):
+        if str(r["id"]) in pranesta:
+            continue
+        kodel = tinka_laiskui(r)
+        if kodel is None:
+            nauji.append(r)
+        elif r.get("sprendimas") in ("verta", "derėtis"):
+            atmesti[kodel] = atmesti.get(kodel, 0) + 1
+    print("Nesiųsta:", atmesti)
+    if nauji:
+        nauji.sort(key=lambda r: -(r.get("balas") or 0))
+        if siusti(user, pw, to, laiskas(nauji[:MAX_LAISKE], len(nauji))):
+            pranesta.update(str(r["id"]) for r in nauji)
+            pakeista = True
+            print(f"Išsiųsta apie {len(nauji)} radinius.")
+
+    # 2. Nauji daiktai iš ES: raktas su kaina, kad pigesnė ES kaina vėl praneštų
+    progos = [r for r in (a.get("nauji") or {}).get("produktai", []) if r.get("sprendimas") == "proga"
+              and f"naujas:{r['id']}:{round(r['es_kaina'])}" not in pranesta]
+    if progos and siusti(user, pw, to, sudaryti(*nauju_laiskas(progos))):
+        pranesta.update(f"naujas:{r['id']}:{round(r['es_kaina'])}" for r in progos)
+        pakeista = True
+        print(f"Išsiųsta apie {len(progos)} naujų daiktų progas.")
+
+    # 3. Sveikata: kartą per dieną, jei kas nors sustojo
+    pr = problemos(a)
+    raktas = "sveikata:" + datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if pr and raktas not in pranesta and siusti(user, pw, to, sudaryti(*sveikatos_laiskas(pr))):
+        pranesta.add(raktas)
+        pakeista = True
+    if pakeista:
+        PRANESTA.write_text(json.dumps(sorted(pranesta), ensure_ascii=False))
 
 
 if __name__ == "__main__":

@@ -79,6 +79,24 @@ def istraukti_kaina(h: str) -> tuple[float | None, str]:
     return None, ""
 
 
+def istraukti_paveiksla(h: str) -> str | None:
+    for blk in re.findall(r"<script[^>]+application/ld\+json[^>]*>(.*?)</script>", h, re.S | re.I):
+        try:
+            d = json.loads(blk.strip())
+        except ValueError:
+            continue
+        for o in (d if isinstance(d, list) else d.get("@graph", [d]) if isinstance(d, dict) else []):
+            if not isinstance(o, dict) or "Product" not in str(o.get("@type", "")):
+                continue
+            im = o.get("image")
+            im = im[0] if isinstance(im, list) and im else im
+            im = im.get("url") if isinstance(im, dict) else im
+            if isinstance(im, str) and im.startswith("https://"):
+                return im
+    m = re.search(r'<meta[^>]+property="og:image"[^>]+content="(https://[^"]+)"', h, re.I)
+    return m.group(1) if m else None
+
+
 def main() -> int:
     try:
         d = json.loads(NAUJI.read_text(encoding="utf-8"))
@@ -94,7 +112,7 @@ def main() -> int:
     for p in d.get("produktai", []):
         for x in p.get("lt", []) + p.get("es", []):
             u = x.get("url") or ""
-            if u.startswith("https://") and u not in urls and auto.get(u, {}).get("laikas", "") < riba:
+            if u.startswith("https://") and u not in urls and (auto.get(u, {}).get("laikas", "") < riba or auto.get(u, {}).get("v", 1) < 2):
                 urls.append(u)
     urls = urls[:MAX_NUORODU]
     if not urls:
@@ -115,7 +133,7 @@ def main() -> int:
                 robots[host] = rp
             except Exception:  # noqa: BLE001 – be robots.txt nesiunčiam
                 robots[host] = None
-        e = {"laikas": dabar()}
+        e = {"laikas": dabar(), "v": 2}
         rp = robots[host]
         if rp is None:
             e["klaida"] = "robots.txt neprieinamas"
@@ -128,6 +146,9 @@ def main() -> int:
                     h = r.read(MAX_BAITU).decode("utf-8", "replace")
                 kb += len(h) / 1024
                 v, budas = istraukti_kaina(h)
+                pav = istraukti_paveiksla(h)
+                if pav:
+                    e["paveikslas"] = pav[:400]
                 if v:
                     e.update(kaina=v, budas=budas, kainos_laikas=e["laikas"])
                     gauta += 1
@@ -139,6 +160,8 @@ def main() -> int:
                 e["klaida"] = paslepti(f"{type(ex).__name__}: {ex}")[:120]
             time.sleep(3)
         senas = auto.get(u, {})
+        if "paveikslas" not in e and senas.get("paveikslas"):
+            e["paveikslas"] = senas["paveikslas"]
         if "kaina" not in e and senas.get("kaina"):
             e["kaina_anksciau"], e["kainos_laikas"] = senas["kaina"], senas.get("kainos_laikas")
         auto[u] = e

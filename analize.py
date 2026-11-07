@@ -721,6 +721,8 @@ def nauji_daiktai(visi: list[dict]) -> dict:
     def su_auto(x):      # automatiškai patikrinta kaina (kainos.py) pakeičia rankinę, jei šviežesnė
         a = auto.get(x.get("url") or "", {})
         x = dict(x)
+        if a.get("paveikslas"):
+            x["paveikslas"] = a["paveikslas"]
         if a.get("kaina") and (a.get("kainos_laikas") or "")[:10] >= (x.get("patikrinta") or ""):
             x.update(kaina=a["kaina"], patikrinta=a["kainos_laikas"][:10], auto=True)
         elif a.get("klaida"):
@@ -753,7 +755,8 @@ def nauji_daiktai(visi: list[dict]) -> dict:
                                            "nauju_mediana": round(sk_new_med) if sk_new_med else None,
                                            "pavyzdziai": [{"pavadinimas": x["pavadinimas"][:70], "kaina": x["kaina"], "nuoroda": x["nuoroda"],
                                                            "naujas": naujas_skelbimas(x)} for x in sorted(sk, key=lambda x: x["kaina"])[:12]]},
-             "atnaujinta": p.get("atnaujinta"), "pastabos": p.get("pastabos", "")}
+             "atnaujinta": p.get("atnaujinta"), "pastabos": p.get("pastabos", ""),
+             "paveikslas": p.get("paveikslas") or next((x["paveikslas"] for x in map(su_auto, p.get("es", []) + p.get("lt", [])) if x.get("paveikslas")), None)}
         amzius = (siandien - datetime.strptime(p["atnaujinta"], "%Y-%m-%d").date()).days if p.get("atnaujinta") else None
         r["amzius_d"] = amzius
         if lt_min and es_best:       # be LT parduotuvės kainos nevertinam: 2 Skelbiu skelbimų per mažai
@@ -773,12 +776,32 @@ def nauji_daiktai(visi: list[dict]) -> dict:
             else:
                 r["sprendimas"] = "ne"
         else:
-            r.update(pardavimo=None, pelnas=None, roi=None,
+            r.update(pardavimo=round(pardavimo) if pardavimo else None, es_kaina=es_best["viso"] if es_best else None,
+                     pelnas=None, roi=None,
                      sprendimas="trūksta kainų", skaiciavimas="Trūksta " + ("LT parduotuvės kainos (be jos nevertinama)" if not lt_min else "ES kainos") + ".")
         out.append(r)
     tv = {"proga": 0, "ribinis": 1, "ne": 2, "pasenę": 3, "trūksta kainų": 4}
     out.sort(key=lambda r: (tv.get(r["sprendimas"], 9), -(r.get("pelnas") or -999)))
-    return {"produktai": out, "parduotuves": d.get("parduotuves", []), "atnaujinta": d.get("atnaujinta"),
+    busena: dict[str, dict] = {}      # kiekviena tikrinta parduotuvė: ar atiduoda kainas
+    for p in d.get("produktai", []):
+        for salis, xs in (("LT", p.get("lt", [])), ("ES", p.get("es", []))):
+            for x in xs:
+                u = x.get("url") or ""
+                host = urllib.parse.urlsplit(u).netloc.removeprefix("www.")
+                if not host:
+                    continue
+                b = busena.setdefault(host, {"parduotuve": host, "tipas": salis, "nuorodu": 0, "kainu": 0, "klaida": None, "patikrinta": None})
+                a = auto.get(u, {})
+                b["nuorodu"] += 1
+                b["kainu"] += 1 if a.get("kaina") else 0
+                b["klaida"] = b["klaida"] or a.get("klaida")
+                b["patikrinta"] = max(b["patikrinta"] or "", (a.get("laikas") or "")[:10]) or None
+    for b in busena.values():
+        b["busena"] = ("dar netikrinta" if not b["patikrinta"] else "veikia" if b["kainu"] == b["nuorodu"]
+                       else "iš dalies" if b["kainu"] else "neveikia")
+    return {"produktai": out, "parduotuves": d.get("parduotuves", []),
+            "atnaujinta": max([b["patikrinta"] for b in busena.values() if b["kainu"]] + [d.get("atnaujinta") or ""]) or None,
+            "tikrinamos": sorted(busena.values(), key=lambda b: (b["tipas"], b["busena"] != "veikia", b["parduotuve"])),
             "prielaidos": cfg}
 
 

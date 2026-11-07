@@ -732,6 +732,10 @@ def nauji_daiktai(visi: list[dict]) -> dict:
         lt = [x for x in map(su_auto, p.get("lt", [])) if x.get("kaina")]
         es = [dict(x, viso=round(x["kaina"] + (x.get("siunta_eur") or 0), 2)) for x in map(su_auto, p.get("es", [])) if x.get("kaina")]
         sk = pagal_rakta.get(p.get("raktas") or "", [])
+        if p.get("skelbiu_tinka"):      # tik tas pats modelis (pvz. ne Pocket 4 vietoj Pocket 3)
+            sk = [x for x in sk if re.search(p["skelbiu_tinka"], be_diakritiku(x.get("pavadinimas") or ""), re.I)]
+        if p.get("skelbiu_atmesti"):
+            sk = [x for x in sk if not re.search(p["skelbiu_atmesti"], be_diakritiku(x.get("pavadinimas") or ""), re.I)]
         sk_nauji = [x for x in sk if naujas_skelbimas(x)]
         lt_min = min((x["kaina"] for x in lt), default=None)
         sk_new_med = statistics.median([x["kaina"] for x in sk_nauji]) if len(sk_nauji) >= 2 else None
@@ -752,7 +756,7 @@ def nauji_daiktai(visi: list[dict]) -> dict:
              "atnaujinta": p.get("atnaujinta"), "pastabos": p.get("pastabos", "")}
         amzius = (siandien - datetime.strptime(p["atnaujinta"], "%Y-%m-%d").date()).days if p.get("atnaujinta") else None
         r["amzius_d"] = amzius
-        if pardavimo and es_best:
+        if lt_min and es_best:       # be LT parduotuvės kainos nevertinam: 2 Skelbiu skelbimų per mažai
             kastai = cfg.get("kastai_eur", 3.0)
             pelnas = pardavimo - es_best["viso"] - kastai
             r.update(pardavimo=round(pardavimo), es_kaina=es_best["viso"], es_parduotuve=es_best.get("parduotuve"),
@@ -770,7 +774,7 @@ def nauji_daiktai(visi: list[dict]) -> dict:
                 r["sprendimas"] = "ne"
         else:
             r.update(pardavimo=None, pelnas=None, roi=None,
-                     sprendimas="trūksta kainų", skaiciavimas="Trūksta " + ("LT kainos" if not pardavimo else "ES kainos") + ".")
+                     sprendimas="trūksta kainų", skaiciavimas="Trūksta " + ("LT parduotuvės kainos (be jos nevertinama)" if not lt_min else "ES kainos") + ".")
         out.append(r)
     tv = {"proga": 0, "ribinis": 1, "ne": 2, "pasenę": 3, "trūksta kainų": 4}
     out.sort(key=lambda r: (tv.get(r["sprendimas"], 9), -(r.get("pelnas") or -999)))

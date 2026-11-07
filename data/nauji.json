@@ -112,7 +112,9 @@
     }
    ],
    "atnaujinta": null,
-   "pastabos": "Pradinis sąrašas: kainas surinks automatinis tikrintuvas."
+   "pastabos": "Pradinis sąrašas: kainas surinks automatinis tikrintuvas.",
+   "skelbiu_tinka": "pocket\\s*3",
+   "skelbiu_atmesti": "pocket\\s*[24]|combo|creator"
   },
   {
    "id": "gopro-hero13-black",
@@ -139,7 +141,9 @@
     }
    ],
    "atnaujinta": null,
-   "pastabos": ""
+   "pastabos": "",
+   "skelbiu_tinka": "hero\\s*13",
+   "skelbiu_atmesti": "hero\\s*1[0-24]"
   },
   {
    "id": "garmin-venu-3",
@@ -162,7 +166,9 @@
     }
    ],
    "atnaujinta": null,
-   "pastabos": ""
+   "pastabos": "",
+   "skelbiu_tinka": "venu\\s*3(?!\\s*s)",
+   "skelbiu_atmesti": "venu\\s*3\\s*s|41\\s*mm"
   }
  ]
 }

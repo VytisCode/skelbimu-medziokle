@@ -4,16 +4,20 @@
   "klaida": "robots.txt neprieinamas"
  },
  "https://dateks.lv/en/cenas/sporta-kameras/1019138-dji-osmo-pocket-3": {
-  "laikas": "2026-11-07T10:24:12Z",
+  "laikas": "2026-11-07T10:33:49Z",
+  "v": 2,
+  "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/166/1533.jpg",
   "kaina": 474.52,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:24:12Z"
+  "kainos_laikas": "2026-11-07T10:33:49Z"
  },
  "https://aio.lv/en/product--dji-cpos0000030103--10714485": {
-  "laikas": "2026-11-07T10:24:17Z",
+  "laikas": "2026-11-07T10:33:54Z",
+  "v": 2,
+  "paveikslas": "https://aio.lv/img/cache/product/10714485/70806634_large.webp",
   "kaina": 329.0,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:24:17Z"
+  "kainos_laikas": "2026-11-07T10:33:54Z"
  },
  "https://www.kaina24.lt/p/gopro-hero13-black/": {
   "laikas": "2026-11-07T10:24:22Z",
@@ -24,19 +28,57 @@
   "klaida": "neprieinama (HTTP 403)"
  },
  "https://www.photopoint.ee/en/cameras/5246690-gopro-hero13-black": {
-  "laikas": "2026-11-07T10:24:27Z",
+  "laikas": "2026-11-07T10:34:04Z",
+  "v": 2,
+  "paveikslas": "https://static1.nordic.pictures/50339264-large_default/gopro-hero13-black.jpg",
   "kaina": 362.9,
   "budas": "meta",
-  "kainos_laikas": "2026-11-07T10:24:27Z"
+  "kainos_laikas": "2026-11-07T10:34:04Z"
  },
  "https://www.shopro.lt/garmin-venu-3-3-56-cm-1-4-amoled-45-mm-digital-454-x-454-pixels-touchscreen-silver-white-wi-fi-gps-satellite-lt": {
   "laikas": "2026-11-07T10:24:33Z",
   "klaida": "neprieinama (HTTP 404)"
  },
  "https://aio.lv/en/product--garmin-753759314743--10722107": {
-  "laikas": "2026-11-07T10:24:38Z",
+  "laikas": "2026-11-07T10:34:24Z",
+  "v": 2,
+  "paveikslas": "https://aio.lv/img/cache/product/10722107/65240530_large.webp",
   "kaina": 357.49,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:24:38Z"
+  "kainos_laikas": "2026-11-07T10:34:24Z"
+ },
+ "https://pigu.lt/lt/veiksmo-kameros/veiksmo-ir-laisvalaikio-kamera-dji-osmo-pocket-3?id=77409974": {
+  "laikas": "2026-11-07T10:33:45Z",
+  "v": 2,
+  "klaida": "neprieinama (HTTP 403)"
+ },
+ "https://www.varle.lt/veiksmo-kameros/gopro-hero-13-black-kamera-baltos-spalvos--46751892.html": {
+  "laikas": "2026-11-07T10:33:59Z",
+  "v": 2,
+  "paveikslas": "https://www.varle.lt/static/uploads/products/572/gop/gopro-hero13-juodas-in-polar-baltas-32fcc88363.webp",
+  "kaina": 429.99,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-07T10:33:59Z"
+ },
+ "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-venu-3-45-mm-skaluno--28354626.html": {
+  "laikas": "2026-11-07T10:34:10Z",
+  "v": 2,
+  "paveikslas": "https://www.varle.lt/static/uploads/products/726/ism/ismanusis-laikrodis-garmin-venu-3-gps-6f0716f022.webp",
+  "kaina": 319.0,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-07T10:34:10Z"
+ },
+ "https://bigbox.lt/ismanieji-laikrodziai-ir-apyrankes/2375833-ismanusis-laikrodis-garmin-venu-3-black-010-02784-01-0753759314743.html": {
+  "laikas": "2026-11-07T10:34:16Z",
+  "v": 2,
+  "paveikslas": "https://media-api.bgbx.eu/product-images/3698583/image-536x536.webp",
+  "kaina": 305.18,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-07T10:34:16Z"
+ },
+ "https://pigu.lt/lt/mobilieji-telefonai-foto-ir-video/ismanieji-laikrodziai-ir-ismaniosios-apyrankes/ismanieji-laikrodziai-smartwatch/ismanusis-laikrodis-garmin-venu-3-slate-black?id=75361687": {
+  "laikas": "2026-11-07T10:34:20Z",
+  "v": 2,
+  "klaida": "neprieinama (HTTP 403)"
  }
 }

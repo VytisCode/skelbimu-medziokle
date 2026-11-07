@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-07T10:31:27Z",
+ "sugeneruota": "2026-11-07T10:34:28Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -44523,7 +44523,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "88053510",
@@ -44542,7 +44542,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "88036948",
@@ -44580,7 +44580,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "87998376",
@@ -44618,7 +44618,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "87954412",
@@ -44637,7 +44637,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "87967496",
@@ -44656,7 +44656,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "87958800",
@@ -44694,7 +44694,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-03T18:29:20Z"
+    "dar_buvo": "2026-11-07T10:33:44Z"
    },
    {
     "id": "87952420",
@@ -44713,7 +44713,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-03T18:29:20Z"
+    "dar_buvo": "2026-11-07T10:33:44Z"
    },
    {
     "id": "87915362",
@@ -45226,7 +45226,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-03T18:30:31Z"
+    "dar_buvo": "2026-11-07T10:33:43Z"
    },
    {
     "id": "87851294",
@@ -45359,7 +45359,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "87833858",
@@ -45549,7 +45549,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:30:36Z"
+    "dar_buvo": "2026-11-07T10:32:56Z"
    },
    {
     "id": "87847204",
@@ -45734,6 +45734,152 @@
  "nauji": {
   "produktai": [
    {
+    "id": "garmin-venu-3",
+    "modelis": "Garmin Venu 3 (45 mm)",
+    "kategorija": "Garmin",
+    "raktas": "garmin-venu-3",
+    "lt": [
+     {
+      "parduotuve": "bigbox.lt",
+      "url": "https://bigbox.lt/ismanieji-laikrodziai-ir-apyrankes/2375833-ismanusis-laikrodis-garmin-venu-3-black-010-02784-01-0753759314743.html",
+      "paveikslas": "https://media-api.bgbx.eu/product-images/3698583/image-536x536.webp",
+      "kaina": 305.18,
+      "patikrinta": "2026-11-07",
+      "auto": true
+     },
+     {
+      "parduotuve": "varle.lt",
+      "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-venu-3-45-mm-skaluno--28354626.html",
+      "paveikslas": "https://www.varle.lt/static/uploads/products/726/ism/ismanusis-laikrodis-garmin-venu-3-gps-6f0716f022.webp",
+      "kaina": 319.0,
+      "patikrinta": "2026-11-07",
+      "auto": true
+     }
+    ],
+    "es": [
+     {
+      "parduotuve": "aio.lv",
+      "salis": "LV",
+      "url": "https://aio.lv/en/product--garmin-753759314743--10722107",
+      "siunta_eur": 5,
+      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://aio.lv/img/cache/product/10722107/65240530_large.webp",
+      "kaina": 357.49,
+      "patikrinta": "2026-11-07",
+      "auto": true,
+      "viso": 362.49
+     }
+    ],
+    "lt_min": 305.18,
+    "skelbiu": {
+     "n": 2,
+     "nauju": 0,
+     "mediana": 165,
+     "nauju_mediana": null,
+     "pavyzdziai": [
+      {
+       "pavadinimas": "Naudotas Garmin Venu 3 45mm",
+       "kaina": 130.0,
+       "nuoroda": "https://www.skelbiu.lt/skelbimai/naudotas-garmin-venu-3-45mm-87822316.html",
+       "naujas": false
+      },
+      {
+       "pavadinimas": "Garmin Venu 3 (45mm) su priedais",
+       "kaina": 200.0,
+       "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-venu-3-45mm-su-priedais-87876712.html",
+       "naujas": false
+      }
+     ]
+    },
+    "atnaujinta": null,
+    "pastabos": "",
+    "paveikslas": "https://aio.lv/img/cache/product/10722107/65240530_large.webp",
+    "amzius_d": null,
+    "pardavimo": 269,
+    "es_kaina": 362.49,
+    "es_parduotuve": "aio.lv",
+    "kastai": 3.0,
+    "pelnas": -97,
+    "roi": -0.27,
+    "skaiciavimas": "Parduosi ~268,6 € (pigiausia LT parduotuvė 305,2 € × 0.88) − ES 362,5 € su siuntimu − kaštai 3 € = -96,9 €",
+    "sprendimas": "ne"
+   },
+   {
+    "id": "gopro-hero13-black",
+    "modelis": "GoPro HERO13 Black",
+    "kategorija": "GoPro",
+    "raktas": "gopro-13",
+    "lt": [
+     {
+      "parduotuve": "varle.lt",
+      "url": "https://www.varle.lt/veiksmo-kameros/gopro-hero-13-black-kamera-baltos-spalvos--46751892.html",
+      "paveikslas": "https://www.varle.lt/static/uploads/products/572/gop/gopro-hero13-juodas-in-polar-baltas-32fcc88363.webp",
+      "kaina": 429.99,
+      "patikrinta": "2026-11-07",
+      "auto": true
+     }
+    ],
+    "es": [
+     {
+      "parduotuve": "Photopoint.ee",
+      "salis": "EE",
+      "url": "https://www.photopoint.ee/en/cameras/5246690-gopro-hero13-black",
+      "siunta_eur": 5,
+      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://static1.nordic.pictures/50339264-large_default/gopro-hero13-black.jpg",
+      "kaina": 362.9,
+      "patikrinta": "2026-11-07",
+      "auto": true,
+      "viso": 367.9
+     }
+    ],
+    "lt_min": 429.99,
+    "skelbiu": {
+     "n": 4,
+     "nauju": 3,
+     "mediana": 262,
+     "nauju_mediana": 250,
+     "pavyzdziai": [
+      {
+       "pavadinimas": "Gopro hero 13juodas power bundle",
+       "kaina": 240.0,
+       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13juodas-power-bundle-87753504.html",
+       "naujas": true
+      },
+      {
+       "pavadinimas": "Gopro Hero 13",
+       "kaina": 250.0,
+       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13-87798852.html",
+       "naujas": true
+      },
+      {
+       "pavadinimas": "Gopro Hero13 Black 5.3k – visiškai nauja",
+       "kaina": 275.0,
+       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero13-black-5-3k-visiskai-nauja-88033000.html",
+       "naujas": true
+      },
+      {
+       "pavadinimas": "Gopro hero 13 kamera veiksmo su deklu vandeniui",
+       "kaina": 315.0,
+       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13-kamera-veiksmo-su-deklu-vandeniui-87863272.html",
+       "naujas": false
+      }
+     ]
+    },
+    "atnaujinta": null,
+    "pastabos": "",
+    "paveikslas": "https://static1.nordic.pictures/50339264-large_default/gopro-hero13-black.jpg",
+    "amzius_d": null,
+    "pardavimo": 238,
+    "es_kaina": 367.9,
+    "es_parduotuve": "Photopoint.ee",
+    "kastai": 3.0,
+    "pelnas": -133,
+    "roi": -0.36,
+    "skaiciavimas": "Parduosi ~237,5 € (pigiausia LT parduotuvė 430 € × 0.88; nauji Skelbiu.lt skelbimai ~250 € × 0,95) − ES 367,9 € su siuntimu − kaštai 3 € = -133,4 €",
+    "sprendimas": "ne"
+   },
+   {
     "id": "dji-osmo-pocket-3",
     "modelis": "DJI Osmo Pocket 3 (standartinis)",
     "kategorija": "DJI",
@@ -45746,6 +45892,7 @@
       "url": "https://aio.lv/en/product--dji-cpos0000030103--10714485",
       "siunta_eur": 5,
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://aio.lv/img/cache/product/10714485/70806634_large.webp",
       "kaina": 329.0,
       "patikrinta": "2026-11-07",
       "auto": true,
@@ -45757,6 +45904,7 @@
       "url": "https://dateks.lv/en/cenas/sporta-kameras/1019138-dji-osmo-pocket-3",
       "siunta_eur": 5,
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/166/1533.jpg",
       "kaina": 474.52,
       "patikrinta": "2026-11-07",
       "auto": true,
@@ -45798,118 +45946,10 @@
     },
     "atnaujinta": null,
     "pastabos": "Pradinis sąrašas: kainas surinks automatinis tikrintuvas.",
+    "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/166/1533.jpg",
     "amzius_d": null,
     "pardavimo": null,
-    "pelnas": null,
-    "roi": null,
-    "sprendimas": "trūksta kainų",
-    "skaiciavimas": "Trūksta LT parduotuvės kainos (be jos nevertinama)."
-   },
-   {
-    "id": "gopro-hero13-black",
-    "modelis": "GoPro HERO13 Black",
-    "kategorija": "GoPro",
-    "raktas": "gopro-13",
-    "lt": [],
-    "es": [
-     {
-      "parduotuve": "Photopoint.ee",
-      "salis": "EE",
-      "url": "https://www.photopoint.ee/en/cameras/5246690-gopro-hero13-black",
-      "siunta_eur": 5,
-      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
-      "kaina": 362.9,
-      "patikrinta": "2026-11-07",
-      "auto": true,
-      "viso": 367.9
-     }
-    ],
-    "lt_min": null,
-    "skelbiu": {
-     "n": 4,
-     "nauju": 3,
-     "mediana": 262,
-     "nauju_mediana": 250,
-     "pavyzdziai": [
-      {
-       "pavadinimas": "Gopro hero 13juodas power bundle",
-       "kaina": 240.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13juodas-power-bundle-87753504.html",
-       "naujas": true
-      },
-      {
-       "pavadinimas": "Gopro Hero 13",
-       "kaina": 250.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13-87798852.html",
-       "naujas": true
-      },
-      {
-       "pavadinimas": "Gopro Hero13 Black 5.3k – visiškai nauja",
-       "kaina": 275.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero13-black-5-3k-visiskai-nauja-88033000.html",
-       "naujas": true
-      },
-      {
-       "pavadinimas": "Gopro hero 13 kamera veiksmo su deklu vandeniui",
-       "kaina": 315.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/gopro-hero-13-kamera-veiksmo-su-deklu-vandeniui-87863272.html",
-       "naujas": false
-      }
-     ]
-    },
-    "atnaujinta": null,
-    "pastabos": "",
-    "amzius_d": null,
-    "pardavimo": null,
-    "pelnas": null,
-    "roi": null,
-    "sprendimas": "trūksta kainų",
-    "skaiciavimas": "Trūksta LT parduotuvės kainos (be jos nevertinama)."
-   },
-   {
-    "id": "garmin-venu-3",
-    "modelis": "Garmin Venu 3 (45 mm)",
-    "kategorija": "Garmin",
-    "raktas": "garmin-venu-3",
-    "lt": [],
-    "es": [
-     {
-      "parduotuve": "aio.lv",
-      "salis": "LV",
-      "url": "https://aio.lv/en/product--garmin-753759314743--10722107",
-      "siunta_eur": 5,
-      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
-      "kaina": 357.49,
-      "patikrinta": "2026-11-07",
-      "auto": true,
-      "viso": 362.49
-     }
-    ],
-    "lt_min": null,
-    "skelbiu": {
-     "n": 2,
-     "nauju": 0,
-     "mediana": 165,
-     "nauju_mediana": null,
-     "pavyzdziai": [
-      {
-       "pavadinimas": "Naudotas Garmin Venu 3 45mm",
-       "kaina": 130.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/naudotas-garmin-venu-3-45mm-87822316.html",
-       "naujas": false
-      },
-      {
-       "pavadinimas": "Garmin Venu 3 (45mm) su priedais",
-       "kaina": 200.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-venu-3-45mm-su-priedais-87876712.html",
-       "naujas": false
-      }
-     ]
-    },
-    "atnaujinta": null,
-    "pastabos": "",
-    "amzius_d": null,
-    "pardavimo": null,
+    "es_kaina": 334.0,
     "pelnas": null,
     "roi": null,
     "sprendimas": "trūksta kainų",
@@ -45999,7 +46039,63 @@
     "patikrinta": null
    }
   ],
-  "atnaujinta": null,
+  "atnaujinta": "2026-11-07",
+  "tikrinamos": [
+   {
+    "parduotuve": "aio.lv",
+    "tipas": "ES",
+    "nuorodu": 2,
+    "kainu": 2,
+    "klaida": null,
+    "patikrinta": "2026-11-07",
+    "busena": "veikia"
+   },
+   {
+    "parduotuve": "dateks.lv",
+    "tipas": "ES",
+    "nuorodu": 1,
+    "kainu": 1,
+    "klaida": null,
+    "patikrinta": "2026-11-07",
+    "busena": "veikia"
+   },
+   {
+    "parduotuve": "photopoint.ee",
+    "tipas": "ES",
+    "nuorodu": 1,
+    "kainu": 1,
+    "klaida": null,
+    "patikrinta": "2026-11-07",
+    "busena": "veikia"
+   },
+   {
+    "parduotuve": "bigbox.lt",
+    "tipas": "LT",
+    "nuorodu": 1,
+    "kainu": 1,
+    "klaida": null,
+    "patikrinta": "2026-11-07",
+    "busena": "veikia"
+   },
+   {
+    "parduotuve": "varle.lt",
+    "tipas": "LT",
+    "nuorodu": 2,
+    "kainu": 2,
+    "klaida": null,
+    "patikrinta": "2026-11-07",
+    "busena": "veikia"
+   },
+   {
+    "parduotuve": "pigu.lt",
+    "tipas": "LT",
+    "nuorodu": 2,
+    "kainu": 0,
+    "klaida": "neprieinama (HTTP 403)",
+    "patikrinta": "2026-11-07",
+    "busena": "neveikia"
+   }
+  ],
   "prielaidos": {
    "_paaiskinimas": "Naujų daiktų testas: ES parduotuvė → parduoti LT. Pardavimo kaina = pigiausia LT parduotuvė × lt_nuolaida.",
    "lt_nuolaida": 0.88,
@@ -46010,7 +46106,7 @@
   }
  },
  "sveikata": {
-  "paieska": "2026-11-07T10:30:36Z",
+  "paieska": "2026-11-07T10:32:56Z",
   "claude_vertinimas": "2026-10-31",
   "nauji_atnaujinta": null
  },

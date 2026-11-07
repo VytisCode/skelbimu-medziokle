@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-07T10:24:43Z",
+ "sugeneruota": "2026-11-07T10:31:27Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -54,7 +54,7 @@
    "max_amzius_d": 10
   }
  },
- "skelbimu_istorijoje": 1236,
+ "skelbimu_istorijoje": 1237,
  "radiniai": [
   {
    "id": "88074566",
@@ -44523,7 +44523,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "88053510",
@@ -44542,7 +44542,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "88036948",
@@ -44580,7 +44580,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "87998376",
@@ -44599,7 +44599,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-05T18:48:39Z"
+    "dar_buvo": "2026-11-07T10:31:26Z"
    },
    {
     "id": "87987532",
@@ -44618,7 +44618,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "87954412",
@@ -44637,7 +44637,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "87967496",
@@ -44656,7 +44656,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "87958800",
@@ -44675,7 +44675,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-05T18:49:45Z"
+    "dar_buvo": "2026-11-07T10:31:25Z"
    },
    {
     "id": "87956186",
@@ -45207,7 +45207,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-04T21:58:42Z"
+    "dar_buvo": "2026-11-07T10:31:27Z"
    },
    {
     "id": "87753504",
@@ -45359,7 +45359,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "87833858",
@@ -45549,7 +45549,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T10:23:19Z"
+    "dar_buvo": "2026-11-07T10:30:36Z"
    },
    {
     "id": "87847204",
@@ -45765,10 +45765,10 @@
     ],
     "lt_min": null,
     "skelbiu": {
-     "n": 8,
-     "nauju": 2,
-     "mediana": 345,
-     "nauju_mediana": 450,
+     "n": 4,
+     "nauju": 1,
+     "mediana": 305,
+     "nauju_mediana": null,
      "pavyzdziai": [
       {
        "pavadinimas": "Parduodu Dji Osmo Pocket 3",
@@ -45789,48 +45789,21 @@
        "naujas": true
       },
       {
-       "pavadinimas": "Dji Osmo Pocket 3 Combo",
-       "kaina": 340.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-osmo-pocket-3-combo-88053868.html",
-       "naujas": false
-      },
-      {
        "pavadinimas": "Dji Osmo Pocket 3",
        "kaina": 350.0,
        "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-osmo-pocket-3-87863858.html",
        "naujas": false
-      },
-      {
-       "pavadinimas": "Dji Osmo Pocket 3 Creator Combo +",
-       "kaina": 450.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-osmo-pocket-3-creator-combo-87993448.html",
-       "naujas": false
-      },
-      {
-       "pavadinimas": "Dji Osmo Pocket 4 Creator's Combo",
-       "kaina": 500.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/dji-osmo-pocket-4-creator-s-combo-87917980.html",
-       "naujas": false
-      },
-      {
-       "pavadinimas": "Naujas Dji Osmo Pocket 4p Vlog Combo Vlog",
-       "kaina": 560.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/naujas-dji-osmo-pocket-4p-vlog-combo-vlog-87890098.html",
-       "naujas": true
       }
      ]
     },
     "atnaujinta": null,
     "pastabos": "Pradinis sąrašas: kainas surinks automatinis tikrintuvas.",
     "amzius_d": null,
-    "pardavimo": 428,
-    "es_kaina": 334.0,
-    "es_parduotuve": "aio.lv",
-    "kastai": 3.0,
-    "pelnas": 90,
-    "roi": 0.27,
-    "skaiciavimas": "Parduosi ~427,5 € (nauji Skelbiu.lt skelbimai ~450 € × 0,95) − ES 334 € su siuntimu − kaštai 3 € = 90,5 €",
-    "sprendimas": "proga"
+    "pardavimo": null,
+    "pelnas": null,
+    "roi": null,
+    "sprendimas": "trūksta kainų",
+    "skaiciavimas": "Trūksta LT parduotuvės kainos (be jos nevertinama)."
    },
    {
     "id": "gopro-hero13-black",
@@ -45887,14 +45860,11 @@
     "atnaujinta": null,
     "pastabos": "",
     "amzius_d": null,
-    "pardavimo": 238,
-    "es_kaina": 367.9,
-    "es_parduotuve": "Photopoint.ee",
-    "kastai": 3.0,
-    "pelnas": -133,
-    "roi": -0.36,
-    "skaiciavimas": "Parduosi ~237,5 € (nauji Skelbiu.lt skelbimai ~250 € × 0,95) − ES 367,9 € su siuntimu − kaštai 3 € = -133,4 €",
-    "sprendimas": "ne"
+    "pardavimo": null,
+    "pelnas": null,
+    "roi": null,
+    "sprendimas": "trūksta kainų",
+    "skaiciavimas": "Trūksta LT parduotuvės kainos (be jos nevertinama)."
    },
    {
     "id": "garmin-venu-3",
@@ -45917,9 +45887,9 @@
     ],
     "lt_min": null,
     "skelbiu": {
-     "n": 3,
+     "n": 2,
      "nauju": 0,
-     "mediana": 200,
+     "mediana": 165,
      "nauju_mediana": null,
      "pavyzdziai": [
       {
@@ -45933,12 +45903,6 @@
        "kaina": 200.0,
        "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-venu-3-45mm-su-priedais-87876712.html",
        "naujas": false
-      },
-      {
-       "pavadinimas": "Garmin Venu 3 su garantija",
-       "kaina": 220.0,
-       "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-venu-3-su-garantija-87993578.html",
-       "naujas": false
       }
      ]
     },
@@ -45949,7 +45913,7 @@
     "pelnas": null,
     "roi": null,
     "sprendimas": "trūksta kainų",
-    "skaiciavimas": "Trūksta LT kainos."
+    "skaiciavimas": "Trūksta LT parduotuvės kainos (be jos nevertinama)."
    }
   ],
   "parduotuves": [
@@ -46046,7 +46010,7 @@
   }
  },
  "sveikata": {
-  "paieska": "2026-11-07T10:23:19Z",
+  "paieska": "2026-11-07T10:30:36Z",
   "claude_vertinimas": "2026-10-31",
   "nauji_atnaujinta": null
  },
@@ -46178,7 +46142,7 @@
    "max": 750.0
   },
   "ps5": {
-   "n": 141,
+   "n": 142,
    "mediana": 45,
    "min": 10.0,
    "max": 750.0

@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-07T00:59:31Z",
+ "sugeneruota": "2026-11-07T07:17:59Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -36,7 +36,7 @@
   ],
   "sezono_daugiklis": 1.15
  },
- "skelbimu_istorijoje": 1214,
+ "skelbimu_istorijoje": 1219,
  "radiniai": [
   {
    "id": "88074566",
@@ -55,12 +55,12 @@
    "bukle": "Naudota",
    "modelis": "dyson-supersonic",
    "raktas": "dyson-supersonic",
-   "palyginamu": 4,
-   "mediana": 175,
+   "palyginamu": 5,
+   "mediana": 180,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 175 €"
+    "5 panašių skelbimų mediana 180 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -92,6 +92,12 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     },
     {
+     "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
      "kaina": 300.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
@@ -117,14 +123,14 @@
      "url": "https://www.google.com/search?tbm=shop&q=dyson+supersonic"
     }
    ],
-   "tiketina_pardavimo": 158,
-   "pelnas": 43,
-   "roi": 0.39,
-   "max_pirkimo": 113,
-   "pelnas_per_val": 43,
+   "tiketina_pardavimo": 162,
+   "pelnas": 48,
+   "roi": 0.43,
+   "max_pirkimo": 117,
+   "pelnas_per_val": 48,
    "sprendimas": "verta",
-   "priezastis": "pelnas ~43 € (39%), siunta į paštomatą iš Kaunas",
-   "balas": 55,
+   "priezastis": "pelnas ~47,5 € (43%), siunta į paštomatą iš Kaunas",
+   "balas": 60,
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
@@ -133,13 +139,13 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 5,
+    "is": 6,
     "min": 120.0,
     "max": 300.0,
-    "mediana": 175.0,
-    "nuolaida": 0.37
+    "mediana": 180.0,
+    "nuolaida": 0.39
    },
-   "kodel": "Pigiausias iš 5 to paties modelio skelbimų (kiti 120 €–300 €, mediana 175 €), 37% pigiau už medianą.",
+   "kodel": "Pigiausias iš 6 to paties modelio skelbimų (kiti 120 €–300 €, mediana 180 €), 39% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 120.0,
@@ -163,6 +169,13 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     },
     {
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+     "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "kaina": 300.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
      "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
@@ -174,7 +187,7 @@
    "derybos": {
     "siulymas": 90,
     "tarpinis": 100,
-    "riba": 113,
+    "riba": 117,
     "argumentai": [
      {
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
@@ -186,24 +199,24 @@
     "planas": [
      "Pirma žinutė: siūlyk 90 € – tai 18 % mažiau nei prašo (110 €).",
      "Jei atsisako – kelk iki 100 €.",
-     "Jei visai nenuleidžia – vis tiek pirk už 110 €: pelnas ~43 €. Šio radinio dėl derybų neprarask."
+     "Jei visai nenuleidžia – vis tiek pirk už 110 €: pelnas ~48 €. Šio radinio dėl derybų neprarask."
     ],
     "kodel_suma": "Kodėl 90 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
-    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 110 € uždirbtum ~43 €, už 90 € – ~63 €."
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 110 € uždirbtum ~48 €, už 90 € – ~68 €."
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (dyson-supersonic): 4 vnt., kainos 120 €–300 €, mediana 175 € × 0.90 (realiai parduodama pigiau nei prašoma) = 157,5 €",
+    "Panašūs skelbimai (dyson-supersonic): 5 vnt., kainos 120 €–300 €, mediana 180 € × 0.90 (realiai parduodama pigiau nei prašoma) = 162 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 157,5 € − 110 € − 4,5 € = 43 € (39% pirkimo kainos)",
-    "Mokėti ne daugiau: min((157,5 € − 4,5 €) / 1.35; 157,5 € − 4,5 € − 20 €) = 113,3 €",
-    "Laikas ~1.0 val. → 43 €/val.",
+    "Pelnas = 162 € − 110 € − 4,5 € = 47,5 € (43% pirkimo kainos)",
+    "Mokėti ne daugiau: min((162 € − 4,5 €) / 1.35; 162 € − 4,5 € − 20 €) = 116,7 €",
+    "Laikas ~1.0 val. → 47,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Pirk, jei gausi ne daugiau kaip už 113 €. Tikėtinas pelnas ~43 €.",
+   "isvada": "Pirk, jei gausi ne daugiau kaip už 117 €. Tikėtinas pelnas ~48 €.",
    "uz": [
-    "Iš 5 panašių skelbimų pigesnio nėra; įprasta kaina ~175 €, šis 37 % pigesnis.",
-    "Pelnas ~43 € (39 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
+    "Iš 6 panašių skelbimų pigesnio nėra; įprasta kaina ~180 €, šis 39 % pigesnis.",
+    "Pelnas ~48 € (43 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
    ],
    "pries": [],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -9477,7 +9490,7 @@
      "vieta_laikas": "Šiauliai, prieš 6 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 50,
     "tarpinis": 55,
@@ -9532,101 +9545,6 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": null
-   }
-  },
-  {
-   "id": "88015864",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/lego-advento-kalendorius-88015864.html",
-   "pavadinimas": "Lego Advento Kalendorius",
-   "kaina": 38.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5310528552/lego-advento-kalendorius.jpg",
-   "aprasymas": "Parduodu LEGO Marvel „Avengers“ advento kalendorių, rinkinio numeris 76267. Rinkinį sudaro 243 detalės ir 24 langeliai su minikonstruktoria...",
-   "vieta_laikas": "Kaunas, prieš 53 min.",
-   "paieska": "Lego",
-   "pastebetas": "2026-11-04T06:36:52Z",
-   "parametrai": [
-    "Būklė: Nauja"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "lego-76267",
-   "raktas": "lego-76267",
-   "palyginamu": 0,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=lego+76267"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=lego+76267"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=lego+76267"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=lego+76267"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "nauja"
-    ],
-    "aprasymo_ilgis": 142,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja.",
-   "visi_palyginami": [],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [
-    "Aprašyme: nauja."
-   ],
-   "pries": [
-    "Rasta tik 0 panašių skelbimų – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
   },
   {
@@ -10415,8 +10333,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Geras dronas Galiu apmokinti kaip naudotis Daznai ne rysio zonoje tad geriau rasykite",
+   "bukle": "Naudota",
    "modelis": "dji-mini3pro",
    "raktas": "dji-mini3pro",
    "palyginamu": 1,
@@ -10473,7 +10391,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 85,
-    "pilnas": false
+    "pilnas": true
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [
@@ -11764,8 +11682,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Naudotas pilnai veikiantis Garmin laikrodis.",
+   "bukle": "Naudota",
    "modelis": "garmin-venu-2",
    "raktas": "garmin-venu-2",
    "palyginamu": 2,
@@ -11828,7 +11746,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 44,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -13648,7 +13566,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -14808,12 +14726,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -14922,13 +14840,13 @@
    },
    "pozicija": {
     "vieta": 9,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.43
    },
-   "kodel": "9-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 43% pigiau už medianą.",
+   "kodel": "9-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 43% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -15234,7 +15152,7 @@
     "iki": 20.0
    },
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 20 € − 4 € = 7,5 € (38% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
@@ -15243,7 +15161,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~8 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 82 panašių skelbimų pigesnių yra 8; įprasta kaina ~35 €, šis 43 % pigesnis.",
+    "Iš 83 panašių skelbimų pigesnių yra 8; įprasta kaina ~35 €, šis 43 % pigesnis.",
     "Kaina jau sumažinta nuo 25 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
@@ -15278,12 +15196,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -15392,13 +15310,13 @@
    },
    "pozicija": {
     "vieta": 9,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.43
    },
-   "kodel": "9-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 43% pigiau už medianą.",
+   "kodel": "9-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 43% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -15700,7 +15618,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 20 € − 4,5 € = 7 € (35% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
@@ -15709,7 +15627,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~7 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 82 panašių skelbimų pigesnių yra 8; įprasta kaina ~35 €, šis 43 % pigesnis."
+    "Iš 83 panašių skelbimų pigesnių yra 8; įprasta kaina ~35 €, šis 43 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~7 € – mažiau nei tavo minimumas 20 €."
@@ -16396,8 +16314,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu tris originalius Nintendo Switch žaidimus: Subnautica + Subnautica: Below Zero – 35 € Super Smash Bros. Ultimate – 25 € LEGO Worlds – 15 € Visi žaidimai veikia. Galima pirkti atskirai arba visus kartu.",
+   "bukle": "Naudota",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
    "palyginamu": 45,
@@ -16509,8 +16427,8 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
-    "aprasymo_ilgis": 137,
-    "pilnas": false
+    "aprasymo_ilgis": 210,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 15,
@@ -17391,12 +17309,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -17505,13 +17423,13 @@
    },
    "pozicija": {
     "vieta": 19,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.29
    },
-   "kodel": "19-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 29% pigiau už medianą.",
+   "kodel": "19-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 29% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -17813,7 +17731,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 25 € − 4 € = 2,5 € (10% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
@@ -17822,7 +17740,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 82 panašių skelbimų pigesnių yra 18; įprasta kaina ~35 €, šis 29 % pigesnis."
+    "Iš 83 panašių skelbimų pigesnių yra 18; įprasta kaina ~35 €, šis 29 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
@@ -17857,12 +17775,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -17974,13 +17892,13 @@
    },
    "pozicija": {
     "vieta": 19,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.29
    },
-   "kodel": "19-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 29% pigiau už medianą. Aprašyme: defektas, pultelių drift.",
+   "kodel": "19-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 29% pigiau už medianą. Aprašyme: defektas, pultelių drift.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -18279,7 +18197,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 25 € − 4,5 € = 2 € (8% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
@@ -18288,7 +18206,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 82 panašių skelbimų pigesnių yra 18; įprasta kaina ~35 €, šis 29 % pigesnis."
+    "Iš 83 panašių skelbimų pigesnių yra 18; įprasta kaina ~35 €, šis 29 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
@@ -18602,7 +18520,7 @@
      "vieta_laikas": "Klaipėda, prieš 2 d."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -18634,363 +18552,6 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "88045412",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-88045412.html",
-   "pavadinimas": "Ps5 pultelis",
-   "kaina": 20.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5315777956/ps5-pultelis.jpg",
-   "aprasymas": "Parduodamas Sony pultas.modelis CFI-ZTC1W.",
-   "vieta_laikas": "Vilnius, prieš 25 min.",
-   "paieska": "PlayStation 5",
-   "pastebetas": "2026-11-05T11:05:46Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": "Parduodamas Sony pultas.modelis CFI-ZTC1W.",
-   "bukle": "Naudota",
-   "modelis": "ps5-priedai",
-   "raktas": "ps5-priedai",
-   "palyginamu": 26,
-   "mediana": 29,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "26 panašių skelbimų mediana 29 €"
-   ],
-   "kastai": {
-    "budas": "atsiimti vietoje (Vilnius)",
-    "atgabenimas": 3.0,
-    "pardavimas": 1.0,
-    "viso": 4.0,
-    "valandos": 1.5,
-    "vietinis": true,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "The Blood of Dawnwalker, Banishers Ps5 žaidimai",
-     "kaina": 10.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-banishers-ps5-zaidimai-87871146.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Dualsense Ps5 pultelių dangteliai, mygtukai",
-     "kaina": 10.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dualsense-ps5-pulteliu-dangteliai-mygtukai-88009210.html",
-     "vieta_laikas": "Kauno r., prieš 4 val."
-    },
-    {
-     "pavadinimas": "Ps5 pultelis",
-     "kaina": 12.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-87851316.html",
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Žaidimai ps5/ps4",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaidimai-ps5-ps4-87860218.html",
-     "vieta_laikas": "Trakų r., prieš 2 val."
-    },
-    {
-     "pavadinimas": "Ps5 ir Ps4 žaidimai",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-ir-ps4-zaidimai-87851430.html",
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "pavadinimas": "Ps 5 žaidimai",
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps-5-zaidimai-87849564.html",
-     "vieta_laikas": "Klaipėda, prieš 11 val."
-    },
-    {
-     "pavadinimas": "Ps5 Zaidimai",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "pavadinimas": "Playstation ir xbox zaidimai",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-ir-xbox-zaidimai-87969274.html",
-     "vieta_laikas": "Telšių r., prieš 4 val."
-    },
-    {
-     "pavadinimas": "Playstation Link adapteris",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "pavadinimas": "2k25 ps5 žaidimas",
-     "kaina": 22.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/2k25-ps5-zaidimas-88005152.html",
-     "vieta_laikas": "Kretingos r., prieš 6 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Ps5+pultelis"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Ps5+pultelis"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Ps5+pultelis"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Ps5+pultelis"
-    }
-   ],
-   "tiketina_pardavimo": 26,
-   "pelnas": 2,
-   "roi": 0.11,
-   "max_pirkimo": 2,
-   "pelnas_per_val": 1,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 2,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 42,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 7,
-    "is": 27,
-    "min": 10.0,
-    "max": 60.0,
-    "mediana": 29.0,
-    "nuolaida": 0.31
-   },
-   "kodel": "7-as pigiausias iš 27 (kiti 10 €–60 €, mediana 29 €), 31% pigiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 10.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-banishers-ps5-zaidimai-87871146.html",
-     "pavadinimas": "The Blood of Dawnwalker, Banishers Ps5 žaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 10.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/dualsense-ps5-pulteliu-dangteliai-mygtukai-88009210.html",
-     "pavadinimas": "Dualsense Ps5 pultelių dangteliai, mygtukai",
-     "rizikos": [],
-     "vieta_laikas": "Kauno r., prieš 4 val."
-    },
-    {
-     "kaina": 12.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-87851316.html",
-     "pavadinimas": "Ps5 pultelis",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaidimai-ps5-ps4-87860218.html",
-     "pavadinimas": "Žaidimai ps5/ps4",
-     "rizikos": [],
-     "vieta_laikas": "Trakų r., prieš 2 val."
-    },
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-ir-ps4-zaidimai-87851430.html",
-     "pavadinimas": "Ps5 ir Ps4 žaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "kaina": 15.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps-5-zaidimai-87849564.html",
-     "pavadinimas": "Ps 5 žaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 11 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
-     "pavadinimas": "Ps5 Zaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 1 d."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-ir-xbox-zaidimai-87969274.html",
-     "pavadinimas": "Playstation ir xbox zaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Telšių r., prieš 4 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
-     "pavadinimas": "Playstation Link adapteris",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "kaina": 22.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/2k25-ps5-zaidimas-88005152.html",
-     "pavadinimas": "2k25 ps5 žaidimas",
-     "rizikos": [],
-     "vieta_laikas": "Kretingos r., prieš 6 val."
-    },
-    {
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-ps4-zaidimai-87903500.html",
-     "pavadinimas": "Ps5 ps4 žaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87983594.html",
-     "pavadinimas": "Ps5 žaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 9 val."
-    },
-    {
-     "kaina": 28.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/sackboy-zaidimas-ps5-88067972.html",
-     "pavadinimas": "Sackboy zaidimas ps5",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    },
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-5-zaidimai-po-30-eu-87941730.html",
-     "pavadinimas": "Playstation 5 žaidimai po 30 eu",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-ps5-originalus-pultelis-88013078.html",
-     "pavadinimas": "Sony Ps5 originalus pultelis",
-     "rizikos": [
-      "pultelių drift"
-     ],
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-87868284.html",
-     "pavadinimas": "Ps5 pultelis",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-zaidimas-87912522.html",
-     "pavadinimas": "Crimson Desert Ps5 žaidimas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-first-light-ps5-zaidimas-87965468.html",
-     "pavadinimas": "007 First Light (Ps5) Žaidimas",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 2 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ii-playstation-5-zaidimas-87892410.html",
-     "pavadinimas": "Minecraft Dungeons II Playstation 5 zaidimas",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 4 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-juodas-pultelis-cfi-zvt1w-87966860.html",
-     "pavadinimas": "Ps5 juodas pultelis Cfi-zvt1w",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 40.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/kompiuterinis-zaidimas-ea-sports-fc-27-ps5-88002994.html",
-     "pavadinimas": "Kompiuterinis žaidimas Ea Sports Fc 27 Ps5",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 36 min."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-5-dualsense-pultelis-cosmic-red-87883648.html",
-     "pavadinimas": "Playstation 5 Dualsense pultelis Cosmic Red",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-originalus-pultelis-87890388.html",
-     "pavadinimas": "Ps5 originalus pultelis",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 6 val."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-dualsense-ps5-pultelis-87940610.html",
-     "pavadinimas": "Sony Dualsense Ps5 pultelis",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 4 val."
-    },
-    {
-     "kaina": 55.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-puikios-bukles-ps5-melynaspultelis-88034454.html",
-     "pavadinimas": "Parduodamas puikios būklės Ps5 mėlynaspultelis",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 4 val."
-    },
-    {
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-88025910.html",
-     "pavadinimas": "Ps5 žaidimai",
-     "rizikos": [],
-     "vieta_laikas": "Ukmergės r., prieš 4 val."
-    }
-   ],
-   "amzius_d": 1,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (ps5-priedai): 26 vnt., kainos 10 €–60 €, mediana 29 € × 0.90 (realiai parduodama pigiau nei prašoma) = 26,1 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 26,1 € − 20 € − 4 € = 2,1 € (11% pirkimo kainos)",
-    "Mokėti ne daugiau: min((26,1 € − 4 €) / 1.35; 26,1 € − 4 € − 20 €) = 2,1 €",
-    "Laikas ~1.5 val. → 1,4 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
-   "uz": [
-    "Iš 27 panašių skelbimų pigesnių yra 6; įprasta kaina ~29 €, šis 31 % pigesnis."
-   ],
-   "pries": [
-    "Pelnas būtų tik ~2 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža 11 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
-   "saugumas": {
-    "lygis": "maža",
-    "zingsniai": [
-     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
-     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
-     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": null
    }
   },
   {
@@ -19452,6 +19013,370 @@
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "88045412",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-88045412.html",
+   "pavadinimas": "Ps5 pultelis",
+   "kaina": 20.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5315777956/ps5-pultelis.jpg",
+   "aprasymas": "Parduodamas Sony pultas.modelis CFI-ZTC1W.",
+   "vieta_laikas": "Vilnius, prieš 25 min.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-11-05T11:05:46Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodamas Sony pultas.modelis CFI-ZTC1W.",
+   "bukle": "Naudota",
+   "modelis": "ps5-priedai",
+   "raktas": "ps5-priedai",
+   "palyginamu": 27,
+   "mediana": 28,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "27 panašių skelbimų mediana 28 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "The Blood of Dawnwalker, Banishers Ps5 žaidimai",
+     "kaina": 10.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-banishers-ps5-zaidimai-87871146.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Dualsense Ps5 pultelių dangteliai, mygtukai",
+     "kaina": 10.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dualsense-ps5-pulteliu-dangteliai-mygtukai-88009210.html",
+     "vieta_laikas": "Kauno r., prieš 4 val."
+    },
+    {
+     "pavadinimas": "Ps5 pultelis",
+     "kaina": 12.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-87851316.html",
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "pavadinimas": "Žaidimai ps5/ps4",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaidimai-ps5-ps4-87860218.html",
+     "vieta_laikas": "Trakų r., prieš 2 val."
+    },
+    {
+     "pavadinimas": "Ps5 ir Ps4 žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-ir-ps4-zaidimai-87851430.html",
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "pavadinimas": "Ps 5 žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps-5-zaidimai-87849564.html",
+     "vieta_laikas": "Klaipėda, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Playstation žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "vieta_laikas": "Panevėžys, prieš 40 min."
+    },
+    {
+     "pavadinimas": "Ps5 Zaidimai",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "pavadinimas": "Playstation ir xbox zaidimai",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-ir-xbox-zaidimai-87969274.html",
+     "vieta_laikas": "Telšių r., prieš 4 val."
+    },
+    {
+     "pavadinimas": "Playstation Link adapteris",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Ps5+pultelis"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Ps5+pultelis"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Ps5+pultelis"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Ps5+pultelis"
+    }
+   ],
+   "tiketina_pardavimo": 25,
+   "pelnas": 1,
+   "roi": 0.06,
+   "max_pirkimo": 1,
+   "pelnas_per_val": 1,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 1,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 42,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 8,
+    "is": 28,
+    "min": 10.0,
+    "max": 60.0,
+    "mediana": 28.0,
+    "nuolaida": 0.29
+   },
+   "kodel": "8-as pigiausias iš 28 (kiti 10 €–60 €, mediana 28 €), 29% pigiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 10.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-blood-of-dawnwalker-banishers-ps5-zaidimai-87871146.html",
+     "pavadinimas": "The Blood of Dawnwalker, Banishers Ps5 žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 10.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dualsense-ps5-pulteliu-dangteliai-mygtukai-88009210.html",
+     "pavadinimas": "Dualsense Ps5 pultelių dangteliai, mygtukai",
+     "rizikos": [],
+     "vieta_laikas": "Kauno r., prieš 4 val."
+    },
+    {
+     "kaina": 12.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-87851316.html",
+     "pavadinimas": "Ps5 pultelis",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaidimai-ps5-ps4-87860218.html",
+     "pavadinimas": "Žaidimai ps5/ps4",
+     "rizikos": [],
+     "vieta_laikas": "Trakų r., prieš 2 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-ir-ps4-zaidimai-87851430.html",
+     "pavadinimas": "Ps5 ir Ps4 žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps-5-zaidimai-87849564.html",
+     "pavadinimas": "Ps 5 žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "pavadinimas": "Playstation žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 40 min."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
+     "pavadinimas": "Ps5 Zaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 1 d."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-ir-xbox-zaidimai-87969274.html",
+     "pavadinimas": "Playstation ir xbox zaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Telšių r., prieš 4 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
+     "pavadinimas": "Playstation Link adapteris",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    },
+    {
+     "kaina": 22.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/2k25-ps5-zaidimas-88005152.html",
+     "pavadinimas": "2k25 ps5 žaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Kretingos r., prieš 6 val."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-ps4-zaidimai-87903500.html",
+     "pavadinimas": "Ps5 ps4 žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87983594.html",
+     "pavadinimas": "Ps5 žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 9 val."
+    },
+    {
+     "kaina": 28.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sackboy-zaidimas-ps5-88067972.html",
+     "pavadinimas": "Sackboy zaidimas ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-5-zaidimai-po-30-eu-87941730.html",
+     "pavadinimas": "Playstation 5 žaidimai po 30 eu",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-ps5-originalus-pultelis-88013078.html",
+     "pavadinimas": "Sony Ps5 originalus pultelis",
+     "rizikos": [
+      "pultelių drift"
+     ],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-87868284.html",
+     "pavadinimas": "Ps5 pultelis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-zaidimas-87912522.html",
+     "pavadinimas": "Crimson Desert Ps5 žaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-first-light-ps5-zaidimas-87965468.html",
+     "pavadinimas": "007 First Light (Ps5) Žaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 2 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ii-playstation-5-zaidimas-87892410.html",
+     "pavadinimas": "Minecraft Dungeons II Playstation 5 zaidimas",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-juodas-pultelis-cfi-zvt1w-87966860.html",
+     "pavadinimas": "Ps5 juodas pultelis Cfi-zvt1w",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 40.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/kompiuterinis-zaidimas-ea-sports-fc-27-ps5-88002994.html",
+     "pavadinimas": "Kompiuterinis žaidimas Ea Sports Fc 27 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 36 min."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-5-dualsense-pultelis-cosmic-red-87883648.html",
+     "pavadinimas": "Playstation 5 Dualsense pultelis Cosmic Red",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 45.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-originalus-pultelis-87890388.html",
+     "pavadinimas": "Ps5 originalus pultelis",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 6 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-dualsense-ps5-pultelis-87940610.html",
+     "pavadinimas": "Sony Dualsense Ps5 pultelis",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 4 val."
+    },
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-puikios-bukles-ps5-melynaspultelis-88034454.html",
+     "pavadinimas": "Parduodamas puikios būklės Ps5 mėlynaspultelis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 60.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-88025910.html",
+     "pavadinimas": "Ps5 žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Ukmergės r., prieš 4 val."
+    }
+   ],
+   "amzius_d": 1,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5-priedai): 27 vnt., kainos 10 €–60 €, mediana 28 € × 0.90 (realiai parduodama pigiau nei prašoma) = 25,2 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 25,2 € − 20 € − 4 € = 1,2 € (6% pirkimo kainos)",
+    "Mokėti ne daugiau: min((25,2 € − 4 €) / 1.35; 25,2 € − 4 € − 20 €) = 1,2 €",
+    "Laikas ~1.5 val. → 0,8 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: pelnas būtų tik ~1 € – mažiau nei tavo minimumas 20 €.",
+   "uz": [
+    "Iš 28 panašių skelbimų pigesnių yra 7; įprasta kaina ~28 €, šis 29 % pigesnis."
+   ],
+   "pries": [
+    "Pelnas būtų tik ~1 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža 6 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
    }
   },
   {
@@ -20175,12 +20100,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -20291,14 +20216,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 82,
-    "is": 82,
+    "vieta": 83,
+    "is": 83,
     "min": 15.0,
     "max": 68.0,
     "mediana": 35.0,
     "nuolaida": -2.86
    },
-   "kodel": "82-as pigiausias iš 82 (kiti 15 €–68 €, mediana 35 €), 286% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "83-as pigiausias iš 83 (kiti 15 €–68 €, mediana 35 €), 286% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -20598,19 +20523,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–68 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–68 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 135 € − 4,5 € = -108 € (-80% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -108 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 81; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 82; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 81; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 82; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-108 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -80 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -20645,12 +20570,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -20761,13 +20686,13 @@
    },
    "pozicija": {
     "vieta": 38,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.06
    },
-   "kodel": "38-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 6% pigiau už medianą. Privalumai: puiki būklė.",
+   "kodel": "38-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 6% pigiau už medianą. Privalumai: puiki būklė.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -21069,19 +20994,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 33 € − 4,5 € = -6 € (-18% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -6 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 37; įprasta kaina ~35 €, šis 6 % pigesnis.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 37; įprasta kaina ~35 €, šis 6 % pigesnis.",
    "uz": [
     "Aprašyme: puiki būklė."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 37; įprasta kaina ~35 €, šis 6 % pigesnis.",
+    "Iš 83 panašių skelbimų pigesnių yra 37; įprasta kaina ~35 €, šis 6 % pigesnis.",
     "Pelnas būtų tik ~-6 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -18 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -21116,12 +21041,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -21233,13 +21158,13 @@
    },
    "pozicija": {
     "vieta": 63,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": -0.29
    },
-   "kodel": "63-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "63-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 29% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -21539,19 +21464,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 45 € − 4,5 € = -18 € (-40% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -18 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 62; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 62; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 62; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 62; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -21586,12 +21511,12 @@
    "bukle": null,
    "modelis": "ps5-priedai",
    "raktas": "ps5-priedai",
-   "palyginamu": 26,
-   "mediana": 26,
+   "palyginamu": 27,
+   "mediana": 25,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "26 panašių skelbimų mediana 26,5 €"
+    "27 panašių skelbimų mediana 25 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Ukmergės r.",
@@ -21641,6 +21566,12 @@
      "vieta_laikas": "Klaipėda, prieš 11 val."
     },
     {
+     "pavadinimas": "Playstation žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "vieta_laikas": "Panevėžys, prieš 40 min."
+    },
+    {
      "pavadinimas": "Ps5 Zaidimai",
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
@@ -21657,12 +21588,6 @@
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
      "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Ps5 pultelis",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-88045412.html",
-     "vieta_laikas": "Vilnius, prieš 25 min."
     }
    ],
    "parduotuves": [],
@@ -21684,11 +21609,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Ps5+%C5%BEaidimai"
     }
    ],
-   "tiketina_pardavimo": 24,
-   "pelnas": -41,
-   "roi": -0.68,
+   "tiketina_pardavimo": 22,
+   "pelnas": -42,
+   "roi": -0.7,
    "max_pirkimo": 0,
-   "pelnas_per_val": -41,
+   "pelnas_per_val": -42,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -21701,14 +21626,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 27,
-    "is": 27,
+    "vieta": 28,
+    "is": 28,
     "min": 10.0,
     "max": 55.0,
-    "mediana": 26.5,
-    "nuolaida": -1.26
+    "mediana": 25.0,
+    "nuolaida": -1.4
    },
-   "kodel": "27-as pigiausias iš 27 (kiti 10 €–55 €, mediana 26,5 €), 126% brangiau už medianą. Privalumai: nauja.",
+   "kodel": "28-as pigiausias iš 28 (kiti 10 €–55 €, mediana 25 €), 140% brangiau už medianą. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 10.0,
@@ -21751,6 +21676,13 @@
      "pavadinimas": "Ps 5 žaidimai",
      "rizikos": [],
      "vieta_laikas": "Klaipėda, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "pavadinimas": "Playstation žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 40 min."
     },
     {
      "kaina": 20.0,
@@ -21899,22 +21831,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5-priedai): 26 vnt., kainos 10 €–55 €, mediana 26,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 23,9 €",
+    "Panašūs skelbimai (ps5-priedai): 27 vnt., kainos 10 €–55 €, mediana 25 € × 0.90 (realiai parduodama pigiau nei prašoma) = 22,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Ukmergės r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 23,9 € − 60 € − 4,5 € = -40,6 € (-68% pirkimo kainos)",
-    "Mokėti ne daugiau: min((23,9 € − 4,5 €) / 1.35; 23,9 € − 4,5 € − 20 €) = 0 €",
-    "Laikas ~1.0 val. → -40,6 €/val.",
+    "Pelnas = 22,5 € − 60 € − 4,5 € = -42 € (-70% pirkimo kainos)",
+    "Mokėti ne daugiau: min((22,5 € − 4,5 €) / 1.35; 22,5 € − 4,5 € − 20 €) = 0 €",
+    "Laikas ~1.0 val. → -42 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 27 panašių skelbimų pigesnių yra 26; įprasta kaina ~26,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 27; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja."
    ],
    "pries": [
-    "Iš 27 panašių skelbimų pigesnių yra 26; įprasta kaina ~26,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-41 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -68 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 28 panašių skelbimų pigesnių yra 27; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-42 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -70 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Ukmergės r.: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -21948,12 +21880,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -22062,13 +21994,13 @@
    },
    "pozicija": {
     "vieta": 27,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.2
    },
-   "kodel": "27-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 20% pigiau už medianą.",
+   "kodel": "27-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 20% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -22370,7 +22302,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 28 € − 4 € = -0,5 € (-2% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
@@ -22379,7 +22311,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~0 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 82 panašių skelbimų pigesnių yra 26; įprasta kaina ~35 €, šis 20 % pigesnis."
+    "Iš 83 panašių skelbimų pigesnių yra 26; įprasta kaina ~35 €, šis 20 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~0 € – mažiau nei tavo minimumas 20 €.",
@@ -22414,12 +22346,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -22527,14 +22459,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 71,
-    "is": 82,
+    "vieta": 72,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": -0.43
    },
-   "kodel": "71-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 43% brangiau už medianą.",
+   "kodel": "72-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 43% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -22834,17 +22766,17 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 50 € − 4 € = -22,5 € (-45% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -15 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 70; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 71; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 70; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 71; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-22 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -45 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -22877,12 +22809,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -22994,13 +22926,13 @@
    },
    "pozicija": {
     "vieta": 28,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.14
    },
-   "kodel": "28-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "28-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -23302,19 +23234,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 30 € − 4 € = -2,5 € (-8% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -1,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
+    "Iš 83 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
     "Pelnas būtų tik ~-2 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -23347,12 +23279,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -23467,13 +23399,13 @@
    },
    "pozicija": {
     "vieta": 28,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.14
    },
-   "kodel": "28-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Aprašyme: braižytas. Privalumai: ideali būklė, nauja, naujas.",
+   "kodel": "28-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Aprašyme: braižytas. Privalumai: ideali būklė, nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -23773,19 +23705,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 30 € − 4 € = -2,5 € (-8% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -1,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
    "uz": [
     "Aprašyme: ideali būklė, nauja, naujas."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
+    "Iš 83 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
     "Pelnas būtų tik ~-2 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -8 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Aprašyme minima: braižytas."
@@ -26848,12 +26780,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -26962,13 +26894,13 @@
    },
    "pozicija": {
     "vieta": 49,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": -0.14
    },
-   "kodel": "49-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 14% brangiau už medianą.",
+   "kodel": "49-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 14% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -27268,17 +27200,17 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 40 € − 4,5 € = -13 € (-32% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -13 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 48; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 48; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 48; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 48; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-13 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -27313,12 +27245,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -27430,13 +27362,13 @@
    },
    "pozicija": {
     "vieta": 39,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.0
    },
-   "kodel": "39-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 0% pigiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "39-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 0% pigiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -27740,20 +27672,20 @@
     "iki": 35.0
    },
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 35 € − 4 € = -7,5 € (-21% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 38; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 38; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas.",
     "Kaina jau sumažinta nuo 40 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 38; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 38; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-8 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -21 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -27786,12 +27718,12 @@
    "bukle": null,
    "modelis": "ps5-priedai",
    "raktas": "ps5-priedai",
-   "palyginamu": 26,
-   "mediana": 26,
+   "palyginamu": 27,
+   "mediana": 25,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "26 panašių skelbimų mediana 26,5 €"
+    "27 panašių skelbimų mediana 25 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -27841,6 +27773,12 @@
      "vieta_laikas": "Klaipėda, prieš 11 val."
     },
     {
+     "pavadinimas": "Playstation žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "vieta_laikas": "Panevėžys, prieš 40 min."
+    },
+    {
      "pavadinimas": "Ps5 Zaidimai",
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
@@ -27857,12 +27795,6 @@
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
      "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Ps5 pultelis",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-88045412.html",
-     "vieta_laikas": "Vilnius, prieš 25 min."
     }
    ],
    "parduotuves": [],
@@ -27884,11 +27816,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Parduodamas+puikios+b%C5%ABkl%C4%97s+Ps5+m%C4%97lynaspultelis"
     }
    ],
-   "tiketina_pardavimo": 24,
-   "pelnas": -35,
-   "roi": -0.64,
+   "tiketina_pardavimo": 22,
+   "pelnas": -36,
+   "roi": -0.66,
    "max_pirkimo": 0,
-   "pelnas_per_val": -23,
+   "pelnas_per_val": -24,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -27901,14 +27833,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 26,
-    "is": 27,
+    "vieta": 27,
+    "is": 28,
     "min": 10.0,
     "max": 60.0,
-    "mediana": 26.5,
-    "nuolaida": -1.08
+    "mediana": 25.0,
+    "nuolaida": -1.2
    },
-   "kodel": "26-as pigiausias iš 27 (kiti 10 €–60 €, mediana 26,5 €), 108% brangiau už medianą. Privalumai: puiki būklė.",
+   "kodel": "27-as pigiausias iš 28 (kiti 10 €–60 €, mediana 25 €), 120% brangiau už medianą. Privalumai: puiki būklė.",
    "visi_palyginami": [
     {
      "kaina": 10.0,
@@ -27951,6 +27883,13 @@
      "pavadinimas": "Ps 5 žaidimai",
      "rizikos": [],
      "vieta_laikas": "Klaipėda, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "pavadinimas": "Playstation žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 40 min."
     },
     {
      "kaina": 20.0,
@@ -28099,22 +28038,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5-priedai): 26 vnt., kainos 10 €–60 €, mediana 26,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 23,9 €",
+    "Panašūs skelbimai (ps5-priedai): 27 vnt., kainos 10 €–60 €, mediana 25 € × 0.90 (realiai parduodama pigiau nei prašoma) = 22,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 23,9 € − 55 € − 4 € = -35,1 € (-64% pirkimo kainos)",
-    "Mokėti ne daugiau: min((23,9 € − 4 €) / 1.35; 23,9 € − 4 € − 20 €) = 0 €",
-    "Laikas ~1.5 val. → -23,4 €/val.",
+    "Pelnas = 22,5 € − 55 € − 4 € = -36,5 € (-66% pirkimo kainos)",
+    "Mokėti ne daugiau: min((22,5 € − 4 €) / 1.35; 22,5 € − 4 € − 20 €) = 0 €",
+    "Laikas ~1.5 val. → -24,3 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 27 panašių skelbimų pigesnių yra 25; įprasta kaina ~26,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 26; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: puiki būklė."
    ],
    "pries": [
-    "Iš 27 panašių skelbimų pigesnių yra 25; įprasta kaina ~26,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-35 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -64 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 28 panašių skelbimų pigesnių yra 26; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-36 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -66 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -32319,12 +32258,12 @@
    "bukle": null,
    "modelis": "dyson-supersonic",
    "raktas": "dyson-supersonic",
-   "palyginamu": 4,
-   "mediana": 145,
+   "palyginamu": 5,
+   "mediana": 170,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 145 €"
+    "5 panašių skelbimų mediana 170 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -32356,6 +32295,12 @@
      "vieta_laikas": "Kaunas, prieš 2 val."
     },
     {
+     "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
      "kaina": 300.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
@@ -32381,11 +32326,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=dyson+supersonic"
     }
    ],
-   "tiketina_pardavimo": 130,
-   "pelnas": -54,
-   "roi": -0.3,
-   "max_pirkimo": 93,
-   "pelnas_per_val": -54,
+   "tiketina_pardavimo": 153,
+   "pelnas": -32,
+   "roi": -0.17,
+   "max_pirkimo": 110,
+   "pelnas_per_val": -32,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -32402,13 +32347,13 @@
    },
    "pozicija": {
     "vieta": 4,
-    "is": 5,
+    "is": 6,
     "min": 110.0,
     "max": 300.0,
-    "mediana": 145.0,
-    "nuolaida": -0.24
+    "mediana": 170.0,
+    "nuolaida": -0.06
    },
-   "kodel": "4-as pigiausias iš 5 (kiti 110 €–300 €, mediana 145 €), 24% brangiau už medianą. Privalumai: komplektas, nauja, naujas, nenaudotas.",
+   "kodel": "4-as pigiausias iš 6 (kiti 110 €–300 €, mediana 170 €), 6% brangiau už medianą. Privalumai: komplektas, nauja, naujas, nenaudotas.",
    "visi_palyginami": [
     {
      "kaina": 110.0,
@@ -32432,6 +32377,13 @@
      "vieta_laikas": "Kaunas, prieš 2 val."
     },
     {
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+     "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "kaina": 300.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
      "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
@@ -32443,21 +32395,21 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (dyson-supersonic): 4 vnt., kainos 110 €–300 €, mediana 145 € × 0.90 (realiai parduodama pigiau nei prašoma) = 130,5 €",
+    "Panašūs skelbimai (dyson-supersonic): 5 vnt., kainos 110 €–300 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 130,5 € − 180 € − 4,5 € = -54 € (-30% pirkimo kainos)",
-    "Mokėti ne daugiau: min((130,5 € − 4,5 €) / 1.35; 130,5 € − 4,5 € − 20 €) = 93,3 €",
-    "Laikas ~1.0 val. → -54 €/val.",
+    "Pelnas = 153 € − 180 € − 4,5 € = -31,5 € (-18% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
+    "Laikas ~1.0 val. → -31,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~145 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~170 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: komplektas, nauja, naujas, nenaudotas."
    ],
    "pries": [
-    "Iš 5 panašių skelbimų pigesnių yra 3; įprasta kaina ~145 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-54 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -30 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+    "Iš 6 panašių skelbimų pigesnių yra 3; įprasta kaina ~170 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-32 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -17 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -33752,12 +33704,12 @@
    "bukle": null,
    "modelis": "ps5-priedai",
    "raktas": "ps5-priedai",
-   "palyginamu": 27,
-   "mediana": 28,
+   "palyginamu": 28,
+   "mediana": 26,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "27 panašių skelbimų mediana 28 €"
+    "28 panašių skelbimų mediana 26,5 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -33807,6 +33759,12 @@
      "vieta_laikas": "Klaipėda, prieš 11 val."
     },
     {
+     "pavadinimas": "Playstation žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "vieta_laikas": "Panevėžys, prieš 40 min."
+    },
+    {
      "pavadinimas": "Ps5 Zaidimai",
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
@@ -33823,12 +33781,6 @@
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
      "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Ps5 pultelis",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-88045412.html",
-     "vieta_laikas": "Vilnius, prieš 25 min."
     }
    ],
    "parduotuves": [],
@@ -33850,11 +33802,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Ps5+%C5%BEaidimai"
     }
    ],
-   "tiketina_pardavimo": 25,
-   "pelnas": -129,
-   "roi": -0.86,
-   "max_pirkimo": 1,
-   "pelnas_per_val": -86,
+   "tiketina_pardavimo": 24,
+   "pelnas": -130,
+   "roi": -0.87,
+   "max_pirkimo": 0,
+   "pelnas_per_val": -87,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -33867,14 +33819,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 28,
-    "is": 28,
+    "vieta": 29,
+    "is": 29,
     "min": 10.0,
     "max": 60.0,
-    "mediana": 28.0,
-    "nuolaida": -4.36
+    "mediana": 26.5,
+    "nuolaida": -4.66
    },
-   "kodel": "28-as pigiausias iš 28 (kiti 10 €–60 €, mediana 28 €), 436% brangiau už medianą. Privalumai: ideali būklė.",
+   "kodel": "29-as pigiausias iš 29 (kiti 10 €–60 €, mediana 26,5 €), 466% brangiau už medianą. Privalumai: ideali būklė.",
    "visi_palyginami": [
     {
      "kaina": 10.0,
@@ -33917,6 +33869,13 @@
      "pavadinimas": "Ps 5 žaidimai",
      "rizikos": [],
      "vieta_laikas": "Klaipėda, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "pavadinimas": "Playstation žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 40 min."
     },
     {
      "kaina": 20.0,
@@ -34072,22 +34031,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5-priedai): 27 vnt., kainos 10 €–60 €, mediana 28 € × 0.90 (realiai parduodama pigiau nei prašoma) = 25,2 €",
+    "Panašūs skelbimai (ps5-priedai): 28 vnt., kainos 10 €–60 €, mediana 26,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 23,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 25,2 € − 150 € − 4 € = -128,8 € (-86% pirkimo kainos)",
-    "Mokėti ne daugiau: min((25,2 € − 4 €) / 1.35; 25,2 € − 4 € − 20 €) = 1,2 €",
-    "Laikas ~1.5 val. → -85,9 €/val.",
+    "Pelnas = 23,9 € − 150 € − 4 € = -130,2 € (-87% pirkimo kainos)",
+    "Mokėti ne daugiau: min((23,9 € − 4 €) / 1.35; 23,9 € − 4 € − 20 €) = 0 €",
+    "Laikas ~1.5 val. → -86,8 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 27; įprasta kaina ~28 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 29 panašių skelbimų pigesnių yra 28; įprasta kaina ~26,5 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: ideali būklė."
    ],
    "pries": [
-    "Iš 28 panašių skelbimų pigesnių yra 27; įprasta kaina ~28 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-129 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -86 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 29 panašių skelbimų pigesnių yra 28; įprasta kaina ~26,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-130 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -87 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -34432,12 +34391,12 @@
    "bukle": null,
    "modelis": "dyson-supersonic",
    "raktas": "dyson-supersonic",
-   "palyginamu": 4,
-   "mediana": 150,
+   "palyginamu": 5,
+   "mediana": 180,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "4 panašių skelbimų mediana 150 €"
+    "5 panašių skelbimų mediana 180 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -34469,6 +34428,12 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     },
     {
+     "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
      "kaina": 300.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
@@ -34494,11 +34459,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=dyson+supersonic"
     }
    ],
-   "tiketina_pardavimo": 135,
-   "pelnas": -40,
-   "roi": -0.23,
-   "max_pirkimo": 97,
-   "pelnas_per_val": -40,
+   "tiketina_pardavimo": 162,
+   "pelnas": -12,
+   "roi": -0.07,
+   "max_pirkimo": 117,
+   "pelnas_per_val": -12,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -34514,13 +34479,13 @@
    },
    "pozicija": {
     "vieta": 3,
-    "is": 5,
+    "is": 6,
     "min": 110.0,
     "max": 300.0,
-    "mediana": 150.0,
-    "nuolaida": -0.13
+    "mediana": 180.0,
+    "nuolaida": 0.06
    },
-   "kodel": "3-as pigiausias iš 5 (kiti 110 €–300 €, mediana 150 €), 13% brangiau už medianą. Privalumai: nauja, naujas, nenaudotas.",
+   "kodel": "3-as pigiausias iš 6 (kiti 110 €–300 €, mediana 180 €), 6% pigiau už medianą. Privalumai: nauja, naujas, nenaudotas.",
    "visi_palyginami": [
     {
      "kaina": 110.0,
@@ -34544,6 +34509,13 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     },
     {
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+     "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
      "kaina": 300.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
      "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
@@ -34555,21 +34527,21 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (dyson-supersonic): 4 vnt., kainos 110 €–300 €, mediana 150 € × 0.90 (realiai parduodama pigiau nei prašoma) = 135 €",
+    "Panašūs skelbimai (dyson-supersonic): 5 vnt., kainos 110 €–300 €, mediana 180 € × 0.90 (realiai parduodama pigiau nei prašoma) = 162 €",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 135 € − 170 € − 4,5 € = -39,5 € (-23% pirkimo kainos)",
-    "Mokėti ne daugiau: min((135 € − 4,5 €) / 1.35; 135 € − 4,5 € − 20 €) = 96,7 €",
-    "Laikas ~1.0 val. → -39,5 €/val.",
+    "Pelnas = 162 € − 170 € − 4,5 € = -12,5 € (-7% pirkimo kainos)",
+    "Mokėti ne daugiau: min((162 € − 4,5 €) / 1.35; 162 € − 4,5 € − 20 €) = 116,7 €",
+    "Laikas ~1.0 val. → -12,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~150 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 2; įprasta kaina ~180 €, šis 6 % pigesnis.",
    "uz": [
     "Aprašyme: nauja, naujas, nenaudotas."
    ],
    "pries": [
-    "Iš 5 panašių skelbimų pigesnių yra 2; įprasta kaina ~150 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-40 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -23 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+    "Iš 6 panašių skelbimų pigesnių yra 2; įprasta kaina ~180 €, šis 6 % pigesnis.",
+    "Pelnas būtų tik ~-12 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -7 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -37112,12 +37084,12 @@
    "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Jurbarko r.",
@@ -37231,13 +37203,13 @@
    },
    "pozicija": {
     "vieta": 28,
-    "is": 82,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": 0.14
    },
-   "kodel": "28-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Privalumai: ideali būklė, mažai naudotas, nauja, naujas.",
+   "kodel": "28-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Privalumai: ideali būklė, mažai naudotas, nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -37539,19 +37511,19 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: siunta į paštomatą iš Jurbarko r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 31,5 € − 30 € − 4,5 € = -3 € (-10% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
     "Laikas ~1.0 val. → -3 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
    "uz": [
     "Aprašyme: ideali būklė, mažai naudotas, nauja, naujas."
    ],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
+    "Iš 83 panašių skelbimų pigesnių yra 27; įprasta kaina ~35 €, šis 14 % pigesnis.",
     "Pelnas būtų tik ~-3 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -37586,12 +37558,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -37701,14 +37673,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 71,
-    "is": 82,
+    "vieta": 72,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": -0.43
    },
-   "kodel": "71-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 43% brangiau už medianą. Aprašyme: braižytas.",
+   "kodel": "72-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 43% brangiau už medianą. Aprašyme: braižytas.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -38008,17 +37980,17 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 50 € − 4 € = -22,5 € (-45% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -15 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 70; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 71; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 70; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 71; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-22 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -45 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Aprašyme minima: braižytas."
@@ -38052,12 +38024,12 @@
    "bukle": null,
    "modelis": "ps5-priedai",
    "raktas": "ps5-priedai",
-   "palyginamu": 26,
-   "mediana": 28,
+   "palyginamu": 27,
+   "mediana": 25,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "26 panašių skelbimų mediana 27,5 €"
+    "27 panašių skelbimų mediana 25 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -38107,6 +38079,12 @@
      "vieta_laikas": "Klaipėda, prieš 11 val."
     },
     {
+     "pavadinimas": "Playstation žaidimai",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "vieta_laikas": "Panevėžys, prieš 40 min."
+    },
+    {
      "pavadinimas": "Ps5 Zaidimai",
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-zaidimai-87848380.html",
@@ -38123,12 +38101,6 @@
      "kaina": 20.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-link-adapteris-87980640.html",
      "vieta_laikas": "Kaunas, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Ps5 pultelis",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-88045412.html",
-     "vieta_laikas": "Vilnius, prieš 25 min."
     }
    ],
    "parduotuves": [],
@@ -38150,11 +38122,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Sackboy+zaidimas+ps5"
     }
    ],
-   "tiketina_pardavimo": 25,
-   "pelnas": -7,
-   "roi": -0.26,
-   "max_pirkimo": 1,
-   "pelnas_per_val": -5,
+   "tiketina_pardavimo": 22,
+   "pelnas": -10,
+   "roi": -0.34,
+   "max_pirkimo": 0,
+   "pelnas_per_val": -6,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -38168,14 +38140,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 14,
-    "is": 27,
+    "vieta": 15,
+    "is": 28,
     "min": 10.0,
     "max": 60.0,
-    "mediana": 27.5,
-    "nuolaida": -0.02
+    "mediana": 25.0,
+    "nuolaida": -0.12
    },
-   "kodel": "14-as pigiausias iš 27 (kiti 10 €–60 €, mediana 27,5 €), 2% brangiau už medianą. Privalumai: nauja, naujas.",
+   "kodel": "15-as pigiausias iš 28 (kiti 10 €–60 €, mediana 25 €), 12% brangiau už medianą. Privalumai: nauja, naujas.",
    "visi_palyginami": [
     {
      "kaina": 10.0,
@@ -38218,6 +38190,13 @@
      "pavadinimas": "Ps 5 žaidimai",
      "rizikos": [],
      "vieta_laikas": "Klaipėda, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/playstation-zaidimai-88080726.html",
+     "pavadinimas": "Playstation žaidimai",
+     "rizikos": [],
+     "vieta_laikas": "Panevėžys, prieš 40 min."
     },
     {
      "kaina": 20.0,
@@ -38366,22 +38345,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5-priedai): 26 vnt., kainos 10 €–60 €, mediana 27,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,8 €",
+    "Panašūs skelbimai (ps5-priedai): 27 vnt., kainos 10 €–60 €, mediana 25 € × 0.90 (realiai parduodama pigiau nei prašoma) = 22,5 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 24,8 € − 28 € − 4 € = -7,2 € (-26% pirkimo kainos)",
-    "Mokėti ne daugiau: min((24,8 € − 4 €) / 1.35; 24,8 € − 4 € − 20 €) = 0,8 €",
-    "Laikas ~1.5 val. → -4,8 €/val.",
+    "Pelnas = 22,5 € − 28 € − 4 € = -9,5 € (-34% pirkimo kainos)",
+    "Mokėti ne daugiau: min((22,5 € − 4 €) / 1.35; 22,5 € − 4 € − 20 €) = 0 €",
+    "Laikas ~1.5 val. → -6,3 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 27 panašių skelbimų pigesnių yra 13; įprasta kaina ~27,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 14; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja, naujas."
    ],
    "pries": [
-    "Iš 27 panašių skelbimų pigesnių yra 13; įprasta kaina ~27,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-7 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -26 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 28 panašių skelbimų pigesnių yra 14; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-10 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -34 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -39699,8 +39678,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Kokybiškas ir patogus Cybex Priam, trečios kartos modelis. Spalva – Manhattan Grey Važiuoklė – Chrome Priekinių ir galinių ratų amortizacija Yra apsauga nuo lietaus Reguliuojama sėdynės padėtis ir rankenos aukštis Didelis, reguliuojamas stogelis Vežimėlio būklė matoma nuotraukose. Pridedami adaptoriai Maxi Cosi autokėdutei.",
+   "bukle": "Naudota",
    "modelis": "cybex-priam",
    "raktas": "cybex-priam",
    "palyginamu": 3,
@@ -39770,8 +39749,8 @@
    "aprasymas_analize": {
     "rizikos_zodziai": [],
     "privalumai": [],
-    "aprasymo_ilgis": 138,
-    "pilnas": false
+    "aprasymo_ilgis": 325,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -40649,12 +40628,12 @@
    "bukle": null,
    "modelis": "ps5",
    "raktas": "ps5",
-   "palyginamu": 81,
+   "palyginamu": 82,
    "mediana": 35,
    "naujo_kaina": null,
    "patikimumas": "aukštas",
    "saltiniai": [
-    "81 panašių skelbimų mediana 35 €"
+    "82 panašių skelbimų mediana 35 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -40762,14 +40741,14 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 74,
-    "is": 82,
+    "vieta": 75,
+    "is": 83,
     "min": 15.0,
     "max": 135.0,
     "mediana": 35.0,
     "nuolaida": -0.71
    },
-   "kodel": "74-as pigiausias iš 82 (kiti 15 €–135 €, mediana 35 €), 71% brangiau už medianą.",
+   "kodel": "75-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 71% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -41069,17 +41048,17 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (ps5): 81 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 31,5 € − 60 € − 4 € = -32,5 € (-54% pirkimo kainos)",
     "Mokėti ne daugiau: min((31,5 € − 4 €) / 1.35; 31,5 € − 4 € − 20 €) = 7,5 €",
     "Laikas ~1.5 val. → -21,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 82 panašių skelbimų pigesnių yra 73; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 74; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 82 panašių skelbimų pigesnių yra 73; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Iš 83 panašių skelbimų pigesnių yra 74; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-32 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -54 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
    ],
@@ -42140,6 +42119,652 @@
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
    }
+  },
+  {
+   "id": "88076920",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-nova-pink-pultelis-su-tmr-88076920.html",
+   "pavadinimas": "Ps5 Nova Pink pultelis su Tmr",
+   "kaina": 45.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5319664574/ps5-nova-pink-pultelis-su-tmr.jpg",
+   "aprasymas": "Parduodu tris PS5 DualSense Nova Pink originalų pultelus. Pakeistos originalios svirtelės į K-silver js13 Pro+ TMR svirteles. Kurios yra daug ko...",
+   "vieta_laikas": "Kaunas, prieš 1 val.",
+   "paieska": "PlayStation 5",
+   "pastebetas": "2026-11-07T07:16:47Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "ps5",
+   "raktas": "ps5",
+   "palyginamu": 82,
+   "mediana": 35,
+   "naujo_kaina": null,
+   "patikimumas": "aukštas",
+   "saltiniai": [
+    "82 panašių skelbimų mediana 35 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Kaunas",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Wreckfest ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "pavadinimas": "Resident evil village ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/resident-evil-village-ps5-87988792.html",
+     "vieta_laikas": "Palanga, prieš 5 val."
+    },
+    {
+     "pavadinimas": "The Last Guardian ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-last-guardian-ps5-88025202.html",
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "pavadinimas": "The Last of Us Part 1 Ps5",
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-last-of-us-part-1-ps5-88025144.html",
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "pavadinimas": "God of War Ragnarök Ps5",
+     "kaina": 18.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/god-of-war-ragnar-k-ps5-87924698.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Red dead redemption 2 Ps4/ps5",
+     "kaina": 19.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/red-dead-redemption-2-ps4-ps5-88041650.html",
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "pavadinimas": "Hogwarts legacy Ps5",
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/hogwarts-legacy-ps5-87903826.html",
+     "vieta_laikas": "Vilnius, prieš 34 min."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=ps5"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ps5"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=ps5"
+    }
+   ],
+   "tiketina_pardavimo": 32,
+   "pelnas": -18,
+   "roi": -0.4,
+   "max_pirkimo": 7,
+   "pelnas_per_val": -18,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [],
+    "aprasymo_ilgis": 147,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 63,
+    "is": 83,
+    "min": 15.0,
+    "max": 135.0,
+    "mediana": 35.0,
+    "nuolaida": -0.29
+   },
+   "kodel": "63-as pigiausias iš 83 (kiti 15 €–135 €, mediana 35 €), 29% brangiau už medianą.",
+   "visi_palyginami": [
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-mirage-ps5-87828556.html",
+     "pavadinimas": "Assassins creed Mirage / Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/witcher-3-game-of-the-year-edition-ps4-ps5-87857282.html",
+     "pavadinimas": "Witcher 3 Game of the Year Edition Ps4 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Utenos r., prieš 5 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/wreckfest-ps5-87848490.html",
+     "pavadinimas": "Wreckfest ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 11 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/resident-evil-village-ps5-87988792.html",
+     "pavadinimas": "Resident evil village ps5",
+     "rizikos": [],
+     "vieta_laikas": "Palanga, prieš 5 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-last-guardian-ps5-88025202.html",
+     "pavadinimas": "The Last Guardian ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 15.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/the-last-of-us-part-1-ps5-88025144.html",
+     "pavadinimas": "The Last of Us Part 1 Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 18.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/god-of-war-ragnar-k-ps5-87924698.html",
+     "pavadinimas": "God of War Ragnarök Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 19.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/red-dead-redemption-2-ps4-ps5-88041650.html",
+     "pavadinimas": "Red dead redemption 2 Ps4/ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/horizon-forbiden-west-ps5-disc-87840262.html",
+     "pavadinimas": "Horizon Forbiden West ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 12 min."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/hogwarts-legacy-ps5-87903826.html",
+     "pavadinimas": "Hogwarts legacy Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Vilnius, prieš 34 min."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-pultelis-su-defektu-87939482.html",
+     "pavadinimas": "Ps5 pultelis su defektu",
+     "rizikos": [
+      "defektas"
+     ],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/cod-black-ops-7-ps5-87954446.html",
+     "pavadinimas": "Cod Black ops 7 ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-ps5-pultas-87981666.html",
+     "pavadinimas": "Sony Ps5 pultas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ufc-5-ps5-88002832.html",
+     "pavadinimas": "Ufc 5 ps5",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 44 min."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/until-dawn-ps5-kaunas-88015474.html",
+     "pavadinimas": "Until Dawn Ps5 Kaunas",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dying-light-2-ps4-ps5-88037190.html",
+     "pavadinimas": "Dying Light 2 Ps4-ps5",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 1 val."
+    },
+    {
+     "kaina": 20.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gta5-ps5-88052610.html",
+     "pavadinimas": "Gta5 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 14 min."
+    },
+    {
+     "kaina": 23.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/call-of-duty-vanguard-ps5-87919122.html",
+     "pavadinimas": "Call of duty vanguard ps5",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 4 val."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/mafia-the-old-country-ps5-87822186.html",
+     "pavadinimas": "Mafia The Old Country Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 d."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps5-87868090.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 min."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/alan-wake-2-ps5-87959046.html",
+     "pavadinimas": "Alan Wake 2 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/trust-gxt-498-forta-black-ps5-ps4-pc-ausines-87967634.html",
+     "pavadinimas": "Trust Gxt 498 Forta Black Ps5 / Ps4 / Pc ausinės",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 54 min."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/trust-gxt-498-forta-white-ps5-ps4-pc-ausines-87967588.html",
+     "pavadinimas": "Trust Gxt 498 Forta White Ps5 / Ps4 / Pc ausinės",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 54 min."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/little-nightmares-3-ps5-88034468.html",
+     "pavadinimas": "Little Nightmares 3 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 25.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-dualsense-88043434.html",
+     "pavadinimas": "Ps5 Dualsense",
+     "rizikos": [
+      "defektas",
+      "pultelių drift"
+     ],
+     "vieta_laikas": "Klaipėda, prieš 2 val."
+    },
+    {
+     "kaina": 27.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/clair-obscur-expedition-33-ps4-ps5-87968826.html",
+     "pavadinimas": "Clair Obscur: Expedition 33 Ps4/ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 28.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/cyberpunk-ultimate-edition-ps5-88025592.html",
+     "pavadinimas": "Cyberpunk ultimate edition Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/split-fiction-ps5-87954428.html",
+     "pavadinimas": "Split fiction Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-cyberpunk-87948874.html",
+     "pavadinimas": "Ps5 Cyberpunk",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 6 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/metal-gear-solid-delta-snake-eater-ps5-87993494.html",
+     "pavadinimas": "Metal Gear Solid Delta Snake Eater Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 17 min."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-ps5-87986252.html",
+     "pavadinimas": "Minecraft ps5",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 7 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sony-playstation-dualsense-87994176.html",
+     "pavadinimas": "Sony Playstation Dualsense",
+     "rizikos": [
+      "pultelių drift"
+     ],
+     "vieta_laikas": "Panevėžys, prieš 4 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/nba-2k26-ps5-88000936.html",
+     "pavadinimas": "Nba 2k26 Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/returnal-ps5-88025188.html",
+     "pavadinimas": "Returnal ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/split-fiction-ps5-88025156.html",
+     "pavadinimas": "Split Fiction Ps5",
+     "rizikos": [
+      "braižytas"
+     ],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/ps5-controlleris-originalas-kaip-naujas-88073134.html",
+     "pavadinimas": "Ps5 controlleris / originalas / kaip naujas",
+     "rizikos": [],
+     "vieta_laikas": "Jurbarko r., prieš 4 min."
+    },
+    {
+     "kaina": 32.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassin-s-creed-black-flag-resynced-ps5-87949626.html",
+     "pavadinimas": "Assassin's Creed Black Flag Resynced Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 6 val."
+    },
+    {
+     "kaina": 33.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/resonance-a-plague-tale-legacy-ps5-88031116.html",
+     "pavadinimas": "Resonance: A Plague Tale Legacy Ps5",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 49 min."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/007-james-bond-first-light-ps5-87835488.html",
+     "pavadinimas": "007 James bond first light ps5",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 4 val."
+    },
+    {
+     "kaina": 35.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/crimson-desert-ps5-disc-87840318.html",
+     "pavadinimas": "Crimson desert ps5 disc",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 21 min."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (ps5): 82 vnt., kainos 15 €–135 €, mediana 35 € × 0.90 (realiai parduodama pigiau nei prašoma) = 31,5 €",
+    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 31,5 € − 45 € − 4,5 € = -18 € (-40% pirkimo kainos)",
+    "Mokėti ne daugiau: min((31,5 € − 4,5 €) / 1.35; 31,5 € − 4,5 € − 20 €) = 7 €",
+    "Laikas ~1.0 val. → -18 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: iš 83 panašių skelbimų pigesnių yra 62; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+   "uz": [],
+   "pries": [
+    "Iš 83 panašių skelbimų pigesnių yra 62; įprasta kaina ~35 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-18 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -40 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "88076968",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88076968.html",
+   "pavadinimas": "„Dyson Supersonic“ plaukų džiovintuvas",
+   "kaina": 200.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5319672320/dyson-supersonic-plauku-dziovintuvas.jpg",
+   "aprasymas": "Parduodamas originalus „Dyson Supersonic“ plaukų džiovintuvas. Visiškai naujas, nenaudotas, originalioje pakuotėje. Privalumai: * Greitai...",
+   "vieta_laikas": "Vilnius, prieš 1 val.",
+   "paieska": "Dyson",
+   "pastebetas": "2026-11-07T07:16:47Z",
+   "parametrai": [
+    "Būklė: Nauja"
+   ],
+   "pilnas_aprasymas": null,
+   "bukle": null,
+   "modelis": "dyson-supersonic",
+   "raktas": "dyson-supersonic",
+   "palyginamu": 5,
+   "mediana": 170,
+   "naujo_kaina": null,
+   "patikimumas": "vidutinis",
+   "saltiniai": [
+    "5 panašių skelbimų mediana 170 €"
+   ],
+   "kastai": {
+    "budas": "atsiimti vietoje (Vilnius)",
+    "atgabenimas": 3.0,
+    "pardavimas": 1.0,
+    "viso": 4.0,
+    "valandos": 1.5,
+    "vietinis": true,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Dyson supersonic plaukų džiovintuvas",
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88074566.html",
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "pavadinimas": "Dyson Supersonic Hd07 – plaukų džiovintuvas",
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-hd07-plauku-dziovintuvas-88003002.html",
+     "vieta_laikas": "Vilnius, prieš 40 min."
+    },
+    {
+     "pavadinimas": "Dyson Supersonic plauku džiovintuvas",
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88050436.html",
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    },
+    {
+     "pavadinimas": "Dyson Supersonic plaukų džiovintuvas",
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88044414.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
+     "kaina": 300.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
+     "vieta_laikas": "Kita, prieš 4 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=dyson+supersonic"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=dyson+supersonic"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=dyson+supersonic"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=dyson+supersonic"
+    }
+   ],
+   "tiketina_pardavimo": 153,
+   "pelnas": -51,
+   "roi": -0.26,
+   "max_pirkimo": 110,
+   "pelnas_per_val": -34,
+   "sprendimas": "praleisti",
+   "priezastis": "per brangu perpardavimui",
+   "balas": 0,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "nauja",
+     "naujas",
+     "nenaudotas"
+    ],
+    "aprasymo_ilgis": 140,
+    "pilnas": false
+   },
+   "pozicija": {
+    "vieta": 5,
+    "is": 6,
+    "min": 110.0,
+    "max": 300.0,
+    "mediana": 170.0,
+    "nuolaida": -0.18
+   },
+   "kodel": "5-as pigiausias iš 6 (kiti 110 €–300 €, mediana 170 €), 18% brangiau už medianą. Privalumai: nauja, naujas, nenaudotas.",
+   "visi_palyginami": [
+    {
+     "kaina": 110.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88074566.html",
+     "pavadinimas": "Dyson supersonic plaukų džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 8 val."
+    },
+    {
+     "kaina": 120.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-hd07-plauku-dziovintuvas-88003002.html",
+     "pavadinimas": "Dyson Supersonic Hd07 – plaukų džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 40 min."
+    },
+    {
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88050436.html",
+     "pavadinimas": "Dyson Supersonic plauku džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    },
+    {
+     "kaina": 180.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/dyson-supersonic-plauku-dziovintuvas-88044414.html",
+     "pavadinimas": "Dyson Supersonic plaukų džiovintuvas",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 300.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodu-nauja-dyson-supersonic-hd07-su-deze-87923884.html",
+     "pavadinimas": "Parduodu Naują „Dyson Supersonic Hd07“ Su Dėže",
+     "rizikos": [],
+     "vieta_laikas": "Kita, prieš 4 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": null,
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (dyson-supersonic): 5 vnt., kainos 110 €–300 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
+    "Pelnas = 153 € − 200 € − 4 € = -51 € (-26% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4 €) / 1.35; 153 € − 4 € − 20 €) = 110,4 €",
+    "Laikas ~1.5 val. → -34 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Praleisk: iš 6 panašių skelbimų pigesnių yra 4; įprasta kaina ~170 €, šis ne pigesnis už kitus.",
+   "uz": [
+    "Aprašyme: nauja, naujas, nenaudotas."
+   ],
+   "pries": [
+    "Iš 6 panašių skelbimų pigesnių yra 4; įprasta kaina ~170 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-51 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -26 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+   ],
+   "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
+   "saugumas": {
+    "lygis": "maža",
+    "zingsniai": [
+     "Susitik gyvai viešoje vietoje (prekybos centre, prie degalinės), dienos metu.",
+     "Prieš mokėdamas įjunk ir patikrink daiktą: ar veikia, ar sutampa modelis, ar nėra defektų, kurių nebuvo nuotraukose.",
+     "Mokėk tik pamatęs daiktą: grynais arba mokėjimu telefonu vietoje. Jokių avansų ir „rezervacijos mokesčių“.",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": null
+   }
   }
  ],
  "kalibracija": {
@@ -42180,13 +42805,13 @@
     "pastebetas": "2026-11-07T00:58:21Z",
     "rekomenduota": "2026-11-07T00:59:31Z",
     "sprendimas": "verta",
-    "pelnas": 43,
-    "max_pirkimo": 113,
-    "tiketina_pardavimo": 158,
+    "pelnas": 48,
+    "max_pirkimo": 117,
+    "tiketina_pardavimo": 162,
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "88053510",
@@ -42205,7 +42830,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "88036948",
@@ -42224,7 +42849,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "88012230",
@@ -42243,7 +42868,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "87998376",
@@ -42281,7 +42906,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "87954412",
@@ -42300,7 +42925,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "87967496",
@@ -42319,7 +42944,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "87958800",
@@ -42395,7 +43020,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:59:29Z"
+    "dar_buvo": "2026-11-07T07:17:59Z"
    },
    {
     "id": "87913748",
@@ -42452,7 +43077,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:59:30Z"
+    "dar_buvo": "2026-11-07T07:17:57Z"
    },
    {
     "id": "87939376",
@@ -42851,7 +43476,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:59:29Z"
+    "dar_buvo": "2026-11-07T07:17:58Z"
    },
    {
     "id": "87798852",
@@ -43022,7 +43647,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "87833858",
@@ -43212,7 +43837,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T00:58:21Z"
+    "dar_buvo": "2026-11-07T07:16:47Z"
    },
    {
     "id": "87847204",
@@ -43522,7 +44147,7 @@
    "max": 350.0
   },
   "ps5": {
-   "n": 137,
+   "n": 139,
    "mediana": 45,
    "min": 10.0,
    "max": 750.0
@@ -43540,8 +44165,8 @@
    "max": 750.0
   },
   "ps5-priedai": {
-   "n": 33,
-   "mediana": 28,
+   "n": 34,
+   "mediana": 26,
    "min": 3.0,
    "max": 200.0
   },
@@ -43666,7 +44291,7 @@
    "max": 500.0
   },
   "dyson-kita": {
-   "n": 24,
+   "n": 25,
    "mediana": 200,
    "min": 5.0,
    "max": 550.0
@@ -44074,8 +44699,8 @@
    "max": 75.0
   },
   "dyson-supersonic": {
-   "n": 5,
-   "mediana": 170,
+   "n": 6,
+   "mediana": 175,
    "min": 110.0,
    "max": 300.0
   },

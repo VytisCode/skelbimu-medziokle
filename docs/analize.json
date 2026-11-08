@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-07T22:49:02Z",
+ "sugeneruota": "2026-11-08T02:33:53Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -201,7 +201,7 @@
      "vieta_laikas": "Kita, prieš 4 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 90,
     "tarpinis": 100,
@@ -846,7 +846,7 @@
      "vieta_laikas": "Panevėžys, prieš 2 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": {
     "siulymas": 190,
     "tarpinis": null,
@@ -1385,7 +1385,7 @@
      "vieta_laikas": "Rokiškio r., prieš 7 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": {
     "siulymas": 260,
     "tarpinis": null,
@@ -2721,7 +2721,7 @@
      "vieta_laikas": "Vilnius, prieš 8 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 5,
     "tarpinis": null,
@@ -3205,7 +3205,7 @@
      "vieta_laikas": "Vilnius, prieš 8 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 5,
     "tarpinis": null,
@@ -5698,7 +5698,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 25,
     "tarpinis": null,
@@ -7671,7 +7671,7 @@
      "vieta_laikas": "Elektrėnai, prieš 3 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": {
     "siulymas": 65,
     "tarpinis": 70,
@@ -11563,7 +11563,7 @@
      "vieta_laikas": "Vilnius, prieš 59 min."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -11702,7 +11702,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -11815,7 +11815,7 @@
      "vieta_laikas": "Kaunas, prieš 2 d."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -12475,7 +12475,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, nenaudotas.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -12566,7 +12566,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -12693,7 +12693,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -12789,7 +12789,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: mažai naudotas.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -12883,7 +12883,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -23301,7 +23301,7 @@
      "vieta_laikas": "Vilnius, prieš 6 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -23497,7 +23497,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     }
    ],
-   "amzius_d": 59,
+   "amzius_d": 60,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -28281,7 +28281,7 @@
      "vieta_laikas": "Vilnius, prieš 34 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -28677,7 +28677,7 @@
      "vieta_laikas": "Elektrėnai, prieš 3 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -29146,7 +29146,7 @@
      "vieta_laikas": "Vilnius, prieš 54 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -29313,7 +29313,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -29506,7 +29506,7 @@
      "vieta_laikas": "Kaunas, spalio 04 d."
     }
    ],
-   "amzius_d": 12,
+   "amzius_d": 13,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -29839,7 +29839,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -30046,7 +30046,7 @@
      "vieta_laikas": "Kaunas, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -30198,7 +30198,7 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -34745,7 +34745,7 @@
      "vieta_laikas": "Vilnius, spalio 27, 2016"
     }
    ],
-   "amzius_d": 9,
+   "amzius_d": 10,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -40393,7 +40393,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "88090972",
@@ -40412,7 +40412,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "88090910",
@@ -40431,7 +40431,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "88069360",
@@ -40450,7 +40450,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "88027954",
@@ -40488,7 +40488,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "88053510",
@@ -40507,7 +40507,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "88036948",
@@ -40545,7 +40545,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "87998376",
@@ -40602,7 +40602,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "87967496",
@@ -40621,7 +40621,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "87958800",
@@ -40659,7 +40659,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T18:51:19Z"
+    "dar_buvo": "2026-11-08T02:33:52Z"
    },
    {
     "id": "87952420",
@@ -40678,7 +40678,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T18:51:19Z"
+    "dar_buvo": "2026-11-08T02:33:52Z"
    },
    {
     "id": "87915362",
@@ -41191,7 +41191,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T18:51:20Z"
+    "dar_buvo": "2026-11-08T02:33:51Z"
    },
    {
     "id": "87851294",
@@ -41324,7 +41324,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "87833858",
@@ -41514,7 +41514,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-07T22:48:08Z"
+    "dar_buvo": "2026-11-08T02:33:04Z"
    },
    {
     "id": "87847204",
@@ -42071,7 +42071,7 @@
   }
  },
  "sveikata": {
-  "paieska": "2026-11-07T22:48:08Z",
+  "paieska": "2026-11-08T02:33:04Z",
   "claude_vertinimas": "2026-10-31",
   "nauji_atnaujinta": null
  },

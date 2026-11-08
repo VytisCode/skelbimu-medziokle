@@ -1,5 +1,5 @@
 {
- "atnaujinta": null,
+ "atnaujinta": "2026-11-08",
  "parduotuves": [
   {
    "pavadinimas": "Amazon.de",
@@ -111,35 +111,10 @@
      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
     }
    ],
-   "atnaujinta": null,
-   "pastabos": "Pradinis sąrašas: kainas surinks automatinis tikrintuvas.",
+   "atnaujinta": "2026-11-08",
+   "pastabos": "pigu.lt blokuoja automatą (403); standartinio Pocket 3 varle/bigbox puslapio paieška nerado (tik Creator Combo). Trūksta LT kainos.",
    "skelbiu_tinka": "pocket\\s*3",
    "skelbiu_atmesti": "pocket\\s*[24]|combo|creator"
-  },
-  {
-   "id": "gopro-hero13-black",
-   "modelis": "GoPro HERO13 Black",
-   "kategorija": "GoPro",
-   "raktas": "gopro-13",
-   "lt": [
-    {
-     "parduotuve": "varle.lt",
-     "url": "https://www.varle.lt/veiksmo-kameros/gopro-hero-13-black-kamera-baltos-spalvos--46751892.html"
-    }
-   ],
-   "es": [
-    {
-     "parduotuve": "Photopoint.ee",
-     "salis": "EE",
-     "url": "https://www.photopoint.ee/en/cameras/5246690-gopro-hero13-black",
-     "siunta_eur": 5,
-     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
-    }
-   ],
-   "atnaujinta": null,
-   "pastabos": "",
-   "skelbiu_tinka": "hero\\s*13",
-   "skelbiu_atmesti": "hero\\s*1[0-24]"
   },
   {
    "id": "garmin-venu-3",
@@ -169,10 +144,160 @@
      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
     }
    ],
-   "atnaujinta": null,
-   "pastabos": "",
+   "atnaujinta": "2026-11-08",
+   "pastabos": "2026-11-08: aio.lv brangesnė nei LT parduotuvės – jei ir toliau 'ne', keisti.",
    "skelbiu_tinka": "venu\\s*3(?!\\s*s)",
    "skelbiu_atmesti": "venu\\s*3\\s*s|41\\s*mm"
+  },
+  {
+   "id": "kindle-paperwhite-2024-16gb",
+   "modelis": "Amazon Kindle Paperwhite 12 kartos (2024), 16 GB",
+   "kategorija": "Kindle",
+   "raktas": "kindle-paperwhite",
+   "lt": [
+    {
+     "parduotuve": "varle.lt",
+     "url": "https://www.varle.lt/elektronines-skaitykles/skaitytuvas-e-book-amazon-kindle-paperwhite-ebook--41671885.html",
+     "patikrinta": "2026-11-08"
+    },
+    {
+     "parduotuve": "topocentras.lt",
+     "url": "https://www.topocentras.lt/elektronine-skaitykle-amazon-kindle-paperwhite-2024-12th-gen-16gb-black.html",
+     "patikrinta": "2026-11-08"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "Photopoint.ee",
+     "salis": "EE",
+     "url": "https://www.photopoint.ee/en/e-readers/5711014-amazon-kindle-paperwhite-2024-12th-gen-16gb-jade",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    },
+    {
+     "parduotuve": "Dateks.lv",
+     "salis": "LV",
+     "url": "https://www.dateks.lv/en/cenas/e-gramatu-lasitaji/1175626-amazon-kindle-paperwhite-2024-12th-gen-16gb-black",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    },
+    {
+     "parduotuve": "aio.lv",
+     "salis": "LV",
+     "url": "https://aio.lv/en/product--amazon-840268998295--11229096",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": "2026-11-08",
+   "pastabos": "Pakeitė GoPro 13 (ES brangesnė nei LT skelbimai). Spalvos skiriasi kaina – lyginti tą pačią.",
+   "skelbiu_tinka": "paperwhite.*(2024|12|16\\s*gb)|(2024|12\\s*(gen|kart)).*paperwhite",
+   "skelbiu_atmesti": "signature|colorsoft|kids|(10|11)\\s*(gen|kart)|8\\s*gb"
+  },
+  {
+   "id": "sony-dualsense-white",
+   "modelis": "Sony DualSense PS5 pultelis (baltas, standartinis)",
+   "kategorija": "PlayStation 5",
+   "raktas": "ps5-priedai",
+   "lt": [
+    {
+     "parduotuve": "bigbox.lt",
+     "url": "https://bigbox.lt/zaidimu-pulteliai/1101862-pultelis-sony-dualsense-ps5-wireless-white-black.html",
+     "patikrinta": "2026-11-08"
+    },
+    {
+     "parduotuve": "technorama.lt",
+     "url": "https://www.technorama.lt/product/2011497-pultelis-sony-dualsense-ps5-wireless-whiteblack",
+     "patikrinta": "2026-11-08"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "Dateks.lv",
+     "salis": "LV",
+     "url": "https://www.dateks.lv/en/cenas/spelu-kontrolieri/1144247-sony-dualsense-white",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    },
+    {
+     "parduotuve": "Photopoint.ee",
+     "salis": "EE",
+     "url": "https://www.photopoint.ee/en/gaming-consoles-and-accessories/1894142-sony-dualsense-ps5-wireless-controller-white",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": "2026-11-08",
+   "pastabos": "ps5-priedai: 39 skelbimai Skelbiu.lt.",
+   "skelbiu_tinka": "dualsense|ps5\\s*(pult|pultel|controller|valdikl)",
+   "skelbiu_atmesti": "edge|ikrov|krovikl|stotel|charg|dekl|grip|neveik|drift"
+  },
+  {
+   "id": "makita-dtd153z",
+   "modelis": "Makita DTD153Z (be baterijos)",
+   "kategorija": "Makita",
+   "raktas": "makita-dtd153",
+   "lt": [
+    {
+     "parduotuve": "senukai.lt",
+     "url": "https://www.senukai.lt/p/akumuliatorinis-suktuvas-makita-dtd153z-dtd153z-18-v/5n1v",
+     "patikrinta": "2026-11-08"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "Toolbrothers",
+     "salis": "DE",
+     "url": "https://www.toolbrothers.de/en/products/makita-dtd-153-z-cordless-impact-wrench-18-v-170-nm-1-4-brushless-solo-without-battery-without-charger",
+     "siunta_eur": 10,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimas į LT nežinomas – įvertis 10 €, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": "2026-11-08",
+   "pastabos": "Toolbrothers siuntimo į LT sąlygos nepatvirtintos.",
+   "skelbiu_tinka": "dtd\\s*153",
+   "skelbiu_atmesti": "dtd\\s*15[0-24-9]|komplekt|rinkin"
+  },
+  {
+   "id": "garmin-forerunner-265",
+   "modelis": "Garmin Forerunner 265 (46 mm, ne S)",
+   "kategorija": "Garmin",
+   "raktas": "garmin-forerunner-265",
+   "lt": [
+    {
+     "parduotuve": "varle.lt",
+     "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-forerunner-265-juodas--24055439.html",
+     "patikrinta": "2026-11-08"
+    }
+   ],
+   "es": [
+    {
+     "parduotuve": "Dateks.lv",
+     "salis": "LV",
+     "url": "https://www.dateks.lv/en/cenas/fitnesa-pulksteni-un-aproces/949431-garmin-forerunner-265-music-black",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    },
+    {
+     "parduotuve": "aio.lv",
+     "salis": "LV",
+     "url": "https://aio.lv/en/product--garmin-010-02810-11--8952335",
+     "siunta_eur": 5,
+     "patikrinta": "2026-11-08",
+     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+    }
+   ],
+   "atnaujinta": "2026-11-08",
+   "pastabos": "Lyginti tik 265 (ne 265S). aio.lv – balta spalva.",
+   "skelbiu_tinka": "forerunner\\s*265(?!\\s*s)",
+   "skelbiu_atmesti": "265\\s*s|255|965"
   }
  ]
 }

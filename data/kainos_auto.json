@@ -4,20 +4,20 @@
   "klaida": "robots.txt neprieinamas"
  },
  "https://dateks.lv/en/cenas/sporta-kameras/1019138-dji-osmo-pocket-3": {
-  "laikas": "2026-11-07T10:33:49Z",
+  "laikas": "2026-11-08T10:31:38Z",
   "v": 2,
   "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/166/1533.jpg",
   "kaina": 474.52,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:33:49Z"
+  "kainos_laikas": "2026-11-08T10:31:38Z"
  },
  "https://aio.lv/en/product--dji-cpos0000030103--10714485": {
-  "laikas": "2026-11-07T10:33:54Z",
+  "laikas": "2026-11-08T10:31:43Z",
   "v": 2,
   "paveikslas": "https://aio.lv/img/cache/product/10714485/70806634_large.webp",
   "kaina": 329.0,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:33:54Z"
+  "kainos_laikas": "2026-11-08T10:31:43Z"
  },
  "https://www.kaina24.lt/p/gopro-hero13-black/": {
   "laikas": "2026-11-07T10:24:22Z",
@@ -40,15 +40,15 @@
   "klaida": "neprieinama (HTTP 404)"
  },
  "https://aio.lv/en/product--garmin-753759314743--10722107": {
-  "laikas": "2026-11-07T10:34:24Z",
+  "laikas": "2026-11-08T10:32:02Z",
   "v": 2,
   "paveikslas": "https://aio.lv/img/cache/product/10722107/65240530_large.webp",
   "kaina": 357.49,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:34:24Z"
+  "kainos_laikas": "2026-11-08T10:32:02Z"
  },
  "https://pigu.lt/lt/veiksmo-kameros/veiksmo-ir-laisvalaikio-kamera-dji-osmo-pocket-3?id=77409974": {
-  "laikas": "2026-11-07T10:33:45Z",
+  "laikas": "2026-11-08T10:31:34Z",
   "v": 2,
   "klaida": "neprieinama (HTTP 403)"
  },
@@ -61,24 +61,128 @@
   "kainos_laikas": "2026-11-07T10:33:59Z"
  },
  "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-venu-3-45-mm-skaluno--28354626.html": {
-  "laikas": "2026-11-07T10:34:10Z",
+  "laikas": "2026-11-08T10:31:48Z",
   "v": 2,
   "paveikslas": "https://www.varle.lt/static/uploads/products/726/ism/ismanusis-laikrodis-garmin-venu-3-gps-6f0716f022.webp",
   "kaina": 319.0,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:34:10Z"
+  "kainos_laikas": "2026-11-08T10:31:48Z"
  },
  "https://bigbox.lt/ismanieji-laikrodziai-ir-apyrankes/2375833-ismanusis-laikrodis-garmin-venu-3-black-010-02784-01-0753759314743.html": {
-  "laikas": "2026-11-07T10:34:16Z",
+  "laikas": "2026-11-08T10:31:54Z",
   "v": 2,
   "paveikslas": "https://media-api.bgbx.eu/product-images/3698583/image-536x536.webp",
   "kaina": 305.18,
   "budas": "json-ld",
-  "kainos_laikas": "2026-11-07T10:34:16Z"
+  "kainos_laikas": "2026-11-08T10:31:54Z"
  },
  "https://pigu.lt/lt/mobilieji-telefonai-foto-ir-video/ismanieji-laikrodziai-ir-ismaniosios-apyrankes/ismanieji-laikrodziai-smartwatch/ismanusis-laikrodis-garmin-venu-3-slate-black?id=75361687": {
-  "laikas": "2026-11-07T10:34:20Z",
+  "laikas": "2026-11-08T10:31:59Z",
   "v": 2,
   "klaida": "neprieinama (HTTP 403)"
+ },
+ "https://www.varle.lt/elektronines-skaitykles/skaitytuvas-e-book-amazon-kindle-paperwhite-ebook--41671885.html": {
+  "laikas": "2026-11-08T10:32:06Z",
+  "v": 2,
+  "klaida": "neprieinama (HTTP 410)"
+ },
+ "https://www.topocentras.lt/elektronine-skaitykle-amazon-kindle-paperwhite-2024-12th-gen-16gb-black.html": {
+  "laikas": "2026-11-08T10:32:12Z",
+  "v": 2,
+  "paveikslas": "https://www.topocentras.lt/media/image/default/Logotipas.jpg",
+  "klaida": "kaina puslapyje nerasta"
+ },
+ "https://www.photopoint.ee/en/e-readers/5711014-amazon-kindle-paperwhite-2024-12th-gen-16gb-jade": {
+  "laikas": "2026-11-08T10:32:17Z",
+  "v": 2,
+  "paveikslas": "https://static2.nordic.pictures/52650472-large_default/amazon-kindle-paperwhite-2024-12th-gen-16gb-jade.jpg",
+  "kaina": 184.68,
+  "budas": "meta",
+  "kainos_laikas": "2026-11-08T10:32:17Z"
+ },
+ "https://www.dateks.lv/en/cenas/e-gramatu-lasitaji/1175626-amazon-kindle-paperwhite-2024-12th-gen-16gb-black": {
+  "laikas": "2026-11-08T10:32:23Z",
+  "v": 2,
+  "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/895/2024.jpg",
+  "kaina": 246.51,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:32:23Z"
+ },
+ "https://aio.lv/en/product--amazon-840268998295--11229096": {
+  "laikas": "2026-11-08T10:32:27Z",
+  "v": 2,
+  "paveikslas": "https://aio.lv/img/cache/product/11229096/62117304_large.webp",
+  "kaina": 211.99,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:32:27Z"
+ },
+ "https://bigbox.lt/zaidimu-pulteliai/1101862-pultelis-sony-dualsense-ps5-wireless-white-black.html": {
+  "laikas": "2026-11-08T10:32:32Z",
+  "v": 2,
+  "paveikslas": "https://media-api.bgbx.eu/product-images/2011497/image-536x536.webp",
+  "kaina": 63.43,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:32:32Z"
+ },
+ "https://www.technorama.lt/product/2011497-pultelis-sony-dualsense-ps5-wireless-whiteblack": {
+  "laikas": "2026-11-08T10:32:37Z",
+  "v": 2,
+  "paveikslas": "https://media-api.bgbx.eu/product-images/2011497/image-536x536.webp",
+  "kaina": 66.6,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:32:37Z"
+ },
+ "https://www.dateks.lv/en/cenas/spelu-kontrolieri/1144247-sony-dualsense-white": {
+  "laikas": "2026-11-08T10:32:42Z",
+  "v": 2,
+  "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/189/1813.jpg",
+  "kaina": 85.99,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:32:42Z"
+ },
+ "https://www.photopoint.ee/en/gaming-consoles-and-accessories/1894142-sony-dualsense-ps5-wireless-controller-white": {
+  "laikas": "2026-11-08T10:32:46Z",
+  "v": 2,
+  "paveikslas": "https://static3.nordic.pictures/img/p/et-default-large_default.jpg",
+  "kaina": 82.41,
+  "budas": "meta",
+  "kainos_laikas": "2026-11-08T10:32:46Z"
+ },
+ "https://www.senukai.lt/p/akumuliatorinis-suktuvas-makita-dtd153z-dtd153z-18-v/5n1v": {
+  "laikas": "2026-11-08T10:32:52Z",
+  "v": 2,
+  "klaida": "neprieinama (HTTP 403)"
+ },
+ "https://www.toolbrothers.de/en/products/makita-dtd-153-z-cordless-impact-wrench-18-v-170-nm-1-4-brushless-solo-without-battery-without-charger": {
+  "laikas": "2026-11-08T10:32:57Z",
+  "v": 2,
+  "paveikslas": "https://toolbrothers.de/cdn/shop/files/173934-Toolbrothers-Powertools-Kalender-2026-----Makita-DTD153Z-Edition--Gr--XXL_7.jpg?v=1792166454&width=1200",
+  "kaina": 267.29,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:32:57Z"
+ },
+ "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-forerunner-265-juodas--24055439.html": {
+  "laikas": "2026-11-08T10:33:02Z",
+  "v": 2,
+  "paveikslas": "https://www.varle.lt/static/uploads/products/269/gar/garmin-forerunner-265-music-juodas.webp",
+  "kaina": 499.0,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:33:02Z"
+ },
+ "https://www.dateks.lv/en/cenas/fitnesa-pulksteni-un-aproces/949431-garmin-forerunner-265-music-black": {
+  "laikas": "2026-11-08T10:33:07Z",
+  "v": 2,
+  "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/881/1400.jpg",
+  "kaina": 393.5,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:33:07Z"
+ },
+ "https://aio.lv/en/product--garmin-010-02810-11--8952335": {
+  "laikas": "2026-11-08T10:33:11Z",
+  "v": 2,
+  "paveikslas": "https://aio.lv/img/cache/product/8952335/65239526_large.webp",
+  "kaina": 330.99,
+  "budas": "json-ld",
+  "kainos_laikas": "2026-11-08T10:33:11Z"
  }
 }

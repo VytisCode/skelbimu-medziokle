@@ -1,5 +1,5 @@
 {
- "atnaujinta": "2026-11-08",
+ "atnaujinta": "2026-11-09",
  "parduotuves": [
   {
    "pavadinimas": "Amazon.de",
@@ -111,8 +111,8 @@
      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
     }
    ],
-   "atnaujinta": "2026-11-08",
-   "pastabos": "pigu.lt blokuoja automatą (403); standartinio Pocket 3 varle/bigbox puslapio paieška nerado (tik Creator Combo). Trūksta LT kainos.",
+   "atnaujinta": "2026-11-09",
+   "pastabos": "Standartinio Pocket 3 LT parduotuvėse (varle/bigbox/technorama) nerasta – tikėtina išparduotas (išėjo Pocket 4). Keisti kitą kartą.",
    "skelbiu_tinka": "pocket\\s*3",
    "skelbiu_atmesti": "pocket\\s*[24]|combo|creator"
   },
@@ -164,6 +164,11 @@
      "parduotuve": "topocentras.lt",
      "url": "https://www.topocentras.lt/elektronine-skaitykle-amazon-kindle-paperwhite-2024-12th-gen-16gb-black.html",
      "patikrinta": "2026-11-08"
+    },
+    {
+     "parduotuve": "bigbox.lt",
+     "url": "https://bigbox.lt/elektronines-skaitykles/2496209-kindle-paperwhite-12-2024-czarny-8402689982950.html",
+     "patikrinta": "2026-11-09"
     }
    ],
    "es": [
@@ -192,7 +197,7 @@
      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
     }
    ],
-   "atnaujinta": "2026-11-08",
+   "atnaujinta": "2026-11-09",
    "pastabos": "Pakeitė GoPro 13 (ES brangesnė nei LT skelbimai). Spalvos skiriasi kaina – lyginti tą pačią.",
    "skelbiu_tinka": "paperwhite.*(2024|12|16\\s*gb)|(2024|12\\s*(gen|kart)).*paperwhite",
    "skelbiu_atmesti": "signature|colorsoft|kids|(10|11)\\s*(gen|kart)|8\\s*gb"
@@ -259,8 +264,8 @@
      "pastaba": "Siuntimas į LT nežinomas – įvertis 10 €, patikrinti krepšelyje."
     }
    ],
-   "atnaujinta": "2026-11-08",
-   "pastabos": "Toolbrothers siuntimo į LT sąlygos nepatvirtintos.",
+   "atnaujinta": "2026-11-09",
+   "pastabos": "senukai.lt blokuoja automatą (403); varle/bigbox parduoda tik rinkinius. Jei ir rytoj be LT kainos – keisti.",
    "skelbiu_tinka": "dtd\\s*153",
    "skelbiu_atmesti": "dtd\\s*15[0-24-9]|komplekt|rinkin"
   },
@@ -274,6 +279,11 @@
      "parduotuve": "varle.lt",
      "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-forerunner-265-juodas--24055439.html",
      "patikrinta": "2026-11-08"
+    },
+    {
+     "parduotuve": "bigbox.lt",
+     "url": "https://bigbox.lt/product/3687641-ismanusis-laikrodis-garmin-forerunner-265-white-010-02810-11",
+     "patikrinta": "2026-11-09"
     }
    ],
    "es": [
@@ -294,8 +304,8 @@
      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
     }
    ],
-   "atnaujinta": "2026-11-08",
-   "pastabos": "Lyginti tik 265 (ne 265S). aio.lv – balta spalva.",
+   "atnaujinta": "2026-11-09",
+   "pastabos": "2026-11-09: varle.lt 499 € atrodo kaip katalogo kaina; pridėtas bigbox (balta 010-02810-11 = tas pats kaip aio.lv). Naudoti Skelbiu.lt tik 209–250 € – naują už 440 € parduoti sunku.",
    "skelbiu_tinka": "forerunner\\s*265(?!\\s*s)",
    "skelbiu_atmesti": "265\\s*s|255|965"
   }

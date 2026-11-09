@@ -3555,5 +3555,293 @@
   "skelbimo_tekstas": "",
   "stovas": false,
   "ivertinta": "2026-11-08"
+ },
+ "88103886": {
+  "modelis": "Dyson V15s Detect Submarine (tikėtina)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 300,
+  "kainos_pagrindimas": "Naudoti V15s Submarine ES ~300–400 €; LT Dyson siurblių mediana 250 €.",
+  "patikimumas": "žemas",
+  "sprendimas": "tikrinti",
+  "priezastis": "Jei tai tikrai V15s – už 120 € pelnas ~170 €, bet kaina įtartinai maža (nauja ~800 €).",
+  "rizikos": "Gali būti kitas modelis, padirbinys ar vogtas; ilgas vamzdis netelpa į paštomatą – reikės kurjerio (~10 €).",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09",
+  "apie": "Dyson V15s Detect Submarine – brangiausias Dyson belaidis siurblys su plovimo galva ir lazeriniu šepečiu (naujas ~800 €).",
+  "tikrinti": [
+   "Paprašyk serijos nr. nuotraukos (ant korpuso po baterija) ir patikrink Dyson svetainėje modelį.",
+   "Ar yra Submarine plovimo galva ir lazerinis šepetys – jų nuotraukos.",
+   "Vaizdo įrašas: ekranas rodo dalelių skaičių (V15 požymis).",
+   "Kodėl taip pigiai – paklausk tiesiai.",
+   "Tik išperkamasis kurjeris, ne avansas."
+  ],
+  "galimybe": "Kiti Dyson siurbliai LT 130–280 €, o V15s naujas kainuoja ~800 €. 120 € – arba didelė proga, arba spąstai.",
+  "pardavimas": [
+   "Jei originalus – parduok ~320 €, pabrėžk „plauna“ ir „lazeris“."
+  ]
+ },
+ "88069360": {
+  "modelis": "Nintendo Switch su doku, 128 GB, dėklu ir žaidimu",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 165,
+  "kainos_pagrindimas": "Switch V1/V2 LT 90–180 €, su pilnu komplektu ~150–170 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Už 130 € pelnas ~29 € (22 %); verta už ≤ 115 €. Vilniuje.",
+  "rizikos": "Patikrink V1 ar V2 (serijos nr.).",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09",
+  "apie": "Switch V1 (2017) ar V2 (2019) – V2 baterija laiko ilgiau ir vertinamas ~20 € brangiau.",
+  "tikrinti": [
+   "Serijos nr.: XAW – V1, XKW – V2.",
+   "Joy-Con drift.",
+   "Gyvai Vilniuje – įjunk per TV per doką."
+  ],
+  "galimybe": "Pilnas komplektas su doku ir žaidimu už 130 € – geras, bet rinka ~165 €.",
+  "pardavimas": [
+   "Žaidimą parduok atskirai, konsolę ~160 €.",
+   "Lapkritis–gruodis – geriausias laikas."
+  ]
+ },
+ "88066872": {
+  "modelis": "Roborock S8 (baltas)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 250,
+  "kainos_pagrindimas": "Naudoti S8 LT ~220–290 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Už 195 € pelnas ~49 € (25 %); verta už ≤ 180 €. Vilniuje.",
+  "rizikos": "Ar yra bazė; atsieti nuo Roborock app.",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09",
+  "apie": "Roborock S8 (2023) – lazerinis robotas su plovimu.",
+  "tikrinti": [
+   "Ar komplekte krovimo bazė.",
+   "Šepečių ir filtro būklė.",
+   "Atsietas nuo Roborock app."
+  ],
+  "galimybe": "Rinka ~250 €, šis 195 €.",
+  "pardavimas": [
+   "Parduok ~250 € Vilniuje."
+  ]
+ },
+ "88066200": {
+  "modelis": "Sonos Move (1 karta)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 185,
+  "kainos_pagrindimas": "Naudoti Sonos Move ~170–220 €.",
+  "patikimumas": "žemas",
+  "sprendimas": "derėtis",
+  "priezastis": "Už 150 € pelnas ~29 €, bet yra matomų defektų ir nėra krovimo stotelės; verta už ≤ 120 €.",
+  "rizikos": "Be krovimo bazės (~40 €); kosmetiniai defektai.",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09",
+  "apie": "Sonos Move – nešiojama Wi-Fi/Bluetooth kolonėlė, sveria 3 kg.",
+  "tikrinti": [
+   "Kokie defektai nuotraukose.",
+   "Ar kraunasi per USB-C (bazės nėra).",
+   "Atsieta nuo Sonos paskyros."
+  ],
+  "galimybe": "Be bazės ir su defektais vertė ~170 €.",
+  "pardavimas": [
+   "Parduok ~180 € su nauju USB-C krovikliu."
+  ]
+ },
+ "88070706": {
+  "modelis": "GoPro HERO8 Black",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 140,
+  "kainos_pagrindimas": "Naudotos HERO8 LT 130–190 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Už 110 € pelnas ~24 € (22 %); verta už ≤ 95 €.",
+  "rizikos": "Aprašymas trumpas – klausk baterijos ir komplekto.",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09",
+  "apie": "GoPro HERO8 Black (2019).",
+  "tikrinti": [
+   "Baterijų skaičius.",
+   "Objektyvo stiklas be įbrėžimų.",
+   "Siunta tik išperkamoji."
+  ],
+  "galimybe": "Rinka ~140 €.",
+  "pardavimas": [
+   "Parduok ~140 € pavasarį."
+  ]
+ },
+ "88067720": {
+  "modelis": "Nintendo Switch V2 (Joy-Con nesilaiko)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 140,
+  "kainos_pagrindimas": "V2 su tvarkingais Joy-Con ~150 €; Joy-Con bėgelio taisymas ~10 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Už 110 € pelnas ~14 €; verta už ≤ 90 €.",
+  "rizikos": "Defektas – raudonas Joy-Con nesilaiko.",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09",
+  "apie": "Switch V2 su Joy-Con defektu – bėgelio fiksatorius keičiamas pigiai.",
+  "tikrinti": [
+   "Ar defektas tik fiksatorius.",
+   "Serijos nr. XKW.",
+   "Gyvai Vilniuje."
+  ],
+  "galimybe": "Su defektu vertė mažesnė.",
+  "pardavimas": [
+   "Pataisyk fiksatorių (~10 €), parduok ~150 €."
+  ]
+ },
+ "88111648": {
+  "modelis": "iPad Air 4 64 GB Cellular (sudužęs stiklas)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 130,
+  "kainos_pagrindimas": "Air 4 su sudužusiu ekranu ~100–150 €; stiklo keitimas ~100 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Sudužęs ekranas – taisymas suvalgo pelną.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88089814": {
+  "modelis": "Garmin Montana 7xx laikiklis",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 70,
+  "kainos_pagrindimas": "Nišinis priedas.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Nišinis, lėtai parduodamas.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88106896": {
+  "modelis": "Makita suktuvas su silpna baterija",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 25,
+  "kainos_pagrindimas": "Seni suktuvai ~20–30 €.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Pelnas ~0.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88085034": {
+  "modelis": "Makita DF347D su 2 baterijomis",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 50,
+  "kainos_pagrindimas": "G serijos rinkiniai ~40–55 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Pelnas < 10 €.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88088266": {
+  "modelis": "„Makita“ kampinis šlifuoklis už 45 € (tikėtina kopija)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 0,
+  "kainos_pagrindimas": "Originalus naujas DGA ~100 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Tikėtina replika.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88111278": {
+  "modelis": "Makita suktukų rinkinys su silpnomis baterijomis",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 60,
+  "kainos_pagrindimas": "Dalimis ~60–80 €, bet daug darbo.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Silpnos baterijos, daug laiko parduoti dalimis.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88111502": {
+  "modelis": "LEGO mišinys 4 kg",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 50,
+  "kainos_pagrindimas": "Mišinys ~10–12 €/kg, yra kopijų.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Pelnas < 10 €.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88084574": {
+  "modelis": "Nintendo Switch V2 + 64 GB",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 155,
+  "kainos_pagrindimas": "Rinka ~150–160 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Prašo rinkos kainos.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
+ },
+ "88102850": {
+  "modelis": "Dyson V8 Absolute (silpna baterija)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 60,
+  "kainos_pagrindimas": "Su silpna baterija ~50–70 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Baterija baigta.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-09"
  }
 }

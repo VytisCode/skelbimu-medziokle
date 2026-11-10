@@ -1,5 +1,5 @@
 {
- "atnaujinta": "2026-11-09",
+ "atnaujinta": "2026-11-10",
  "parduotuves": [
   {
    "pavadinimas": "Amazon.de",
@@ -85,36 +85,39 @@
  ],
  "produktai": [
   {
-   "id": "dji-osmo-pocket-3",
-   "modelis": "DJI Osmo Pocket 3 (standartinis)",
+   "id": "dji-osmo-pocket-3-creator",
+   "modelis": "DJI Osmo Pocket 3 Creator Combo",
    "kategorija": "DJI",
    "raktas": "dji-osmopocket",
    "lt": [
     {
-     "parduotuve": "pigu.lt",
-     "url": "https://pigu.lt/lt/veiksmo-kameros/veiksmo-ir-laisvalaikio-kamera-dji-osmo-pocket-3?id=77409974"
+     "parduotuve": "varle.lt",
+     "url": "https://www.varle.lt/vaizdo-kameros/dji-osmo-pocket-3-creator-combo-kamera--30813112.html",
+     "patikrinta": "2026-11-10"
     }
    ],
    "es": [
     {
-     "parduotuve": "Dateks.lv",
-     "salis": "LV",
-     "url": "https://dateks.lv/en/cenas/sporta-kameras/1019138-dji-osmo-pocket-3",
+     "parduotuve": "Photopoint.ee",
+     "salis": "EE",
+     "url": "https://www.photopoint.ee/en/cameras/4190710-dji-osmo-pocket-3-creator-combo",
      "siunta_eur": 5,
-     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+     "patikrinta": "2026-11-10",
+     "pastaba": "Siuntimo į LT kaina – įvertis."
     },
     {
-     "parduotuve": "aio.lv",
+     "parduotuve": "Dateks.lv",
      "salis": "LV",
-     "url": "https://aio.lv/en/product--dji-cpos0000030103--10714485",
+     "url": "https://www.dateks.lv/en/cenas/sporta-kameras/1019306-dji-osmo-pocket-3-creator-combo",
      "siunta_eur": 5,
-     "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje."
+     "patikrinta": "2026-11-10",
+     "pastaba": "Siuntimo į LT kaina – įvertis."
     }
    ],
-   "atnaujinta": "2026-11-09",
-   "pastabos": "Standartinio Pocket 3 LT parduotuvėse (varle/bigbox/technorama) nerasta – tikėtina išparduotas (išėjo Pocket 4). Keisti kitą kartą.",
-   "skelbiu_tinka": "pocket\\s*3",
-   "skelbiu_atmesti": "pocket\\s*[24]|combo|creator"
+   "atnaujinta": "2026-11-10",
+   "pastabos": "Pakeitė standartinį Pocket 3 (LT parduotuvėse nebėra).",
+   "skelbiu_tinka": "pocket\\s*3.*(creator|combo)|(creator|combo).*pocket\\s*3",
+   "skelbiu_atmesti": "pocket\\s*[24]"
   },
   {
    "id": "garmin-venu-3",

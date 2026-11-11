@@ -1,5 +1,5 @@
 {
- "atnaujinta": "2026-11-10",
+ "atnaujinta": "2026-11-11",
  "parduotuves": [
   {
    "pavadinimas": "Amazon.de",
@@ -94,6 +94,11 @@
      "parduotuve": "varle.lt",
      "url": "https://www.varle.lt/vaizdo-kameros/dji-osmo-pocket-3-creator-combo-kamera--30813112.html",
      "patikrinta": "2026-11-10"
+    },
+    {
+     "parduotuve": "topocentras.lt",
+     "url": "https://www.topocentras.lt/veiksmo-kamera-dji-osmo-pocket-3-creator-combo.html",
+     "patikrinta": "2026-11-11"
     }
    ],
    "es": [
@@ -114,8 +119,8 @@
      "pastaba": "Siuntimo į LT kaina – įvertis."
     }
    ],
-   "atnaujinta": "2026-11-10",
-   "pastabos": "Pakeitė standartinį Pocket 3 (LT parduotuvėse nebėra).",
+   "atnaujinta": "2026-11-11",
+   "pastabos": "2026-11-11: varle.lt 739,99 € – greičiausiai kito pardavėjo užkelta kaina; Skelbiu.lt mediana 395 €. „Proga“ klaidinga, kol nėra antros LT parduotuvės kainos.",
    "skelbiu_tinka": "pocket\\s*3.*(creator|combo)|(creator|combo).*pocket\\s*3",
    "skelbiu_atmesti": "pocket\\s*[24]"
   },

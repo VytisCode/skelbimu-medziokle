@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-11T04:42:46Z",
+ "sugeneruota": "2026-11-11T06:40:13Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -54,7 +54,7 @@
    "max_amzius_d": 10
   }
  },
- "skelbimu_istorijoje": 1526,
+ "skelbimu_istorijoje": 1529,
  "radiniai": [
   {
    "id": "88112460",
@@ -962,12 +962,12 @@
    "bukle": "Naudota",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 47,
+   "palyginamu": 48,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "47 panašių skelbimų mediana 80 €"
+    "48 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Kaunas",
@@ -1076,13 +1076,13 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 48,
+    "is": 49,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.81
    },
-   "kodel": "Pigiausias iš 48 to paties modelio skelbimų (kiti 30 €–160 €, mediana 80 €), 81% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos.",
+   "kodel": "Pigiausias iš 49 to paties modelio skelbimų (kiti 30 €–190 €, mediana 80 €), 81% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -1393,7 +1393,7 @@
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 48 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 72 € − 15 € − 4,5 € = 52,5 € (350% pirkimo kainos)",
@@ -1403,7 +1403,7 @@
    ],
    "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 48 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 81 % pigesnis.",
+    "Iš 49 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 81 % pigesnis.",
     "Pelnas ~52 € (350 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
    ],
    "pries": [
@@ -1443,12 +1443,12 @@
    "bukle": "Nauja",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 47,
+   "palyginamu": 48,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "47 panašių skelbimų mediana 80 €"
+    "48 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -1559,13 +1559,13 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 48,
+    "is": 49,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.78
    },
-   "kodel": "Pigiausias iš 48 to paties modelio skelbimų (kiti 30 €–160 €, mediana 80 €), 78% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja.",
+   "kodel": "Pigiausias iš 49 to paties modelio skelbimų (kiti 30 €–190 €, mediana 80 €), 78% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -1876,7 +1876,7 @@
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 48 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 72 € − 18 € − 4,5 € = 49,5 € (275% pirkimo kainos)",
@@ -1886,7 +1886,7 @@
    ],
    "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 48 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 78 % pigesnis.",
+    "Iš 49 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 78 % pigesnis.",
     "Pelnas ~50 € (275 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
     "Aprašyme: nauja."
    ],
@@ -1926,12 +1926,12 @@
    "bukle": "Naudota",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 47,
+   "palyginamu": 48,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "47 panašių skelbimų mediana 80 €"
+    "48 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -2040,13 +2040,13 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 48,
+    "is": 49,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.81
    },
-   "kodel": "Pigiausias iš 48 to paties modelio skelbimų (kiti 30 €–160 €, mediana 80 €), 81% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
+   "kodel": "Pigiausias iš 49 to paties modelio skelbimų (kiti 30 €–190 €, mediana 80 €), 81% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -2357,7 +2357,7 @@
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 48 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 72 € − 15 € − 4 € = 53 € (353% pirkimo kainos)",
@@ -2367,7 +2367,7 @@
    ],
    "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 48 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 81 % pigesnis.",
+    "Iš 49 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 81 % pigesnis.",
     "Pelnas ~53 € (353 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %)."
    ],
    "pries": [
@@ -3096,6 +3096,389 @@
      "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
      "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
      "Apple daiktai: paprašyk serijos numerio ir patikrink checkcoverage.apple.com. Prieš mokėdamas įsitikink, kad išjungtas „Find My“ (iCloud užraktas).",
+     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
+    ],
+    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
+   }
+  },
+  {
+   "id": "88158370",
+   "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+   "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+   "kaina": 100.0,
+   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5331237324/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s.jpg",
+   "aprasymas": "Parduodama puikios būklės, pilnai veikianti profesionali vilkikų (sunkvežimių) navigacija Garmin dēzl 580. Tai itin patogus ir vairuotojų ve...",
+   "vieta_laikas": "Marijampolė, prieš 10 min.",
+   "paieska": "Garmin laikrodžiai",
+   "pastebetas": "2026-11-11T06:37:36Z",
+   "parametrai": [
+    "Būklė: Naudota"
+   ],
+   "pilnas_aprasymas": "Parduodama puikios būklės, pilnai veikianti profesionali vilkikų (sunkvežimių) navigacija Garmin dēzl 580. Tai itin patogus ir vairuotojų vertinamas modelis, turintis integruotą Wi-Fi, todėl žemėlapius ir programinę įrangą galėsite atsinaujinti tiesiogiai kabinoje ar namuose, nejungiant įrenginio prie kompiuterio. Maršrutai skaičiuojami individualiai pagal sunkvežimio svorį, matmenis (aukštį, ilgį, plotį) ir vežamus krovinius (ADR). Pagrindiniai privalumai: Atnaujinti žemėlapiai, programinė įranga Integruotas Wi-Fi: Lengvas žemėlapių atnaujinimas be laidų. Eismo informacija (Traffic): Įrenginys turi integruotą eismo informacijos imtuvą, padedantį apvažiuoti spūstis ir kelio darbus realiu laiku. Nemokami žemėlapiai: Gamykliniai „Lifetime“ Europos žemėlapių atnaujinimai. „Bluetooth“ ryšys: Galima susieti su telefonu laisvų rankų įrangai ar pranešimų gavimui. Sunkvežimių specifika: Įspėjimai apie staigius posūkius, žemus tiltus, svorio ribojimus ir poilsio aikšteles. Komplektacija (viskas, kas matoma nuotraukose): Garmin dēzl 580 navigacija (meniu ir balsai – lietuvių k.) Originalus automobilinis kroviklis (12V/24V) 2 vnt. vakuminiai laikikliai prie stiklo Papildomi laidai kompiuteriui/krovimui Žemėlapių atnaujinimo instrukcija Dėžutės ir dokumentų nėra.",
+   "bukle": "Naudota",
+   "modelis": "garmin-kita",
+   "raktas": "garmin-kita",
+   "palyginamu": 25,
+   "mediana": 170,
+   "naujo_kaina": null,
+   "patikimumas": "žemas",
+   "saltiniai": [
+    "25 panašių skelbimų mediana 170 €"
+   ],
+   "kastai": {
+    "budas": "siunta į paštomatą iš Marijampolė",
+    "atgabenimas": 3.5,
+    "pardavimas": 1.0,
+    "viso": 4.5,
+    "valandos": 1.0,
+    "vietinis": false,
+    "didelis": false,
+    "nepervezamas": false
+   },
+   "palyginami": [
+    {
+     "pavadinimas": "Garmin foreruner 230",
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-foreruner-230-88035056.html",
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "pavadinimas": "Garmin Montana laikiklis",
+     "kaina": 70.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-montana-laikiklis-88089814.html",
+     "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "pavadinimas": "Suunto 7",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/suunto-7-87857042.html",
+     "vieta_laikas": "Vilniaus r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Garmin Instict2 Solar",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-instict2-solar-87982074.html",
+     "vieta_laikas": "Švenčionių r., prieš 50 min."
+    },
+    {
+     "pavadinimas": "Garmin Gpsmap 60cx",
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-gpsmap-60cx-88123350.html",
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "pavadinimas": "Garmin® Drive 5 Pro & Live Traffic 2027",
+     "kaina": 85.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-drive-5-pro-live-traffic-2027-87869834.html",
+     "vieta_laikas": "Biržų r., prieš 3 val."
+    },
+    {
+     "pavadinimas": "Garmin Striker Vivid 4cv su Gt20-tm sonaru",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-striker-vivid-4cv-su-gt20-tm-sonaru-87840254.html",
+     "vieta_laikas": "Vilnius, prieš 1 min."
+    },
+    {
+     "pavadinimas": "Apple Iwatch 8 (45 mm)",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-iwatch-8-45-mm-87857010.html",
+     "vieta_laikas": "Vilniaus r., prieš 5 val."
+    },
+    {
+     "pavadinimas": "Syncros stem, gravel handlebar",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/syncros-stem-gravel-handlebar-88128626.html",
+     "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "pavadinimas": "Garmin Lily Active 2",
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
+     "vieta_laikas": "Vilnius, prieš 8 val."
+    }
+   ],
+   "parduotuves": [],
+   "parduotuviu_paieska": [
+    {
+     "pavadinimas": "kaina24.lt",
+     "url": "https://www.kaina24.lt/search?q=Sunkve%C5%BEimi%C5%B3+navigacija+Garmin+d%C4%93zl+580+Lmt-s"
+    },
+    {
+     "pavadinimas": "pigu.lt",
+     "url": "https://pigu.lt/lt/search?q=Sunkve%C5%BEimi%C5%B3+navigacija+Garmin+d%C4%93zl+580+Lmt-s"
+    },
+    {
+     "pavadinimas": "idealo.de (ES)",
+     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Sunkve%C5%BEimi%C5%B3+navigacija+Garmin+d%C4%93zl+580+Lmt-s"
+    },
+    {
+     "pavadinimas": "Google Shopping",
+     "url": "https://www.google.com/search?tbm=shop&q=Sunkve%C5%BEimi%C5%B3+navigacija+Garmin+d%C4%93zl+580+Lmt-s"
+    }
+   ],
+   "tiketina_pardavimo": 153,
+   "pelnas": 48,
+   "roi": 0.48,
+   "max_pirkimo": 110,
+   "pelnas_per_val": 48,
+   "sprendimas": "tikrinti",
+   "priezastis": "atrodo pelninga, bet per mažai duomenų – patikrink panašius skelbimus",
+   "balas": 39,
+   "aprasymas_analize": {
+    "rizikos_zodziai": [],
+    "privalumai": [
+     "komplektas",
+     "puiki būklė"
+    ],
+    "aprasymo_ilgis": 1271,
+    "pilnas": true
+   },
+   "pozicija": {
+    "vieta": 7,
+    "is": 26,
+    "min": 55.0,
+    "max": 450.0,
+    "mediana": 170.0,
+    "nuolaida": 0.41
+   },
+   "kodel": "7-as pigiausias iš 26 (kiti 55 €–450 €, mediana 170 €), 41% pigiau už medianą. Privalumai: komplektas, puiki būklė.",
+   "visi_palyginami": [
+    {
+     "kaina": 55.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-foreruner-230-88035056.html",
+     "pavadinimas": "Garmin foreruner 230",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 70.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-montana-laikiklis-88089814.html",
+     "pavadinimas": "Garmin Montana laikiklis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/suunto-7-87857042.html",
+     "pavadinimas": "Suunto 7",
+     "rizikos": [],
+     "vieta_laikas": "Vilniaus r., prieš 5 val."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-instict2-solar-87982074.html",
+     "pavadinimas": "Garmin Instict2 Solar",
+     "rizikos": [
+      "defektas"
+     ],
+     "vieta_laikas": "Švenčionių r., prieš 50 min."
+    },
+    {
+     "kaina": 80.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-gpsmap-60cx-88123350.html",
+     "pavadinimas": "Garmin Gpsmap 60cx",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 5 val."
+    },
+    {
+     "kaina": 85.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-drive-5-pro-live-traffic-2027-87869834.html",
+     "pavadinimas": "Garmin® Drive 5 Pro & Live Traffic 2027",
+     "rizikos": [],
+     "vieta_laikas": "Biržų r., prieš 3 val."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-striker-vivid-4cv-su-gt20-tm-sonaru-87840254.html",
+     "pavadinimas": "Garmin Striker Vivid 4cv su Gt20-tm sonaru",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 1 min."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-iwatch-8-45-mm-87857010.html",
+     "pavadinimas": "Apple Iwatch 8 (45 mm)",
+     "rizikos": [],
+     "vieta_laikas": "Vilniaus r., prieš 5 val."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/syncros-stem-gravel-handlebar-88128626.html",
+     "pavadinimas": "Syncros stem, gravel handlebar",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 150.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
+     "pavadinimas": "Garmin Lily Active 2",
+     "rizikos": [
+      "baterijos būklė"
+     ],
+     "vieta_laikas": "Vilnius, prieš 8 val."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-cirqa-87903736.html",
+     "pavadinimas": "Garmin Cirqa",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 50 min."
+    },
+    {
+     "kaina": 160.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-cirqa-l-xl-88111332.html",
+     "pavadinimas": "Garmin Cirqa L-XL",
+     "rizikos": [],
+     "vieta_laikas": "Raseinių r., prieš 3 val."
+    },
+    {
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/laikrodis-garmin-6xpro-sapphire-87967120.html",
+     "pavadinimas": "Laikrodis garmin 6xpro sapphire",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
+    {
+     "kaina": 170.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-sunims-88109130.html",
+     "pavadinimas": "Garmin sunims",
+     "rizikos": [],
+     "vieta_laikas": "Klaipėda, prieš 2 val."
+    },
+    {
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-gt-54-uhd-87909852.html",
+     "pavadinimas": "Garmin GT-54 Uhd",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
+    },
+    {
+     "kaina": 200.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vector-3-pedalai-kaip-nauji-88045598.html",
+     "pavadinimas": "Garmin vector 3 pedalai kaip nauji",
+     "rizikos": [],
+     "vieta_laikas": "Kita, prieš 10 min."
+    },
+    {
+     "kaina": 210.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/echolotas-garmin-striker-vivid-5cv-88101622.html",
+     "pavadinimas": "Echolotas Garmin Striker Vivid 5cv",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 220.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-pedalai-87957222.html",
+     "pavadinimas": "Garmin pedalai",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 2 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-gt54uhd-tm-87896200.html",
+     "pavadinimas": "Garmin Gt54uhd-tm",
+     "rizikos": [],
+     "vieta_laikas": "Radviliškio r., prieš 1 val."
+    },
+    {
+     "kaina": 250.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-varia-rct716-88015398.html",
+     "pavadinimas": "Garmin Varia Rct716",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 2 val."
+    },
+    {
+     "kaina": 350.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-marq-commander-87958510.html",
+     "pavadinimas": "Garmin Marq Commander",
+     "rizikos": [
+      "baterijos būklė",
+      "defektas"
+     ],
+     "vieta_laikas": "Kaunas, prieš 3 val."
+    },
+    {
+     "kaina": 360.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/laikrodis-garmin-965-87993882.html",
+     "pavadinimas": "Laikrodis garmin 965",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 5 val."
+    },
+    {
+     "kaina": 370.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/treniruoklis-garmin-tacx-flux-2-87849514.html",
+     "pavadinimas": "Treniruoklis Garmin Tacx Flux 2",
+     "rizikos": [],
+     "vieta_laikas": "Ukmergės r., prieš 11 val."
+    },
+    {
+     "kaina": 400.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lgv710-88009822.html",
+     "pavadinimas": "Garmin Lgv710",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 450.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-tacx-neo-2-smart-dviraciotreniruoklis-88024398.html",
+     "pavadinimas": "Garmin Tacx Neo 2 smart dviraciotreniruoklis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 6 val."
+    }
+   ],
+   "amzius_d": 0,
+   "derybos": {
+    "siulymas": 85,
+    "tarpinis": 90,
+    "riba": 110,
+    "argumentai": [
+     {
+      "t": "Pigesnių panašių skelbimų: 6, pigiausias 55 €",
+      "url": "https://www.skelbiu.lt/skelbimai/garmin-foreruner-230-88035056.html"
+     },
+     {
+      "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
+     },
+     {
+      "t": "Siuntimą (~3,5 €) apmokėsiu pats – pardavėjui jokio vargo"
+     }
+    ],
+    "planas": [
+     "Pirma žinutė: siūlyk 85 € – tai 15 % mažiau nei prašo (100 €).",
+     "Jei atsisako – kelk iki 90 €.",
+     "Jei visai nenuleidžia – vis tiek pirk už 100 €: pelnas ~48 €. Šio radinio dėl derybų neprarask."
+    ],
+    "kodel_suma": "Kodėl 85 €? ~15 % nuolaida – įprastas pirmas siūlymas: pardavėjo neįžeidžia ir palieka vietos susitikti per vidurį. Ar tai veikia būtent tau, parodys derybų statistika žurnale.",
+    "nauda": "Kiekvienas nusiderėtas euras = +1 € pelno: už 100 € uždirbtum ~48 €, už 85 € – ~63 €."
+   },
+   "naujo_min": null,
+   "zingsniai": [
+    "Panašūs skelbimai (garmin-kita): 25 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
+    "Kaštai: siunta į paštomatą iš Marijampolė 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
+    "Pelnas = 153 € − 100 € − 4,5 € = 48,5 € (48% pirkimo kainos)",
+    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
+    "Laikas ~1.0 val. → 48,5 €/val.",
+    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
+   ],
+   "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
+   "uz": [
+    "Iš 26 panašių skelbimų pigesnių yra 6; įprasta kaina ~170 €, šis 41 % pigesnis.",
+    "Pelnas ~48 € (48 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
+    "Aprašyme: komplektas, puiki būklė."
+   ],
+   "pries": [
+    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
+   ],
+   "logistika": "Siunta į paštomatą iš Marijampolė: kaštai ~4,5 €, laikas ~1,0 val.",
+   "saugumas": {
+    "lygis": "vidutinė",
+    "zingsniai": [
+     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
+     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
+     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
+     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
+     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
      "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
     ],
     "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
@@ -4005,16 +4388,16 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Puikios būklės Lego duplo keli konstruktorių rinkiniai",
+   "bukle": "Naudota",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 46,
+   "palyginamu": 47,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "46 panašių skelbimų mediana 80 €"
+    "47 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -4121,17 +4504,17 @@
      "puiki būklė"
     ],
     "aprasymo_ilgis": 54,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 5,
-    "is": 47,
+    "is": 48,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.5
    },
-   "kodel": "5-as pigiausias iš 47 (kiti 30 €–160 €, mediana 80 €), 50% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: puiki būklė.",
+   "kodel": "5-as pigiausias iš 48 (kiti 30 €–190 €, mediana 80 €), 50% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: puiki būklė.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -4447,7 +4830,7 @@
    },
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 46 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 72 € − 40 € − 4 € = 28 € (70% pirkimo kainos)",
@@ -4457,7 +4840,7 @@
    ],
    "isvada": "Gali būti proga, bet pirma patikrink: panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
    "uz": [
-    "Iš 47 panašių skelbimų pigesnių yra 4; įprasta kaina ~80 €, šis 50 % pigesnis.",
+    "Iš 48 panašių skelbimų pigesnių yra 4; įprasta kaina ~80 €, šis 50 % pigesnis.",
     "Pelnas ~28 € (70 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
     "Aprašyme: puiki būklė."
    ],
@@ -8225,8 +8608,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu Dyson V15s originalu plaunama siurblį. Kaip naujas. Veikia idealiai pirktas prieš 2 mėnesius.",
+   "bukle": "Naudota",
    "modelis": "Dyson V15s už 120 € (tikėtina apgaulė)",
    "raktas": "dyson-kita",
    "palyginamu": 26,
@@ -8347,7 +8730,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 102,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -8590,8 +8973,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodamas idealus kaip naujas Dyson 360 Heurist RB02",
+   "bukle": "Naudota",
    "modelis": "Dyson 360 Heurist už 120 € (tikėtina apgaulė)",
    "raktas": "dyson-kita",
    "palyginamu": 26,
@@ -8712,7 +9095,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 54,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -8959,13 +9342,13 @@
    "bukle": "Nauja",
    "modelis": "LEGO Shrek minifigūrėlės ir BrickHeadz",
    "raktas": "lego-rinkinys",
-   "palyginamu": 47,
+   "palyginamu": 48,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
     "Claude įvertinimas",
-    "47 panašių skelbimų mediana 80 €"
+    "48 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -9079,13 +9462,13 @@
    },
    "pozicija": {
     "vieta": 1,
-    "is": 48,
+    "is": 49,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.79
    },
-   "kodel": "Pigiausias iš 48 to paties modelio skelbimų (kiti 30 €–160 €, mediana 80 €), 79% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja.",
+   "kodel": "Pigiausias iš 49 to paties modelio skelbimų (kiti 30 €–190 €, mediana 80 €), 79% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -9378,7 +9761,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 48 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Claude įvertinimas (2026-11-11): 55 € – Parduotuvėje ~60 €.",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 55 € − 17 € − 4 € = 34 € (200% pirkimo kainos)",
@@ -9388,7 +9771,7 @@
    ],
    "isvada": "Praleisk: įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė.",
    "uz": [
-    "Iš 48 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 79 % pigesnis.",
+    "Iš 49 panašių skelbimų pigesnio nėra; įprasta kaina ~80 €, šis 79 % pigesnis.",
     "Pelnas ~34 € (200 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
     "Aprašyme: nauja."
    ],
@@ -11203,16 +11586,16 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Galima atsiimti Vilniuje gyvai",
+   "bukle": "Nauja",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 46,
+   "palyginamu": 47,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "46 panašių skelbimų mediana 80 €"
+    "47 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -11319,17 +11702,17 @@
      "nauja"
     ],
     "aprasymo_ilgis": 30,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 10,
-    "is": 47,
+    "is": 48,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.38
    },
-   "kodel": "10-as pigiausias iš 47 (kiti 30 €–160 €, mediana 80 €), 38% pigiau už medianą. Privalumai: nauja.",
+   "kodel": "10-as pigiausias iš 48 (kiti 30 €–190 €, mediana 80 €), 38% pigiau už medianą. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -11622,7 +12005,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 46 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 72 € − 50 € − 4 € = 18 € (36% pirkimo kainos)",
@@ -11632,7 +12015,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~18 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 47 panašių skelbimų pigesnių yra 9; įprasta kaina ~80 €, šis 38 % pigesnis.",
+    "Iš 48 panašių skelbimų pigesnių yra 9; įprasta kaina ~80 €, šis 38 % pigesnis.",
     "Aprašyme: nauja."
    ],
    "pries": [
@@ -11668,12 +12051,12 @@
    "bukle": "Naudota",
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 46,
+   "palyginamu": 47,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "46 panašių skelbimų mediana 80 €"
+    "47 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -11782,13 +12165,13 @@
    },
    "pozicija": {
     "vieta": 10,
-    "is": 47,
+    "is": 48,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.38
    },
-   "kodel": "10-as pigiausias iš 47 (kiti 30 €–160 €, mediana 80 €), 38% pigiau už medianą.",
+   "kodel": "10-as pigiausias iš 48 (kiti 30 €–190 €, mediana 80 €), 38% pigiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -12081,7 +12464,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 46 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 72 € − 50 € − 4 € = 18 € (36% pirkimo kainos)",
@@ -12091,7 +12474,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~18 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 47 panašių skelbimų pigesnių yra 9; įprasta kaina ~80 €, šis 38 % pigesnis."
+    "Iš 48 panašių skelbimų pigesnių yra 9; įprasta kaina ~80 €, šis 38 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~18 € – mažiau nei tavo minimumas 20 €.",
@@ -14096,13 +14479,13 @@
    "bukle": "Naudota",
    "modelis": "LEGO mišinys 4 kg",
    "raktas": "lego-rinkinys",
-   "palyginamu": 46,
+   "palyginamu": 47,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
     "Claude įvertinimas",
-    "46 panašių skelbimų mediana 80 €"
+    "47 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Mažeikių r.",
@@ -14214,13 +14597,13 @@
    },
    "pozicija": {
     "vieta": 5,
-    "is": 47,
+    "is": 48,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.5
    },
-   "kodel": "5-as pigiausias iš 47 (kiti 30 €–160 €, mediana 80 €), 50% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
+   "kodel": "5-as pigiausias iš 48 (kiti 30 €–190 €, mediana 80 €), 50% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -14513,7 +14896,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 46 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Claude įvertinimas (2026-11-09): 50 € – Mišinys ~10–12 €/kg, yra kopijų.",
     "Kaštai: siunta į paštomatą iš Mažeikių r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 50 € − 40 € − 4,5 € = 5,5 € (14% pirkimo kainos)",
@@ -14523,7 +14906,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 47 panašių skelbimų pigesnių yra 4; įprasta kaina ~80 €, šis 50 % pigesnis."
+    "Iš 48 panašių skelbimų pigesnių yra 4; įprasta kaina ~80 €, šis 50 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~6 € – mažiau nei tavo minimumas 20 €.",
@@ -16415,12 +16798,12 @@
    "bukle": null,
    "modelis": "garmin-kita",
    "raktas": "garmin-kita",
-   "palyginamu": 24,
-   "mediana": 165,
+   "palyginamu": 27,
+   "mediana": 160,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "24 panašių skelbimų mediana 165 €"
+    "27 panašių skelbimų mediana 160 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -16433,6 +16816,18 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Garmin vivosmart 5 išmanusis laikrodis",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vivosmart-5-ismanusis-laikrodis-87958648.html",
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "pavadinimas": "GPS imtuvas Garmin gpsmap 60cs",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gps-imtuvas-garmin-gpsmap-60cs-88089270.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
     {
      "pavadinimas": "Garmin foreruner 230",
      "kaina": 55.0,
@@ -16480,18 +16875,6 @@
      "kaina": 100.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-iwatch-8-45-mm-87857010.html",
      "vieta_laikas": "Vilniaus r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Syncros stem, gravel handlebar",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/syncros-stem-gravel-handlebar-88128626.html",
-     "vieta_laikas": "Vilnius, prieš 24 min."
-    },
-    {
-     "pavadinimas": "Garmin Lily Active 2",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     }
    ],
    "parduotuves": [],
@@ -16513,11 +16896,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Echolotas+Garmin+Striker+Vivid+5cv"
     }
    ],
-   "tiketina_pardavimo": 148,
-   "pelnas": -66,
-   "roi": -0.31,
-   "max_pirkimo": 107,
-   "pelnas_per_val": -44,
+   "tiketina_pardavimo": 144,
+   "pelnas": -70,
+   "roi": -0.33,
+   "max_pirkimo": 104,
+   "pelnas_per_val": -47,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -16528,15 +16911,29 @@
     "pilnas": false
    },
    "pozicija": {
-    "vieta": 17,
-    "is": 25,
-    "min": 55.0,
+    "vieta": 20,
+    "is": 28,
+    "min": 50.0,
     "max": 450.0,
-    "mediana": 165.0,
-    "nuolaida": -0.27
+    "mediana": 160.0,
+    "nuolaida": -0.31
    },
-   "kodel": "17-as pigiausias iš 25 (kiti 55 €–450 €, mediana 165 €), 27% brangiau už medianą.",
+   "kodel": "20-as pigiausias iš 28 (kiti 50 €–450 €, mediana 160 €), 31% brangiau už medianą.",
    "visi_palyginami": [
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vivosmart-5-ismanusis-laikrodis-87958648.html",
+     "pavadinimas": "Garmin vivosmart 5 išmanusis laikrodis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gps-imtuvas-garmin-gpsmap-60cs-88089270.html",
+     "pavadinimas": "GPS imtuvas Garmin gpsmap 60cs",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
     {
      "kaina": 55.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-foreruner-230-88035056.html",
@@ -16601,6 +16998,13 @@
      "pavadinimas": "Syncros stem, gravel handlebar",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     },
     {
      "kaina": 150.0,
@@ -16717,20 +17121,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (garmin-kita): 24 vnt., kainos 55 €–450 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
+    "Panašūs skelbimai (garmin-kita): 27 vnt., kainos 50 €–450 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 148,5 € − 210 € − 4 € = -65,5 € (-31% pirkimo kainos)",
-    "Mokėti ne daugiau: min((148,5 € − 4 €) / 1.35; 148,5 € − 4 € − 20 €) = 107 €",
-    "Laikas ~1.5 val. → -43,7 €/val.",
+    "Pelnas = 144 € − 210 € − 4 € = -70 € (-33% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4 €) / 1.35; 144 € − 4 € − 20 €) = 103,7 €",
+    "Laikas ~1.5 val. → -46,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 25 panašių skelbimų pigesnių yra 16; įprasta kaina ~165 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 19; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 25 panašių skelbimų pigesnių yra 16; įprasta kaina ~165 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-66 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -31 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 28 panašių skelbimų pigesnių yra 19; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-70 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -33 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilnius): kaštai ~4 €, laikas ~1,5 val.",
@@ -25675,12 +26079,12 @@
    "bukle": "Naudota",
    "modelis": "garmin-kita",
    "raktas": "garmin-kita",
-   "palyginamu": 24,
-   "mediana": 165,
+   "palyginamu": 27,
+   "mediana": 160,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "24 panašių skelbimų mediana 165 €"
+    "27 panašių skelbimų mediana 160 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -25693,6 +26097,18 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Garmin vivosmart 5 išmanusis laikrodis",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vivosmart-5-ismanusis-laikrodis-87958648.html",
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "pavadinimas": "GPS imtuvas Garmin gpsmap 60cs",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gps-imtuvas-garmin-gpsmap-60cs-88089270.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
     {
      "pavadinimas": "Garmin foreruner 230",
      "kaina": 55.0,
@@ -25740,18 +26156,6 @@
      "kaina": 100.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-iwatch-8-45-mm-87857010.html",
      "vieta_laikas": "Vilniaus r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Syncros stem, gravel handlebar",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/syncros-stem-gravel-handlebar-88128626.html",
-     "vieta_laikas": "Vilnius, prieš 24 min."
-    },
-    {
-     "pavadinimas": "Garmin Lily Active 2",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     }
    ],
    "parduotuves": [],
@@ -25773,11 +26177,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Garmin+sunims"
     }
    ],
-   "tiketina_pardavimo": 148,
-   "pelnas": -26,
-   "roi": -0.15,
-   "max_pirkimo": 107,
-   "pelnas_per_val": -26,
+   "tiketina_pardavimo": 144,
+   "pelnas": -30,
+   "roi": -0.18,
+   "max_pirkimo": 103,
+   "pelnas_per_val": -30,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -25788,15 +26192,29 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 13,
-    "is": 25,
-    "min": 55.0,
+    "vieta": 16,
+    "is": 28,
+    "min": 50.0,
     "max": 450.0,
-    "mediana": 165.0,
-    "nuolaida": -0.03
+    "mediana": 160.0,
+    "nuolaida": -0.06
    },
-   "kodel": "13-as pigiausias iš 25 (kiti 55 €–450 €, mediana 165 €), 3% brangiau už medianą.",
+   "kodel": "16-as pigiausias iš 28 (kiti 50 €–450 €, mediana 160 €), 6% brangiau už medianą.",
    "visi_palyginami": [
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vivosmart-5-ismanusis-laikrodis-87958648.html",
+     "pavadinimas": "Garmin vivosmart 5 išmanusis laikrodis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gps-imtuvas-garmin-gpsmap-60cs-88089270.html",
+     "pavadinimas": "GPS imtuvas Garmin gpsmap 60cs",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
     {
      "kaina": 55.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-foreruner-230-88035056.html",
@@ -25861,6 +26279,13 @@
      "pavadinimas": "Syncros stem, gravel handlebar",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     },
     {
      "kaina": 150.0,
@@ -25977,20 +26402,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (garmin-kita): 24 vnt., kainos 55 €–450 €, mediana 165 € × 0.90 (realiai parduodama pigiau nei prašoma) = 148,5 €",
+    "Panašūs skelbimai (garmin-kita): 27 vnt., kainos 50 €–450 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 148,5 € − 170 € − 4,5 € = -26 € (-15% pirkimo kainos)",
-    "Mokėti ne daugiau: min((148,5 € − 4,5 €) / 1.35; 148,5 € − 4,5 € − 20 €) = 106,7 €",
-    "Laikas ~1.0 val. → -26 €/val.",
+    "Pelnas = 144 € − 170 € − 4,5 € = -30,5 € (-18% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
+    "Laikas ~1.0 val. → -30,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 25 panašių skelbimų pigesnių yra 12; įprasta kaina ~165 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 15; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 25 panašių skelbimų pigesnių yra 12; įprasta kaina ~165 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-26 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -15 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 28 panašių skelbimų pigesnių yra 15; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-30 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -18 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -26025,12 +26450,12 @@
    "bukle": "Naudota",
    "modelis": "garmin-kita",
    "raktas": "garmin-kita",
-   "palyginamu": 24,
-   "mediana": 170,
+   "palyginamu": 27,
+   "mediana": 160,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "24 panašių skelbimų mediana 170 €"
+    "27 panašių skelbimų mediana 160 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Raseinių r.",
@@ -26043,6 +26468,18 @@
     "nepervezamas": false
    },
    "palyginami": [
+    {
+     "pavadinimas": "Garmin vivosmart 5 išmanusis laikrodis",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vivosmart-5-ismanusis-laikrodis-87958648.html",
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "pavadinimas": "GPS imtuvas Garmin gpsmap 60cs",
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gps-imtuvas-garmin-gpsmap-60cs-88089270.html",
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
     {
      "pavadinimas": "Garmin foreruner 230",
      "kaina": 55.0,
@@ -26090,18 +26527,6 @@
      "kaina": 100.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/apple-iwatch-8-45-mm-87857010.html",
      "vieta_laikas": "Vilniaus r., prieš 5 val."
-    },
-    {
-     "pavadinimas": "Syncros stem, gravel handlebar",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/syncros-stem-gravel-handlebar-88128626.html",
-     "vieta_laikas": "Vilnius, prieš 24 min."
-    },
-    {
-     "pavadinimas": "Garmin Lily Active 2",
-     "kaina": 150.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
     }
    ],
    "parduotuves": [],
@@ -26123,11 +26548,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Garmin+Cirqa+L-XL"
     }
    ],
-   "tiketina_pardavimo": 153,
-   "pelnas": -12,
-   "roi": -0.07,
-   "max_pirkimo": 110,
-   "pelnas_per_val": -12,
+   "tiketina_pardavimo": 144,
+   "pelnas": -20,
+   "roi": -0.13,
+   "max_pirkimo": 103,
+   "pelnas_per_val": -20,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -26138,15 +26563,29 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 11,
-    "is": 25,
-    "min": 55.0,
+    "vieta": 14,
+    "is": 28,
+    "min": 50.0,
     "max": 450.0,
-    "mediana": 170.0,
-    "nuolaida": 0.06
+    "mediana": 160.0,
+    "nuolaida": 0.0
    },
-   "kodel": "11-as pigiausias iš 25 (kiti 55 €–450 €, mediana 170 €), 6% pigiau už medianą.",
+   "kodel": "14-as pigiausias iš 28 (kiti 50 €–450 €, mediana 160 €), 0% pigiau už medianą.",
    "visi_palyginami": [
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-vivosmart-5-ismanusis-laikrodis-87958648.html",
+     "pavadinimas": "Garmin vivosmart 5 išmanusis laikrodis",
+     "rizikos": [],
+     "vieta_laikas": "Vilnius, prieš 3 val."
+    },
+    {
+     "kaina": 50.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/gps-imtuvas-garmin-gpsmap-60cs-88089270.html",
+     "pavadinimas": "GPS imtuvas Garmin gpsmap 60cs",
+     "rizikos": [],
+     "vieta_laikas": "Kaunas, prieš 1 val."
+    },
     {
      "kaina": 55.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-foreruner-230-88035056.html",
@@ -26211,6 +26650,13 @@
      "pavadinimas": "Syncros stem, gravel handlebar",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     },
     {
      "kaina": 150.0,
@@ -26327,20 +26773,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (garmin-kita): 24 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (garmin-kita): 27 vnt., kainos 50 €–450 €, mediana 160 € × 0.90 (realiai parduodama pigiau nei prašoma) = 144 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Raseinių r. 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 153 € − 160 € − 4,5 € = -11,5 € (-7% pirkimo kainos)",
-    "Mokėti ne daugiau: min((153 € − 4,5 €) / 1.35; 153 € − 4,5 € − 20 €) = 110 €",
-    "Laikas ~1.0 val. → -11,5 €/val.",
+    "Pelnas = 144 € − 160 € − 4,5 € = -20,5 € (-13% pirkimo kainos)",
+    "Mokėti ne daugiau: min((144 € − 4,5 €) / 1.35; 144 € − 4,5 € − 20 €) = 103,3 €",
+    "Laikas ~1.0 val. → -20,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 25 panašių skelbimų pigesnių yra 10; įprasta kaina ~170 €, šis 6 % pigesnis.",
+   "isvada": "Praleisk: iš 28 panašių skelbimų pigesnių yra 13; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 25 panašių skelbimų pigesnių yra 10; įprasta kaina ~170 €, šis 6 % pigesnis.",
-    "Pelnas būtų tik ~-12 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -7 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 28 panašių skelbimų pigesnių yra 13; įprasta kaina ~160 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-20 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -13 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Raseinių r.: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -31209,13 +31655,13 @@
    "bukle": "Nauja",
    "modelis": "Syncros vairas ir stemas",
    "raktas": "garmin-kita",
-   "palyginamu": 24,
+   "palyginamu": 25,
    "mediana": 170,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
     "Claude įvertinimas",
-    "24 panašių skelbimų mediana 170 €"
+    "25 panašių skelbimų mediana 170 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -31277,16 +31723,16 @@
      "vieta_laikas": "Vilniaus r., prieš 5 val."
     },
     {
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "vieta_laikas": "Marijampolė, prieš 10 min."
+    },
+    {
      "pavadinimas": "Garmin Lily Active 2",
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
      "vieta_laikas": "Vilnius, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Garmin Cirqa",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-cirqa-87903736.html",
-     "vieta_laikas": "Vilnius, prieš 50 min."
     }
    ],
    "parduotuves": [],
@@ -31329,13 +31775,13 @@
    },
    "pozicija": {
     "vieta": 7,
-    "is": 25,
+    "is": 26,
     "min": 55.0,
     "max": 450.0,
     "mediana": 170.0,
     "nuolaida": 0.41
    },
-   "kodel": "7-as pigiausias iš 25 (kiti 55 €–450 €, mediana 170 €), 41% pigiau už medianą. Privalumai: nauja.",
+   "kodel": "7-as pigiausias iš 26 (kiti 55 €–450 €, mediana 170 €), 41% pigiau už medianą. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 55.0,
@@ -31394,6 +31840,13 @@
      "pavadinimas": "Apple Iwatch 8 (45 mm)",
      "rizikos": [],
      "vieta_laikas": "Vilniaus r., prieš 5 val."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     },
     {
      "kaina": 150.0,
@@ -31517,7 +31970,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (garmin-kita): 24 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (garmin-kita): 25 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
     "Claude įvertinimas (2026-11-10): 80 € – Dviračių dalys, nišinis.",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 80 € − 100 € − 4 € = -24 € (-24% pirkimo kainos)",
@@ -31527,7 +31980,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~-24 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 25 panašių skelbimų pigesnių yra 6; įprasta kaina ~170 €, šis 41 % pigesnis.",
+    "Iš 26 panašių skelbimų pigesnių yra 6; įprasta kaina ~170 €, šis 41 % pigesnis.",
     "Aprašyme: nauja."
    ],
    "pries": [
@@ -31564,13 +32017,13 @@
    "bukle": "Naudota",
    "modelis": "Garmin GPSmap 60Cx",
    "raktas": "garmin-kita",
-   "palyginamu": 24,
+   "palyginamu": 25,
    "mediana": 170,
    "naujo_kaina": null,
    "patikimumas": "vidutinis",
    "saltiniai": [
     "Claude įvertinimas",
-    "24 panašių skelbimų mediana 170 €"
+    "25 panašių skelbimų mediana 170 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -31632,16 +32085,16 @@
      "vieta_laikas": "Vilnius, prieš 24 min."
     },
     {
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "vieta_laikas": "Marijampolė, prieš 10 min."
+    },
+    {
      "pavadinimas": "Garmin Lily Active 2",
      "kaina": 150.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-lily-active-2-88120394.html",
      "vieta_laikas": "Vilnius, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Garmin Cirqa",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-cirqa-87903736.html",
-     "vieta_laikas": "Vilnius, prieš 50 min."
     }
    ],
    "parduotuves": [],
@@ -31682,13 +32135,13 @@
    },
    "pozicija": {
     "vieta": 3,
-    "is": 25,
+    "is": 26,
     "min": 55.0,
     "max": 450.0,
     "mediana": 170.0,
     "nuolaida": 0.53
    },
-   "kodel": "3-as pigiausias iš 25 (kiti 55 €–450 €, mediana 170 €), 53% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
+   "kodel": "3-as pigiausias iš 26 (kiti 55 €–450 €, mediana 170 €), 53% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus.",
    "visi_palyginami": [
     {
      "kaina": 55.0,
@@ -31747,6 +32200,13 @@
      "pavadinimas": "Syncros stem, gravel handlebar",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     },
     {
      "kaina": 150.0,
@@ -31870,7 +32330,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (garmin-kita): 24 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (garmin-kita): 25 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
     "Claude įvertinimas (2026-11-10): 40 € – Seni GPS ~30–50 €.",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 40 € − 80 € − 4 € = -44 € (-55% pirkimo kainos)",
@@ -31880,7 +32340,7 @@
    ],
    "isvada": "Praleisk: pelnas būtų tik ~-44 € – mažiau nei tavo minimumas 20 €.",
    "uz": [
-    "Iš 25 panašių skelbimų pigesnių yra 2; įprasta kaina ~170 €, šis 53 % pigesnis."
+    "Iš 26 panašių skelbimų pigesnių yra 2; įprasta kaina ~170 €, šis 53 % pigesnis."
    ],
    "pries": [
     "Pelnas būtų tik ~-44 € – mažiau nei tavo minimumas 20 €.",
@@ -31917,12 +32377,12 @@
    "bukle": "Naudota",
    "modelis": "garmin-kita",
    "raktas": "garmin-kita",
-   "palyginamu": 24,
+   "palyginamu": 25,
    "mediana": 170,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "24 panašių skelbimų mediana 170 €"
+    "25 panašių skelbimų mediana 170 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -31990,10 +32450,10 @@
      "vieta_laikas": "Vilnius, prieš 24 min."
     },
     {
-     "pavadinimas": "Garmin Cirqa",
-     "kaina": 160.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/garmin-cirqa-87903736.html",
-     "vieta_laikas": "Vilnius, prieš 50 min."
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     }
    ],
    "parduotuves": [],
@@ -32034,14 +32494,14 @@
     "pilnas": true
    },
    "pozicija": {
-    "vieta": 10,
-    "is": 25,
+    "vieta": 11,
+    "is": 26,
     "min": 55.0,
     "max": 450.0,
     "mediana": 170.0,
     "nuolaida": 0.12
    },
-   "kodel": "10-as pigiausias iš 25 (kiti 55 €–450 €, mediana 170 €), 12% pigiau už medianą. Aprašyme: baterijos būklė. Privalumai: garantija.",
+   "kodel": "11-as pigiausias iš 26 (kiti 55 €–450 €, mediana 170 €), 12% pigiau už medianą. Aprašyme: baterijos būklė. Privalumai: garantija.",
    "visi_palyginami": [
     {
      "kaina": 55.0,
@@ -32107,6 +32567,13 @@
      "pavadinimas": "Syncros stem, gravel handlebar",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 24 min."
+    },
+    {
+     "kaina": 100.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/sunkvezimiu-navigacija-garmin-d-zl-580-lmt-s-88158370.html",
+     "pavadinimas": "Sunkvežimių navigacija Garmin dēzl 580 Lmt-s",
+     "rizikos": [],
+     "vieta_laikas": "Marijampolė, prieš 10 min."
     },
     {
      "kaina": 160.0,
@@ -32221,7 +32688,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (garmin-kita): 24 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
+    "Panašūs skelbimai (garmin-kita): 25 vnt., kainos 55 €–450 €, mediana 170 € × 0.90 (realiai parduodama pigiau nei prašoma) = 153 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
     "Pelnas = 153 € − 150 € − 4 € = -1 € (-1% pirkimo kainos)",
@@ -32229,12 +32696,12 @@
     "Laikas ~1.5 val. → -0,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 25 panašių skelbimų pigesnių yra 9; įprasta kaina ~170 €, šis 12 % pigesnis.",
+   "isvada": "Praleisk: iš 26 panašių skelbimų pigesnių yra 10; įprasta kaina ~170 €, šis 12 % pigesnis.",
    "uz": [
     "Aprašyme: garantija."
    ],
    "pries": [
-    "Iš 25 panašių skelbimų pigesnių yra 9; įprasta kaina ~170 €, šis 12 % pigesnis.",
+    "Iš 26 panašių skelbimų pigesnių yra 10; įprasta kaina ~170 €, šis 12 % pigesnis.",
     "Pelnas būtų tik ~-1 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -1 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
@@ -36486,12 +36953,12 @@
    "bukle": null,
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 46,
+   "palyginamu": 47,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "46 panašių skelbimų mediana 80 €"
+    "47 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -36602,13 +37069,13 @@
    },
    "pozicija": {
     "vieta": 23,
-    "is": 47,
+    "is": 48,
     "min": 30.0,
-    "max": 160.0,
+    "max": 190.0,
     "mediana": 80.0,
     "nuolaida": 0.01
    },
-   "kodel": "23-as pigiausias iš 47 (kiti 30 €–160 €, mediana 80 €), 1% pigiau už medianą. Privalumai: nauja. Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos.",
+   "kodel": "23-as pigiausias iš 48 (kiti 30 €–190 €, mediana 80 €), 1% pigiau už medianą. Privalumai: nauja. Aprašymo nėra – klausk pardavėjo būklės ir komplektacijos.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -36901,7 +37368,7 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 46 vnt., kainos 30 €–160 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
+    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
     "Pelnas = 72 € − 79 € − 4,5 € = -11,5 € (-15% pirkimo kainos)",
@@ -36909,12 +37376,12 @@
     "Laikas ~1.0 val. → -11,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 47 panašių skelbimų pigesnių yra 22; įprasta kaina ~80 €, šis 1 % pigesnis.",
+   "isvada": "Praleisk: iš 48 panašių skelbimų pigesnių yra 22; įprasta kaina ~80 €, šis 1 % pigesnis.",
    "uz": [
     "Aprašyme: nauja."
    ],
    "pries": [
-    "Iš 47 panašių skelbimų pigesnių yra 22; įprasta kaina ~80 €, šis 1 % pigesnis.",
+    "Iš 48 panašių skelbimų pigesnių yra 22; įprasta kaina ~80 €, šis 1 % pigesnis.",
     "Pelnas būtų tik ~-12 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -15 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
@@ -37878,8 +38345,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodu blood of the dawnwalker ps5 steelbook edition. Kodas nepanaudotas",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 105,
@@ -37992,7 +38459,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 74,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 60,
@@ -39173,12 +39640,12 @@
    "bukle": null,
    "modelis": "lego-rinkinys",
    "raktas": "lego-rinkinys",
-   "palyginamu": 46,
+   "palyginamu": 47,
    "mediana": 80,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "46 panašių skelbimų mediana 79,5 €"
+    "47 panašių skelbimų mediana 80 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilnius)",
@@ -39289,13 +39756,13 @@
    },
    "pozicija": {
     "vieta": 43,
-    "is": 47,
+    "is": 48,
     "min": 30.0,
-    "max": 160.0,
-    "mediana": 79.5,
-    "nuolaida": -0.89
+    "max": 190.0,
+    "mediana": 80.0,
+    "nuolaida": -0.88
    },
-   "kodel": "43-as pigiausias iš 47 (kiti 30 €–160 €, mediana 79,5 €), 89% brangiau už medianą. Aprašyme: defektas.",
+   "kodel": "43-as pigiausias iš 48 (kiti 30 €–190 €, mediana 80 €), 88% brangiau už medianą. Aprašyme: defektas.",
    "visi_palyginami": [
     {
      "kaina": 30.0,
@@ -39588,18 +40055,18 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (lego-rinkinys): 46 vnt., kainos 30 €–160 €, mediana 79,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 71,5 €",
+    "Panašūs skelbimai (lego-rinkinys): 47 vnt., kainos 30 €–190 €, mediana 80 € × 0.90 (realiai parduodama pigiau nei prašoma) = 72 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilnius) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 71,5 € − 150 € − 4 € = -82,5 € (-55% pirkimo kainos)",
-    "Mokėti ne daugiau: min((71,5 € − 4 €) / 1.35; 71,5 € − 4 € − 20 €) = 47,5 €",
-    "Laikas ~1.5 val. → -55 €/val.",
+    "Pelnas = 72 € − 150 € − 4 € = -82 € (-55% pirkimo kainos)",
+    "Mokėti ne daugiau: min((72 € − 4 €) / 1.35; 72 € − 4 € − 20 €) = 48 €",
+    "Laikas ~1.5 val. → -54,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 47 panašių skelbimų pigesnių yra 42; įprasta kaina ~79,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 48 panašių skelbimų pigesnių yra 42; įprasta kaina ~80 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 47 panašių skelbimų pigesnių yra 42; įprasta kaina ~79,5 €, šis ne pigesnis už kitus.",
+    "Iš 48 panašių skelbimų pigesnių yra 42; įprasta kaina ~80 €, šis ne pigesnis už kitus.",
     "Pelnas būtų tik ~-82 € – mažiau nei tavo minimumas 20 €.",
     "Grąža -55 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški.",
@@ -42283,7 +42750,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88112460",
@@ -42302,7 +42769,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88152758",
@@ -42321,7 +42788,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88090972",
@@ -42400,7 +42867,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88127272",
@@ -42419,7 +42886,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88070706",
@@ -42438,7 +42905,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88066200",
@@ -42514,7 +42981,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:29:28Z"
+    "dar_buvo": "2026-11-11T06:38:26Z"
    },
    {
     "id": "88085124",
@@ -42533,7 +43000,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:29:27Z"
+    "dar_buvo": "2026-11-11T06:38:26Z"
    },
    {
     "id": "88109450",
@@ -42571,7 +43038,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88044828",
@@ -42666,7 +43133,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88069360",
@@ -42723,7 +43190,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "88053510",
@@ -42837,7 +43304,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "87967496",
@@ -43388,7 +43855,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "87798852",
@@ -43426,7 +43893,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T17:56:37Z"
+    "dar_buvo": "2026-11-11T06:38:27Z"
    },
    {
     "id": "87851294",
@@ -43559,7 +44026,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "87833858",
@@ -43749,7 +44216,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-10T23:28:34Z"
+    "dar_buvo": "2026-11-11T06:37:36Z"
    },
    {
     "id": "87847204",
@@ -43942,7 +44409,7 @@
      {
       "parduotuve": "varle.lt",
       "url": "https://www.varle.lt/vaizdo-kameros/dji-osmo-pocket-3-creator-combo-kamera--30813112.html",
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "paveikslas": "https://www.varle.lt/static/uploads/products/2142/dji/dji-osmo-pocket-3-gimbal-camera-creator-661065d747.webp",
       "kaina": 739.99,
       "auto": true
@@ -43954,7 +44421,7 @@
       "salis": "EE",
       "url": "https://www.photopoint.ee/en/cameras/4190710-dji-osmo-pocket-3-creator-combo",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis.",
       "paveikslas": "https://static1.nordic.pictures/44350424-large_default/dji-osmo-pocket-3-creator-combo.jpg",
       "kaina": 354.03,
@@ -43966,7 +44433,7 @@
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/sporta-kameras/1019306-dji-osmo-pocket-3-creator-combo",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/122/1817.jpg",
       "kaina": 480.85,
@@ -44017,7 +44484,7 @@
      {
       "parduotuve": "bigbox.lt",
       "url": "https://bigbox.lt/zaidimu-pulteliai/1101862-pultelis-sony-dualsense-ps5-wireless-white-black.html",
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "paveikslas": "https://media-api.bgbx.eu/product-images/2011497/image-536x536.webp",
       "kaina": 63.43,
       "auto": true
@@ -44025,7 +44492,7 @@
      {
       "parduotuve": "technorama.lt",
       "url": "https://www.technorama.lt/product/2011497-pultelis-sony-dualsense-ps5-wireless-whiteblack",
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "paveikslas": "https://media-api.bgbx.eu/product-images/2011497/image-536x536.webp",
       "kaina": 66.6,
       "auto": true
@@ -44037,7 +44504,7 @@
       "salis": "EE",
       "url": "https://www.photopoint.ee/en/gaming-consoles-and-accessories/1894142-sony-dualsense-ps5-wireless-controller-white",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://static3.nordic.pictures/img/p/et-default-large_default.jpg",
       "kaina": 82.41,
@@ -44049,7 +44516,7 @@
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/spelu-kontrolieri/1144247-sony-dualsense-white",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/189/1813.jpg",
       "kaina": 85.99,
@@ -44136,7 +44603,7 @@
      {
       "parduotuve": "bigbox.lt",
       "url": "https://bigbox.lt/product/3687641-ismanusis-laikrodis-garmin-forerunner-265-white-010-02810-11",
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "paveikslas": "https://media-api.bgbx.eu/product-images/3687641/image-536x536.webp",
       "kaina": 299.0,
       "auto": true
@@ -44144,7 +44611,7 @@
      {
       "parduotuve": "varle.lt",
       "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-forerunner-265-juodas--24055439.html",
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "paveikslas": "https://www.varle.lt/static/uploads/products/269/gar/garmin-forerunner-265-music-juodas.webp",
       "kaina": 499.0,
       "auto": true
@@ -44152,28 +44619,16 @@
     ],
     "es": [
      {
-      "parduotuve": "aio.lv",
-      "salis": "LV",
-      "url": "https://aio.lv/en/product--garmin-010-02810-11--8952335",
-      "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
-      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
-      "paveikslas": "https://aio.lv/img/cache/product/8952335/65239526_large.webp",
-      "kaina": 330.99,
-      "auto": true,
-      "viso": 335.99
-     },
-     {
       "parduotuve": "Dateks.lv",
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/fitnesa-pulksteni-un-aproces/949431-garmin-forerunner-265-music-black",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/881/1400.jpg",
-      "kaina": 395.77,
+      "kaina": 396.17,
       "auto": true,
-      "viso": 400.77
+      "viso": 401.17
      }
     ],
     "lt_min": 299.0,
@@ -44202,12 +44657,12 @@
     "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/881/1400.jpg",
     "amzius_d": 2,
     "pardavimo": 263,
-    "es_kaina": 335.99,
-    "es_parduotuve": "aio.lv",
+    "es_kaina": 401.17,
+    "es_parduotuve": "Dateks.lv",
     "kastai": 3.0,
-    "pelnas": -76,
-    "roi": -0.23,
-    "skaiciavimas": "Parduosi ~263,1 € (pigiausia LT parduotuvė 299 € × 0.88) − ES 336 € su siuntimu − kaštai 3 € = -75,9 €",
+    "pelnas": -141,
+    "roi": -0.35,
+    "skaiciavimas": "Parduosi ~263,1 € (pigiausia LT parduotuvė 299 € × 0.88) − ES 401,2 € su siuntimu − kaštai 3 € = -141,1 €",
     "sprendimas": "ne"
    },
    {
@@ -44221,7 +44676,7 @@
       "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-venu-3-45-mm-skaluno--28354626.html",
       "paveikslas": "https://www.varle.lt/static/uploads/products/726/ism/ismanusis-laikrodis-garmin-venu-3-gps-6f0716f022.webp",
       "kaina": 299.0,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "auto": true
      },
      {
@@ -44229,24 +44684,11 @@
       "url": "https://bigbox.lt/ismanieji-laikrodziai-ir-apyrankes/2375833-ismanusis-laikrodis-garmin-venu-3-black-010-02784-01-0753759314743.html",
       "paveikslas": "https://media-api.bgbx.eu/product-images/3698583/image-536x536.webp",
       "kaina": 299.0,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "auto": true
      }
     ],
-    "es": [
-     {
-      "parduotuve": "aio.lv",
-      "salis": "LV",
-      "url": "https://aio.lv/en/product--garmin-753759314743--10722107",
-      "siunta_eur": 5,
-      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
-      "paveikslas": "https://aio.lv/img/cache/product/10630596/65240352_large.webp",
-      "kaina": 339.99,
-      "patikrinta": "2026-11-10",
-      "auto": true,
-      "viso": 344.99
-     }
-    ],
+    "es": [],
     "lt_min": 299.0,
     "skelbiu": {
      "n": 2,
@@ -44273,13 +44715,11 @@
     "paveikslas": "https://aio.lv/img/cache/product/10630596/65240352_large.webp",
     "amzius_d": 3,
     "pardavimo": 263,
-    "es_kaina": 344.99,
-    "es_parduotuve": "aio.lv",
-    "kastai": 3.0,
-    "pelnas": -85,
-    "roi": -0.25,
-    "skaiciavimas": "Parduosi ~263,1 € (pigiausia LT parduotuvė 299 € × 0.88) − ES 345 € su siuntimu − kaštai 3 € = -84,9 €",
-    "sprendimas": "ne"
+    "es_kaina": null,
+    "pelnas": null,
+    "roi": null,
+    "sprendimas": "trūksta kainų",
+    "skaiciavimas": "Trūksta ES kainos."
    },
    {
     "id": "kindle-paperwhite-2024-16gb",
@@ -44293,7 +44733,7 @@
       "salis": "EE",
       "url": "https://www.photopoint.ee/en/e-readers/5711014-amazon-kindle-paperwhite-2024-12th-gen-16gb-jade",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://static2.nordic.pictures/52650472-large_default/amazon-kindle-paperwhite-2024-12th-gen-16gb-jade.jpg",
       "kaina": 184.68,
@@ -44301,23 +44741,11 @@
       "viso": 189.68
      },
      {
-      "parduotuve": "aio.lv",
-      "salis": "LV",
-      "url": "https://aio.lv/en/product--amazon-840268998295--11229096",
-      "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
-      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
-      "paveikslas": "https://aio.lv/img/cache/product/11229096/62117304_large.webp",
-      "kaina": 212.99,
-      "auto": true,
-      "viso": 217.99
-     },
-     {
       "parduotuve": "Dateks.lv",
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/e-gramatu-lasitaji/1175626-amazon-kindle-paperwhite-2024-12th-gen-16gb-black",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/895/2024.jpg",
       "kaina": 246.51,
@@ -44369,7 +44797,7 @@
       "salis": "DE",
       "url": "https://www.toolbrothers.de/en/products/makita-dtd-153-z-cordless-impact-wrench-18-v-170-nm-1-4-brushless-solo-without-battery-without-charger",
       "siunta_eur": 10,
-      "patikrinta": "2026-11-10",
+      "patikrinta": "2026-11-11",
       "pastaba": "Siuntimas į LT nežinomas – įvertis 10 €, patikrinti krepšelyje.",
       "paveikslas": "https://toolbrothers.de/cdn/shop/files/173934-Toolbrothers-Powertools-Kalender-2026-----Makita-DTD153Z-Edition--Gr--XXL_7.jpg?v=1792166454&width=1200",
       "kaina": 267.29,
@@ -44483,21 +44911,12 @@
   "atnaujinta": "2026-11-11",
   "tikrinamos": [
    {
-    "parduotuve": "aio.lv",
-    "tipas": "ES",
-    "nuorodu": 3,
-    "kainu": 3,
-    "klaida": null,
-    "patikrinta": "2026-11-10",
-    "busena": "veikia"
-   },
-   {
     "parduotuve": "dateks.lv",
     "tipas": "ES",
     "nuorodu": 4,
     "kainu": 4,
     "klaida": null,
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "veikia"
    },
    {
@@ -44506,7 +44925,7 @@
     "nuorodu": 3,
     "kainu": 3,
     "klaida": null,
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "veikia"
    },
    {
@@ -44515,8 +44934,17 @@
     "nuorodu": 1,
     "kainu": 1,
     "klaida": null,
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "veikia"
+   },
+   {
+    "parduotuve": "aio.lv",
+    "tipas": "ES",
+    "nuorodu": 3,
+    "kainu": 0,
+    "klaida": "robots.txt neprieinamas",
+    "patikrinta": "2026-11-11",
+    "busena": "neveikia"
    },
    {
     "parduotuve": "technorama.lt",
@@ -44524,7 +44952,7 @@
     "nuorodu": 1,
     "kainu": 1,
     "klaida": null,
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "veikia"
    },
    {
@@ -44533,7 +44961,7 @@
     "nuorodu": 4,
     "kainu": 3,
     "klaida": "kaina puslapyje nerasta",
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "iš dalies"
    },
    {
@@ -44542,7 +44970,7 @@
     "nuorodu": 1,
     "kainu": 0,
     "klaida": "neprieinama (HTTP 403)",
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "neveikia"
    },
    {
@@ -44551,7 +44979,7 @@
     "nuorodu": 1,
     "kainu": 0,
     "klaida": "neprieinama (HTTP 403)",
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "neveikia"
    },
    {
@@ -44560,7 +44988,7 @@
     "nuorodu": 2,
     "kainu": 0,
     "klaida": "kaina puslapyje nerasta",
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "neveikia"
    },
    {
@@ -44569,7 +44997,7 @@
     "nuorodu": 4,
     "kainu": 3,
     "klaida": "neprieinama (HTTP 410)",
-    "patikrinta": "2026-11-10",
+    "patikrinta": "2026-11-11",
     "busena": "iš dalies"
    }
   ],
@@ -44583,7 +45011,7 @@
   }
  },
  "sveikata": {
-  "paieska": "2026-11-10T23:28:34Z",
+  "paieska": "2026-11-11T06:37:36Z",
   "claude_vertinimas": "2026-11-11",
   "nauji_atnaujinta": "2026-11-11"
  },
@@ -44607,7 +45035,7 @@
    "max": 100.0
   },
   "lego-rinkinys": {
-   "n": 69,
+   "n": 70,
    "mediana": 65,
    "min": 8.0,
    "max": 299.0
@@ -44691,8 +45119,8 @@
    "max": 200.0
   },
   "garmin-kita": {
-   "n": 33,
-   "mediana": 160,
+   "n": 34,
+   "mediana": 155,
    "min": 10.0,
    "max": 499.0
   },
@@ -44745,7 +45173,7 @@
    "max": 290.0
   },
   "ps5-digital": {
-   "n": 37,
+   "n": 38,
    "mediana": 520,
    "min": 400.0,
    "max": 630.0

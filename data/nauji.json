@@ -120,7 +120,7 @@
     }
    ],
    "atnaujinta": "2026-11-11",
-   "pastabos": "2026-11-11: varle.lt 739,99 € – greičiausiai kito pardavėjo užkelta kaina; Skelbiu.lt mediana 395 €. „Proga“ klaidinga, kol nėra antros LT parduotuvės kainos.",
+   "pastabos": "2026-11-11: varle.lt 739,99 € – greičiausiai kito pardavėjo užkelta kaina; Skelbiu.lt mediana 395 €. „Proga“ klaidinga, kol nėra antros LT parduotuvės kainos. 2026-11-12: bigbox/technorama tiesioginio produkto puslapio nerasta; proga vis dar nepatvirtinta.",
    "skelbiu_tinka": "pocket\\s*3.*(creator|combo)|(creator|combo).*pocket\\s*3",
    "skelbiu_atmesti": "pocket\\s*[24]"
   },
@@ -273,7 +273,7 @@
     }
    ],
    "atnaujinta": "2026-11-09",
-   "pastabos": "senukai.lt blokuoja automatą (403); varle/bigbox parduoda tik rinkinius. Jei ir rytoj be LT kainos – keisti.",
+   "pastabos": "senukai.lt blokuoja automatą (403); varle/bigbox parduoda tik rinkinius. Jei ir rytoj be LT kainos – keisti. 2026-11-12: LT parduotuvių kainos nerandamos (senukai blokuoja, varle/bigbox/technorama atskiro DTD153Z puslapio nėra). Kandidatas pakeitimui.",
    "skelbiu_tinka": "dtd\\s*153",
    "skelbiu_atmesti": "dtd\\s*15[0-24-9]|komplekt|rinkin"
   },

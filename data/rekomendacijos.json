@@ -610,7 +610,7 @@
  },
  "88127272": {
   "rekomenduota": "2026-11-09T18:53:53Z",
-  "paskutini_karta_rekomenduota": "2026-11-12T03:09:26Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:43:34Z",
   "sprendimas": "derėtis",
   "pelnas": 46,
   "max_pirkimo": 204,
@@ -673,7 +673,7 @@
  },
  "88167724": {
   "rekomenduota": "2026-11-11T22:03:40Z",
-  "paskutini_karta_rekomenduota": "2026-11-12T03:09:26Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:41:39Z",
   "sprendimas": "derėtis",
   "pelnas": 6,
   "max_pirkimo": 115,
@@ -682,29 +682,47 @@
  },
  "88165920": {
   "rekomenduota": "2026-11-11T22:03:40Z",
-  "paskutini_karta_rekomenduota": "2026-11-12T03:09:26Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:43:34Z",
   "sprendimas": "derėtis",
-  "pelnas": 46,
-  "max_pirkimo": 160,
-  "tiketina_pardavimo": 220,
+  "pelnas": 51,
+  "max_pirkimo": 164,
+  "tiketina_pardavimo": 225,
   "vietinis": true
  },
  "88164252": {
   "rekomenduota": "2026-11-11T22:03:40Z",
-  "paskutini_karta_rekomenduota": "2026-11-12T03:09:26Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:43:34Z",
   "sprendimas": "derėtis",
-  "pelnas": 82,
-  "max_pirkimo": 320,
-  "tiketina_pardavimo": 436,
+  "pelnas": 46,
+  "max_pirkimo": 293,
+  "tiketina_pardavimo": 400,
   "vietinis": true
  },
  "88162618": {
   "rekomenduota": "2026-11-11T22:03:40Z",
-  "paskutini_karta_rekomenduota": "2026-11-12T03:09:26Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:41:39Z",
   "sprendimas": "derėtis",
   "pelnas": 31,
   "max_pirkimo": 370,
   "tiketina_pardavimo": 504,
+  "vietinis": true
+ },
+ "88170698": {
+  "rekomenduota": "2026-11-12T04:43:34Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:43:34Z",
+  "sprendimas": "derėtis",
+  "pelnas": 11,
+  "max_pirkimo": 60,
+  "tiketina_pardavimo": 85,
+  "vietinis": true
+ },
+ "88170036": {
+  "rekomenduota": "2026-11-12T04:43:34Z",
+  "paskutini_karta_rekomenduota": "2026-11-12T04:43:34Z",
+  "sprendimas": "derėtis",
+  "pelnas": 21,
+  "max_pirkimo": 127,
+  "tiketina_pardavimo": 175,
   "vietinis": true
  }
 }

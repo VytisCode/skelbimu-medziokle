@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-11T22:03:40Z",
+ "sugeneruota": "2026-11-12T03:09:26Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -3737,8 +3737,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Parduodama konsolė su defektu, isijungia, vaizdą rodo bet kartais išmeta klaidą CE-108255-1. Nera apdailinių plastikų. Komplekte tik konsolė. Programinės įrangos versija 12.70 (atrišama). Taisyti nebandyta, garantinis lipdukas nepažeistas.",
+   "bukle": "Naudota",
    "modelis": "ps5-digital",
    "raktas": "ps5-digital",
    "palyginamu": 41,
@@ -3845,17 +3845,18 @@
    "max_pirkimo": 343,
    "pelnas_per_val": 194,
    "sprendimas": "tikrinti",
-   "priezastis": "aprašyme: defektas",
+   "priezastis": "aprašyme: defektas, taisytas",
    "balas": 60,
    "aprasymas_analize": {
     "rizikos_zodziai": [
-     "defektas"
+     "defektas",
+     "taisytas"
     ],
     "privalumai": [
      "komplektas"
     ],
-    "aprasymo_ilgis": 143,
-    "pilnas": false
+    "aprasymo_ilgis": 239,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 1,
@@ -3865,7 +3866,7 @@
     "mediana": 520.0,
     "nuolaida": 0.48
    },
-   "kodel": "Pigiausias iš 42 to paties modelio skelbimų (kiti 400 €–670 €, mediana 520 €), 48% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašyme: defektas. Privalumai: komplektas.",
+   "kodel": "Pigiausias iš 42 to paties modelio skelbimų (kiti 400 €–670 €, mediana 520 €), 48% pigiau už medianą. Įtartinai pigu – perskaityk aprašymą, paklausk apie defektus. Aprašyme: defektas, taisytas. Privalumai: komplektas.",
    "visi_palyginami": [
     {
      "kaina": 400.0,
@@ -4173,7 +4174,7 @@
     "riba": 343,
     "argumentai": [
      {
-      "t": "Aprašyme minima: defektas – trūkumai mažina vertę"
+      "t": "Aprašyme minima: defektas, taisytas – trūkumai mažina vertę"
      },
      {
       "t": "Nėra čekio ar garantijos – pirkėjui didesnė rizika"
@@ -4199,14 +4200,14 @@
     "Laikas ~1.0 val. → 193,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Gali būti proga, bet pirma patikrink: aprašyme minima: defektas.",
+   "isvada": "Gali būti proga, bet pirma patikrink: aprašyme minima: defektas, taisytas.",
    "uz": [
     "Iš 42 panašių skelbimų pigesnio nėra; įprasta kaina ~520 €, šis 48 % pigesnis.",
     "Pelnas ~194 € (72 % įdėtų pinigų) – virš tavo ribų (20 € ir 35 %).",
     "Aprašyme: komplektas."
    ],
    "pries": [
-    "Aprašyme minima: defektas.",
+    "Aprašyme minima: defektas, taisytas.",
     "Įtartinai pigu (< 55 % įprastos kainos) – dažniausiai tai senesnis modelis, defektas ar apgaulė."
    ],
    "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -4512,8 +4513,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "PARDUODU APPLE iPAD 10.2 (9-os kartos)! Puiki proga įsigyti kokybišką „Apple iPad“ už gerą kainą! 9-os kartos iPad Įdiegta naujausia palaikoma iOS versija Puikiai tinka vaikams, mokslams, darbui, filmams ir naršymui internete Viskas veikia puikiai Galima rinktis iš kelių įrenginių pagal būklę ir baterijos likutį (Battery Health). Šiuo metu turiu 5+ vnt., todėl tikrai bus iš ko pasirinkti! Kiekvienas gali išsirinkti sau tinkamiausią variantą pagal išvaizdą, būklę ir baterijos talpą. Kas pirmesnis, tas išsirenka geriausią variantą!",
+   "bukle": "Naudota",
    "modelis": "ipad-bazinis-10",
    "raktas": "ipad-bazinis-10",
    "palyginamu": 4,
@@ -4591,8 +4592,8 @@
     "privalumai": [
      "nauja"
     ],
-    "aprasymo_ilgis": 134,
-    "pilnas": false
+    "aprasymo_ilgis": 535,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 2,
@@ -4703,8 +4704,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "gopro 7 kamera su 64gb sd kortele",
+   "bukle": "Naudota",
    "modelis": "gopro-kita",
    "raktas": "gopro-kita",
    "palyginamu": 13,
@@ -4817,7 +4818,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 33,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 3,
@@ -5422,7 +5423,7 @@
      "vieta_laikas": "Šiauliai, prieš 3 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": {
     "siulymas": 25,
     "tarpinis": null,
@@ -6600,8 +6601,8 @@
    "parametrai": [
     "Būklė: Nauja"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "naujas,tinka makita baterijos",
+   "bukle": "Nauja",
    "modelis": "makita-kita",
    "raktas": "makita-kita",
    "palyginamu": 58,
@@ -6717,7 +6718,7 @@
      "naujas"
     ],
     "aprasymo_ilgis": 29,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 7,
@@ -8930,116 +8931,6 @@
    }
   },
   {
-   "id": "88113210",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-mini-7-a17-pro-wi-fi-128-gb-starlight-88113210.html",
-   "pavadinimas": "iPad mini 7 (A17 Pro) Wi-fi, 128 GB, Starlight",
-   "kaina": 460.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5324201634/ipad-mini-7-a17-pro-wi-fi-128-gb-starlight.jpg",
-   "aprasymas": "Parduodu iPad mini 7 (A17 Pro) Wi-Fi, 128 GB, Starlight spalvos. Būklė: Įrenginys techniškai veikia 100% nepriekaištingai (visi jutikliai, ka...",
-   "vieta_laikas": "Kaunas, prieš 3 val.",
-   "paieska": "iPad",
-   "pastebetas": "2026-11-09T00:58:09Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "ipad-mini-7",
-   "raktas": "ipad-mini-7",
-   "palyginamu": 1,
-   "mediana": null,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "iPad mini 7 256 GB",
-     "kaina": 500.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-mini-7-256-gb-87933786.html",
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=ipad+mini+7"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=ipad+mini+7"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=ipad+mini+7"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=ipad+mini+7"
-    }
-   ],
-   "tiketina_pardavimo": null,
-   "pelnas": null,
-   "roi": null,
-   "max_pirkimo": null,
-   "pelnas_per_val": null,
-   "sprendimas": "nežinoma",
-   "priezastis": "per mažai panašių skelbimų – įvertins Claude",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 144,
-    "pilnas": false
-   },
-   "kodel": "Panašių skelbimų dar per mažai palyginti.",
-   "visi_palyginami": [
-    {
-     "kaina": 500.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ipad-mini-7-256-gb-87933786.html",
-     "pavadinimas": "iPad mini 7 256 GB",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašių skelbimų tik 1 – per mažai kainai nustatyti"
-   ],
-   "isvada": "Kol kas neaišku – trūksta duomenų kainai nustatyti.",
-   "uz": [],
-   "pries": [
-    "Rasta tik 1 panašus skelbimas – nėra su kuo patikimai palyginti (Claude įvertins rytinėje peržiūroje)."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "didelė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Suma didelė (460 €). Jei nesutinka siųsti išperkamąja siunta, verčiau praleisk arba važiuok pasiimti.",
-     "Apple daiktai: paprašyk serijos numerio ir patikrink checkcoverage.apple.com. Prieš mokėdamas įsitikink, kad išjungtas „Find My“ (iCloud užraktas).",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
    "id": "88116760",
    "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-plm4601-88116760.html",
    "pavadinimas": "Makita Plm4601",
@@ -9709,7 +9600,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
    "visi_palyginami": [],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -10803,7 +10694,7 @@
      "vieta_laikas": "Kaunas, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -10896,7 +10787,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -10985,7 +10876,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -13364,7 +13255,7 @@
      "vieta_laikas": "Jonavos r., prieš 3 d."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -13729,7 +13620,7 @@
      "vieta_laikas": "Jonavos r., prieš 3 d."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -14559,7 +14450,7 @@
      "vieta_laikas": "Kaunas, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -17295,8 +17186,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "Galimas siuntimas į kitus miestus už papildomą kainą.",
+   "bukle": "Naudota",
    "modelis": "ps5-priedai",
    "raktas": "ps5-priedai",
    "palyginamu": 40,
@@ -17409,7 +17300,7 @@
     "rizikos_zodziai": [],
     "privalumai": [],
     "aprasymo_ilgis": 53,
-    "pilnas": false
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 6,
@@ -18179,7 +18070,7 @@
      "vieta_laikas": "Šiauliai, prieš 3 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -19608,513 +19499,6 @@
     "lygis": "didelė",
     "zingsniai": [
      "Kaina įtartinai maža. Tai dažniausias sukčių masalas, todėl būk ypač atsargus.",
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "88113302",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/perfaratorius-makita-su-3-a-baterija-88113302.html",
-   "pavadinimas": "Perfaratorius Makita su 3 A baterija",
-   "kaina": 100.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5324205662/perfaratorius-makita-su-3-a-baterija.jpg",
-   "aprasymas": "Naudotas, geros būklės.",
-   "vieta_laikas": "Kaunas, prieš 3 val.",
-   "paieska": "Makita įrankiai",
-   "pastebetas": "2026-11-09T00:58:09Z",
-   "parametrai": [
-    "Būklė: Naudota"
-   ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
-   "modelis": "makita-priedas",
-   "raktas": "makita-priedas",
-   "palyginamu": 10,
-   "mediana": 28,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "10 panašių skelbimų mediana 27,5 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Kaunas",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Makita tipo baterija su pakrovėju",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-tipo-baterija-su-pakroveju-87973944.html",
-     "vieta_laikas": "Kaunas, prieš 3 val."
-    },
-    {
-     "pavadinimas": "Makita baterija 1.5 ah",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-1-5-ah-87990732.html",
-     "vieta_laikas": "Šiauliai, prieš 3 val."
-    },
-    {
-     "pavadinimas": "Makita baterijos 2vnt. Naujos",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterijos-2vnt-naujos-88051636.html",
-     "vieta_laikas": "Klaipėdos r., prieš 1 val."
-    },
-    {
-     "pavadinimas": "Makita Dc10wa akumuliatorių įkroviklis",
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-dc10wa-akumuliatoriu-ikroviklis-88090456.html",
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "pavadinimas": "Suktuko Makita naujas pakrovejas ir dvi baterijos",
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/suktuko-makita-naujas-pakrovejas-ir-dvi-baterijos-87828782.html",
-     "vieta_laikas": "Panevėžys, prieš 10 val."
-    },
-    {
-     "pavadinimas": "Makita baterija",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-87828648.html",
-     "vieta_laikas": "Šiauliai, prieš 10 val."
-    },
-    {
-     "pavadinimas": "Makita pakrovėjas",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-pakrovejas-88044434.html",
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Makita baterija 4ah",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-4ah-87941400.html",
-     "vieta_laikas": "Šiauliai, prieš 3 val."
-    },
-    {
-     "pavadinimas": "Makita batėrija 18v 6ah Naujabl1860b",
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-18v-6ah-naujabl1860b-87872506.html",
-     "vieta_laikas": "Kita, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Makita baterija 18 v 6ah",
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-18-v-6ah-88081500.html",
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Perfaratorius+Makita+su+3+A+baterija"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Perfaratorius+Makita+su+3+A+baterija"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Perfaratorius+Makita+su+3+A+baterija"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Perfaratorius+Makita+su+3+A+baterija"
-    }
-   ],
-   "tiketina_pardavimo": 25,
-   "pelnas": -80,
-   "roi": -0.8,
-   "max_pirkimo": 0,
-   "pelnas_per_val": -80,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [],
-    "aprasymo_ilgis": 23,
-    "pilnas": false
-   },
-   "pozicija": {
-    "vieta": 11,
-    "is": 11,
-    "min": 20.0,
-    "max": 50.0,
-    "mediana": 27.5,
-    "nuolaida": -2.64
-   },
-   "kodel": "11-as pigiausias iš 11 (kiti 20 €–50 €, mediana 27,5 €), 264% brangiau už medianą.",
-   "visi_palyginami": [
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-tipo-baterija-su-pakroveju-87973944.html",
-     "pavadinimas": "Makita tipo baterija su pakrovėju",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 3 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-1-5-ah-87990732.html",
-     "pavadinimas": "Makita baterija 1.5 ah",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 3 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterijos-2vnt-naujos-88051636.html",
-     "pavadinimas": "Makita baterijos 2vnt. Naujos",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėdos r., prieš 1 val."
-    },
-    {
-     "kaina": 20.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-dc10wa-akumuliatoriu-ikroviklis-88090456.html",
-     "pavadinimas": "Makita Dc10wa akumuliatorių įkroviklis",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 3 val."
-    },
-    {
-     "kaina": 25.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/suktuko-makita-naujas-pakrovejas-ir-dvi-baterijos-87828782.html",
-     "pavadinimas": "Suktuko Makita naujas pakrovejas ir dvi baterijos",
-     "rizikos": [],
-     "vieta_laikas": "Panevėžys, prieš 10 val."
-    },
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-87828648.html",
-     "pavadinimas": "Makita baterija",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 10 val."
-    },
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-pakrovejas-88044434.html",
-     "pavadinimas": "Makita pakrovėjas",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 1 val."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-4ah-87941400.html",
-     "pavadinimas": "Makita baterija 4ah",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 3 val."
-    },
-    {
-     "kaina": 38.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-18v-6ah-naujabl1860b-87872506.html",
-     "pavadinimas": "Makita batėrija 18v 6ah Naujabl1860b",
-     "rizikos": [],
-     "vieta_laikas": "Kita, prieš 1 val."
-    },
-    {
-     "kaina": 50.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/makita-baterija-18-v-6ah-88081500.html",
-     "pavadinimas": "Makita baterija 18 v 6ah",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 2 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (makita-priedas): 10 vnt., kainos 20 €–50 €, mediana 27,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 24,8 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: siunta į paštomatą iš Kaunas 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 24,8 € − 100 € − 4,5 € = -79,8 € (-80% pirkimo kainos)",
-    "Mokėti ne daugiau: min((24,8 € − 4,5 €) / 1.35; 24,8 € − 4,5 € − 20 €) = 0,2 €",
-    "Laikas ~1.0 val. → -79,8 €/val."
-   ],
-   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 10; įprasta kaina ~27,5 €, šis ne pigesnis už kitus.",
-   "uz": [],
-   "pries": [
-    "Iš 11 panašių skelbimų pigesnių yra 10; įprasta kaina ~27,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-80 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -80 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Siunta į paštomatą iš Kaunas: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
-     "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
-     "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
-     "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
-     "Pažiūrėk kitus pardavėjo skelbimus Skelbiu.lt: kelis tokius pačius daiktus už itin mažą kainą dažniausiai skelbia sukčiai.",
-     "Nespausk jokių siuntų ar mokėjimų nuorodų, kurias atsiunčia pardavėjas, ir niekur neįvesk kortelės duomenų. Visada pats sumokėk už siuntą per kurjerio programėlę.",
-     "Išsaugok susirašinėjimą ir skelbimo nuorodą. Jei apgautų, pranešk policijai per epolicija.lt."
-    ],
-    "zinute": "Ar galėtumėte išsiųsti išperkamąja siunta (LP Express ar Omniva)? Sumokėčiau atsiimdamas. Ir ar galėtumėte atsiųsti nuotrauką su lapeliu, ant kurio užrašyta šiandienos data?"
-   }
-  },
-  {
-   "id": "88113298",
-   "nuoroda": "https://www.skelbiu.lt/skelbimai/parduodamas-cod-mw4-88113298.html",
-   "pavadinimas": "Parduodamas cod mw4",
-   "kaina": 55.0,
-   "nuotrauka": "https://skelbiu-img.dgn.lt/1_23_5324204768/parduodamas-cod-mw4.jpg",
-   "aprasymas": "Viena karta zaistas. Pardaviau ps5 nebereikia. Kodai nepanaudoti.",
-   "vieta_laikas": "Klaipėda, prieš 3 val.",
-   "paieska": "PlayStation 5",
-   "pastebetas": "2026-11-09T00:58:09Z",
-   "parametrai": [
-    "Būklė: Nauja"
-   ],
-   "pilnas_aprasymas": "Viena karta zaistas. Pardaviau ps5 nebereikia. Kodai nepanaudoti.",
-   "bukle": "Nauja",
-   "modelis": "ps5-kita",
-   "raktas": "ps5-kita",
-   "palyginamu": 12,
-   "mediana": 60,
-   "naujo_kaina": null,
-   "patikimumas": "žemas",
-   "saltiniai": [
-    "12 panašių skelbimų mediana 60 €"
-   ],
-   "kastai": {
-    "budas": "siunta į paštomatą iš Klaipėda",
-    "atgabenimas": 3.5,
-    "pardavimas": 1.0,
-    "viso": 4.5,
-    "valandos": 1.0,
-    "vietinis": false,
-    "didelis": false,
-    "nepervezamas": false
-   },
-   "palyginami": [
-    {
-     "pavadinimas": "Mortal shell 2",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "vieta_laikas": "Vilnius, prieš 8 val."
-    },
-    {
-     "pavadinimas": "Gran Turismo 7 (Ps4)",
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gran-turismo-7-ps4-88151586.html",
-     "vieta_laikas": "Klaipėda, prieš 35 min."
-    },
-    {
-     "pavadinimas": "Resident Evil 9 Requiem",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/resident-evil-9-requiem-87939312.html",
-     "vieta_laikas": "Kaunas, prieš 27 min."
-    },
-    {
-     "pavadinimas": "Assassins Creed Black Flag Resynced",
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-black-flag-resynced-87948010.html",
-     "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "pavadinimas": "Ea Sports Ufc 6",
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ea-sports-ufc-6-88011910.html",
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "pavadinimas": "Call of duty: modern warfare 4",
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/call-of-duty-modern-warfare-4-87910770.html",
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    },
-    {
-     "pavadinimas": "Call of duty modern warfare 4",
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/call-of-duty-modern-warfare-4-88000256.html",
-     "vieta_laikas": "Druskininkai, prieš 2 val."
-    },
-    {
-     "pavadinimas": "Logitech G29 Driving Force žaidimų vairas, skirta",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/logitech-g29-driving-force-zaidimu-vairas-skirta-88073328.html",
-     "vieta_laikas": "Kaunas, prieš 3 min."
-    },
-    {
-     "pavadinimas": "Žaidimų Vairas G923",
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaidimu-vairas-g923-88103516.html",
-     "vieta_laikas": "Šiauliai, prieš 24 min."
-    },
-    {
-     "pavadinimas": "Logitech G29 vairas",
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/logitech-g29-vairas-88044782.html",
-     "vieta_laikas": "Vilnius, prieš 54 min."
-    }
-   ],
-   "parduotuves": [],
-   "parduotuviu_paieska": [
-    {
-     "pavadinimas": "kaina24.lt",
-     "url": "https://www.kaina24.lt/search?q=Parduodamas+cod+mw4"
-    },
-    {
-     "pavadinimas": "pigu.lt",
-     "url": "https://pigu.lt/lt/search?q=Parduodamas+cod+mw4"
-    },
-    {
-     "pavadinimas": "idealo.de (ES)",
-     "url": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=Parduodamas+cod+mw4"
-    },
-    {
-     "pavadinimas": "Google Shopping",
-     "url": "https://www.google.com/search?tbm=shop&q=Parduodamas+cod+mw4"
-    }
-   ],
-   "tiketina_pardavimo": 54,
-   "pelnas": -6,
-   "roi": -0.1,
-   "max_pirkimo": 30,
-   "pelnas_per_val": -6,
-   "sprendimas": "praleisti",
-   "priezastis": "per brangu perpardavimui",
-   "balas": 0,
-   "aprasymas_analize": {
-    "rizikos_zodziai": [],
-    "privalumai": [
-     "nauja"
-    ],
-    "aprasymo_ilgis": 65,
-    "pilnas": true
-   },
-   "pozicija": {
-    "vieta": 6,
-    "is": 13,
-    "min": 30.0,
-    "max": 145.0,
-    "mediana": 60.0,
-    "nuolaida": 0.08
-   },
-   "kodel": "6-as pigiausias iš 13 (kiti 30 €–145 €, mediana 60 €), 8% pigiau už medianą. Privalumai: nauja.",
-   "visi_palyginami": [
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/mortal-shell-2-87832098.html",
-     "pavadinimas": "Mortal shell 2",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 8 val."
-    },
-    {
-     "kaina": 30.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/gran-turismo-7-ps4-88151586.html",
-     "pavadinimas": "Gran Turismo 7 (Ps4)",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 35 min."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/resident-evil-9-requiem-87939312.html",
-     "pavadinimas": "Resident Evil 9 Requiem",
-     "rizikos": [],
-     "vieta_laikas": "Kaunas, prieš 27 min."
-    },
-    {
-     "kaina": 35.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/assassins-creed-black-flag-resynced-87948010.html",
-     "pavadinimas": "Assassins Creed Black Flag Resynced",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 23 min."
-    },
-    {
-     "kaina": 45.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/ea-sports-ufc-6-88011910.html",
-     "pavadinimas": "Ea Sports Ufc 6",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 1 val."
-    },
-    {
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/call-of-duty-modern-warfare-4-87910770.html",
-     "pavadinimas": "Call of duty: modern warfare 4",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 5 val."
-    },
-    {
-     "kaina": 60.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/call-of-duty-modern-warfare-4-88000256.html",
-     "pavadinimas": "Call of duty modern warfare 4",
-     "rizikos": [],
-     "vieta_laikas": "Druskininkai, prieš 2 val."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/logitech-g29-driving-force-zaidimu-vairas-skirta-88073328.html",
-     "pavadinimas": "Logitech G29 Driving Force žaidimų vairas, skirta",
-     "rizikos": [
-      "defektas"
-     ],
-     "vieta_laikas": "Kaunas, prieš 3 min."
-    },
-    {
-     "kaina": 100.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/zaidimu-vairas-g923-88103516.html",
-     "pavadinimas": "Žaidimų Vairas G923",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 24 min."
-    },
-    {
-     "kaina": 110.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/logitech-g29-vairas-88044782.html",
-     "pavadinimas": "Logitech G29 vairas",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 54 min."
-    },
-    {
-     "kaina": 140.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/logitech-g29-88105418.html",
-     "pavadinimas": "Logitech g29",
-     "rizikos": [],
-     "vieta_laikas": "Klaipėda, prieš 4 val."
-    },
-    {
-     "kaina": 145.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/logitech-g29-driving-force-vairas-su-pedalais-88023478.html",
-     "pavadinimas": "Logitech G29 Driving Force vairas su pedalais",
-     "rizikos": [],
-     "vieta_laikas": "Vilnius, prieš 6 val."
-    }
-   ],
-   "amzius_d": 2,
-   "derybos": null,
-   "naujo_min": null,
-   "zingsniai": [
-    "Panašūs skelbimai (ps5-kita): 12 vnt., kainos 30 €–145 €, mediana 60 € × 0.90 (realiai parduodama pigiau nei prašoma) = 54 €",
-    "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
-    "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 54 € − 55 € − 4,5 € = -5,5 € (-10% pirkimo kainos)",
-    "Mokėti ne daugiau: min((54 € − 4,5 €) / 1.35; 54 € − 4,5 € − 20 €) = 29,5 €",
-    "Laikas ~1.0 val. → -5,5 €/val.",
-    "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
-   ],
-   "isvada": "Praleisk: iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~60 €, šis 8 % pigesnis.",
-   "uz": [
-    "Aprašyme: nauja."
-   ],
-   "pries": [
-    "Iš 13 panašių skelbimų pigesnių yra 5; įprasta kaina ~60 €, šis 8 % pigesnis.",
-    "Pelnas būtų tik ~-6 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
-    "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
-   ],
-   "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
-   "saugumas": {
-    "lygis": "vidutinė",
-    "zingsniai": [
      "Nepervesk pinigų iš anksto. Paprašyk išperkamosios siuntos (LP Express ir Omniva tai siūlo): sumokėsi atsiimdamas, o pardavėjas bus susietas su siunta.",
      "Jei pardavėjas sutinka tik su išankstiniu pavedimu, paprašyk nuotraukos, kurioje šalia daikto būtų lapelis su tavo vardu ir šiandienos data, ir trumpo vaizdo įrašo, kad daiktas veikia.",
      "Pavedimą daryk tik į banko sąskaitą tuo pačiu vardu kaip pardavėjo. Prieš tai pagooglink sąskaitos numerį ir telefoną kartu su žodžiu „sukčius“.",
@@ -21744,11 +21128,11 @@
    "modelis": "switch-kita",
    "raktas": "switch-kita",
    "palyginamu": 10,
-   "mediana": 22,
+   "mediana": 20,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 22,5 €"
+    "10 panašių skelbimų mediana 20,5 €"
    ],
    "kastai": {
     "budas": "atsiimti vietoje (Vilniaus r.)",
@@ -21793,13 +21177,13 @@
     },
     {
      "pavadinimas": "Minecraft Dungeons Ultimate Edition",
-     "kaina": 24.99,
+     "kaina": 21.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ultimate-edition-88170970.html",
      "vieta_laikas": "Šiauliai, prieš 45 min."
     },
     {
      "pavadinimas": "New Super Mario Bros. U Deluxe",
-     "kaina": 34.99,
+     "kaina": 33.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/new-super-mario-bros-u-deluxe-88170934.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -21811,7 +21195,7 @@
     },
     {
      "pavadinimas": "The Legend of Zelda: Breath of the Wild",
-     "kaina": 39.5,
+     "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-legend-of-zelda-breath-of-the-wild-88170922.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -21841,11 +21225,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=%C5%BDaidimas+%22Fire+Emblem%22"
     }
    ],
-   "tiketina_pardavimo": 20,
-   "pelnas": -49,
-   "roi": -0.75,
+   "tiketina_pardavimo": 18,
+   "pelnas": -51,
+   "roi": -0.78,
    "max_pirkimo": 0,
-   "pelnas_per_val": -33,
+   "pelnas_per_val": -34,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -21862,10 +21246,10 @@
     "is": 11,
     "min": 15.0,
     "max": 40.0,
-    "mediana": 22.494999999999997,
-    "nuolaida": -1.89
+    "mediana": 20.5,
+    "nuolaida": -2.17
    },
-   "kodel": "11-as pigiausias iš 11 (kiti 15 €–40 €, mediana 22,5 €), 189% brangiau už medianą. Privalumai: nauja.",
+   "kodel": "11-as pigiausias iš 11 (kiti 15 €–40 €, mediana 20,5 €), 217% brangiau už medianą. Privalumai: nauja.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -21905,14 +21289,14 @@
      "vieta_laikas": "Vilnius, prieš 1 val."
     },
     {
-     "kaina": 24.99,
+     "kaina": 21.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ultimate-edition-88170970.html",
      "pavadinimas": "Minecraft Dungeons Ultimate Edition",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 45 min."
     },
     {
-     "kaina": 34.99,
+     "kaina": 33.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/new-super-mario-bros-u-deluxe-88170934.html",
      "pavadinimas": "New Super Mario Bros. U Deluxe",
      "rizikos": [],
@@ -21926,7 +21310,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     },
     {
-     "kaina": 39.5,
+     "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-legend-of-zelda-breath-of-the-wild-88170922.html",
      "pavadinimas": "The Legend of Zelda: Breath of the Wild",
      "rizikos": [],
@@ -21944,22 +21328,22 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-kita): 10 vnt., kainos 15 €–40 €, mediana 22,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 20,2 €",
+    "Panašūs skelbimai (switch-kita): 10 vnt., kainos 15 €–40 €, mediana 20,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 18,4 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: atsiimti vietoje (Vilniaus r.) 3 € + pakuotė / pardavimas 1 € = 4 €",
-    "Pelnas = 20,2 € − 65 € − 4 € = -48,8 € (-75% pirkimo kainos)",
-    "Mokėti ne daugiau: min((20,2 € − 4 €) / 1.35; 20,2 € − 4 € − 20 €) = 0 €",
-    "Laikas ~1.5 val. → -32,5 €/val.",
+    "Pelnas = 18,4 € − 65 € − 4 € = -50,5 € (-78% pirkimo kainos)",
+    "Mokėti ne daugiau: min((18,4 € − 4 €) / 1.35; 18,4 € − 4 € − 20 €) = 0 €",
+    "Laikas ~1.5 val. → -33,7 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 10; įprasta kaina ~22,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 10; įprasta kaina ~20,5 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: nauja."
    ],
    "pries": [
-    "Iš 11 panašių skelbimų pigesnių yra 10; įprasta kaina ~22,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-49 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -75 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 11 panašių skelbimų pigesnių yra 10; įprasta kaina ~20,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-51 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -78 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Atsiimti vietoje (Vilniaus r.): kaštai ~4 €, laikas ~1,5 val.",
@@ -25641,11 +25025,11 @@
    "modelis": "switch-kita",
    "raktas": "switch-kita",
    "palyginamu": 10,
-   "mediana": 22,
+   "mediana": 20,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "10 panašių skelbimų mediana 22,5 €"
+    "10 panašių skelbimų mediana 20,5 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -25690,13 +25074,13 @@
     },
     {
      "pavadinimas": "Minecraft Dungeons Ultimate Edition",
-     "kaina": 24.99,
+     "kaina": 21.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ultimate-edition-88170970.html",
      "vieta_laikas": "Šiauliai, prieš 45 min."
     },
     {
      "pavadinimas": "New Super Mario Bros. U Deluxe",
-     "kaina": 34.99,
+     "kaina": 33.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/new-super-mario-bros-u-deluxe-88170934.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -25708,7 +25092,7 @@
     },
     {
      "pavadinimas": "The Legend of Zelda: Breath of the Wild",
-     "kaina": 39.5,
+     "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-legend-of-zelda-breath-of-the-wild-88170922.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -25738,11 +25122,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=The+Legend+of+Zelda%3Atears+of+the+Kingdom"
     }
    ],
-   "tiketina_pardavimo": 20,
-   "pelnas": -24,
-   "roi": -0.61,
+   "tiketina_pardavimo": 18,
+   "pelnas": -26,
+   "roi": -0.65,
    "max_pirkimo": 0,
-   "pelnas_per_val": -24,
+   "pelnas_per_val": -26,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -25759,10 +25143,10 @@
     "is": 11,
     "min": 15.0,
     "max": 65.0,
-    "mediana": 22.494999999999997,
-    "nuolaida": -0.78
+    "mediana": 20.5,
+    "nuolaida": -0.95
    },
-   "kodel": "10-as pigiausias iš 11 (kiti 15 €–65 €, mediana 22,5 €), 78% brangiau už medianą. Privalumai: su dėže.",
+   "kodel": "10-as pigiausias iš 11 (kiti 15 €–65 €, mediana 20,5 €), 95% brangiau už medianą. Privalumai: su dėže.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -25802,14 +25186,14 @@
      "vieta_laikas": "Vilnius, prieš 1 val."
     },
     {
-     "kaina": 24.99,
+     "kaina": 21.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ultimate-edition-88170970.html",
      "pavadinimas": "Minecraft Dungeons Ultimate Edition",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 45 min."
     },
     {
-     "kaina": 34.99,
+     "kaina": 33.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/new-super-mario-bros-u-deluxe-88170934.html",
      "pavadinimas": "New Super Mario Bros. U Deluxe",
      "rizikos": [],
@@ -25823,7 +25207,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     },
     {
-     "kaina": 39.5,
+     "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-legend-of-zelda-breath-of-the-wild-88170922.html",
      "pavadinimas": "The Legend of Zelda: Breath of the Wild",
      "rizikos": [],
@@ -25837,7 +25221,7 @@
      "vieta_laikas": "Vilniaus r., prieš 7 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -25845,23 +25229,23 @@
     "iki": 40.0
    },
    "zingsniai": [
-    "Panašūs skelbimai (switch-kita): 10 vnt., kainos 15 €–65 €, mediana 22,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 20,2 €",
+    "Panašūs skelbimai (switch-kita): 10 vnt., kainos 15 €–65 €, mediana 20,5 € × 0.90 (realiai parduodama pigiau nei prašoma) = 18,4 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 20,2 € − 40 € − 4,5 € = -24,3 € (-61% pirkimo kainos)",
-    "Mokėti ne daugiau: min((20,2 € − 4,5 €) / 1.35; 20,2 € − 4,5 € − 20 €) = 0 €",
-    "Laikas ~1.0 val. → -24,3 €/val.",
+    "Pelnas = 18,4 € − 40 € − 4,5 € = -26,1 € (-65% pirkimo kainos)",
+    "Mokėti ne daugiau: min((18,4 € − 4,5 €) / 1.35; 18,4 € − 4,5 € − 20 €) = 0 €",
+    "Laikas ~1.0 val. → -26,1 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 9; įprasta kaina ~22,5 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 11 panašių skelbimų pigesnių yra 9; įprasta kaina ~20,5 €, šis ne pigesnis už kitus.",
    "uz": [
     "Aprašyme: su dėže.",
     "Kaina jau sumažinta nuo 43 € – pardavėjas linkęs nusileisti."
    ],
    "pries": [
-    "Iš 11 panašių skelbimų pigesnių yra 9; įprasta kaina ~22,5 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-24 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -61 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 11 panašių skelbimų pigesnių yra 9; įprasta kaina ~20,5 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-26 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -65 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -25896,11 +25280,11 @@
    "modelis": "switch-priedai",
    "raktas": "switch-priedai",
    "palyginamu": 22,
-   "mediana": 31,
+   "mediana": 30,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "22 panašių skelbimų mediana 31 €"
+    "22 panašių skelbimų mediana 30 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Šiauliai",
@@ -25951,7 +25335,7 @@
     },
     {
      "pavadinimas": "Minecraft – Nintendo Switch žaidimas su dėžute",
-     "kaina": 24.0,
+     "kaina": 22.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-nintendo-switch-zaidimas-su-dezute-88170958.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -25993,11 +25377,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Mario+Kart+World+switch+2"
     }
    ],
-   "tiketina_pardavimo": 28,
-   "pelnas": -43,
-   "roi": -0.65,
-   "max_pirkimo": 3,
-   "pelnas_per_val": -43,
+   "tiketina_pardavimo": 27,
+   "pelnas": -44,
+   "roi": -0.66,
+   "max_pirkimo": 2,
+   "pelnas_per_val": -44,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -26012,10 +25396,10 @@
     "is": 23,
     "min": 10.0,
     "max": 55.0,
-    "mediana": 31.0,
-    "nuolaida": -1.13
+    "mediana": 30.0,
+    "nuolaida": -1.2
    },
-   "kodel": "23-as pigiausias iš 23 (kiti 10 €–55 €, mediana 31 €), 113% brangiau už medianą.",
+   "kodel": "23-as pigiausias iš 23 (kiti 10 €–55 €, mediana 30 €), 120% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 10.0,
@@ -26060,7 +25444,7 @@
      "vieta_laikas": "Vilnius, prieš 3 val."
     },
     {
-     "kaina": 24.0,
+     "kaina": 22.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-nintendo-switch-zaidimas-su-dezute-88170958.html",
      "pavadinimas": "Minecraft – Nintendo Switch žaidimas su dėžute",
      "rizikos": [],
@@ -26095,18 +25479,18 @@
      "vieta_laikas": "Kaunas, prieš 4 val."
     },
     {
+     "kaina": 30.0,
+     "nuoroda": "https://www.skelbiu.lt/skelbimai/pokmon-shield-nintendo-switch-zaidimas-su-dezut-88130492.html",
+     "pavadinimas": "Pokmon Shield – Nintendo Switch žaidimas su dėžut",
+     "rizikos": [],
+     "vieta_laikas": "Šiauliai, prieš 5 val."
+    },
+    {
      "kaina": 32.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/mario-vs-donkey-kong-nintendo-switch-87852474.html",
      "pavadinimas": "Mario vs. Donkey Kong Nintendo Switch",
      "rizikos": [],
      "vieta_laikas": "Vilnius, prieš 8 val."
-    },
-    {
-     "kaina": 33.0,
-     "nuoroda": "https://www.skelbiu.lt/skelbimai/pokmon-shield-nintendo-switch-zaidimas-su-dezut-88130492.html",
-     "pavadinimas": "Pokmon Shield – Nintendo Switch žaidimas su dėžut",
-     "rizikos": [],
-     "vieta_laikas": "Šiauliai, prieš 5 val."
     },
     {
      "kaina": 35.0,
@@ -26172,24 +25556,24 @@
      "vieta_laikas": "Vilnius, prieš 1 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-priedai): 22 vnt., kainos 10 €–55 €, mediana 31 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27,9 €",
+    "Panašūs skelbimai (switch-priedai): 22 vnt., kainos 10 €–55 €, mediana 30 € × 0.90 (realiai parduodama pigiau nei prašoma) = 27 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Šiauliai 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 27,9 € − 66 € − 4,5 € = -42,6 € (-65% pirkimo kainos)",
-    "Mokėti ne daugiau: min((27,9 € − 4,5 €) / 1.35; 27,9 € − 4,5 € − 20 €) = 3,4 €",
-    "Laikas ~1.0 val. → -42,6 €/val.",
+    "Pelnas = 27 € − 66 € − 4,5 € = -43,5 € (-66% pirkimo kainos)",
+    "Mokėti ne daugiau: min((27 € − 4,5 €) / 1.35; 27 € − 4,5 € − 20 €) = 2,5 €",
+    "Laikas ~1.0 val. → -43,5 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 23 panašių skelbimų pigesnių yra 22; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 23 panašių skelbimų pigesnių yra 22; įprasta kaina ~30 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 23 panašių skelbimų pigesnių yra 22; įprasta kaina ~31 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-43 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -65 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 23 panašių skelbimų pigesnių yra 22; įprasta kaina ~30 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-44 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -66 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Šiauliai: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -26338,7 +25722,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -26534,7 +25918,7 @@
      "vieta_laikas": "Kaunas, prieš 1 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -30257,7 +29641,7 @@
      "vieta_laikas": "Vilnius, prieš 18 min."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "kaina_sumazejo": {
@@ -30725,7 +30109,7 @@
      "vieta_laikas": "Kaunas, prieš 2 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -31104,7 +30488,7 @@
      "vieta_laikas": "Šiauliai, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -31485,7 +30869,7 @@
      "vieta_laikas": "Šiauliai, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -31949,7 +31333,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -32412,7 +31796,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -32768,7 +32152,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -33129,7 +32513,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -33373,7 +32757,7 @@
      "vieta_laikas": "Kėdainių r., prieš 4 val."
     }
    ],
-   "amzius_d": 0,
+   "amzius_d": 1,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -36014,11 +35398,11 @@
    "modelis": "switch-kita",
    "raktas": "switch-kita",
    "palyginamu": 11,
-   "mediana": 25,
+   "mediana": 21,
    "naujo_kaina": null,
    "patikimumas": "žemas",
    "saltiniai": [
-    "11 panašių skelbimų mediana 25 €"
+    "11 panašių skelbimų mediana 21 €"
    ],
    "kastai": {
     "budas": "siunta į paštomatą iš Klaipėda",
@@ -36063,13 +35447,13 @@
     },
     {
      "pavadinimas": "Minecraft Dungeons Ultimate Edition",
-     "kaina": 24.99,
+     "kaina": 21.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ultimate-edition-88170970.html",
      "vieta_laikas": "Šiauliai, prieš 45 min."
     },
     {
      "pavadinimas": "New Super Mario Bros. U Deluxe",
-     "kaina": 34.99,
+     "kaina": 33.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/new-super-mario-bros-u-deluxe-88170934.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -36081,7 +35465,7 @@
     },
     {
      "pavadinimas": "The Legend of Zelda: Breath of the Wild",
-     "kaina": 39.5,
+     "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-legend-of-zelda-breath-of-the-wild-88170922.html",
      "vieta_laikas": "Šiauliai, prieš 46 min."
     },
@@ -36111,11 +35495,11 @@
      "url": "https://www.google.com/search?tbm=shop&q=Jbl+Quantum+600+ausins"
     }
    ],
-   "tiketina_pardavimo": 22,
-   "pelnas": -82,
-   "roi": -0.82,
+   "tiketina_pardavimo": 19,
+   "pelnas": -86,
+   "roi": -0.86,
    "max_pirkimo": 0,
-   "pelnas_per_val": -82,
+   "pelnas_per_val": -86,
    "sprendimas": "praleisti",
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
@@ -36130,10 +35514,10 @@
     "is": 12,
     "min": 15.0,
     "max": 65.0,
-    "mediana": 24.99,
-    "nuolaida": -3.0
+    "mediana": 21.0,
+    "nuolaida": -3.76
    },
-   "kodel": "12-as pigiausias iš 12 (kiti 15 €–65 €, mediana 25 €), 300% brangiau už medianą.",
+   "kodel": "12-as pigiausias iš 12 (kiti 15 €–65 €, mediana 21 €), 376% brangiau už medianą.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -36173,14 +35557,14 @@
      "vieta_laikas": "Vilnius, prieš 1 val."
     },
     {
-     "kaina": 24.99,
+     "kaina": 21.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/minecraft-dungeons-ultimate-edition-88170970.html",
      "pavadinimas": "Minecraft Dungeons Ultimate Edition",
      "rizikos": [],
      "vieta_laikas": "Šiauliai, prieš 45 min."
     },
     {
-     "kaina": 34.99,
+     "kaina": 33.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/new-super-mario-bros-u-deluxe-88170934.html",
      "pavadinimas": "New Super Mario Bros. U Deluxe",
      "rizikos": [],
@@ -36194,7 +35578,7 @@
      "vieta_laikas": "Vilnius, prieš 5 val."
     },
     {
-     "kaina": 39.5,
+     "kaina": 38.0,
      "nuoroda": "https://www.skelbiu.lt/skelbimai/the-legend-of-zelda-breath-of-the-wild-88170922.html",
      "pavadinimas": "The Legend of Zelda: Breath of the Wild",
      "rizikos": [],
@@ -36219,20 +35603,20 @@
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
-    "Panašūs skelbimai (switch-kita): 11 vnt., kainos 15 €–65 €, mediana 25 € × 0.90 (realiai parduodama pigiau nei prašoma) = 22,5 €",
+    "Panašūs skelbimai (switch-kita): 11 vnt., kainos 15 €–65 €, mediana 21 € × 0.90 (realiai parduodama pigiau nei prašoma) = 18,9 €",
     "Grupė nevienalytė (skirtingi daiktai), todėl patikimumas žemas, kol neįvertins Claude",
     "Kaštai: siunta į paštomatą iš Klaipėda 3,5 € + pakuotė / pardavimas 1 € = 4,5 €",
-    "Pelnas = 22,5 € − 100 € − 4,5 € = -82 € (-82% pirkimo kainos)",
-    "Mokėti ne daugiau: min((22,5 € − 4,5 €) / 1.35; 22,5 € − 4,5 € − 20 €) = 0 €",
-    "Laikas ~1.0 val. → -82 €/val.",
+    "Pelnas = 18,9 € − 100 € − 4,5 € = -85,6 € (-86% pirkimo kainos)",
+    "Mokėti ne daugiau: min((18,9 € − 4,5 €) / 1.35; 18,9 € − 4,5 € − 20 €) = 0 €",
+    "Laikas ~1.0 val. → -85,6 €/val.",
     "Sezonas: šiuo mėnesiu paklausa didesnė, balas × 1.15"
    ],
-   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 11; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
+   "isvada": "Praleisk: iš 12 panašių skelbimų pigesnių yra 11; įprasta kaina ~21 €, šis ne pigesnis už kitus.",
    "uz": [],
    "pries": [
-    "Iš 12 panašių skelbimų pigesnių yra 11; įprasta kaina ~25 €, šis ne pigesnis už kitus.",
-    "Pelnas būtų tik ~-82 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -82 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Iš 12 panašių skelbimų pigesnių yra 11; įprasta kaina ~21 €, šis ne pigesnis už kitus.",
+    "Pelnas būtų tik ~-86 € – mažiau nei tavo minimumas 20 €.",
+    "Grąža -86 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
     "Panašūs skelbimai labai skirtingi (įvairūs modeliai ar rinkiniai), todėl kaina neaiški."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
@@ -39061,8 +38445,8 @@
    "parametrai": [
     "Būklė: Naudota"
    ],
-   "pilnas_aprasymas": null,
-   "bukle": null,
+   "pilnas_aprasymas": "**Parduodu Ratchet & Clank: Rift Apart PS5** Parduodamas puikios būklės originalus „Ratchet & Clank: Rift Apart“ žaidimas, skirtas PlayStation 5. - Diskas visiškai nesubraižytas. - Veikia nepriekaištingai. - Dėžutė tvarkinga. - Naudotas, išlaikytas kaip naujas. Galimas atsiėmimas Klaipėdoje arba siuntimas paštomatu (apmoka pirkėjas). Kaina – 25 €",
+   "bukle": "Naudota",
    "modelis": "ps5",
    "raktas": "ps5",
    "palyginamu": 110,
@@ -39172,12 +38556,16 @@
    "priezastis": "per brangu perpardavimui",
    "balas": 0,
    "aprasymas_analize": {
-    "rizikos_zodziai": [],
+    "rizikos_zodziai": [
+     "braižytas"
+    ],
     "privalumai": [
+     "nauja",
+     "naujas",
      "puiki būklė"
     ],
-    "aprasymo_ilgis": 134,
-    "pilnas": false
+    "aprasymo_ilgis": 348,
+    "pilnas": true
    },
    "pozicija": {
     "vieta": 34,
@@ -39187,7 +38575,7 @@
     "mediana": 35.0,
     "nuolaida": 0.14
    },
-   "kodel": "34-as pigiausias iš 111 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Privalumai: puiki būklė.",
+   "kodel": "34-as pigiausias iš 111 (kiti 15 €–135 €, mediana 35 €), 14% pigiau už medianą. Aprašyme: braižytas. Privalumai: nauja, naujas, puiki būklė.",
    "visi_palyginami": [
     {
      "kaina": 15.0,
@@ -39494,12 +38882,13 @@
    ],
    "isvada": "Praleisk: iš 111 panašių skelbimų pigesnių yra 33; įprasta kaina ~35 €, šis 14 % pigesnis.",
    "uz": [
-    "Aprašyme: puiki būklė."
+    "Aprašyme: nauja, naujas, puiki būklė."
    ],
    "pries": [
     "Iš 111 panašių skelbimų pigesnių yra 33; įprasta kaina ~35 €, šis 14 % pigesnis.",
     "Pelnas būtų tik ~-3 € – mažiau nei tavo minimumas 20 €.",
-    "Grąža -10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą."
+    "Grąža -10 % – mažiau nei 35 %; pinigai užšaltų už per mažą naudą.",
+    "Aprašyme minima: braižytas."
    ],
    "logistika": "Siunta į paštomatą iš Klaipėda: kaštai ~4,5 €, laikas ~1,0 val.",
    "saugumas": {
@@ -40738,7 +40127,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88165920",
@@ -40757,7 +40146,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88164252",
@@ -40776,7 +40165,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88162618",
@@ -40795,7 +40184,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88108316",
@@ -40852,7 +40241,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88090972",
@@ -40931,7 +40320,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T06:37:36Z"
+    "dar_buvo": "2026-11-12T03:07:27Z"
    },
    {
     "id": "88127272",
@@ -40950,7 +40339,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88070706",
@@ -40969,7 +40358,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88066200",
@@ -41102,7 +40491,7 @@
     "vietinis": true,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T06:37:36Z"
+    "dar_buvo": "2026-11-12T03:07:26Z"
    },
    {
     "id": "88044828",
@@ -41197,7 +40586,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88069360",
@@ -41254,7 +40643,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "88053510",
@@ -41368,7 +40757,7 @@
     "vietinis": false,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T06:37:36Z"
+    "dar_buvo": "2026-11-12T03:07:26Z"
    },
    {
     "id": "87967496",
@@ -41919,7 +41308,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "87798852",
@@ -42090,7 +41479,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "87833858",
@@ -42280,7 +41669,7 @@
     "vietinis": null,
     "busena": "aktyvus",
     "dingo": null,
-    "dar_buvo": "2026-11-11T22:02:47Z"
+    "dar_buvo": "2026-11-12T03:06:37Z"
    },
    {
     "id": "87847204",
@@ -42473,7 +41862,7 @@
      {
       "parduotuve": "varle.lt",
       "url": "https://www.varle.lt/vaizdo-kameros/dji-osmo-pocket-3-creator-combo-kamera--30813112.html",
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "paveikslas": "https://www.varle.lt/static/uploads/products/2142/dji/dji-osmo-pocket-3-gimbal-camera-creator-661065d747.webp",
       "kaina": 739.99,
       "auto": true
@@ -42485,7 +41874,7 @@
       "salis": "EE",
       "url": "https://www.photopoint.ee/en/cameras/4190710-dji-osmo-pocket-3-creator-combo",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis.",
       "paveikslas": "https://static1.nordic.pictures/44350424-large_default/dji-osmo-pocket-3-creator-combo.jpg",
       "kaina": 354.03,
@@ -42497,7 +41886,7 @@
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/sporta-kameras/1019306-dji-osmo-pocket-3-creator-combo",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/122/1817.jpg",
       "kaina": 480.85,
@@ -42529,7 +41918,7 @@
     "atnaujinta": "2026-11-11",
     "pastabos": "2026-11-11: varle.lt 739,99 € – greičiausiai kito pardavėjo užkelta kaina; Skelbiu.lt mediana 395 €. „Proga“ klaidinga, kol nėra antros LT parduotuvės kainos.",
     "paveikslas": "https://static1.nordic.pictures/44350424-large_default/dji-osmo-pocket-3-creator-combo.jpg",
-    "amzius_d": 0,
+    "amzius_d": 1,
     "pardavimo": 651,
     "es_kaina": 359.03,
     "es_parduotuve": "Photopoint.ee",
@@ -42548,7 +41937,7 @@
      {
       "parduotuve": "bigbox.lt",
       "url": "https://bigbox.lt/zaidimu-pulteliai/1101862-pultelis-sony-dualsense-ps5-wireless-white-black.html",
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "paveikslas": "https://media-api.bgbx.eu/product-images/2011497/image-536x536.webp",
       "kaina": 63.43,
       "auto": true
@@ -42556,7 +41945,7 @@
      {
       "parduotuve": "technorama.lt",
       "url": "https://www.technorama.lt/product/2011497-pultelis-sony-dualsense-ps5-wireless-whiteblack",
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "paveikslas": "https://media-api.bgbx.eu/product-images/2011497/image-536x536.webp",
       "kaina": 66.6,
       "auto": true
@@ -42568,7 +41957,7 @@
       "salis": "EE",
       "url": "https://www.photopoint.ee/en/gaming-consoles-and-accessories/1894142-sony-dualsense-ps5-wireless-controller-white",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://static3.nordic.pictures/img/p/et-default-large_default.jpg",
       "kaina": 82.41,
@@ -42580,7 +41969,7 @@
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/spelu-kontrolieri/1144247-sony-dualsense-white",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/189/1813.jpg",
       "kaina": 85.99,
@@ -42648,7 +42037,7 @@
     "atnaujinta": "2026-11-08",
     "pastabos": "ps5-priedai: 39 skelbimai Skelbiu.lt.",
     "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/189/1813.jpg",
-    "amzius_d": 3,
+    "amzius_d": 4,
     "pardavimo": 56,
     "es_kaina": 87.41,
     "es_parduotuve": "Photopoint.ee",
@@ -42667,15 +42056,15 @@
      {
       "parduotuve": "bigbox.lt",
       "url": "https://bigbox.lt/product/3687641-ismanusis-laikrodis-garmin-forerunner-265-white-010-02810-11",
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "paveikslas": "https://media-api.bgbx.eu/product-images/3687641/image-536x536.webp",
-      "kaina": 299.0,
+      "kaina": 295.0,
       "auto": true
      },
      {
       "parduotuve": "varle.lt",
       "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-forerunner-265-juodas--24055439.html",
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "paveikslas": "https://www.varle.lt/static/uploads/products/269/gar/garmin-forerunner-265-music-juodas.webp",
       "kaina": 499.0,
       "auto": true
@@ -42683,19 +42072,31 @@
     ],
     "es": [
      {
+      "parduotuve": "aio.lv",
+      "salis": "LV",
+      "url": "https://aio.lv/en/product--garmin-010-02810-11--8952335",
+      "siunta_eur": 5,
+      "patikrinta": "2026-11-12",
+      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://aio.lv/img/cache/product/8952335/65239526_large.webp",
+      "kaina": 330.99,
+      "auto": true,
+      "viso": 335.99
+     },
+     {
       "parduotuve": "Dateks.lv",
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/fitnesa-pulksteni-un-aproces/949431-garmin-forerunner-265-music-black",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/881/1400.jpg",
-      "kaina": 396.17,
+      "kaina": 394.75,
       "auto": true,
-      "viso": 401.17
+      "viso": 399.75
      }
     ],
-    "lt_min": 299.0,
+    "lt_min": 295.0,
     "skelbiu": {
      "n": 2,
      "nauju": 0,
@@ -42719,14 +42120,14 @@
     "atnaujinta": "2026-11-09",
     "pastabos": "2026-11-09: varle.lt 499 € atrodo kaip katalogo kaina; pridėtas bigbox (balta 010-02810-11 = tas pats kaip aio.lv). Naudoti Skelbiu.lt tik 209–250 € – naują už 440 € parduoti sunku.",
     "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/881/1400.jpg",
-    "amzius_d": 2,
-    "pardavimo": 263,
-    "es_kaina": 401.17,
-    "es_parduotuve": "Dateks.lv",
+    "amzius_d": 3,
+    "pardavimo": 260,
+    "es_kaina": 335.99,
+    "es_parduotuve": "aio.lv",
     "kastai": 3.0,
-    "pelnas": -141,
-    "roi": -0.35,
-    "skaiciavimas": "Parduosi ~263,1 € (pigiausia LT parduotuvė 299 € × 0.88) − ES 401,2 € su siuntimu − kaštai 3 € = -141,1 €",
+    "pelnas": -79,
+    "roi": -0.24,
+    "skaiciavimas": "Parduosi ~259,6 € (pigiausia LT parduotuvė 295 € × 0.88) − ES 336 € su siuntimu − kaštai 3 € = -79,4 €",
     "sprendimas": "ne"
    },
    {
@@ -42736,24 +42137,37 @@
     "raktas": "garmin-venu-3",
     "lt": [
      {
+      "parduotuve": "bigbox.lt",
+      "url": "https://bigbox.lt/ismanieji-laikrodziai-ir-apyrankes/2375833-ismanusis-laikrodis-garmin-venu-3-black-010-02784-01-0753759314743.html",
+      "paveikslas": "https://media-api.bgbx.eu/product-images/3698583/image-536x536.webp",
+      "kaina": 298.99,
+      "patikrinta": "2026-11-12",
+      "auto": true
+     },
+     {
       "parduotuve": "varle.lt",
       "url": "https://www.varle.lt/ismanieji-laikrodziai/ismanusis-laikrodis-garmin-venu-3-45-mm-skaluno--28354626.html",
       "paveikslas": "https://www.varle.lt/static/uploads/products/726/ism/ismanusis-laikrodis-garmin-venu-3-gps-6f0716f022.webp",
       "kaina": 299.0,
-      "patikrinta": "2026-11-11",
-      "auto": true
-     },
-     {
-      "parduotuve": "bigbox.lt",
-      "url": "https://bigbox.lt/ismanieji-laikrodziai-ir-apyrankes/2375833-ismanusis-laikrodis-garmin-venu-3-black-010-02784-01-0753759314743.html",
-      "paveikslas": "https://media-api.bgbx.eu/product-images/3698583/image-536x536.webp",
-      "kaina": 299.0,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "auto": true
      }
     ],
-    "es": [],
-    "lt_min": 299.0,
+    "es": [
+     {
+      "parduotuve": "aio.lv",
+      "salis": "LV",
+      "url": "https://aio.lv/en/product--garmin-753759314743--10722107",
+      "siunta_eur": 5,
+      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://aio.lv/img/cache/product/10630596/65240352_large.webp",
+      "kaina": 339.49,
+      "patikrinta": "2026-11-12",
+      "auto": true,
+      "viso": 344.49
+     }
+    ],
+    "lt_min": 298.99,
     "skelbiu": {
      "n": 2,
      "nauju": 0,
@@ -42777,13 +42191,15 @@
     "atnaujinta": "2026-11-08",
     "pastabos": "2026-11-08: aio.lv brangesnė nei LT parduotuvės – jei ir toliau 'ne', keisti.",
     "paveikslas": "https://aio.lv/img/cache/product/10630596/65240352_large.webp",
-    "amzius_d": 3,
+    "amzius_d": 4,
     "pardavimo": 263,
-    "es_kaina": null,
-    "pelnas": null,
-    "roi": null,
-    "sprendimas": "trūksta kainų",
-    "skaiciavimas": "Trūksta ES kainos."
+    "es_kaina": 344.49,
+    "es_parduotuve": "aio.lv",
+    "kastai": 3.0,
+    "pelnas": -84,
+    "roi": -0.24,
+    "skaiciavimas": "Parduosi ~263,1 € (pigiausia LT parduotuvė 299 € × 0.88) − ES 344,5 € su siuntimu − kaštai 3 € = -84,4 €",
+    "sprendimas": "ne"
    },
    {
     "id": "kindle-paperwhite-2024-16gb",
@@ -42797,7 +42213,7 @@
       "salis": "EE",
       "url": "https://www.photopoint.ee/en/e-readers/5711014-amazon-kindle-paperwhite-2024-12th-gen-16gb-jade",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://static2.nordic.pictures/52650472-large_default/amazon-kindle-paperwhite-2024-12th-gen-16gb-jade.jpg",
       "kaina": 184.68,
@@ -42805,11 +42221,23 @@
       "viso": 189.68
      },
      {
+      "parduotuve": "aio.lv",
+      "salis": "LV",
+      "url": "https://aio.lv/en/product--amazon-840268998295--11229096",
+      "siunta_eur": 5,
+      "patikrinta": "2026-11-12",
+      "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
+      "paveikslas": "https://aio.lv/img/cache/product/11229096/62117304_large.webp",
+      "kaina": 212.49,
+      "auto": true,
+      "viso": 217.49
+     },
+     {
       "parduotuve": "Dateks.lv",
       "salis": "LV",
       "url": "https://www.dateks.lv/en/cenas/e-gramatu-lasitaji/1175626-amazon-kindle-paperwhite-2024-12th-gen-16gb-black",
       "siunta_eur": 5,
-      "patikrinta": "2026-11-11",
+      "patikrinta": "2026-11-12",
       "pastaba": "Siuntimo į LT kaina – įvertis, patikrinti krepšelyje.",
       "paveikslas": "https://www.dateks.lv/images/pic/2400/2400/895/2024.jpg",
       "kaina": 246.51,
@@ -42841,7 +42269,7 @@
     "atnaujinta": "2026-11-09",
     "pastabos": "Pakeitė GoPro 13 (ES brangesnė nei LT skelbimai). Spalvos skiriasi kaina – lyginti tą pačią.",
     "paveikslas": "https://static2.nordic.pictures/52650472-large_default/amazon-kindle-paperwhite-2024-12th-gen-16gb-jade.jpg",
-    "amzius_d": 2,
+    "amzius_d": 3,
     "pardavimo": null,
     "es_kaina": 189.68,
     "pelnas": null,
@@ -42855,20 +42283,7 @@
     "kategorija": "Makita",
     "raktas": "makita-dtd153",
     "lt": [],
-    "es": [
-     {
-      "parduotuve": "Toolbrothers",
-      "salis": "DE",
-      "url": "https://www.toolbrothers.de/en/products/makita-dtd-153-z-cordless-impact-wrench-18-v-170-nm-1-4-brushless-solo-without-battery-without-charger",
-      "siunta_eur": 10,
-      "patikrinta": "2026-11-11",
-      "pastaba": "Siuntimas į LT nežinomas – įvertis 10 €, patikrinti krepšelyje.",
-      "paveikslas": "https://toolbrothers.de/cdn/shop/files/173934-Toolbrothers-Powertools-Kalender-2026-----Makita-DTD153Z-Edition--Gr--XXL_7.jpg?v=1792166454&width=1200",
-      "kaina": 267.29,
-      "auto": true,
-      "viso": 277.29
-     }
-    ],
+    "es": [],
     "lt_min": null,
     "skelbiu": {
      "n": 0,
@@ -42880,9 +42295,9 @@
     "atnaujinta": "2026-11-09",
     "pastabos": "senukai.lt blokuoja automatą (403); varle/bigbox parduoda tik rinkinius. Jei ir rytoj be LT kainos – keisti.",
     "paveikslas": "https://toolbrothers.de/cdn/shop/files/173934-Toolbrothers-Powertools-Kalender-2026-----Makita-DTD153Z-Edition--Gr--XXL_7.jpg?v=1792166454&width=1200",
-    "amzius_d": 2,
+    "amzius_d": 3,
     "pardavimo": null,
-    "es_kaina": 277.29,
+    "es_kaina": null,
     "pelnas": null,
     "roi": null,
     "sprendimas": "trūksta kainų",
@@ -42972,15 +42387,24 @@
     "patikrinta": null
    }
   ],
-  "atnaujinta": "2026-11-11",
+  "atnaujinta": "2026-11-12",
   "tikrinamos": [
+   {
+    "parduotuve": "aio.lv",
+    "tipas": "ES",
+    "nuorodu": 3,
+    "kainu": 3,
+    "klaida": null,
+    "patikrinta": "2026-11-12",
+    "busena": "veikia"
+   },
    {
     "parduotuve": "dateks.lv",
     "tipas": "ES",
     "nuorodu": 4,
     "kainu": 4,
     "klaida": null,
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "veikia"
    },
    {
@@ -42989,25 +42413,16 @@
     "nuorodu": 3,
     "kainu": 3,
     "klaida": null,
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "veikia"
    },
    {
     "parduotuve": "toolbrothers.de",
     "tipas": "ES",
     "nuorodu": 1,
-    "kainu": 1,
-    "klaida": null,
-    "patikrinta": "2026-11-11",
-    "busena": "veikia"
-   },
-   {
-    "parduotuve": "aio.lv",
-    "tipas": "ES",
-    "nuorodu": 3,
     "kainu": 0,
-    "klaida": "robots.txt neprieinamas",
-    "patikrinta": "2026-11-11",
+    "klaida": "neprieinama (HTTP 429)",
+    "patikrinta": "2026-11-12",
     "busena": "neveikia"
    },
    {
@@ -43016,7 +42431,7 @@
     "nuorodu": 1,
     "kainu": 1,
     "klaida": null,
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "veikia"
    },
    {
@@ -43025,7 +42440,7 @@
     "nuorodu": 4,
     "kainu": 3,
     "klaida": "kaina puslapyje nerasta",
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "iš dalies"
    },
    {
@@ -43034,7 +42449,7 @@
     "nuorodu": 1,
     "kainu": 0,
     "klaida": "neprieinama (HTTP 403)",
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "neveikia"
    },
    {
@@ -43043,7 +42458,7 @@
     "nuorodu": 1,
     "kainu": 0,
     "klaida": "neprieinama (HTTP 403)",
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "neveikia"
    },
    {
@@ -43052,7 +42467,7 @@
     "nuorodu": 2,
     "kainu": 0,
     "klaida": "kaina puslapyje nerasta",
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "neveikia"
    },
    {
@@ -43061,7 +42476,7 @@
     "nuorodu": 4,
     "kainu": 3,
     "klaida": "neprieinama (HTTP 410)",
-    "patikrinta": "2026-11-11",
+    "patikrinta": "2026-11-12",
     "busena": "iš dalies"
    }
   ],
@@ -43075,7 +42490,7 @@
   }
  },
  "sveikata": {
-  "paieska": "2026-11-11T22:02:47Z",
+  "paieska": "2026-11-12T03:06:37Z",
   "claude_vertinimas": "2026-11-11",
   "nauji_atnaujinta": "2026-11-11"
  },
@@ -43586,7 +43001,7 @@
   },
   "switch-kita": {
    "n": 13,
-   "mediana": 35,
+   "mediana": 33,
    "min": 15.0,
    "max": 100.0
   },

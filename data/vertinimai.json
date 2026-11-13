@@ -4670,5 +4670,298 @@
   "skelbimo_tekstas": "",
   "stovas": false,
   "ivertinta": "2026-11-12"
+ },
+ "88192650": {
+  "modelis": "Nintendo Switch (V1/V2?) + 128GB",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 155,
+  "kainos_pagrindimas": "Skelbiu.lt mediana 178 € (42 skelb.); V1 ~120–140, V2 ~150–170.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Versija nenurodyta; verta tik ≤115 € ir jei V2.",
+  "rizikos": "Šiauliai – tik su siuntimu; V1 pigesnė",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Trumpas aprašymas, Šiauliai.",
+  "tikrinti": [
+   "Modelis HAC-001(-01) = V2",
+   "Joy-Con drift",
+   "Online veikia"
+  ],
+  "galimybe": "Derėtis iki 115 €, siuntimas.",
+  "pardavimas": [
+   "Skelbiu.lt ~155 €"
+  ]
+ },
+ "88191574": {
+  "modelis": "Switch OLED Mario Red Edition",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 245,
+  "kainos_pagrindimas": "Skelbiu.lt mediana 245 € (27 skelb.), spec. leidimas.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Prie 210 € pelnas ~15 €; ≤185 € – verta.",
+  "rizikos": "Klaipėda – siuntimas",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Būklė 9,6/10, pilnas komplektas.",
+  "tikrinti": [
+   "Joy-Con drift",
+   "Ekranas be dėmių",
+   "Online veikia"
+  ],
+  "galimybe": "Derėtis iki 185 €.",
+  "pardavimas": [
+   "Skelbiu.lt ~240 €"
+  ]
+ },
+ "88193892": {
+  "modelis": "Garmin Fenix 6 Solar",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 150,
+  "kainos_pagrindimas": "Naudoti ~140–170 €; Skelbiu.lt mediana 140 € (4 skelb.).",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Prie 120 € pelnas ~15 €; ≤105 € – verta.",
+  "rizikos": "Kaunas – siuntimas; baterijos būklė",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Ekranas su hidrogeliu, be įbrėžimų.",
+  "tikrinti": [
+   "Baterijos trukmė",
+   "Diržas, kroviklis",
+   "Garmin paskyra atsieta"
+  ],
+  "galimybe": "Derėtis iki 105 €.",
+  "pardavimas": [
+   "Skelbiu.lt ~150 €"
+  ]
+ },
+ "88187728": {
+  "modelis": "DJI Spark (defektas)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 0,
+  "kainos_pagrindimas": "Senas modelis; veikiantys ~150–200 €, su gedimu daug mažiau.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Neaiškus gedimas, kaina kaip veikiančio.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88163314": {
+  "modelis": "Switch V2 su modchipu",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 0,
+  "kainos_pagrindimas": "Modifikuotos konsolės – nišinė, pilkoji rinka.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Ban/teisinė rizika, nevertinu kaip perpardavimo.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88142732": {
+  "modelis": "Dyson Corrale HT02",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 270,
+  "kainos_pagrindimas": "Naujos ~400–450 € LT; naudotos ~250–300 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "verta",
+  "priezastis": "200 € Vilniuje su pirkimo dokumentais ir garantija – pelnas ~45–60 €.",
+  "rizikos": "Patikrinti čekį (bigbox), serijos nr., ar įkaista abi plokštelės",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Pirkta bigbox.lt, yra dokumentai, 24 mėn. garantija.",
+  "tikrinti": [
+   "Čekis ir serijos nr. sutampa",
+   "Abi plokštelės kaista",
+   "Baterija/laidas"
+  ],
+  "galimybe": "Pirkti 200 € ar derėtis iki 180 €.",
+  "pardavimas": [
+   "Skelbiu.lt ~270 €"
+  ]
+ },
+ "88151462": {
+  "modelis": "Garmin Fenix 6X Sapphire",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 230,
+  "kainos_pagrindimas": "Naudoti ~200–250 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Kaina rinkos lygio.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88150246": {
+  "modelis": "Garmin Fenix 5 Plus Sapphire",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 95,
+  "kainos_pagrindimas": "Naudoti ~85–110 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Prie 75 € pelnas ~10 €; ≤60 € – verta.",
+  "rizikos": "Šiauliai; kosmetiniai nusidėvėjimai",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Safyras be įbrėžimų, korpusas su žymėmis.",
+  "tikrinti": [
+   "Baterija",
+   "Kroviklis"
+  ],
+  "galimybe": "Derėtis iki 60 €.",
+  "pardavimas": [
+   "Skelbiu.lt ~95 €"
+  ]
+ },
+ "88151736": {
+  "modelis": "Roborock S8 MaxV Ultra (defektas)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 0,
+  "kainos_pagrindimas": "Su stotele didelis, gedimas neaiškus.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Šiauliai, didelis daiktas, remonto rizika.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88152384": {
+  "modelis": "Roborock Q7 TF",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 95,
+  "kainos_pagrindimas": "Naudoti ~80–110 €.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Pelnas ~0.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88153854": {
+  "modelis": "Ecovacs T50 Pro Omni",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 300,
+  "kainos_pagrindimas": "Nauji ~500–600 €, naudoti ~280–350 €.",
+  "patikimumas": "žemas",
+  "sprendimas": "tikrinti",
+  "priezastis": "Prie 200 € potencialus pelnas ~60 €, bet aprašymas vienos eilutės.",
+  "rizikos": "Patikrinti gyvai: stotelė, plovimas, šepečiai, baterija",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Vilnius, aprašymas minimalus.",
+  "tikrinti": [
+   "Ar tikrai T50 Pro Omni (lipdukas)",
+   "Stotelė ištuština ir plauna",
+   "Baterija, klaidos programėlėje"
+  ],
+  "galimybe": "Pažiūrėti gyvai; ≤200 € verta.",
+  "pardavimas": [
+   "Skelbiu.lt ~300 €"
+  ]
+ },
+ "88154074": {
+  "modelis": "Ecovacs T30C Omni (naujas)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 320,
+  "kainos_pagrindimas": "Nauji parduotuvėse ~350–450 €.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Pelnas mažas, modelis neaiškus.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88169284": {
+  "modelis": "Makita TW007G + baterija + kroviklis",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 195,
+  "kainos_pagrindimas": "Korpusas ~180–200 € naujas; komplektas naudotas ~180–220 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "derėtis",
+  "priezastis": "Prie 160 € pelnas ~15 €; ≤140 € – verta.",
+  "rizikos": "Baterijos talpa nenurodyta",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13",
+  "apie": "Vilnius, XGT 40V.",
+  "tikrinti": [
+   "Baterijos Ah",
+   "Kroviklio modelis"
+  ],
+  "galimybe": "Derėtis iki 140 €.",
+  "pardavimas": [
+   "Skelbiu.lt ~195 €"
+  ]
+ },
+ "88165538": {
+  "modelis": "Makita BL1860B (nauji)",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 0,
+  "kainos_pagrindimas": "Originalai ~90–100 €; „nauji“ už 70 € dažnai padirbiniai.",
+  "patikimumas": "žemas",
+  "sprendimas": "praleisti",
+  "priezastis": "Padirbinių rizika.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
+ },
+ "88151942": {
+  "modelis": "Garmin Edge 520",
+  "naujo_kaina": null,
+  "naujo_saltinis": "",
+  "parduotuves": [],
+  "tiketina_pardavimo": 65,
+  "kainos_pagrindimas": "Naudoti ~60–80 €.",
+  "patikimumas": "vidutinis",
+  "sprendimas": "praleisti",
+  "priezastis": "Pelno nėra.",
+  "rizikos": "",
+  "skelbimo_tekstas": "",
+  "stovas": false,
+  "ivertinta": "2026-11-13"
  }
 }

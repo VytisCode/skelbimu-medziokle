@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Skelbimų medžioklė</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="stilius.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="hdr">
+    <nav class="nav"><a href="index.html" aria-current="page">Ką pirkti</a><a href="nauji.html">Nauji iš ES</a><a href="istorija.html">Istorija</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html">Rinka</a></nav>
+    <div class="status" id="status"><span class="chip">Kraunama…</span></div>
+  </header>
+  <div id="vmiTop"></div>
+  <section class="buy" id="radiniai">
+    <div class="buyhead">
+      <h1>Ką pirkti dabar</h1>
+      <p class="summary" id="summary"></p>
+    </div>
+    <div class="fbar" id="fbar">
+      <div class="seg" id="seg" role="group" aria-label="Sprendimas"></div>
+      <div class="frow">
+        <input type="search" id="q" placeholder="Ieškoti: Switch, Makita…" aria-label="Ieškoti">
+        <button type="button" class="btn" id="fmore" aria-expanded="false">Filtrai</button>
+      </div>
+      <div class="fpanel" id="fpanel" hidden>
+        <label>Kategorija<select id="fkat"><option value="">Visos</option></select></label>
+        <label>Atsiėmimas<select id="fvieta"><option value="">Visi</option><option value="vietinis">📍 Vilniuje gyvai</option><option value="siunta">🚚 Siunta</option></select></label>
+        <label>Kaina iki, €<input type="number" id="fmax" inputmode="numeric" min="0" placeholder="pvz. 300"></label>
+        <label>Pelnas nuo, €<input type="number" id="fpel" inputmode="numeric" placeholder="pvz. 20"></label>
+        <label>Rikiuoti<select id="fsort"><option value="pelnas">Didžiausias pelnas</option><option value="balas">Geriausias balas</option><option value="naujausi">Naujausi</option><option value="pigiausi">Pigiausi</option></select></label>
+        <button type="button" class="btn" id="freset">Išvalyti filtrus</button>
+      </div>
+      <p class="note" id="fcount"></p>
+    </div>
+    <div class="list" id="list"></div>
+  </section>
+  <div id="remind"></div>
+  <p class="note" id="funnel"></p>
+  <section id="asm" hidden><h2>Mano paieškos (ne perpardavimui)</h2><p class="note" id="asmnote"></p><div class="list" id="asmlist"></div></section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

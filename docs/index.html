@@ -4,44 +4,107 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex,nofollow">
-<title>Skelbimų medžioklė</title>
+<title>Perpardavimo progos</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
 <link rel="stylesheet" href="stilius.css">
+<style>
+.cmp{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.cmp>div{border:1px solid var(--line);border-radius:8px;padding:8px;font-size:.85rem;display:grid;gap:4px;min-width:0}
+.cmp b{font:500 1.15rem var(--mono)}
+.cmp a{color:var(--loc);overflow-wrap:anywhere}
+.bal{font:700 1.1rem var(--mono)}
+.raw{display:grid;gap:6px}
+.raw a{display:grid;grid-template-columns:auto 1fr auto;gap:8px;align-items:baseline;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;color:var(--fg);text-decoration:none;font-size:.9rem}
+.raw a:hover{border-color:var(--fg)}
+.raw .s{font:500 .75rem var(--mono);color:var(--muted)}
+.raw .p{font:500 .95rem var(--mono);white-space:nowrap}
+.raw .t{overflow-wrap:anywhere}
+.empty{color:var(--muted);font-size:.95rem}
+</style>
 </head>
 <body>
 <div class="wrap">
   <header class="hdr">
-    <nav class="nav"><a href="index.html" aria-current="page">Ką pirkti</a><a href="nauji.html">Nauji iš ES</a><a href="istorija.html">Istorija</a><a href="zurnalas.html">Žurnalas</a><a href="rinka.html">Rinka</a></nav>
+    <nav class="nav"><a href="index.html" aria-current="page">Progos</a><a href="zurnalas.html">Žurnalas</a><a href="senas.html">Senas (išjungtas)</a></nav>
     <div class="status" id="status"><span class="chip">Kraunama…</span></div>
   </header>
-  <div id="vmiTop"></div>
-  <section class="buy" id="radiniai">
-    <div class="buyhead">
-      <h1>Ką pirkti dabar</h1>
-      <p class="summary" id="summary"></p>
-    </div>
-    <div class="fbar" id="fbar">
-      <div class="seg" id="seg" role="group" aria-label="Sprendimas"></div>
-      <div class="frow">
-        <input type="search" id="q" placeholder="Ieškoti: Switch, Makita…" aria-label="Ieškoti">
-        <button type="button" class="btn" id="fmore" aria-expanded="false">Filtrai</button>
-      </div>
-      <div class="fpanel" id="fpanel" hidden>
-        <label>Kategorija<select id="fkat"><option value="">Visos</option></select></label>
-        <label>Atsiėmimas<select id="fvieta"><option value="">Visi</option><option value="vietinis">📍 Vilniuje gyvai</option><option value="siunta">🚚 Siunta</option></select></label>
-        <label>Kaina iki, €<input type="number" id="fmax" inputmode="numeric" min="0" placeholder="pvz. 300"></label>
-        <label>Pelnas nuo, €<input type="number" id="fpel" inputmode="numeric" placeholder="pvz. 20"></label>
-        <label>Rikiuoti<select id="fsort"><option value="pelnas">Didžiausias pelnas</option><option value="balas">Geriausias balas</option><option value="naujausi">Naujausi</option><option value="pigiausi">Pigiausi</option></select></label>
-        <button type="button" class="btn" id="freset">Išvalyti filtrus</button>
-      </div>
-      <p class="note" id="fcount"></p>
-    </div>
-    <div class="list" id="list"></div>
+
+  <section class="buyhead">
+    <span class="eyebrow">Nauji daiktai iš ES → parduoti Lietuvoje</span>
+    <h1>Patikrintos progos</h1>
+    <p class="summary">Claude atrenka iš ES akcijų tik naujus daiktus, kuriuos pristato į LT, ir palygina su LT kainomis. „Pirkti“ – tik kai grynasis pelnas ≥ 15 € ir ROI ≥ 25 %. Geriau tuščia nei silpna.</p>
   </section>
-  <div id="remind"></div>
-  <p class="note" id="funnel"></p>
-  <section id="asm" hidden><h2>Mano paieškos (ne perpardavimui)</h2><p class="note" id="asmnote"></p><div class="list" id="asmlist"></div></section>
+  <section class="cards" id="progos"></section>
+
+  <section>
+    <h2>Mano paieškos</h2>
+    <div class="cards" id="asm"></div>
+  </section>
+
+  <section>
+    <h2>Šiandienos ES akcijos (nepatikrintos)</h2>
+    <p class="note" id="rawnote"></p>
+    <div class="frow"><input type="search" id="q" placeholder="Filtruoti: Bose, Makita, moto…" aria-label="Filtruoti"></div>
+    <div class="raw" id="raw"></div>
+  </section>
 </div>
-<script src="app.js"></script>
+<script>
+const eur = v => v == null ? "–" : (Math.round(v * 100) / 100).toLocaleString("lt-LT", {minimumFractionDigits: 0, maximumFractionDigits: 2}) + " €";
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const VERD = {pirkti: ["Pirkti", "v-verta"], tikrinti: ["Tikrinti", "v-tikrinti"], praleisti: ["Praleisti", "v-praleisti"]};
+// Akivaizdžiai netinka perpardavimui: skaitmeninės prekės, maistas, paslaugos, žaislai/Lego, dideli daiktai.
+const NE = /\b(xbox store|steam|humble|ps5|playstation|switch 2|gra |jeu |juego|pc \(|lego|whisky|bier|stiegl|teigwaren|chocolate|bombones|caramel|halls|tarritos|hotel|freebet|tipp3|win2day|ionity|starlink|abonament|gutschein|rabatt ab|matratze|carport|pergola|tv \d|fernseher|kühlschrank|french door|gravelbike|rennrad|placa inducci)/i;
+
+async function j(u) { try { const r = await fetch(u + "?t=" + Date.now()); return r.ok ? r.json() : null; } catch { return null; } }
+
+(async () => {
+  const [p, n] = await Promise.all([j("progos.json"), j("nuolaidos.json")]);
+  const st = document.getElementById("status");
+  st.innerHTML = `<span class="chip ${n ? "ok" : "bad"}">ES akcijos: ${n ? esc(n.atnaujinta) : "nėra"}</span>` +
+                 `<span class="chip">Patikrinta: ${p ? esc(p.atnaujinta) : "–"}</span>`;
+
+  const pr = (p && p.progos) || [];
+  document.getElementById("progos").innerHTML = pr.length ? pr.map(x => {
+    const [vl, vc] = VERD[x.busena] || ["?", "v-nežinoma"];
+    const b = x.pirkimas || {};
+    const sav = (b.kaina || 0) + (b.siuntimas_lt || 0);
+    return `<article class="card"><div class="body">
+      <div class="top"><span><b>${esc(x.preke)}</b></span><span class="verdict ${vc}">${vl}</span></div>
+      <div class="nums">
+        <span>Savikaina<b>${eur(sav)}</b></span>
+        <span>Parduotum LT<b>${eur(x.pardavimo_kaina)}</b></span>
+        <span>Grynasis pelnas<b class="${x.pelnas >= 15 ? "pos" : "neg"}">${eur(x.pelnas)}</b></span>
+        <span>ROI / balas<b>${x.roi ?? "–"} % · ${x.balas}/10</b></span>
+      </div>
+      <div class="cmp">
+        <div><span class="eyebrow">Pirkti ${esc(b.salis)}</span><b>${eur(b.kaina)}</b>
+          <span>${esc(b.parduotuve)} ${b.kaina_orig ? "· " + esc(b.kaina_orig) : ""}</span>
+          <span>Siuntimas į LT: ${b.siuntimas_lt ? eur(b.siuntimas_lt) : "0 €"}${b.siuntimas_pastaba ? " – " + esc(b.siuntimas_pastaba) : ""}</span>
+          <a href="${esc(b.nuoroda)}" target="_blank" rel="noopener">Akcija →</a></div>
+        <div><span class="eyebrow">LT kainos</span>
+          ${(x.lt || []).map(l => `<span><b>${eur(l.kaina)}</b> <a href="${esc(l.nuoroda)}" target="_blank" rel="noopener">${esc(l.saltinis)}</a></span>`).join("")}</div>
+      </div>
+      <p class="why">${esc(x.kodel)}</p>
+      <p class="meta">⚠ ${esc(x.rizika)}</p>
+    </div></article>`;
+  }).join("") : `<p class="empty">Šiuo metu patikrintų progų nėra. Tikrinama pirmadieniais ir ketvirtadieniais.</p>`;
+
+  document.getElementById("asm").innerHTML = ((p && p.asmeniniai) || []).map(a => `<article class="card"><div class="body">
+      <div class="top"><b>${esc(a.preke)}</b><span class="verdict ${a.busena === "Rasta" ? "v-verta" : "v-praleisti"}">${esc(a.busena)}</span></div>
+      <p class="meta">Riba: ${esc(a.riba)}</p>
+      ${a.geriausias ? `<p class="why">Pigiausias rastas: <a href="${esc(a.geriausias.nuoroda)}" target="_blank" rel="noopener">${esc(a.geriausias.aprasymas)}</a> – <b class="mono">${eur(a.geriausias.kaina)}</b></p>` : ""}
+      <p class="meta">${esc(a.pastaba)}</p></div></article>`).join("");
+
+  const ak = ((n && n.akcijos) || []).filter(a => a.kaina_eur >= 15 && a.kaina_eur <= 400 && !NE.test(a.pavadinimas));
+  document.getElementById("rawnote").textContent = n ? `${ak.length} iš ${n.akcijos.length} akcijų (be žaidimų, maisto, paslaugų, Lego ir didelių daiktų). Šaltiniai: mydealz DE, preisjaeger AT, pepper PL, dealabs FR, chollometro ES. ° – bendruomenės „karštis“.` : "";
+  const draw = () => {
+    const q = document.getElementById("q").value.trim().toLowerCase();
+    document.getElementById("raw").innerHTML = ak.filter(a => !q || a.pavadinimas.toLowerCase().includes(q)).slice(0, 80).map(a =>
+      `<a href="${esc(a.nuoroda)}" target="_blank" rel="noopener"><span class="s">${esc(a.salis)}</span><span class="t">${esc(a.pavadinimas)} <span class="s">${esc(a.parduotuve)}</span></span><span class="p">${eur(a.kaina_eur)}</span></a>`).join("");
+  };
+  document.getElementById("q").addEventListener("input", draw);
+  draw();
+})();
+</script>
 </body>
 </html>

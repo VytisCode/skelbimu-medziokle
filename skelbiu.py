@@ -375,7 +375,8 @@ def asmenines(nar, cfg: dict, laikas: str) -> list[dict]:
                 if ok:
                     b["tinka_nauju"] += 1
                     duom["radiniai"][s["id"]] = {**s, "paieska": p["pavadinimas"], "pastebetas": laikas,
-                                                 "paskutini_karta_matytas": laikas, "tinka": True}
+                                                 "paskutini_karta_matytas": laikas, "tinka": True,
+                                                 "riba": p.get("riba")}
             time.sleep(2)
         duom["patikrinta"][p["pavadinimas"]] = laikas
         print(f"[asmeninė: {p['pavadinimas']}] {b['kb']} KB, skelbimų {b['rasta']}, naujų tinkamų {b['tinka_nauju']}")

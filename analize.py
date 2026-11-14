@@ -864,7 +864,7 @@ def asmeniniai() -> list[dict]:
         return []
     d = json.loads(f.read_text(encoding="utf-8"))
     r = [{k: s.get(k) for k in ("id", "nuoroda", "pavadinimas", "kaina", "vieta_laikas", "paieska", "pastebetas",
-                                "paskutini_karta_matytas", "nuotrauka")} for s in d.get("radiniai", {}).values() if s.get("tinka")]
+                                "paskutini_karta_matytas", "nuotrauka", "riba")} for s in d.get("radiniai", {}).values() if s.get("tinka")]
     return sorted(r, key=lambda s: (s["kaina"] is None, s["kaina"] or 0))
 
 

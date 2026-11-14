@@ -296,10 +296,10 @@ function renderAsm() {
   if (!$("asm")) return;
   const A = D.asmeniniai || [];
   $("asm").hidden = false;
-  $("asmnote").textContent = A.length ? `Yamaha XJ6N vėjo stiklai iki 120 €, pigiausi pirma. Apie naujus atsiųsiu laišką.`
+  $("asmnote").textContent = A.length ? `Yamaha XJ6N vėjo stiklai iki 50 € (iki 60 € – derėtis), pigiausi pirma. Apie naujus atsiųsiu laišką.`
     : "Yamaha XJ6N vėjo stiklas: kol kas tinkamų skelbimų nerasta. Tikrinu kas 4 val., apie naują atsiųsiu laišką.";
   $("asmlist").replaceChildren(...A.map(s => { const a = el("a", "item"); a.href = s.nuoroda; a.target = "_blank"; a.rel = "noopener";
-    a.append(el("span", "t1", s.pavadinimas), el("span", "t2", fmt(s.kaina) + " · " + (s.vieta_laikas || "").split(",")[0] + " · matytas " + (s.paskutini_karta_matytas || "").slice(0, 10))); return a; }));
+    a.append(el("span", "t1", s.pavadinimas), el("span", "t2", fmt(s.kaina) + (s.riba && s.kaina > s.riba ? " (derėtis)" : "") + " · " + (s.vieta_laikas || "").split(",")[0] + " · matytas " + (s.paskutini_karta_matytas || "").slice(0, 10))); return a; }));
 }
 
 function renderHistory() {

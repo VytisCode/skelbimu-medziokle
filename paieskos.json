@@ -343,9 +343,10 @@
     "tinka": "(stikl|deflekt|v[eė]jo|ekran|screen|windshield|skyd)",
     "privaloma": "(xj\\s*-?\\s*6|universal)",
     "atmesti": "(diversion|xj6\\s*f\\b|xj6\\s*s\\b|žibint|zibint|veidrod|kompiuter|motociklas\\s+yamaha|parduodu\\s+yamaha\\s+xj6\\s*$)",
-    "max_kaina": 120,
+    "max_kaina": 60,
     "kas_val": 4,
-    "iki": "2027-05-31"
+    "iki": "2027-05-31",
+    "riba": 50
    }
   ]
  }

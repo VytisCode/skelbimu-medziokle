@@ -242,9 +242,10 @@ def main():
         txt = ["Labas,\n\ntavo asmeninėje paieškoje atsirado (ar atpigo) šie skelbimai:"]
         html = ["<p>Labas,</p><p>tavo asmeninėje paieškoje atsirado (ar atpigo) šie skelbimai:</p>"]
         for s in asm[:MAX_LAISKE]:
-            txt.append(f"{s['pavadinimas']} – {eur(s['kaina'])} ({s.get('vieta_laikas') or ''})\n{s['nuoroda']}")
+            virs = f" (virš tavo {eur(s['riba'])} ribos – derėkis)" if s.get("riba") and s["kaina"] > s["riba"] else ""
+            txt.append(f"{s['pavadinimas']} – {eur(s['kaina'])}{virs} ({s.get('vieta_laikas') or ''})\n{s['nuoroda']}")
             html.append(f'<p style="margin:10px 0"><a href="{escape(s["nuoroda"])}">{escape(s["pavadinimas"])}</a> – '
-                        f'<b>{eur(s["kaina"])}</b><br><span style="color:#666">{escape(s.get("vieta_laikas") or "")}</span></p>')
+                        f'<b>{eur(s["kaina"])}</b>{escape(virs)}<br><span style="color:#666">{escape(s.get("vieta_laikas") or "")}</span></p>')
         txt.append("Prieš pirkdamas pasitikrink, ar tinka tavo modeliui (XJ6N, ne Diversion), ir tvirtinimus.")
         html.append("<p>Prieš pirkdamas pasitikrink, ar tinka tavo modeliui (XJ6N, ne Diversion), ir tvirtinimus.</p>")
         if siusti(user, pw, to, sudaryti(tema, txt, html)):

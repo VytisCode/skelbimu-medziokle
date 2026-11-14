@@ -1,0 +1,29 @@
+{
+ "atnaujinta": "2026-11-14T15:45Z",
+ "pastaba": "Claude patikrinti pasiūlymai: nauji daiktai ES → parduoti LT. Rodomi tik su LT kainos įrodymu.",
+ "progos": [
+  {
+   "preke": "Bose QuietComfort Ultra ausinės (balta)",
+   "busena": "tikrinti",
+   "balas": 5,
+   "pirkimas": {"parduotuve": "Amazon.pl", "salis": "PL", "kaina": 195.06, "siuntimas_lt": 0, "siuntimas_pastaba": "Amazon.pl siuntimas į LT nepatvirtintas – patikrink krepšelyje", "nuoroda": "https://www.pepper.pl/promocje/sluchawki-bose-quietcomfort-ultra-bialy-1390034", "kaina_orig": "829 zł (įprastai 899 zł)"},
+   "lt": [
+    {"saltinis": "Varle.lt – 2-oji karta (naujesnė)", "kaina": 289.99, "nuoroda": "https://www.varle.lt/ausines/bose-quietcomfort-ultra-ausines-2-oji-karta--57807354.html"}
+   ],
+   "pardavimo_kaina": 230,
+   "pelnas": 21,
+   "roi": 11,
+   "kodel": "LT naujesnės kartos kaina 290 €. Jei tai 1-oji karta, realiai Vinted parduotum ~220–240 € naują, neišpakuotą.",
+   "rizika": "Neaišku, ar tai 1-oji ar 2-oji karta, ir ar Amazon.pl siunčia į LT. ROI 11 % – žemiau 25 % ribos, todėl ne „Pirkti“."
+  }
+ ],
+ "asmeniniai": [
+  {
+   "preke": "Yamaha XJ6 Naked vėjo stiklas (skaidrus/tamsintas)",
+   "riba": "≤ 50 € su siuntimu (iki 60 € – derėtis)",
+   "busena": "Nerasta",
+   "geriausias": {"aprasymas": "Motorcyclescreens.eu touring stiklas XJ6 N 2009–2017", "kaina": 131.70, "nuoroda": "https://motorcyclescreens.eu/motorcycle-windshields-for-yamaha/332-yamaha-xj6-n-na-2009-2017-touring-windscreen-windshield"},
+   "pastaba": "Per brangu. Tikrinama pirmadieniais ir ketvirtadieniais."
+  }
+ ]
+}

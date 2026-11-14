@@ -4,9 +4,11 @@ name: Skelbiu.lt paieška
 # Skelbiu.lt saugo Cloudflare (paprastos HTTP užklausos gauna 403), todėl tikra Chromium naršyklė per
 # Proxy-Cheap, po vieną puslapį kiekvienai paieškai, be nuotraukų, stilių ir reklamų.
 # Repo viešas, todėl Actions minutės nemokamos. Ranka: Actions → "Skelbiu.lt paieška" → Run workflow.
+# 2026-11-14 IŠJUNGTA vartotojo prašymu (naudotų daiktų paieška nebereikalinga).
+# Grąžinti: atkomentuoti dvi eilutes žemiau.
 on:
-  schedule:
-    - cron: "23 * * * *"
+  # schedule:
+  #   - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:

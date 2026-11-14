@@ -361,9 +361,9 @@ def asmenines(nar, cfg: dict, laikas: str) -> list[dict]:
             for s in (atpazinti(puslapis) if kodas == 200 else []):
                 b["rasta"] += 1
                 tekstas = (s["pavadinimas"] + " " + s["aprasymas"]).lower()
-                ok = (re.search(p["tinka"], tekstas) and re.search(p.get("privaloma", ""), tekstas)
-                      and not re.search(p.get("atmesti", "$^"), tekstas) and s["kaina"] is not None
-                      and s["kaina"] <= p.get("max_kaina", 10**9))
+                tema = bool(re.search(p["tinka"], tekstas) and re.search(p.get("privaloma", ""), tekstas)
+                            and not re.search(p.get("atmesti", "$^"), tekstas))
+                ok = tema and s["kaina"] is not None and s["kaina"] <= p.get("max_kaina", 10**9)
                 senas = duom["radiniai"].get(s["id"])
                 if senas:
                     senas["paskutini_karta_matytas"] = laikas
@@ -372,10 +372,10 @@ def asmenines(nar, cfg: dict, laikas: str) -> list[dict]:
                         senas["kaina"] = s["kaina"]
                         senas["tinka"] = bool(ok)
                     continue
-                if ok:
-                    b["tinka_nauju"] += 1
+                if tema:                       # saugomi ir brangesni – rinkos vaizdui; laiškas tik apie tinka=True
+                    b["tinka_nauju"] += int(ok)
                     duom["radiniai"][s["id"]] = {**s, "paieska": p["pavadinimas"], "pastebetas": laikas,
-                                                 "paskutini_karta_matytas": laikas, "tinka": True,
+                                                 "paskutini_karta_matytas": laikas, "tinka": bool(ok),
                                                  "riba": p.get("riba")}
             time.sleep(2)
         duom["patikrinta"][p["pavadinimas"]] = laikas

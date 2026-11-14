@@ -6,29 +6,31 @@ from skelbiu import proxy_url
 
 UA = "skelbimu-medziokle-kainos/1.0 (+https://github.com/VytisCode/skelbimu-medziokle)"
 URLS = """
-https://www.mydealz.de/gruppe/motorrad
-https://www.mydealz.de/gruppe/werkzeug
-https://www.pepper.pl/
-https://www.dealabs.com/
-https://geizhals.de/?cat=wzakkuschr
-https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=makita+ddf482z
-https://www.ceneo.pl/;szukaj-makita+ddf482z
-https://www.amazon.de/gp/bestsellers/diy
-https://www.24mx.lt/
-https://www.24mx.de/
-https://www.xlmoto.de/
-https://www.louis.de/
-https://www.fc-moto.de/
-https://www.ebay.de/sch/i.html?_nkw=xj6+windschild
-https://allegro.pl/listing?string=xj6%20szyba
-https://www.kleinanzeigen.de/s-xj6-windschild/k0
-https://www.vinted.lt/catalog?search_text=makita
-https://www.motomoto24.com/
-https://www.kaina24.lt/
-https://www.kainos.lt/
-https://pigu.lt/lt/
-https://www.varle.lt/
-https://www.skelbiu.lt/
+https://www.amazon.pl/gp/bestsellers/diy
+https://www.amazon.fr/gp/bestsellers/diy
+https://www.amazon.it/gp/bestsellers/diy
+https://www.amazon.es/gp/bestsellers/diy
+https://www.amazon.nl/gp/bestsellers/diy
+https://www.amazon.se/gp/bestsellers/diy
+https://camelcamelcamel.com/top_drops?locale=DE
+https://de.camelcamelcamel.com/top_drops
+https://www.pepper.nl/
+https://www.chollometro.com/
+https://www.preisjaeger.at/
+https://www.pepper.it/
+https://www.hotukdeals.com/
+https://geizhals.eu/
+https://www.idealo.fr/
+https://www.idealo.it/
+https://www.idealo.es/
+https://www.alza.de/
+https://www.bergfreunde.de/
+https://www.bike24.de/
+https://www.notebooksbilliger.de/
+https://www.polo-motorrad.com/de-de/
+https://www.motoin.de/
+https://www.mediamarkt.de/
+https://www.decathlon.de/
 """.split()
 MARK = ("captcha", "cf-challenge", "challenge-platform", "access denied", "robot check", "are you a human", "px-captcha", "datadome")
 

@@ -1,334 +1,352 @@
 {
-  "_paaiskinimas": "Kiekviena paieška: Skelbiu.lt nuoroda (nukopijuok iš naršyklės po paieškos), raktažodžiai (bent vienas turi būti pavadinime; tuščia = visi), kainų ribos eurais. 'isimti' žodžiai atmeta skelbimą. 'sezonas_menesiai' – mėnesiai, kai kategorija gauna aukštesnį balą (paklausa didesnė).",
-  "visada_isimti": [
-    "šalmas",
-    "salmas",
-    "šalmą",
-    "kėdutė",
-    "kedute",
-    "automobilinė kėdutė",
-    "isofix",
-    "autokėdutė",
+ "_paaiskinimas": "Kiekviena paieška: Skelbiu.lt nuoroda (nukopijuok iš naršyklės po paieškos), raktažodžiai (bent vienas turi būti pavadinime; tuščia = visi), kainų ribos eurais. 'isimti' žodžiai atmeta skelbimą. 'sezonas_menesiai' – mėnesiai, kai kategorija gauna aukštesnį balą (paklausa didesnė).",
+ "visada_isimti": [
+  "šalmas",
+  "salmas",
+  "šalmą",
+  "kėdutė",
+  "kedute",
+  "automobilinė kėdutė",
+  "isofix",
+  "autokėdutė",
+  "nuoma",
+  "nuomoj",
+  "paslaug",
+  "remontas",
+  "taisymas",
+  "pirksiu",
+  "perku",
+  "supirk"
+ ],
+ "paieskos": [
+  {
+   "pavadinimas": "Makita įrankiai",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=makita&orderBy=1",
+   "raktazodziai": [
+    "makita"
+   ],
+   "min_kaina": 15,
+   "max_kaina": 200,
+   "isimti": [
+    "dalims",
+    "dalys",
+    "neveikia",
+    "sugedęs",
+    "sugedes",
+    "pjovimas",
+    "gręžimas"
+   ],
+   "sezonas_menesiai": [
+    3,
+    4,
+    5,
+    9,
+    10
+   ]
+  },
+  {
+   "pavadinimas": "Lego",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=lego&orderBy=1",
+   "raktazodziai": [
+    "lego"
+   ],
+   "min_kaina": 10,
+   "max_kaina": 150,
+   "isimti": [
+    "analogas",
+    "kopija",
+    "lepin"
+   ],
+   "sezonas_menesiai": [
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "Nintendo Switch",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=nintendo+switch&orderBy=1",
+   "raktazodziai": [
+    "nintendo",
+    "switch"
+   ],
+   "min_kaina": 40,
+   "max_kaina": 250,
+   "isimti": [
+    "užrakintas",
+    "uzrakintas",
+    "dalims",
+    "neveikia"
+   ],
+   "sezonas_menesiai": [
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "Garmin laikrodžiai",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=garmin&orderBy=1",
+   "raktazodziai": [
+    "garmin"
+   ],
+   "min_kaina": 30,
+   "max_kaina": 250,
+   "isimti": [
+    "dalims",
+    "neveikia",
+    "dirželis",
+    "dirzelis",
+    "kroviklis"
+   ],
+   "sezonas_menesiai": [
+    3,
+    4,
+    5,
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "DeWalt įrankiai",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=dewalt&orderBy=1",
+   "raktazodziai": [
+    "dewalt"
+   ],
+   "min_kaina": 15,
+   "max_kaina": 200,
+   "isimti": [
+    "dalims",
+    "dalys",
+    "neveikia",
+    "sugedęs",
+    "sugedes"
+   ],
+   "sezonas_menesiai": [
+    3,
+    4,
+    5,
+    9,
+    10
+   ]
+  },
+  {
+   "pavadinimas": "PlayStation 5",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=ps5&orderBy=1",
+   "raktazodziai": [
+    "ps5",
+    "playstation 5",
+    "playstation5"
+   ],
+   "min_kaina": 20,
+   "max_kaina": 380,
+   "isimti": [
+    "dalims",
+    "neveikia",
     "nuoma",
-    "nuomoj",
-    "paslaug",
-    "remontas",
-    "taisymas",
-    "pirksiu",
-    "perku",
-    "supirk"
-  ],
+    "užrakint"
+   ],
+   "sezonas_menesiai": [
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "Kindle skaityklės",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=kindle&orderBy=1",
+   "raktazodziai": [
+    "kindle"
+   ],
+   "min_kaina": 15,
+   "max_kaina": 150,
+   "isimti": [
+    "dalims",
+    "neveikia",
+    "dėklas",
+    "deklas"
+   ],
+   "sezonas_menesiai": [
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "GoPro kameros",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=gopro&orderBy=1",
+   "raktazodziai": [
+    "gopro"
+   ],
+   "min_kaina": 30,
+   "max_kaina": 300,
+   "isimti": [
+    "dalims",
+    "neveikia",
+    "laikiklis",
+    "dėklas"
+   ],
+   "sezonas_menesiai": [
+    4,
+    5,
+    6,
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "DJI dronai",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=dji&orderBy=1",
+   "raktazodziai": [
+    "dji"
+   ],
+   "min_kaina": 60,
+   "max_kaina": 450,
+   "isimti": [
+    "dalims",
+    "neveikia",
+    "propeler",
+    "baterij"
+   ],
+   "sezonas_menesiai": [
+    4,
+    5,
+    6,
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "Dyson",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=dyson&orderBy=1",
+   "raktazodziai": [
+    "dyson"
+   ],
+   "min_kaina": 40,
+   "max_kaina": 450,
+   "isimti": [
+    "filtras",
+    "šepetys",
+    "sepetys",
+    "antgalis",
+    "dalys"
+   ],
+   "sezonas_menesiai": [
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "KitchenAid",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=kitchenaid&orderBy=1",
+   "raktazodziai": [
+    "kitchenaid"
+   ],
+   "min_kaina": 80,
+   "max_kaina": 450,
+   "isimti": [
+    "priedas",
+    "antgalis",
+    "dubuo"
+   ],
+   "sezonas_menesiai": [
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "Robotai siurbliai",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=robotas+siurblys&orderBy=1",
+   "raktazodziai": [
+    "roborock",
+    "irobot",
+    "roomba",
+    "dreame",
+    "ecovacs",
+    "xiaomi"
+   ],
+   "min_kaina": 60,
+   "max_kaina": 600,
+   "isimti": [
+    "šepet",
+    "sepet",
+    "filtr",
+    "maišeli",
+    "maiseli"
+   ],
+   "sezonas_menesiai": [
+    10,
+    11,
+    12,
+    1
+   ]
+  },
+  {
+   "pavadinimas": "iPad",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=ipad&orderBy=1",
+   "raktazodziai": [
+    "ipad"
+   ],
+   "min_kaina": 80,
+   "max_kaina": 700,
+   "isimti": [
+    "dėklas",
+    "deklas",
+    "pieštukas",
+    "piestukas",
+    "stiklas",
+    "klaviatūra"
+   ],
+   "sezonas_menesiai": [
+    8,
+    9,
+    11,
+    12
+   ]
+  },
+  {
+   "pavadinimas": "Fotoaparatai",
+   "url": "https://www.skelbiu.lt/skelbimai/?keywords=fotoaparatas&orderBy=1",
+   "raktazodziai": [
+    "fujifilm",
+    "fuji x",
+    "sony a7",
+    "sony alpha",
+    "sony a6",
+    "canon eos r",
+    "nikon z",
+    "ricoh gr"
+   ],
+   "min_kaina": 150,
+   "max_kaina": 1500,
+   "isimti": [
+    "dėklas",
+    "deklas",
+    "diržas",
+    "dirzas",
+    "baterija"
+   ],
+   "sezonas_menesiai": [
+    4,
+    5,
+    6,
+    11,
+    12
+   ]
+  }
+ ],
+ "asmeniniai": {
+  "_paaiskinimas": "Asmeninės paieškos (ne perpardavimui). Tikrinama kas 'kas_val' valandų, kad taupytų proxy. Radinys tinka, jei pavadinime+aprašyme yra 'tinka' ir nėra 'atmesti' (regex), kaina ≤ max_kaina. Apie naujus tinkamus siunčiamas laiškas.",
   "paieskos": [
-    {
-      "pavadinimas": "Makita įrankiai",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=makita&orderBy=1",
-      "raktazodziai": [
-        "makita"
-      ],
-      "min_kaina": 15,
-      "max_kaina": 200,
-      "isimti": [
-        "dalims",
-        "dalys",
-        "neveikia",
-        "sugedęs",
-        "sugedes",
-        "pjovimas",
-        "gręžimas"
-      ],
-      "sezonas_menesiai": [
-        3,
-        4,
-        5,
-        9,
-        10
-      ]
-    },
-    {
-      "pavadinimas": "Lego",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=lego&orderBy=1",
-      "raktazodziai": [
-        "lego"
-      ],
-      "min_kaina": 10,
-      "max_kaina": 150,
-      "isimti": [
-        "analogas",
-        "kopija",
-        "lepin"
-      ],
-      "sezonas_menesiai": [
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "Nintendo Switch",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=nintendo+switch&orderBy=1",
-      "raktazodziai": [
-        "nintendo",
-        "switch"
-      ],
-      "min_kaina": 40,
-      "max_kaina": 250,
-      "isimti": [
-        "užrakintas",
-        "uzrakintas",
-        "dalims",
-        "neveikia"
-      ],
-      "sezonas_menesiai": [
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "Garmin laikrodžiai",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=garmin&orderBy=1",
-      "raktazodziai": [
-        "garmin"
-      ],
-      "min_kaina": 30,
-      "max_kaina": 250,
-      "isimti": [
-        "dalims",
-        "neveikia",
-        "dirželis",
-        "dirzelis",
-        "kroviklis"
-      ],
-      "sezonas_menesiai": [
-        3,
-        4,
-        5,
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "DeWalt įrankiai",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=dewalt&orderBy=1",
-      "raktazodziai": [
-        "dewalt"
-      ],
-      "min_kaina": 15,
-      "max_kaina": 200,
-      "isimti": [
-        "dalims",
-        "dalys",
-        "neveikia",
-        "sugedęs",
-        "sugedes"
-      ],
-      "sezonas_menesiai": [
-        3,
-        4,
-        5,
-        9,
-        10
-      ]
-    },
-    {
-      "pavadinimas": "PlayStation 5",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=ps5&orderBy=1",
-      "raktazodziai": [
-        "ps5",
-        "playstation 5",
-        "playstation5"
-      ],
-      "min_kaina": 20,
-      "max_kaina": 380,
-      "isimti": [
-        "dalims",
-        "neveikia",
-        "nuoma",
-        "užrakint"
-      ],
-      "sezonas_menesiai": [
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "Kindle skaityklės",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=kindle&orderBy=1",
-      "raktazodziai": [
-        "kindle"
-      ],
-      "min_kaina": 15,
-      "max_kaina": 150,
-      "isimti": [
-        "dalims",
-        "neveikia",
-        "dėklas",
-        "deklas"
-      ],
-      "sezonas_menesiai": [
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "GoPro kameros",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=gopro&orderBy=1",
-      "raktazodziai": [
-        "gopro"
-      ],
-      "min_kaina": 30,
-      "max_kaina": 300,
-      "isimti": [
-        "dalims",
-        "neveikia",
-        "laikiklis",
-        "dėklas"
-      ],
-      "sezonas_menesiai": [
-        4,
-        5,
-        6,
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "DJI dronai",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=dji&orderBy=1",
-      "raktazodziai": [
-        "dji"
-      ],
-      "min_kaina": 60,
-      "max_kaina": 450,
-      "isimti": [
-        "dalims",
-        "neveikia",
-        "propeler",
-        "baterij"
-      ],
-      "sezonas_menesiai": [
-        4,
-        5,
-        6,
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "Dyson",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=dyson&orderBy=1",
-      "raktazodziai": [
-        "dyson"
-      ],
-      "min_kaina": 40,
-      "max_kaina": 450,
-      "isimti": [
-        "filtras",
-        "šepetys",
-        "sepetys",
-        "antgalis",
-        "dalys"
-      ],
-      "sezonas_menesiai": [
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "KitchenAid",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=kitchenaid&orderBy=1",
-      "raktazodziai": [
-        "kitchenaid"
-      ],
-      "min_kaina": 80,
-      "max_kaina": 450,
-      "isimti": [
-        "priedas",
-        "antgalis",
-        "dubuo"
-      ],
-      "sezonas_menesiai": [
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "Robotai siurbliai",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=robotas+siurblys&orderBy=1",
-      "raktazodziai": [
-        "roborock",
-        "irobot",
-        "roomba",
-        "dreame",
-        "ecovacs",
-        "xiaomi"
-      ],
-      "min_kaina": 60,
-      "max_kaina": 600,
-      "isimti": [
-        "šepet",
-        "sepet",
-        "filtr",
-        "maišeli",
-        "maiseli"
-      ],
-      "sezonas_menesiai": [
-        10,
-        11,
-        12,
-        1
-      ]
-    },
-    {
-      "pavadinimas": "iPad",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=ipad&orderBy=1",
-      "raktazodziai": [
-        "ipad"
-      ],
-      "min_kaina": 80,
-      "max_kaina": 700,
-      "isimti": [
-        "dėklas",
-        "deklas",
-        "pieštukas",
-        "piestukas",
-        "stiklas",
-        "klaviatūra"
-      ],
-      "sezonas_menesiai": [
-        8,
-        9,
-        11,
-        12
-      ]
-    },
-    {
-      "pavadinimas": "Fotoaparatai",
-      "url": "https://www.skelbiu.lt/skelbimai/?keywords=fotoaparatas&orderBy=1",
-      "raktazodziai": [
-        "fujifilm",
-        "fuji x",
-        "sony a7",
-        "sony alpha",
-        "sony a6",
-        "canon eos r",
-        "nikon z",
-        "ricoh gr"
-      ],
-      "min_kaina": 150,
-      "max_kaina": 1500,
-      "isimti": [
-        "dėklas",
-        "deklas",
-        "diržas",
-        "dirzas",
-        "baterija"
-      ],
-      "sezonas_menesiai": [
-        4,
-        5,
-        6,
-        11,
-        12
-      ]
-    }
+   {
+    "pavadinimas": "Yamaha XJ6N vėjo stiklas",
+    "urls": [
+     "https://www.skelbiu.lt/skelbimai/?keywords=xj6&orderBy=1",
+     "https://www.skelbiu.lt/skelbimai/?keywords=xj6+stiklas&orderBy=1"
+    ],
+    "tinka": "(stikl|deflekt|v[eė]jo|ekran|screen|windshield|skyd)",
+    "privaloma": "(xj\\s*-?\\s*6|universal)",
+    "atmesti": "(diversion|xj6\\s*f\\b|xj6\\s*s\\b|žibint|zibint|veidrod|kompiuter|motociklas\\s+yamaha|parduodu\\s+yamaha\\s+xj6\\s*$)",
+    "max_kaina": 120,
+    "kas_val": 4,
+    "iki": "2027-05-31"
+   }
   ]
+ }
 }

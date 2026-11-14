@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 SKELBIMAI = DATA / "skelbimai.json"
 BUSENA = DATA / "busena.json"
+ASMENINIAI = DATA / "asmeniniai.json"   # asmeninės paieškos (ne perpardavimui)
 PAVYZDYS = DATA / "pavyzdys.html"          # puslapio kopija, kai skelbimų nerasta (atpažinimui taisyti)
 UA = ("Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/129.0.0.0 Mobile Safari/537.36")
@@ -205,6 +206,7 @@ def main() -> int:
             apdoroti(nar, i, p, cfg, istorija, busena, laikas)
         busena["detales"] = detales(nar, istorija)
         busena["dingimai"] = tikrinti_dingusius(nar, istorija, laikas)
+        busena["asmeniniai"] = asmenines(nar, cfg.get("asmeniniai", {}), laikas)
     busena["kb_per_proxy_viso"] = round(sum(b.get("kb_per_proxy") or 0 for b in busena["paieskos"]), 1)
     SKELBIMAI.write_text(json.dumps(istorija, ensure_ascii=False, indent=1), encoding="utf-8")
     BUSENA.write_text(json.dumps(busena, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -336,6 +338,50 @@ def apdoroti(nar, i, p, cfg, istorija, busena, laikas):
           f"naujų {b['nauju']} (atrinkta {b['atrinkta_nauju']})" + (f", BLOKAVIMAS: {blokuota}" if blokuota else ""))
     busena["paieskos"].append(b)
     time.sleep(2)
+
+
+def asmenines(nar, cfg: dict, laikas: str) -> list[dict]:
+    """Asmeninės paieškos: retai (kas_val), po vieną puslapį kiekvienai nuorodai. Rezultatai – data/asmeniniai.json."""
+    duom = skaityti(ASMENINIAI, {"patikrinta": {}, "radiniai": {}})
+    ataskaita, dabar_dt = [], datetime.now(timezone.utc)
+    for p in cfg.get("paieskos", []):
+        if p.get("iki") and laikas[:10] > p["iki"]:
+            continue
+        pask = duom["patikrinta"].get(p["pavadinimas"])
+        if pask and (dabar_dt - datetime.fromisoformat(pask.replace("Z", "+00:00"))).total_seconds() < p.get("kas_val", 6) * 3600 - 600:
+            continue
+        b = {"pavadinimas": p["pavadinimas"], "kb": 0, "rasta": 0, "tinka_nauju": 0}
+        for url in p["urls"]:
+            try:
+                kodas, puslapis, baitai = nar.atidaryti(url)
+            except Exception as e:  # noqa: BLE001
+                b["klaida"] = paslepti(f"{e.__class__.__name__}: {e}")
+                continue
+            b["kb"] += round(baitai / 1024, 1)
+            for s in (atpazinti(puslapis) if kodas == 200 else []):
+                b["rasta"] += 1
+                tekstas = (s["pavadinimas"] + " " + s["aprasymas"]).lower()
+                ok = (re.search(p["tinka"], tekstas) and re.search(p.get("privaloma", ""), tekstas)
+                      and not re.search(p.get("atmesti", "$^"), tekstas) and s["kaina"] is not None
+                      and s["kaina"] <= p.get("max_kaina", 10**9))
+                senas = duom["radiniai"].get(s["id"])
+                if senas:
+                    senas["paskutini_karta_matytas"] = laikas
+                    if s["kaina"] != senas.get("kaina"):
+                        senas.setdefault("kainu_istorija", []).append([laikas, s["kaina"]])
+                        senas["kaina"] = s["kaina"]
+                        senas["tinka"] = bool(ok)
+                    continue
+                if ok:
+                    b["tinka_nauju"] += 1
+                    duom["radiniai"][s["id"]] = {**s, "paieska": p["pavadinimas"], "pastebetas": laikas,
+                                                 "paskutini_karta_matytas": laikas, "tinka": True}
+            time.sleep(2)
+        duom["patikrinta"][p["pavadinimas"]] = laikas
+        print(f"[asmeninė: {p['pavadinimas']}] {b['kb']} KB, skelbimų {b['rasta']}, naujų tinkamų {b['tinka_nauju']}")
+        ataskaita.append(b)
+    ASMENINIAI.write_text(json.dumps(duom, ensure_ascii=False, indent=1), encoding="utf-8")
+    return ataskaita
 
 
 if __name__ == "__main__":

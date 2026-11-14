@@ -234,6 +234,24 @@ def main():
         pakeista = True
         print(f"Išsiųsta apie {len(progos)} naujų daiktų progas.")
 
+    # 2b. Asmeninės paieškos (ne perpardavimui): kiekvienas naujas tinkamas skelbimas arba atpigęs
+    asm = [s for s in a.get("asmeniniai", []) if f"asm:{s['id']}:{s.get('kaina')}" not in pranesta]
+    if asm:
+        tema = (f"Radau: {asm[0]['pavadinimas'][:50]} – {eur(asm[0]['kaina'])}" if len(asm) == 1
+                else f"Radau {len(asm)} skelbimus: {asm[0]['paieska']} nuo {eur(asm[0]['kaina'])}")
+        txt = ["Labas,\n\ntavo asmeninėje paieškoje atsirado (ar atpigo) šie skelbimai:"]
+        html = ["<p>Labas,</p><p>tavo asmeninėje paieškoje atsirado (ar atpigo) šie skelbimai:</p>"]
+        for s in asm[:MAX_LAISKE]:
+            txt.append(f"{s['pavadinimas']} – {eur(s['kaina'])} ({s.get('vieta_laikas') or ''})\n{s['nuoroda']}")
+            html.append(f'<p style="margin:10px 0"><a href="{escape(s["nuoroda"])}">{escape(s["pavadinimas"])}</a> – '
+                        f'<b>{eur(s["kaina"])}</b><br><span style="color:#666">{escape(s.get("vieta_laikas") or "")}</span></p>')
+        txt.append("Prieš pirkdamas pasitikrink, ar tinka tavo modeliui (XJ6N, ne Diversion), ir tvirtinimus.")
+        html.append("<p>Prieš pirkdamas pasitikrink, ar tinka tavo modeliui (XJ6N, ne Diversion), ir tvirtinimus.</p>")
+        if siusti(user, pw, to, sudaryti(tema, txt, html)):
+            pranesta.update(f"asm:{s['id']}:{s.get('kaina')}" for s in asm)
+            pakeista = True
+            print(f"Išsiųsta apie {len(asm)} asmeninius radinius.")
+
     # 3. Sveikata: kartą per dieną, jei kas nors sustojo
     pr = problemos(a)
     raktas = "sveikata:" + datetime.now(timezone.utc).strftime("%Y-%m-%d")

@@ -1,5 +1,5 @@
 {
- "sugeneruota": "2026-11-14T10:41:50Z",
+ "sugeneruota": "2026-11-14T14:21:52Z",
  "prielaidos": {
   "_paaiskinimas": "Kaštų ir sprendimų prielaidos. Keisk čia – svetainė persiskaičiuos per valandą.",
   "vietiniai_miestai": [
@@ -9497,7 +9497,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti.",
    "visi_palyginami": [],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -9591,7 +9591,7 @@
    },
    "kodel": "Panašių skelbimų dar per mažai palyginti. Privalumai: nauja, naujas.",
    "visi_palyginami": [],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [],
@@ -9720,7 +9720,7 @@
      "vieta_laikas": "Klaipėda, prieš 8 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -15526,7 +15526,7 @@
      "vieta_laikas": "Klaipėda, prieš 2 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -17331,7 +17331,7 @@
      "vieta_laikas": "Vilnius, prieš 26 min."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -30697,7 +30697,7 @@
      "vieta_laikas": "Kaunas, prieš 5 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -31159,7 +31159,7 @@
      "vieta_laikas": "Vilnius, prieš 6 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -31542,7 +31542,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -31923,7 +31923,7 @@
      "vieta_laikas": "Vilnius, prieš 2 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -32382,7 +32382,7 @@
      "vieta_laikas": "Ukmergės r., prieš 4 val."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -32849,7 +32849,7 @@
      "vieta_laikas": "Vilnius, prieš 54 min."
     }
    ],
-   "amzius_d": 1,
+   "amzius_d": 2,
    "derybos": null,
    "naujo_min": null,
    "zingsniai": [
@@ -51573,6 +51573,7 @@
    "max_amzius_d": 10
   }
  },
+ "asmeniniai": [],
  "sveikata": {
   "paieska": "2026-11-14T10:40:59Z",
   "claude_vertinimas": "2026-11-14",

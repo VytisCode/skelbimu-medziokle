@@ -252,6 +252,7 @@ function render() {
     assumptions();
   }
   if ($("hlist")) renderHistory();
+  renderAsm();
   if (!$("list")) return;
   const verta = R.filter(r => r.sprendimas === "verta"), der = R.filter(r => r.sprendimas === "derėtis");
   const pel = verta.reduce((a, r) => a + (r.pelnas || 0), 0);
@@ -291,6 +292,16 @@ function render() {
 // ---------- Rekomendacijų istorija ----------
 let HF = "visi";
 const hrs = h => h < 48 ? Math.round(h) + " val." : Math.round(h / 24) + " d.";
+function renderAsm() {
+  if (!$("asm")) return;
+  const A = D.asmeniniai || [];
+  $("asm").hidden = false;
+  $("asmnote").textContent = A.length ? `Yamaha XJ6N vėjo stiklai iki 120 €, pigiausi pirma. Apie naujus atsiųsiu laišką.`
+    : "Yamaha XJ6N vėjo stiklas: kol kas tinkamų skelbimų nerasta. Tikrinu kas 4 val., apie naują atsiųsiu laišką.";
+  $("asmlist").replaceChildren(...A.map(s => { const a = el("a", "item"); a.href = s.nuoroda; a.target = "_blank"; a.rel = "noopener";
+    a.append(el("span", "t1", s.pavadinimas), el("span", "t2", fmt(s.kaina) + " · " + (s.vieta_laikas || "").split(",")[0] + " · matytas " + (s.paskutini_karta_matytas || "").slice(0, 10))); return a; }));
+}
+
 function renderHistory() {
   const H = D.istorija; if (!H) { $("hlist").replaceChildren(el("p", "note", "Istorija dar kaupiama.")); return; }
   const X = H.irasai;

@@ -849,12 +849,23 @@ def main() -> int:
     out = {"sugeneruota": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "prielaidos": N,
            "skelbimu_istorijoje": len(visi), "radiniai": radiniai, "kalibracija": kal,
            "pardavimas": pardavimo_pagalba(visi), "istorija": istor,
-           "nauji": nauji_daiktai(visi), "sveikata": sveikata(vertinimai),
+           "nauji": nauji_daiktai(visi), "asmeniniai": asmeniniai(), "sveikata": sveikata(vertinimai),
            "rinka": {k: {"n": len(v), "mediana": round(statistics.median(v)), "min": min(v), "max": max(v)}
                      for k, v in rinka.items() if len(v) >= 2}}
     isvestis.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Radinių: {len(radiniai)}", dict(Counter(r["sprendimas"] for r in radiniai)))
     return 0
+
+
+def asmeniniai() -> list[dict]:
+    """Asmeninių paieškų radiniai (ne perpardavimui) svetainei: pigiausi pirma."""
+    f = Path(__file__).resolve().parent / "data" / "asmeniniai.json"
+    if not f.exists():
+        return []
+    d = json.loads(f.read_text(encoding="utf-8"))
+    r = [{k: s.get(k) for k in ("id", "nuoroda", "pavadinimas", "kaina", "vieta_laikas", "paieska", "pastebetas",
+                                "paskutini_karta_matytas", "nuotrauka")} for s in d.get("radiniai", {}).values() if s.get("tinka")]
+    return sorted(r, key=lambda s: (s["kaina"] is None, s["kaina"] or 0))
 
 
 if __name__ == "__main__":

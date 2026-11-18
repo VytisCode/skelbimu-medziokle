@@ -1,30 +1,30 @@
 {
- "atnaujinta": "2026-11-17T13:19Z",
+ "atnaujinta": "2026-11-18T13:00Z",
  "saltiniai": {
   "DE": {
    "url": "https://www.mydealz.de/rss/hot",
-   "kodas": 200,
-   "irasu": 30
+   "kodas": -1,
+   "irasu": 0
   },
   "AT": {
    "url": "https://www.preisjaeger.at/rss/hot",
-   "kodas": 200,
-   "irasu": 30
+   "kodas": -1,
+   "irasu": 0
   },
   "PL": {
    "url": "https://www.pepper.pl/rss/hot",
-   "kodas": 200,
-   "irasu": 30
+   "kodas": -1,
+   "irasu": 0
   },
   "FR": {
    "url": "https://www.dealabs.com/rss/hot",
-   "kodas": 200,
-   "irasu": 30
+   "kodas": -1,
+   "irasu": 0
   },
   "ES": {
    "url": "https://www.chollometro.com/rss/hot",
-   "kodas": 200,
-   "irasu": 30
+   "kodas": -1,
+   "irasu": 0
   }
  },
  "akcijos": [

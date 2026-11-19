@@ -1,36 +1,21 @@
 {
- "atnaujinta": "2026-11-16T06:55Z",
- "pastaba": "Peržiūrėta 256 ES akcijos (11-14–11-15). Siuntimo kainos į LT pažymėtos kaip prielaidos, kol nepatikrintos krepšelyje.",
+ "atnaujinta": "2026-11-19T07:30Z",
+ "pastaba": "Peržiūrėta ~300 ES akcijų (11-14–11-19). Proxy neveikia (401), akcijos renkamos tiesiogiai: AT, PL, FR, ES (be mydealz DE). Siuntimo kainos – prielaidos, kol nepatikrintos krepšelyje. Pirmadienio Turtle Beach ir Bose išimti kaip pasenę.",
  "progos": [
   {
-   "preke": "Turtle Beach Stealth 700 belaidės žaidimų ausinės",
+   "preke": "Beats Solo 4 belaidės ausinės (naujos)",
    "busena": "tikrinti",
-   "balas": 6,
-   "pirkimas": {"parduotuve": "Amazon (per preisjaeger.at)", "salis": "AT/DE", "kaina": 99.83, "siuntimas_lt": 6, "siuntimas_pastaba": "prielaida ~6 €; patikrink, ar Gen 3 ir ar siunčia į LT", "nuoroda": "https://www.preisjaeger.at/deals/turtle-beach-stealth-700-kabelloses-multiplattform-gaming-headset-372451", "kaina_orig": ""},
+   "balas": 7,
+   "pirkimas": {"parduotuve": "Amazon.es (per chollometro)", "salis": "ES", "kaina": 99, "siuntimas_lt": 8, "siuntimas_pastaba": "prielaida ~8 €; akcija iš 11-17 – patikrink, ar dar galioja ir ar Amazon.es siunčia į LT", "nuoroda": "https://www.chollometro.com/ofertas/beats-solo-4-auriculares-wireless-bluetooth-2071751", "kaina_orig": ""},
    "lt": [
-    {"saltinis": "Varle.lt – Stealth 700 Gen 3 Xbox", "kaina": 177.38, "nuoroda": "https://www.varle.lt/ausines/turtle-beach-belaides-ausines-stealth-700-gen-3-xbox--39785182.html"},
-    {"saltinis": "Etrade (per varle palyginimą)", "kaina": 206.35, "nuoroda": "https://www.varle.lt/ausines/turtle-beach-belaides-ausines-stealth-700-gen-3-xbox--39785182.html"}
+    {"saltinis": "Varle.lt – Solo 4 (rožinės)", "kaina": 190.18, "nuoroda": "https://www.varle.lt/beats-solo-4/"},
+    {"saltinis": "Varle.lt – Solo 4 (juodos)", "kaina": 199.99, "nuoroda": "https://www.varle.lt/beats-solo-4/"}
    ],
-   "pardavimo_kaina": 151,
-   "pelnas": 35,
-   "roi": 33,
-   "kodel": "Jei tai Gen 3, pigiausia LT kaina 177 €, todėl naują parduotum ~150 €.",
-   "rizika": "Akcijoje nenurodyta karta (Gen 2 MAX ar Gen 3) ir Amazon domenas. Jei Gen 2 – pelnas mažesnis."
-  },
-  {
-   "preke": "Bose SoundLink Flex (2-oji karta) kolonėlė",
-   "busena": "tikrinti",
-   "balas": 6,
-   "pirkimas": {"parduotuve": "Amazon.fr (per dealabs)", "salis": "FR", "kaina": 96.95, "siuntimas_lt": 8, "siuntimas_pastaba": "prielaida ~8 €; jei siuntimas nemokamas, ROI ~29 %", "nuoroda": "https://www.dealabs.com/bons-plans/bose-soundlink-flex-2e-gen-enceinte-bluetooth-enceinte-dexterieur-ultra-portable-avec-son-haute-fidelite-12-h-dautonomie-bleunoir-3455783", "kaina_orig": ""},
-   "lt": [
-    {"saltinis": "Varle.lt", "kaina": 159.99, "nuoroda": "https://www.varle.lt/nesiojamos-mobilios-koloneles/bose-soundlink-flex-bluetooth-ii-kolonele--58237544.html"},
-    {"saltinis": "Kilobaitas.lt (per varle palyginimą)", "kaina": 160.10, "nuoroda": "https://www.varle.lt/nesiojamos-mobilios-koloneles/bose-soundlink-flex-bluetooth-ii-kolonele--58237544.html"}
-   ],
-   "pardavimo_kaina": 136,
-   "pelnas": 21,
-   "roi": 20,
-   "kodel": "Ta pati karta LT kainuoja 160 €. Populiari, lengva, lengvai parduodama.",
-   "rizika": "Amazon.fr siuntimas į LT nepatvirtintas. ROI 20 % – šiek tiek žemiau 25 % ribos."
+   "pardavimo_kaina": 161,
+   "pelnas": 46,
+   "roi": 43,
+   "kodel": "Pigiausia LT parduotuvėje 190 €, todėl naujas Vinted parsiduotų ~160 €. Žinomas prekės ženklas, greitai parduodamas.",
+   "rizika": "Akcija gali būti pasibaigusi; Amazon.es siuntimas į LT nepatvirtintas; spalva gali skirtis nuo pigiausios LT."
   }
  ],
  "asmeniniai": [
@@ -39,7 +24,7 @@
    "riba": "≤ 50 € su siuntimu (iki 60 € – derėtis)",
    "busena": "Nerasta",
    "geriausias": {"aprasymas": "Motorcyclescreens.eu touring stiklas XJ6 N 2009–2017", "kaina": 131.70, "nuoroda": "https://motorcyclescreens.eu/motorcycle-windshields-for-yamaha/332-yamaha-xj6-n-na-2009-2017-touring-windscreen-windshield"},
-   "pastaba": "11-16: eBay.de 35 cm touring XJ6 N – 184 €, kiti radiniai netinka (MT-09, Z900RS). Tikrinama pirmadieniais ir ketvirtadieniais."
+   "pastaba": "11-19: naujų pigesnių radinių nėra (eBay.de 35 cm touring – 184 €). Tikrinama pirmadieniais ir ketvirtadieniais."
   }
  ]
 }

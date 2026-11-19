@@ -49,6 +49,20 @@ def opener():
 
 
 OP = opener()
+TIESIOG = urllib.request.build_opener()
+
+
+def atidaryti(req, timeout):
+    """Per proxy; jei proxy atmeta (pvz. pasibaigęs prenumeratos laikas – 401/407), bandoma tiesiogiai."""
+    global OP
+    try:
+        return OP.open(req, timeout=timeout)
+    except urllib.error.URLError as e:
+        if "Tunnel connection failed" in str(e) and OP is not TIESIOG:
+            print(f"Proxy neveikia ({e.reason}) – toliau jungiamasi tiesiogiai")
+            OP = TIESIOG
+            return OP.open(req, timeout=timeout)
+        raise
 
 
 def leidzia(url: str) -> bool:
@@ -56,27 +70,32 @@ def leidzia(url: str) -> bool:
     base = f"{p.scheme}://{p.netloc}"
     if base not in _robots:
         try:
-            t = OP.open(urllib.request.Request(base + "/robots.txt", headers={"User-Agent": UA}), timeout=20).read(400_000)
+            t = atidaryti(urllib.request.Request(base + "/robots.txt", headers={"User-Agent": UA}), 20).read(400_000)
             rp = urllib.robotparser.RobotFileParser()
             rp.parse(t.decode("utf-8", "ignore").splitlines())
             _robots[base] = rp
         except urllib.error.HTTPError as e:
+            print(f"robots.txt {base}: HTTP {e.code}")
             _robots[base] = None if e.code in (404, 410) else False
-        except Exception:
+        except Exception as e:
+            print(f"robots.txt {base}: {type(e).__name__} {e}")
             _robots[base] = False
     rp = _robots[base]
     if rp is None:
         return True
     if rp is False:
         return False
-    return rp.can_fetch(UA, url)
+    ok = rp.can_fetch(UA, url)
+    if not ok:
+        print(f"robots.txt draudžia {url}")
+    return ok
 
 
 def gauti(url: str, limit: int = 3_000_000) -> tuple[int, str]:
     if not leidzia(url):
         return -1, ""
     try:
-        r = OP.open(urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "lt,en;q=0.8"}), timeout=30)
+        r = atidaryti(urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "lt,en;q=0.8"}), 30)
         return r.status, r.read(limit).decode("utf-8", "ignore")
     except urllib.error.HTTPError as e:
         return e.code, ""

@@ -61,15 +61,20 @@ def leidzia(url: str) -> bool:
             rp.parse(t.decode("utf-8", "ignore").splitlines())
             _robots[base] = rp
         except urllib.error.HTTPError as e:
+            print(f"robots.txt {base}: HTTP {e.code}")
             _robots[base] = None if e.code in (404, 410) else False
-        except Exception:
+        except Exception as e:
+            print(f"robots.txt {base}: {type(e).__name__} {e}")
             _robots[base] = False
     rp = _robots[base]
     if rp is None:
         return True
     if rp is False:
         return False
-    return rp.can_fetch(UA, url)
+    ok = rp.can_fetch(UA, url)
+    if not ok:
+        print(f"robots.txt draudžia {url}")
+    return ok
 
 
 def gauti(url: str, limit: int = 3_000_000) -> tuple[int, str]:

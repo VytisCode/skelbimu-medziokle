@@ -1,5 +1,5 @@
 {
- "atnaujinta": "2026-11-21T12:36Z",
+ "atnaujinta": "2026-11-22T12:33Z",
  "saltiniai": {
   "DE": {
    "url": "https://www.mydealz.de/rss/hot",
@@ -28,6 +28,951 @@
   }
  },
  "akcijos": [
+  {
+   "salis": "PL",
+   "pavadinimas": "214° - APPLE Watch Ultra 4 GPS + Cellular, koperta 49mm z tytanu w kolorze czarnym",
+   "kaina_eur": 823.29,
+   "parduotuve": "MediaMarkt",
+   "nuoroda": "https://www.pepper.pl/promocje/apple-watch-ultra-4-gps-cellular-koperta-49mm-z-tytanu-w-kolorze-czarnym-1396838",
+   "data": "2026-11-22T12:31Z",
+   "aprasymas": "3 499zł - MediaMarkt    APPLE Watch Ultra 4 GPS + Cellular, koperta 49mm z tytanu w kolorze czarnym, pasek Ocean w kolorze półprzezroczystej czerni MJAY4QP/A  •\tGPS + Cellula..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "101° - Oclean Flow Schallzahnbürste Weiß (5 Putzmodi, bis zu 180 Tage Akku, IPX7)",
+   "kaina_eur": 22.37,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/oclean-flow-schallzahnburste-weiss-5-putzmodi-bis-zu-180-tage-akku-ipx7-373074",
+   "data": "2026-11-22T12:29Z",
+   "aprasymas": "22,37€ - Amazon     Eine günstige Schallzahnbürste mit extrem langer Akkulaufzeit: Die Oclean Flow kostet bei Amazon gerade 19,97 € als Blitzangebot. Mit der Paketsteuer zahlt i..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "104° - Poêle de buyer tôle d'acier 32cm",
+   "kaina_eur": 38.39,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/poele-de-buyer-tole-dacier-32cm-3464855",
+   "data": "2026-11-22T12:27Z",
+   "aprasymas": "38,39€ - Amazon     Presque a 1€ du cm mon prix de ref en tb prix .. Gamme minérale B en +!! 32cm en haut de la anse    À propos de ce produit <..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "226° - MEGARECOPILATORIO Black Friday Xbox: FF VII Rebirth 8,99 €, Hogwarts Legacy 7,49 €, , Battlefield 6 26,39 € y +1.500 ofertas (hasta -95 %)",
+   "kaina_eur": 8.99,
+   "parduotuve": "Xbox",
+   "nuoroda": "https://www.chollometro.com/ofertas/megarecopilatorio-black-friday-xbox-ff-vii-rebirth-899-eur-hogwarts-legacy-749-eur-battlefield-6-2639-eur-y-1500-ofertas-hasta-95-2083909",
+   "data": "2026-11-22T12:26Z",
+   "aprasymas": "5€ - Xbox       ¡Chollazo Black Friday en Microsoft Store de Xbox! Hasta un 95 % de descuento en más de 1.500 juegos y DLC   Ya está en marcha el Blac..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "103° - Fouet De Buyer Goma - inox, 26 cm",
+   "kaina_eur": 12.55,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/de-buyer-fouet-professionnel-fils-en-inox-goma-longueur-26-cm-3464864",
+   "data": "2026-11-22T12:23Z",
+   "aprasymas": "12,55€ - Amazon    CouleurArgent MarqueDE BUYER StyleUnique Dimensions du produit25,4L x 7,6l centimètres Peut passer au lave-vaisselleOui FabricantDe Buy..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "224° - UGREEN FineTrack Mini 2 Smart Finder Soporte iOS 4 Piezas",
+   "kaina_eur": 23.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/ugreen-finetrack-mini-2-smart-finder-soporte-ios-4-piezas-2083564",
+   "data": "2026-11-22T12:21Z",
+   "aprasymas": "23,99€ - Amazon    [ Sonora de 110 dB y Revestimiento Fluorescente ] Cuando el tracker esté cerca, abre la app Find My o pide ayuda a Siri. El altavoz integrado emitirá un potente..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "107° - Blu-Ray 4K Ultra HD - Maman, j'ai Raté l'avion !",
+   "kaina_eur": 11.97,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/blu-ray-4k-ultra-hd-maman-jai-rate-lavion-4k-ultra-hd-blu-ray-3465089",
+   "data": "2026-11-22T12:19Z",
+   "aprasymas": "11,97€ - Amazon     Blu-Ray 4K Ultra HD - Maman, j'ai Raté l'avion ! (4K Ultra HD + Blu-ray)   Spécifications     Rapport de forme:</str..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "208° - Garmin Instinct E 45 mm – Reloj deportivo GPS resistente con hasta 16 días de autonomía",
+   "kaina_eur": 157.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/garmin-instinct-e-45-mm-reloj-deportivo-gps-resistente-con-hasta-16-dias-de-autonomia-2082433",
+   "data": "2026-11-22T12:19Z",
+   "aprasymas": "157,99€ - Amazon     Garmin Instinct E 45 mm – Reloj inteligente GPS para deporte y aventura  Reloj deportivo de Garmin diseñado para quienes buscan resistencia..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "225° - Juego 6 Limatones Aguja, Ø 4 mm Largo 160 mm, Acero Aleado Templado, Mini Lima para Metal Madera Plástico, Plana Warding Cuadrada Triangular",
+   "kaina_eur": 6.38,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/juego-6-limatones-aguja-o-4-mm-largo-160-mm-acero-aleado-templado-mini-lima-para-metal-madera-plastico-plana-warding-cuadrada-triangular-2075616",
+   "data": "2026-11-22T12:17Z",
+   "aprasymas": "6,38€ - Amazon    Juego 6 Limatones Aguja, Ø 4 mm Largo 160 mm, Acero Aleado Templado, Mini Lima para Metal Madera Plástico, Plana Warding Cuadrada Triangular Redonda Media Caña,..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "218° - Puma Catch Kids ZapatillasUnisex niños",
+   "kaina_eur": 15.19,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/zapatillas-puma-unisex-2075827",
+   "data": "2026-11-22T12:17Z",
+   "aprasymas": "15,19€ - Amazon       Ancho: estándar    Tipo de puntera: redondeada    Cierre: cordones elásticos    Tipo de talón: plano   ..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "216° - Reebok Court Clean Hook & Loop ZapatillasUnisex bebé números 22,5-14€, 19,5-15€,20 y 21 18€ otros números 19€,",
+   "kaina_eur": 14.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/reebok-court-clean-hook-loop-zapatillasunisex-bebe-numeros-225-14eur-195-15eur20-y-21-18eur-otros-numeros-19eur-2075865",
+   "data": "2026-11-22T12:17Z",
+   "aprasymas": "15,88€ - Amazon    Reebok Court Clean Hook & Loop ZapatillasUnisex bebé   Las  Reebok Court Clean Hook & Loop  son unas zapatillas diseñadas esp..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "188° - Bosch 2 607 002 567 - Set de 18+1 puntas de atornillar Robust Line, L extraduras - 25 mm, 18+1tlg. (pack de 19)",
+   "kaina_eur": 12.57,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/bosch-2-607-002-567-set-de-181-puntas-de-atornillar-robust-line-l-extraduras-25-mm-181tlg-pack-de-19-2075875",
+   "data": "2026-11-22T12:17Z",
+   "aprasymas": "12,57€ - Amazon    Bosch 2 607 002 567 - Set de 18+1 puntas de atornillar Robust Line, L extraduras - 25 mm, 18+1tlg. (pack de 19)"
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "114° - 20% de réduction supplémentaire sur les promotions en cours : Sélection d'Aspirateurs et Accessoires Rowenta + Cumulable Code BF30 / BLFR10",
+   "kaina_eur": 200.0,
+   "parduotuve": "Darty",
+   "nuoroda": "https://www.dealabs.com/bons-plans/20-de-reduction-supplementaire-sur-les-promotions-en-cours-selection-daspirateurs-et-accessoires-rowenta-cumulable-code-bf30-3463457",
+   "data": "2026-11-22T12:16Z",
+   "aprasymas": "Darty      A partir du 21/11 9h, 20% de remise en plus des réductions déjà présentes sur une sélection Rowenta dès 200€ d'achat.   >  La ..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "192° - nutribullet Pro 900 Watt, batidora personal, batidora multifuncional, vaso de 700ml, champán, NB904CP",
+   "kaina_eur": 59.9,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/nutribullet-pro-900-watt-batidora-personal-batidora-multifuncional-vaso-de-700ml-champan-nb904cp-2076312",
+   "data": "2026-11-22T12:16Z",
+   "aprasymas": "59,90€ - Amazon    [DISEÑO ESENCIAL] Su diseño simple y esencial hace que el uso de nutribullet sea intuitivo y sencillo. Además, es súper compacta y no tendrás problemas a la hor..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "209° - Hisense 50U7Q - MiniLED 50 pulgadas Smart TV 4K, Quantum Dot Color, 144 Hz",
+   "kaina_eur": 399.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/hisense-50u7q-miniled-50-pulgadas-smart-tv-4k-quantum-dot-color-144-hz-2076142",
+   "data": "2026-11-22T12:16Z",
+   "aprasymas": "399,99€ - Amazon       Hi-QLED MiniLED: Contraste impactante, colores más brillantes    Modo Juego 144 Hz Nativos: Acción más fluida en cada escena   ..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "198° - Gretsch Ignite Jet Club, guitarra eléctrica, diapasón de laurel, blanco relámpago",
+   "kaina_eur": 169.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/gretsch-ignite-jet-club-guitarra-electrica-diapason-de-laurel-blanco-relampago-2083628",
+   "data": "2026-11-22T12:16Z",
+   "aprasymas": "169,99€ - Amazon       Perfecta para quienes comienzan su carrera musical, la Ignite Jet Club es una máquina de sonido práctica y repleta de nuevas y emocionantes caracterí..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "203° - LG 43'' QNED70B6C Smart TV QNED MiniLED de 43 pulgadas, 4K, WebOS 25, HDR10, 60 Hz, negro",
+   "kaina_eur": 329.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/lg-43qned70b6c-smart-tv-qned-miniled-de-43-pulgadas-4k-webos-25-hdr10-60-hz-negro-2076365",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "329€ - Amazon     Pantalla e imagen • Diagonal de 43 pulgadas con resolución 4K. • Tecnología QNED MiniLED, con formato 16:9 y 60 Hz. • Compatible con HDR10.<br ..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "213° - GLORIOUS GPBT Keycaps PBT Perfil Cherry ES (Blanco) - ES QWERTY",
+   "kaina_eur": 10.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/glorious-gpbt-keycaps-pbt-perfil-cherry-es-blanco-es-qwerty-2076406",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "10,99€ - Amazon       Diseño preciosista: Su diseño clásico con perfil Cherry, etiquetas personalizadas nítidas y su amplia selección de opciones de color atrevidas hacen ..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "196° - Rilastil Sun System SPF50+ - Spray transparente para todo tipo de piel, antioxidante y calmante, 200 ml",
+   "kaina_eur": 11.57,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/rilastil-sun-system-spf50-spray-transparente-para-todo-tipo-de-piel-antioxidante-y-calmante-200-ml-2076412",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "11,57€ - Amazon     SUN SYSTEM TRANSPARENT SPF50+ Spray corporal transparente, fácil de aplicar, resistente al agua, apto para todo tipo de piel. Protege la piel de los rayos UV..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "189° - Haier H6 QLED 4K 65\" 65H6GUX",
+   "kaina_eur": 459.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/haier-h6-qled-4k-65-65h6gux-2064887",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "459€ - Amazon    Haier H6 QLED 4K 65\" 65H6GUX, Smart TV con Google TV, Dolby Audio, HDR10+, MEMC, AI Picture Quality, Bluetooth 5.1, Gaming Accelerator 120Hz DLG, USB 2.0 x 2, D..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "192° - SCALEXTRIC - Vehículo de Carreras Compact - Coche Slot - Escala 1:43 (Cupra León Competición - Girolami)",
+   "kaina_eur": 14.42,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/scalextric-vehiculo-de-carreras-compact-coche-slot-escala-143-cupra-leon-competicion-girolami-2076455",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "14,42€ - Amazon    Coches Slot para circuitos Scalextric Compact: Coches escala 1:43 en atractivos acabados y diseños. Disfruta de la carrera con tu coche favorito. Impresion..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "199° - Scalextric C4541 Back to The Future 2 - Coche tragamonedas Flying Time Machine Opción Amazon",
+   "kaina_eur": 49.46,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/scalextric-c4541-back-to-the-future-2-coche-tragamonedas-flying-time-machine-opcion-amazon-2076474",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "49,46€ - Amazon    Scalextric Slot Cars: los coches están en el corazón de las carreras de coches tragamonedas. Una vez que estés listo y funcionando con tu nuevo juego de Scalext..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "186° - Asmodee Unlock! Enchanted Adventures, Juego de Mesa, A Partir de 10 Años",
+   "kaina_eur": 17.69,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/asmodee-unlock-enchanted-adventures-juego-de-mesa-a-partir-de-10-anos-2076595",
+   "data": "2026-11-22T12:15Z",
+   "aprasymas": "17,69€ - Amazon    EXPERIENCIA DE ESCAPE ROOM EN CASA: Disfruta de un juego de cartas totalmente cooperativo que traslada la emoción y el desafío de las salas de escape directamen..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "115° - Montre Casio GA-2100SKE-7AER - Bracelet Transparent, Cadran noir",
+   "kaina_eur": 77.99,
+   "parduotuve": "Mondial Montres",
+   "nuoroda": "https://www.dealabs.com/bons-plans/montre-casio-ga-2100ske-7aer-bracelet-transparent-cadran-noir-3463923",
+   "data": "2026-11-22T12:14Z",
+   "aprasymas": "77,99€ - Mondial Montres     Quelqu'un a déjà regardé la GA-2100SKE-7AER transparente, et ça vaut le coup au quotidien ? Au poignet, elle ne passe pas vraiment inaperçue, ce qui la disti..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "112° - Écran PC 27\" MSI MAG 272QPW QD-OLED X28 (Blanc) - QHD, 280 Hz, 0,03 ms, HDR True Black 400, 2x HDMI 2.1, USB-C",
+   "kaina_eur": 369.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/ecran-pc-27-msi-mag-272qpw-qd-oled-x28-blanc-qhd-280-hz-003-ms-hdr-true-black-400-2x-hdmi-21-usb-c-3464691",
+   "data": "2026-11-22T12:13Z",
+   "aprasymas": "369,99€ - Amazon     Le  MSI MAG 272QPW QD-OLED X28  (version blanche) passe à  369,99 €  chez Amazon pour le Black Friday,  vendu et expédié..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "189° - De buyer crepera de hierro de 26cm 5615.26",
+   "kaina_eur": 25.18,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/de-buyer-crepera-de-hierro-de-26cm-561526-2083578",
+   "data": "2026-11-22T12:13Z",
+   "aprasymas": "25,18€ - Amazon    Gama de hierro con acabado de cera de abeja Protección natural que mejora la antiadherencia Hierro con acabado protector de cera de abejas orgánica<br..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "204° - Posca Uni Estuche Regalo Rojo 18 Marcadores Colores Surtidos Imágenes y vídeos de productos (texto alternativo generado por IA)",
+   "kaina_eur": 31.88,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/posca-uni-estuche-regalo-rojo-18-marcadores-colores-surtidos-imagenes-y-videos-de-productos-texto-alternativo-generado-por-ia-2083375",
+   "data": "2026-11-22T12:12Z",
+   "aprasymas": "31,88€ - Amazon    La caja contiene: 18 rotuladores Uni Posca con punta redonda mediana, trazo de 2,5 mm, colores surtidos. Características técnicas: rotulador Uni Posca de t..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "216° - Reloj Citizen Tsuyosa Shore",
+   "kaina_eur": 230.3,
+   "parduotuve": "Amazon.it",
+   "nuoroda": "https://www.chollometro.com/ofertas/reloj-citizen-tsuyosa-shore-2083896",
+   "data": "2026-11-22T12:11Z",
+   "aprasymas": "230,30€ - Amazon.it      Diseño y Materiales:      Caja:  Fabricada en acero inoxidable plateado con acabado cepillado y detalles pulidos.</..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "257° - Battlefield 6 Standard Edition Xbox Series X | Disco | Videojuegos | Castellano",
+   "kaina_eur": 15.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/battlefield-6-standard-edition-xbox-series-x-disco-videojuegos-castellano-2083887",
+   "data": "2026-11-22T12:10Z",
+   "aprasymas": "15,99€ - Amazon    Con hasta  64 jugadores  en sus modos multijugador a gran escala,  Battlefield 6 Standard Edition  llega en  disco para Xbo..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "112° - Final Fantasy Resonance sur Nintendo Switch & Nintendo Switch 2",
+   "kaina_eur": 45.28,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/final-fantasy-resonance-sur-nintendo-switch-nintendo-switch-2-3464036",
+   "data": "2026-11-22T12:08Z",
+   "aprasymas": "45,28€ - Amazon       Des cinématiques en pixel art Que se serait-il passé si FINAL FANTASY avait continué à repousser les limites du pixel art ? En tant que premier FINAL..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "198° - LEGO Star Wars - Estrella de la Muerte, 75419",
+   "kaina_eur": 862.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/lego-star-wars-estrella-de-la-muerte-75419-2076615",
+   "data": "2026-11-22T12:08Z",
+   "aprasymas": "862,99€ - Amazon       LEGO Star Wars 75419 – Estrella de la Muerte    ¡La estación espacial más temida de la galaxia también tiene oferta!    ..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "186° - Maxi-Cosi Titan S Comfort i-Size",
+   "kaina_eur": 149.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/maxi-cosi-titan-s-comfort-i-size-2076644",
+   "data": "2026-11-22T12:08Z",
+   "aprasymas": "149,99€ - Amazon     La silla de coche  Maxi-Cosi Titan S Comfort i-Size  (Grupo 1/2/3, homologada bajo la normativa europea  ECE R129/03 ) está dis..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "199° - Reloj Analógico Solar para Hombre Citizen Eco-Drive (Acero Inoxidable, Esfera Blanca, Fecha)",
+   "kaina_eur": 104.39,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/reloj-analogico-solar-para-hombre-citizen-eco-drive-acero-inoxidable-esfera-blanca-fecha-2076629",
+   "data": "2026-11-22T12:08Z",
+   "aprasymas": "104,39€ - Amazon     ⌚☀️ Reloj analógico clásico de Citizen con tecnología solar Eco-Drive, ideal tanto para el día a día como para vestir con un diseño limpio y atemporal: <p..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "181° - NaturGreen Sirope de Agave Bio 900 ml, Endulzante",
+   "kaina_eur": 7.45,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/naturgreen-sirope-de-agave-bio-900-ml-endulzante-2083695",
+   "data": "2026-11-22T12:06Z",
+   "aprasymas": "7,45€ - Amazon       FORMATO DE 900 ML PARA USO INTENSIVO: pensado para quien endulza a diario o cocina en cantidad. Mejor precio por mililitro que los formatos pequeños,..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "300° - Controlador DJ Hercules DJControl Inpulse 500 (2 decks, Serato / DJUCED).",
+   "kaina_eur": 195.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/controlador-dj-hercules-djcontrol-inpulse-500-2-decks-serato-djuced-2083877",
+   "data": "2026-11-22T12:03Z",
+   "aprasymas": "195€ - Amazon     Preciazo para el  Hercules DJControl Inpulse 500 , el controlador DJ de 2 canales más vendido de su categoría (n.º 1 en Amazon con  4,6..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "293° - Yubico YubiKey 5C NFC – zestaw 2 szt. (USB-C + NFC), firmware 5.8",
+   "kaina_eur": 84.47,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/yubico-yubikey-5c-nfc-zestaw-2-szt-usb-c-nfc-firmware-58-1396933",
+   "data": "2026-11-22T12:02Z",
+   "aprasymas": "359zł - Allegro    Zestaw dwóch oryginalnych kluczy bezpieczeństwa Yubico YubiKey 5C NFC.   Najważniejsze informacje:    2 sztuki w zestawie</l..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "220° - EDIESI, Colchón Coche Hinchable, Colchoneta Inflable Individual para Asiento Trasero, con Bomba de Aire Eléctrica de 12 V y 3 Adaptadores",
+   "kaina_eur": 21.38,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/ediesi-colchon-coche-hinchable-colchoneta-inflable-individual-para-asiento-trasero-con-bomba-de-aire-electrica-de-12-v-y-3-adaptadores-2083724",
+   "data": "2026-11-22T12:02Z",
+   "aprasymas": "21,38€ - Amazon     ESTRUCTURA SOLIDA Y ESTABLE: con dimensiones 145x80 cm y una capacidad de carga de 350 kg, el colchón para coche Ediesi se convierte en una alternativa ideal..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "204° - Reebok Split Flex",
+   "kaina_eur": 26.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/reebok-split-flex-2083754",
+   "data": "2026-11-22T12:02Z",
+   "aprasymas": "26€ - Amazon      Tallas Disponibles : de la  34.5  hasta la  39    Acerca de este artículo     Zapatillas..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "196° - Funko POP! TV: Futurama - Bender - Glow in the Dark (1 in 6 Chase Chance)",
+   "kaina_eur": 9.6,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/funko-pop-tv-futurama-bender-glow-in-the-dark-1-in-6-chase-chance-2076647",
+   "data": "2026-11-22T12:02Z",
+   "aprasymas": "9,60€ - Amazon    TAMAÑO COLECCIONABLE IDEAL - Con una altura aproximada de 3,75 pulgadas (9,5 cm), esta minifigura de vinilo complementa otros artículos de colección y encaja pe..."
+  },
+  {
+   "salis": "ES",
+   "pavadinimas": "186° - Bizak Silencio Extremo, Divertido sonómetro con Forma de micrófono Que detectará cuantas Cosas Eres Capaz de Hacer",
+   "kaina_eur": 19.82,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.chollometro.com/ofertas/bizak-silencio-extremo-divertido-sonometro-con-forma-de-microfono-que-detectara-cuantas-cosas-eres-capaz-de-hacer-2076685",
+   "data": "2026-11-22T12:02Z",
+   "aprasymas": "19,82€ - Amazon      ¿Cuántas cosas eres capaz de hacer en SILENCIO? Acciones cotidianas y retos que se convierten en un increíble desafío para los jugadores  Romper ..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "242° - Bajki robotów - ebook Stanisław Lem",
+   "kaina_eur": 2.35,
+   "parduotuve": "Publio",
+   "nuoroda": "https://www.pepper.pl/promocje/bajki-robotow-ebook-stanislaw-lem-1396400",
+   "data": "2026-11-22T11:57Z",
+   "aprasymas": "10zł - Publio     Witajcie w świecie, gdzie roboty przejęły role bohaterów baśniowych, a średniowieczne zamki zastąpiły kosmiczne stacje! \"Bajki robotów\" Stanisława Lema to fa..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "271° - Silverstone Technology FLP02 — obudowa typu tower inspirowana stylem retro z wydajnym chłodzeniem, SST-FLP02W, 3 KIESZENIE 5,25 153,65 €",
+   "kaina_eur": 156.71,
+   "parduotuve": "Amazon.fr",
+   "nuoroda": "https://www.pepper.pl/promocje/silverstone-technology-flp02-obudowa-typu-tower-inspirowana-stylem-retro-z-wydajnym-chlodzeniem-sst-flp02w-3-kieszenie-525-1396718",
+   "data": "2026-11-22T11:56Z",
+   "aprasymas": "666zł - Amazon.fr     Wysyła i sorzedaje  Amazon.fr  , darmowe zwroty.  Cena z dostawą o 200 PLN tańsza niż w polskim Amazon <..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "259° - Gra Cyberpunk 2077 Ultimate Edition PS5 - Dubbing PL- Płyta Blu-ray",
+   "kaina_eur": 29.97,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/gra-cyberpunk-2077-ultimate-edition-ps5-dubbing-pl-plyta-blu-ray-1395652",
+   "data": "2026-11-22T11:55Z",
+   "aprasymas": "127,36zł - Allegro      Gra na konsolę PS5 z napędem   Cyberpunk 2077: Ultimate Edition   Język gry:  polski ( dubbing )   Wersja:..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "136° - Caisson de basses sans fil Bose Bass Module 500 - Noir",
+   "kaina_eur": 289.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/meilleur-prix-pour-ce-caisson-bose-3464216",
+   "data": "2026-11-22T11:52Z",
+   "aprasymas": "289,99€ - Amazon    Encore une petite réduction supplémentaire pour ce caisson bose 500. Merci le black friday"
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "237° - Smartwatch Amazfit Balance 3",
+   "kaina_eur": 323.89,
+   "parduotuve": "Amazfit Polska",
+   "nuoroda": "https://www.pepper.pl/promocje/amazfit-balance-3-1395839",
+   "data": "2026-11-22T11:47Z",
+   "aprasymas": "1 376,55zł - Amazfit Polska     Amazfit Balance 3  – zaawansowany smartwatch łączący funkcje sportowe, zdrowotne i smart. Oferuje precyzyjny GPS, rozbudowane monitorowanie akty..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "116° - Maestro sur Nintendo Switch",
+   "kaina_eur": 19.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/maestro-sur-nintendo-switch-3457371",
+   "data": "2026-11-22T11:47Z",
+   "aprasymas": "19,99€ - Amazon     - Dirigez un orchestre à l’aide des Joy-Con avec des gestes intuitifs inspirés de la vraie direction d’orchestre.  - Interprétez des grands morceaux iss..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "266° - Kostka Magiczna 3x3 – Profesjonalna Kostka Speed Cube z Regulacją Napięcia",
+   "kaina_eur": 2.59,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/kostka-magiczna-3x3-profesjonalna-kostka-speed-cube-z-regulacja-napiecia-1395893",
+   "data": "2026-11-22T11:46Z",
+   "aprasymas": "10,99zł - Amazon.pl      Informacje o tym produkcie     ⭐ Wysokiej jakości materiały ⭐ – Kostka Speed Cube 3x3 wykonana jest z tworzywa ABS, co zapewnia st..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "150° - PC de bureau Apple Mac Mini avec Puce Apple M6 - 16 Go, 256 Go Argent",
+   "kaina_eur": 892.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/apple-mac-mini-avec-puce-apple-m6-16-go-256-go-argent-3464877",
+   "data": "2026-11-22T11:45Z",
+   "aprasymas": "892€ - Amazon     Baisse de prix de 47€ par rapport au dernier deal :)     UN PETIT GÉNIE – Véritable concentré de puissance, le Mac mini tient dans un format carré..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "276° - Philips Żarowka LED E27 13W = 100W 4000K NEUTRALNA - 6 sztuk",
+   "kaina_eur": 9.64,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/philips-zarowka-led-e27-13w-100w-4000k-neutralna-6-sztuk-1396658",
+   "data": "2026-11-22T11:44Z",
+   "aprasymas": "40,99zł - Allegro    Zestaw 6 żarówek w cenie 40.99 (6.83 zł za sztukę).  Z tego co widzę darmowa dostawa poza smartem.   Korzyści z zastosowania naszego produkt..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "249° - ULTRICS Bezdotykowy Tester Napięcia NCV Detektor Prądu AC z Latarką LED",
+   "kaina_eur": 4.47,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/ultrics-bezdotykowy-tester-napiecia-ncv-detektor-pradu-ac-z-latarka-led-1396740",
+   "data": "2026-11-22T11:42Z",
+   "aprasymas": "18,99zł - Amazon.pl      Bezdotykowe Wykrywanie Napięcia】Tester napięcia NCV umożliwia bezdotykowe wykrywanie napięcia przemiennego AC. Wystarczy zbliżyć końcówkę do gniazdka, ..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "244° - Ładowarka sieciowa Anker Prime 250 W GaN 6 portów wyświetlacz LCD",
+   "kaina_eur": 103.29,
+   "parduotuve": "x-kom",
+   "nuoroda": "https://www.pepper.pl/promocje/ladowarka-sieciowa-anker-prime-250-w-gan-6-portow-wyswietlacz-lcd-1396470",
+   "data": "2026-11-22T11:42Z",
+   "aprasymas": "439zł - x-kom       Superszybkie ładowanie z mocą 250 W: Ciesz się wydajnym ładowaniem za pomocą tej biurkowej stacji ładującej o mocy 250 W. Dzięki czterem portom USB-C..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "303° - [zbiorcza okazja] czapki New Era. Duży wybór / ceny od 47 zl",
+   "kaina_eur": 11.06,
+   "parduotuve": "Lounge by Zalando",
+   "nuoroda": "https://www.pepper.pl/promocje/zbiorcza-okazja-czapki-new-era-duzy-wybor-ceny-od-47-zl-1396827",
+   "data": "2026-11-22T11:41Z",
+   "aprasymas": "47zł - Lounge by Zalando    47 zl https://www.zalando-lounge.pl/campaigns/ZZO4SU5/articles/ZZO31J834-Q00  60 zl https://www.zalando-lounge.pl/campaigns/ZZO4T25/articles..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "122° - Darksiders Fury's Collection sur Xbox One et Series (Dématérialisé - Store Hongrie)",
+   "kaina_eur": 3.2,
+   "parduotuve": "Xbox Store",
+   "nuoroda": "https://www.dealabs.com/bons-plans/darksiders-furys-collection-sur-xbox-one-et-series-dematerialise-store-hongrie-3463508",
+   "data": "2026-11-22T11:40Z",
+   "aprasymas": "3,20€ - Xbox Store     Darksiders Warmastered Edition  Revivez ce classique incontournable des jeux d’action-aventure sur les consoles de nouvelle génération !Trahi par les fo..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "159° - Shampouineuse Bissell SpotClean ProHeat, 330W (Occasion : État acceptable, Excellent état : 57,07€)",
+   "kaina_eur": 57.07,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/reconditionne-shampouineuse-bissell-spotclean-proheat-330w-etat-acceptable-excellent-etat-5707eur-3464827",
+   "data": "2026-11-22T11:37Z",
+   "aprasymas": "46,48€ - Amazon    La remise de 15% se fait au panier.  État du produit : Acceptable   Certains produits ont cette description  :  L'article ..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "269° - Dwarflab Mini smart teleskop",
+   "kaina_eur": 367.2,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/dwarflab-mini-smart-teleskop-1396060",
+   "data": "2026-11-22T11:35Z",
+   "aprasymas": "1 560,60zł - Amazon.pl    Znalezione na  amazon.pl  - smart teleskop DwarfLab Mini chyba w najniższej dotąd cenie. Sam płaciłem kilka miesięc..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "130° - Carte mère Gigabyte B850 EAGLE WIFI6E",
+   "kaina_eur": 131.76,
+   "parduotuve": "Cdiscount",
+   "nuoroda": "https://www.dealabs.com/bons-plans/carte-mere-gigabyte-b850-eagle-wifi6e-3464766",
+   "data": "2026-11-22T11:35Z",
+   "aprasymas": "131,76€ - Cdiscount    GIGABYTE B850 EAGLE WIFI6E Carte Mère - AMD Ryzen 9000 Series CPUs, VRM numérique 8+2+2 phases, jusqu'à 8200MHz DDR5 (OC), 1xPCIe 5.0 + 2xPCIe 4.0 M.2, LAN GbE,..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "293° - Lampa sufitowa 24 W, 2400 lm, 4000 K, neutralna CRI> 80, LED bez migotania, Ø 38 cm",
+   "kaina_eur": 5.74,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/lampa-sufitowa-24-w-2400-lm-4000-k-neutralna-cri-80-led-bez-migotania-o-38-cm-1396693",
+   "data": "2026-11-22T11:31Z",
+   "aprasymas": "24,40zł - Amazon.pl      Lampa sufitowa LED genatu, dostępna na Amazon za 24,40, to nowoczesne rozwiązanie oświetleniowe, które łączy w sobie  wysoką wydajność świetlną<..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "153° - Google Pixel 11 256 GB Obsidian (6,3\" OLED 120 Hz, Tensor G6, 12 GB RAM, 5x Tele, 7 Jahre Updates)",
+   "kaina_eur": 607.1,
+   "parduotuve": "Amazon FR",
+   "nuoroda": "https://www.preisjaeger.at/deals/google-pixel-11-256-gb-obsidian-63-oled-120-hz-tensor-g6-12-gb-ram-5x-tele-7-jahre-updates-373095",
+   "data": "2026-11-22T11:28Z",
+   "aprasymas": "607,10€ - Amazon FR     Googles neues Pixel 11 kostet bei Amazon Frankreich gerade 599 €. Der niedrigste Preis der letzten 30 Tage lag dort bei 819 €. Mit 5,70 € Versand und 2,40 € ..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "134° - Tomb Raider: Definitive Survivor Trilogy sur Xbox One et Series (dématérialisé)",
+   "kaina_eur": 9.99,
+   "parduotuve": "Xbox Store",
+   "nuoroda": "https://www.dealabs.com/bons-plans/tomb-raider-definitive-survivor-trilogy-sur-xbox-one-et-series-dematerialise-3463273",
+   "data": "2026-11-22T11:26Z",
+   "aprasymas": "9,99€ - Xbox Store    • Collection de trois jeux • Tomb Raider: Definitive Edition • Rise of the Tomb Raider: 20 Year Celebration • Shadow of the Tomb Raider: Definiti..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "122° - Blu Ray 4K Une Histoire Vraie de David Lynch",
+   "kaina_eur": 11.97,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/blu-ray-4k-une-histoire-vraie-david-lynch-3463962",
+   "data": "2026-11-22T11:24Z",
+   "aprasymas": "11,97€ - Amazon    Pour moi, son meilleur film. D’une simplicité et d’une émotion extraordinaires Attention, pas de langue française mais les sous titres.  À prop..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "173° - Ceinture Jack & Jones",
+   "kaina_eur": 10.49,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/ceinture-jack-jones-3464828",
+   "data": "2026-11-22T11:21Z",
+   "aprasymas": "10,49€ - Amazon    Pour ceux qui recherchent une ceinture pas trop chère   À propos de ce produit    Type d'article : Ceinture  Fermeture : ..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "261° - Globus Clementoni 50848, interaktywny (w opisie również globus Playshifu Orboot Odkrywca za 99,99zł)",
+   "kaina_eur": 23.53,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/globus-clementoni-50848-interaktywny-w-opisie-rowniez-globus-playshifu-orboot-odkrywca-za-9999zl-1388847",
+   "data": "2026-11-22T11:20Z",
+   "aprasymas": "239,99zł - Allegro     Globus Clementoni fizyczno-polityczny śr. 30 cm  Interaktywny EduGlobus Digital  Nowy Eksplorator Świata w czasie rzeczywistym jest pełen informacj..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "171° - Spatule Maryse De Buyer - 25 cm, +260°C",
+   "kaina_eur": 10.93,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/de-buyer-spatule-maryse-a-haute-temperature-260c-longueur-25-cm-3464861",
+   "data": "2026-11-22T11:18Z",
+   "aprasymas": "10,93€ - Amazon    MatériauSilicone CouleurNoir MarqueDE BUYER Taille27 cm Dimensions du produit27L x 5,4l centimètres Peut passer au lave-vaisselleOui<br..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "290° - Trylogia filmowa \"Władca Pierścieni \" polskie napisy i,, Hobbit\"w 4K UHD blu-ray Dolby Atmos",
+   "kaina_eur": 76.95,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/trylogia-filmowa-wladca-pierscieni-polskie-napisy-i-hobbitw-4k-uhd-blu-ray-dolby-atmos-1396808",
+   "data": "2026-11-22T11:17Z",
+   "aprasymas": "327,04zł - Amazon.pl    Tytuł polski: Władca Pierścieni | Hobbit Tytuł oryginalny: The Lord of the Rings | Hobbit Rok produkcji: 2001-2003 Ilość płyt: 15 HDR: Dolby..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "132° - Centre de sécurité eufy HomeBase S380 - Stockage local jusqu’à 16 To, chiffrement avancé, Wi-Fi, sans frais (vendeur tiers)",
+   "kaina_eur": 109.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/centre-de-securite-eufy-homebase-s380-stockage-local-jusqua-16-to-chiffrement-avance-wi-fi-sans-frais-3464166",
+   "data": "2026-11-22T11:17Z",
+   "aprasymas": "109€ - Amazon      IA BionicMind et rapports de sécurité quotidiens : Fini le flot de notifications inutiles grâce à une reconnaissance faciale ultra-précise. La HomeBase ..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "134° - Dishonored Definitive Edition sur Xbox One & Xbox Series X|S (Dématérialisé)",
+   "kaina_eur": 4.99,
+   "parduotuve": "Xbox Store",
+   "nuoroda": "https://www.dealabs.com/bons-plans/dishonored-definitive-edition-sur-xbox-one-xbox-series-xs-dematerialise-3464160",
+   "data": "2026-11-22T11:15Z",
+   "aprasymas": "4,99€ - Xbox Store     Dishonored Definitive Edition sur Xbox, ça vaut le coup pour qui ne l'a jamais fait ?  La Definitive Edition regroupe le jeu développé par Arkane Studio..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "355° - Odkurzacz pionowy Xiaomi G20 Lite 215W biały | Black Weeks",
+   "kaina_eur": 58.59,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/odkurzacz-pionowy-xiaomi-g20-lite-215w-bialy-black-weeks-1396272",
+   "data": "2026-11-22T11:10Z",
+   "aprasymas": "249zł - Allegro    Darmowa dostawa z Allegro Smart!  Okazja będzie dostępna jutro o 09:00 (22.11.26).    Odkurzacz pionowy Xiaomi G20 Lite 215..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "150° - Rhum Vieux Pura Vida XO - 70 CL, 40 % Vol.",
+   "kaina_eur": 32.34,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/rhum-vieux-pura-vida-xo-70-cl-40-3465055",
+   "data": "2026-11-22T11:02Z",
+   "aprasymas": "32,34€ - Amazon     Le premier rhum de l’histoire du costa rica. Médailles : Argent 2025 au Spirits Selection by Concours Mondial de Bruxelles, Or 2025 au Spirits Business<..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "284° - Procesor AMD Ryzen 5 5600 3,5 GHz 35 MB BOX AM4 100-100000927 BOX",
+   "kaina_eur": 116.19,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/procesor-amd-ryzen-5-5600-35-ghz-35-mb-box-am4-100-100000927-box-1396654",
+   "data": "2026-11-22T11:01Z",
+   "aprasymas": "493,80zł - Allegro    Dobra cena za ten procesor. Podstawka AM4"
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "158° - [mobizone/MediaMarkt] Apple iPhone 18 Pro Max 256 GB zum aktuellen Tiefstpreis (versch. Farben)",
+   "kaina_eur": 1.499,
+   "parduotuve": "MediaMarkt",
+   "nuoroda": "https://www.preisjaeger.at/deals/mediamarkt-apple-iphone-18-pro-max-256-gb-verschiedene-farben-20-eur-uber-magenta-moments-sparen-373078",
+   "data": "2026-11-22T10:55Z",
+   "aprasymas": "1.499€ - MediaMarkt      mobizone ..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "116° - Philips Airfryer 3000 NA330/00 (6,2 l) um 72,98 €",
+   "kaina_eur": 72.98,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/philips-airfryer-3000-na33000-62-l-um-7298-eur-373089",
+   "data": "2026-11-22T10:54Z",
+   "aprasymas": "72,98€ - Amazon     Bei  Amazon.at  gibt's gerade den Philips Airfryer 3000 mit 6,2-Liter-Korb um 72,98 € inklusive Paketsteuer, ver..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "140° - Jeu de société Les Charlatans de Belcastel",
+   "kaina_eur": 23.73,
+   "parduotuve": "BCD Jeux",
+   "nuoroda": "https://www.dealabs.com/bons-plans/les-charlatans-de-belcastel-3464671",
+   "data": "2026-11-22T10:48Z",
+   "aprasymas": "23,73€ - BCD Jeux    • Jeu où l’on incarne un guérisseur • Achat d’ingrédients pour préparer des potions • Présence d’explosions • Dès 10 ans"
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "122° - Apple AirPods Max 2 Mitternacht, Retourenkauf Zustand \"Hervorragend\" (H2 Chip, ANC, USB-C Lossless, Live Übersetzung)",
+   "kaina_eur": 402.31,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/apple-airpods-max-2-mitternacht-retourenkauf-zustand-hervorragend-h2-chip-anc-usb-c-lossless-live-ubersetzung-373065",
+   "data": "2026-11-22T10:42Z",
+   "aprasymas": "402,31€ - Amazon     Apples neue Over-Ear-Kopfhörer gibt es gerade deutlich günstiger. Bei Amazon Retourenkauf kosten die AirPods Max 2 in Mitternacht im Zustand \"Hervorragend\" 4..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "108° - Philips Avent Dampfsterilisator und Trockner Premium SCF293/00 (6 Fläschchen, 6 Min. Sterilisieren, Trocknen mit Heißluft)",
+   "kaina_eur": 70.58,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/philips-avent-dampfsterilisator-und-trockner-premium-scf29300-6-flaschchen-6-min-sterilisieren-trocknen-mit-heissluft-373071",
+   "data": "2026-11-22T10:42Z",
+   "aprasymas": "70,58€ - Amazon     Für alle Eltern mit Fläschchenalltag: Der Philips Avent Sterilisator mit Trockenfunktion kostet bei Amazon gerade 70,58 €. Mit der Paketsteuer zahlt ihr nach..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "161° - Apple Mac mini M6 (12-Core CPU, 12-Core GPU, 16 GB RAM, 256 GB SSD, Wi-Fi 7)",
+   "kaina_eur": 844.42,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/apple-mac-mini-m6-12-core-cpu-12-core-gpu-16-gb-ram-256-gb-ssd-wi-fi-7-373073",
+   "data": "2026-11-22T10:42Z",
+   "aprasymas": "844,42€ - Amazon     Der neue Mac mini mit Apples M6 Chip kostet bei Amazon gerade 842,02 €. Mit der Paketsteuer zahlt ihr nach Österreich  844,42 € . Die UVP lieg..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "366° - Rue Broca Theoreme Pour Homme | woda perfumowana 90ml (darmowa dostawa Allegro Smart) lub 64,60zł + dostawa 9,99zł",
+   "kaina_eur": 15.2,
+   "parduotuve": "Allegro",
+   "nuoroda": "https://www.pepper.pl/promocje/rue-broca-theoreme-pour-homme-woda-perfumowana-90ml-darmowa-dostawa-allegro-smart-lub-6460zl-dostawa-999zl-1396810",
+   "data": "2026-11-22T10:42Z",
+   "aprasymas": "64,99zł - Allegro    Darmowa dostawa Smart. Taniej ze sklepu  Lunga  - 64,60zł ale z płatną dostawą 9,9..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "303° - Polar Grit X2 Pro - Zegarek GPS , EKG ze Szkłem Szafirowym",
+   "kaina_eur": 380.94,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/polar-grit-x2-pro-outdoorowy-zegarek-gps-ze-szklem-szafirowym-1395363",
+   "data": "2026-11-22T10:36Z",
+   "aprasymas": "1 619zł - Amazon.pl       [Odkryj więcej] Polar Grit X2 Pro to najbardziej zaawansowane narzędzie do nawigacji, jakie kiedykolwiek stworzyliśmy, zapewniające wyjątkowe doświad..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "447° - -15% na akcesoria przy zakupie za min. 99 zł - tylko w aplikacji!",
+   "kaina_eur": 23.29,
+   "parduotuve": "IKEA",
+   "nuoroda": "https://www.pepper.pl/kupony/15-na-akcesoria-za-min-99-zl-w-aplikacji-1396719",
+   "data": "2026-11-22T10:36Z",
+   "aprasymas": "IKEA     <a href=\"https://www.ikea.com/pl/pl/files/pdf/6d/42/6d42abb1/regulamin-promocji-15-proc-na-akcesoria-za-min-99-zl-w-aplikacji-ponad-5000-produktow-z-rabatem-..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "149° - Manette Gaming Sans fil Turtle Beach Rematch - Star pour Nintendo Switch 2 Nintendo Switch Lite, OLED, Phosphorescent",
+   "kaina_eur": 29.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/turtle-beach-rematch-manette-gaming-sans-fil-star-pour-nintendo-switch-2-nintendo-switch-lite-oled-phosphorescent-3463142",
+   "data": "2026-11-22T10:34Z",
+   "aprasymas": "29,99€ - Amazon    Description Manette sans fil Turtle Beach® Rematch™ : Super Mario Star – Nintendo Switch™, Nintendo Switch™ Lite et Nintendo Switch™ - Modèle OLED, Nintend..."
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "258° - Plaque pâtissière De Buyer en aluminium perforée aux bords pincés 40 x 30 cm",
+   "kaina_eur": 10.67,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.dealabs.com/bons-plans/de-buyer-plaque-patissiere-en-aluminium-perforee-aux-bords-pinces-40-x-30-cm-3464850",
+   "data": "2026-11-22T10:31Z",
+   "aprasymas": "10,67€ - Amazon    CouleurArgenté MatériauAluminium Taille40 x 30 cm MarqueDE BUYER Dimensions du produit40L x 30l x 0,1H centimètres Poids de l'article12..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "278° - Buty trekkingowe Columbia Fairbanks Mid Waterproof – czarne, rozmiar 44 EU – 280,23 zł (-27%)",
+   "kaina_eur": 65.94,
+   "parduotuve": "Amazon.pl",
+   "nuoroda": "https://www.pepper.pl/promocje/buty-trekkingowe-columbia-fairbanks-mid-waterproof-czarne-rozmiar-44-eu-28023-zl-27-1396314",
+   "data": "2026-11-22T10:30Z",
+   "aprasymas": "280,23zł - Amazon.pl    Męskie buty trekkingowe Columbia Fairbanks Mid w czarnym kolorze Black/Shark, dostępne w rozmiarze 44 EU za 280,23 zł na Amazon.pl. Model sprawdzi się zarówno p..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "282° - Klawiatura mechaniczna 8BitDo RET00489 Retro C64 Edition | 8BitDo Retro R8 Mouse za 169zł w opisie",
+   "kaina_eur": 39.76,
+   "parduotuve": "Proshop",
+   "nuoroda": "https://www.pepper.pl/promocje/klawiatura-mechaniczna-8bitdo-ret00489-retro-c64-edition-8bitdo-retro-r8-mouse-za-169zl-w-opisie-1396746",
+   "data": "2026-11-22T10:27Z",
+   "aprasymas": "299zł - Proshop     Do zestawu można jeszcze zakupić myszkę - kwota 169zł. <a href=\"https://www.proshop.pl/Myszka/8BitDo-Retro-R8-Mouse-C64-Edition-Myszka-do-gier-Optyczny-..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "269° - Kenia: Diamonds Malindi 4.5**** - All Inclusive (9 dni, 24.11 do 02.12, transfer w cenie) Katowice 2506 zł/os. (Warszawa 2560 zł) w Rainbow.",
+   "kaina_eur": 589.65,
+   "parduotuve": "Rainbow",
+   "nuoroda": "https://www.pepper.pl/promocje/kenia-diamonds-malindi-4-all-inclusive-9-dni-2411-do-0212-transfer-w-cenie-katowice-2506-zlos-warszawa-2560-zl-w-rainbow-1396815",
+   "data": "2026-11-22T10:26Z",
+   "aprasymas": "2 608zł - Rainbow     Żeby oferta się wczytała trzeba kliknąć oferta dostępna w innej konfiguracji.    Mega oferta Last Minute na szybki wypad w ciepłe..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "207° - Iphone Air 256GB",
+   "kaina_eur": 799.0,
+   "parduotuve": "",
+   "nuoroda": "https://www.preisjaeger.at/deals/iphone-air-256gb-373087",
+   "data": "2026-11-22T10:25Z",
+   "aprasymas": "799€    Bei Media Markt bekommt man derzeit das IPhone Air mit 256GB in verschiedenen Farben um 799€, Versand ist gratis"
+  },
+  {
+   "salis": "FR",
+   "pavadinimas": "191° - Selection de BD a 4,99€ ex : Lucky Luke - Tome 29, Des barbelés sur la prairie",
+   "kaina_eur": 4.99,
+   "parduotuve": "Fnac",
+   "nuoroda": "https://www.dealabs.com/bons-plans/selection-de-bd-a-499eur-ex-lucky-luke-tome-29-des-barbeles-sur-la-prairie-3464730",
+   "data": "2026-11-22T10:23Z",
+   "aprasymas": "4,99€ - Fnac     Comme tout les 6 mois une sélection de BD a petits prix, cette fois ci a 4,99€. Du Gaston, du Spirou, des tuniques bleus, ....  Album cartonnés.</p..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "371° - LEGO Speed Champions 77263 BMW M3 E30 ( możliwie 57,99 zl ) [ Wehikuł czasu z Powrotu do przyszłości 77256/ Nissan Skyline GT-R R34 76917 ]",
+   "kaina_eur": 14.12,
+   "parduotuve": "InPost",
+   "nuoroda": "https://www.pepper.pl/promocje/lego-speed-champions-77263-bmw-m3-e30-mozliwie-5799-zl-wehikul-czasu-z-powrotu-do-przyszlosci-77256-nissan-skyline-gt-r-r34-76917-1396816",
+   "data": "2026-11-22T10:10Z",
+   "aprasymas": "59,99zł - InPost    Okazja w aplikacji InPost  Należy przejść przez link lub wyszukać danego modelu LEGO Zobacz LEGO Speed Champions 77263 BMW M3 E30 358 elementów w apli..."
+  },
+  {
+   "salis": "PL",
+   "pavadinimas": "344° - Smartfon Google Pixel 11 Pro 12/256GB Obsydian | dostępne wszystkie kolory | wersja 512GB za 4 126,56 zł",
+   "kaina_eur": 970.96,
+   "parduotuve": "Amazon.fr",
+   "nuoroda": "https://www.pepper.pl/promocje/smartfon-google-pixel-11-pro-12256gb-obsydian-dostepne-wszystkie-kolory-wersja-512gb-za-4-12656-zl-1396830",
+   "data": "2026-11-22T10:10Z",
+   "aprasymas": "3 772,88zł - Amazon.fr      Aby zobaczyć okazję należy ustawić adres wysyłki na niemiecki    Brak bezpośredniej dostawy, wymagany pośrednik np. <a href=\"https:..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "522° - Hervis 15€ Rabatt auf alles",
+   "kaina_eur": 15.0,
+   "parduotuve": "Hervis",
+   "nuoroda": "https://www.preisjaeger.at/deals/hervis-15eur-rabatt-auf-alles-371041",
+   "data": "2026-11-22T09:58Z",
+   "aprasymas": "Hervis    In der neuen Hervis-App erhält man für die Registrierung 1.000 Punkte, was einem Sofortrabatt von 10 € entspricht. Dieser kann direkt im Shop eingelöst werden.<..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "125° - Bodum Teebereiter Bistro 1lt, bis 22.11. mit 20% bei mueller",
+   "kaina_eur": 11.99,
+   "parduotuve": "Müller",
+   "nuoroda": "https://www.preisjaeger.at/deals/bodum-teebereiter-bistro-1lt-bis-2211-mit-20-bei-mueller-373048",
+   "data": "2026-11-22T09:20Z",
+   "aprasymas": "11,99€ - Müller     Der Bodum Teebereiter Bistro ermöglicht eine stilvolle und unkomplizierte Zubereitung von aromatischem Tee. Sein modernes Design macht ihn zu einem Blickfang..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "127° - (Sammel-Deal) Timberland Classic 2-Eye Bootsschuhe aus Leder (+ viele weitere klassische Modelle!) + 10% ab 2 Stück",
+   "kaina_eur": 68.9,
+   "parduotuve": "Zalando Lounge",
+   "nuoroda": "https://www.preisjaeger.at/deals/sammel-deal-timberland-classic-2-eye-bootsschuh-aus-leder-373039",
+   "data": "2026-11-22T09:12Z",
+   "aprasymas": "68,90€ - Zalando Lounge     Der Klassiker unter den Bootsschuhen zum Spitzenpreis: Bei Lounge by Zalando gibt es den Timberland Classic 2-Eye gerade in drei Farben um je  68,90 €..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "281° - Apple AirPods Pro 3 (ANC, Herzfrequenzmessung, Live Übersetzung, IP57, USB-C)",
+   "kaina_eur": 192.99,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/apple-airpods-pro-3-anc-herzfrequenzmessung-live-ubersetzung-ip57-usb-c-373072",
+   "data": "2026-11-22T09:11Z",
+   "aprasymas": "192,99€ - Amazon     Apples aktuelle Top-In-Ears gibt es bei Amazon gerade um 190,58 €. Mit der Paketsteuer nach Österreich zahlt ihr  192,98 € . Die UVP liegt bei..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "189° - Samsung Galaxy Z Flip7 FE 128 GB Schwarz (Klapp-Smartphone, 6,7\" 120 Hz, 50 MP, 7 Jahre Updates)",
+   "kaina_eur": 469.9,
+   "parduotuve": "Hartlauer",
+   "nuoroda": "https://www.preisjaeger.at/deals/samsung-galaxy-z-flip7-fe-128-gb-schwarz-klapp-smartphone-67-120-hz-50-mp-7-jahre-updates-373064",
+   "data": "2026-11-22T08:57Z",
+   "aprasymas": "469,90€ - Hartlauer     Klapp-Handy zum Einstiegspreis: Das Samsung Galaxy Z Flip7 FE hat ein 6,7-Zoll-Faltdisplay mit 120 Hz, ein 3,4-Zoll-Außendisplay, eine 50-MP-Kamera und Galax..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "189° - Hot Wheels Adventskalender 2026 (24 Türchen, 10 Autos 1:64, exklusives Yeti-Schneekugelauto)",
+   "kaina_eur": 13.99,
+   "parduotuve": "Smyths Toys",
+   "nuoroda": "https://www.preisjaeger.at/deals/hot-wheels-adventskalender-2026-24-turchen-10-autos-164-exklusives-yeti-schneekugelauto-373070",
+   "data": "2026-11-22T08:51Z",
+   "aprasymas": "13,99€ - Smyths Toys     Rechtzeitig vor dem 1. Dezember gibt es den Hot Wheels Adventskalender 2026 bei Smyths Toys um  13,99 € . Das ist weniger als die Hälfte des P..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "123° - MARSHALL Monitor III A.N.C. Over-ear-Bluetooth Kopfhörer",
+   "kaina_eur": 179.0,
+   "parduotuve": "MediaMarkt",
+   "nuoroda": "https://www.preisjaeger.at/deals/marshall-monitor-iii-anc-over-ear-bluetooth-kopfhorer-372988",
+   "data": "2026-11-22T08:33Z",
+   "aprasymas": "179€ - MediaMarkt     Hallo Leute,  Bei Mediamarkt erhaltet ihr derzeit den MARSHALL Monitor III A.N.C. Over-ear-Bluetooth Kopfhörer um 179€.  Der Preisvergleich beginnt..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "140° - Einhell Original Starter Kit PXC 2,5 Ah 18 V | 720 W | Akku + 3 A Ladegerät | 50 min Ladezeit | PXC | Li-Ion | Lademanagement | LED-Anzeige",
+   "kaina_eur": 17.52,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/einhell-original-starter-kit-pxc-25-ah-18-v-720-w-akku-3-a-ladegerat-50-min-ladezeit-pxc-li-ion-lademanagement-led-anzeige-373034",
+   "data": "2026-11-22T08:28Z",
+   "aprasymas": "17,52€ - Amazon      Geizhals   ..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "249° - Bosch DIY PushDrive Akku-Stabschrauber inkl. Werkzeugbox + Akku 1.5Ah + Zubehör",
+   "kaina_eur": 34.38,
+   "parduotuve": "OTTO Versand",
+   "nuoroda": "https://www.preisjaeger.at/deals/bosch-diy-pushdrive-akku-stabschrauber-inkl-werkzeugbox-akku-15ah-zubehor-372901",
+   "data": "2026-11-22T07:18Z",
+   "aprasymas": "34,38€ - OTTO Versand     Hallo Leute,  Bei Otto erhaltet ihr derzeit den Bosch DIY PushDrive Akku-Stabschrauber inkl. Werkzeugbox + Akku 1.5Ah + Zubehör um 34,28€ inklusive Vers..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "353° - [Lidl Plus] Silvercrest Monsieur Cuisine Smart -> nach Abzug \"Cashback\" quasi 349€",
+   "kaina_eur": 349.0,
+   "parduotuve": "Lidl",
+   "nuoroda": "https://www.preisjaeger.at/deals/lidl-plus-monsieur-cuisine-smart-nach-abzug-cashback-quasi-349eur-373057",
+   "data": "2026-11-22T04:19Z",
+   "aprasymas": "399€ - Lidl    ab MO 30.11 bis MI 2.12 gibt's den Monsieur Cuisine Smart  (=Nachfolger von Connect)  mit der Lidl Plus App abzüglich 50€ Lidl Cashback/Gutschein* quasi ..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "237° - Bis zu 50 % Rabatt auf Abos für Google AI",
+   "kaina_eur": 24.99,
+   "parduotuve": "Google",
+   "nuoroda": "https://www.preisjaeger.at/deals/bis-zu-50-rabatt-auf-abos-fur-google-ai-373051",
+   "data": "2026-11-22T01:37Z",
+   "aprasymas": "24,99€ - Google      Black Friday: Bis zu 50 % Rabatt auf Google AI Plus und Google AI Pro  Google hat seine Black-Friday-Aktion für die Google-AI-Abonnements gestartet. A..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "149° - FRESSNAPF 30% „Exklusiv bei Fressnapf“ Marken + PAYBACK 5FACH °P",
+   "kaina_eur": 39.0,
+   "parduotuve": "Fressnapf",
+   "nuoroda": "https://www.preisjaeger.at/deals/fressnapf-30-exklusiv-bei-fressnapf-marken-payback-5fach-p-372987",
+   "data": "2026-11-21T23:17Z",
+   "aprasymas": "Fressnapf     Heute kam der Newsletter von Fressnapf mit 30% Rabatt auf die Eigenmarken „Exklusiv bei Fressnapf“ ab einem Bestellwert von 39 €, gültig online und in der Ap..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "446° - Amazon Glücksrad",
+   "kaina_eur": 5.0,
+   "parduotuve": "Amazon",
+   "nuoroda": "https://www.preisjaeger.at/deals/amazon-glucksrad-373055",
+   "data": "2026-11-21T22:48Z",
+   "aprasymas": "Amazon    Ab heute gibt es das Amazon Glücksrad wo ihr jeden Tag Gutscheine gewinnen könnt.  21.11. 5€ Playmobil Gutschein 22.11. kein Gutschein"
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "328° - Zgonc YPL Notfall-Kurbelradio mit Solar, Powerbank & LED-Licht – 2000 mAh",
+   "kaina_eur": 5.0,
+   "parduotuve": "Zgonc",
+   "nuoroda": "https://www.preisjaeger.at/deals/zgonc-ypl-notfall-kurbelradio-mit-solar-powerbank-led-licht-2000-mah-373056",
+   "data": "2026-11-21T22:30Z",
+   "aprasymas": "5€ - Zgonc        Produktdetails:       Aufladung per Handkurbel    Aufladung über integriertes Solarpanel </li..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "172° - [Bipa] durgol Universal Entkalker 750ml",
+   "kaina_eur": 2.5,
+   "parduotuve": "BIPA",
+   "nuoroda": "https://www.preisjaeger.at/deals/bipa-durgol-universal-entkalker-373050",
+   "data": "2026-11-21T21:49Z",
+   "aprasymas": "2,50€ - BIPA    Bei Bipa in den Filialen im Sale. Vergleichspreis dm 3,95 In vielen Filialen noch lagernd. Click & collect möglich.  Einfach online den Besta..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "147° - Philips Hue Starter Set mit Bridge Pro und 2 White and Color Ambiance E27 Lampen - 1100 lm",
+   "kaina_eur": 109.95,
+   "parduotuve": "tink",
+   "nuoroda": "https://www.preisjaeger.at/deals/philips-hue-starter-set-mit-bridge-pro-und-2-white-and-color-ambiance-e27-lampen-1100-lm-373027",
+   "data": "2026-11-21T18:32Z",
+   "aprasymas": "109,95€ - tink     Hallo Leute,  Bei tink erhaltet ihr derzeit das Philips Hue Starter Set mit Bridge Pro und 2 White and Color Ambiance E27 Lampen - 1100 lm um 109,95€.</..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "146° - Apple FineWoven Wallet mit MagSafe in Schwarz (mit \"Wo ist?\"-Ortung, für bis zu 3 Karten)",
+   "kaina_eur": 34.9,
+   "parduotuve": "Galaxus.at",
+   "nuoroda": "https://www.preisjaeger.at/deals/apple-finewoven-wallet-mit-magsafe-in-schwarz-mit-wo-ist-ortung-fur-bis-zu-3-karten-373042",
+   "data": "2026-11-21T18:32Z",
+   "aprasymas": "34,90€ - Galaxus.at     Original Apple Wallet zum guten Preis: Die Apple FineWoven Wallet mit MagSafe hält per Magnet hinten am iPhone und bietet Platz für bis zu drei Karten. Über ..."
+  },
+  {
+   "salis": "AT",
+   "pavadinimas": "477° - 500 Müller Blüten im Wert von 5€ bei Einkauf von 50€",
+   "kaina_eur": 5.0,
+   "parduotuve": "Müller",
+   "nuoroda": "https://www.preisjaeger.at/gutschein/500-muller-bluten-im-wert-von-5eur-bei-einkauf-von-50eur-373046",
+   "data": "2026-11-21T18:05Z",
+   "aprasymas": "Müller     Gerade ganz unten auf der Startseite der Müller App entdeckt:  Im Aktionszeitraum vom 20.11. -24.12.26 erhalten Sie einmalig 500 Müller Blüten im Wert v..."
+  },
   {
    "salis": "PL",
    "pavadinimas": "203° - Bateria umywalkowa nablatowa wysoka Kuchinox Alanis BQI_825D (czarna / różowe złoto)",
@@ -1782,951 +2727,6 @@
    "nuoroda": "https://www.preisjaeger.at/deals/tp-link-tri-band-be9300-wifi-7-router-archer-be550-zum-bf-gunstiger-bei-amazon-372948",
    "data": "2026-11-20T09:22Z",
    "aprasymas": "159,26€ - Amazon     Den  TP-Link Tri-Band BE9300 WiFi 7 Router Archer BE550  bekommt ihr aktuell um 159 Euro bei Amazon. Der Router funkt auch im 6 Ghz-Netz und i..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "148° - HP Color Laser MFP 178nwg Multifunktions-Farblaserdrucker, Drucken, Kopieren, Scannen, Wi-Fi, Ethernet, USB, Smart App",
-   "kaina_eur": 224.24,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/hp-color-laser-mfp-178nwg-multifunktions-farblaserdrucker-drucken-kopieren-scannen-wi-fi-ethernet-usb-smart-app-372953",
-   "data": "2026-11-20T09:22Z",
-   "aprasymas": "224,24€ - Amazon     Den  HP Color Laser MFP 178nwg Multifunktions-Farblaserdrucker, Drucken, Kopieren, Scannen, Wi-Fi, Ethernet, USB, Smart App  bekommt ihr aktue..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "186° - (Antizyklisch kaufen - Spitzenpreis) Weber Spirit E-210 Gasgrill - 2 Brenner, Snap-Jet-Zündung, Gusseisenrost",
-   "kaina_eur": 304.91,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/antizyklisch-kaufen-spitzenpreis-weber-spirit-e-210-gasgrill-2-brenner-snap-jet-zundung-gusseisenrost-372955",
-   "data": "2026-11-20T09:22Z",
-   "aprasymas": "304,91€ - Amazon     Weber-Qualität zum Winterpreis: Den Weber Spirit E-210 in der aktuellen Version mit geschlossenem Unterschrank, Snap-Jet-Zündung und porzellanemailliertem Gu..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "266° - OOONO Co-Driver NO2 Gefahren- und Blitzerwarner fürs Auto (wiederaufladbar, CarPlay & Android Auto)",
-   "kaina_eur": 47.27,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/ooono-co-driver-no2-gefahren-und-blitzerwarner-furs-auto-wiederaufladbar-carplay-android-auto-372945",
-   "data": "2026-11-20T08:23Z",
-   "aprasymas": "47,27€ - Amazon     Der beliebte Verkehrswarner zum Bestpreis: Der OOONO Co-Driver NO2 warnt per Ton und LED vor Gefahrenstellen, Staus und Geschwindigkeitskontrollen. Die Meldu..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "152° - Bono Elektrische Pfanne mit Glasdeckel D: ca. 42 cm um 19 Euro bei Möbelix",
-   "kaina_eur": 19.0,
-   "parduotuve": "Möbelix",
-   "nuoroda": "https://www.preisjaeger.at/deals/bono-elektrische-pfanne-mit-glasdeckel-d-ca-42-cm-um-19-euro-bei-mobelix-372894",
-   "data": "2026-11-20T08:21Z",
-   "aprasymas": "19€ - Möbelix     Die  Bono Elektrische  Pfanne mit Glasdeckel D: ca. 42 cm bekommt ihr aktuell um 19 Euro bei Möbelix. Abholung vor Ort ist möglich (Verfügbark..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "154° - Philips 75PQS7801 75 Zoll QLED 4K Smart TV (Modell 2026, HDR10+, Dolby Atmos, Titan OS)",
-   "kaina_eur": 589.0,
-   "parduotuve": "alza",
-   "nuoroda": "https://www.preisjaeger.at/deals/philips-75pqs7801-75-zoll-qled-4k-smart-tv-modell-2026-hdr10-dolby-atmos-titan-os-372936",
-   "data": "2026-11-20T08:16Z",
-   "aprasymas": "589€ - alza     Großer Fernseher zum kleinen Preis: Der Philips 75PQS7801 bringt 191 cm Bilddiagonale mit QLED-Panel, 4K-Auflösung, HDR10+ und Dolby Atmos ins Wohnzimmer. Er..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "101° - Lecteur à Distance PS Portal - pour PS5 (Sélection de Magasins - Via 50€ sur Carte de Fidélité)",
-   "kaina_eur": 50.0,
-   "parduotuve": "Courses U",
-   "nuoroda": "https://www.dealabs.com/bons-plans/lecteur-a-distance-ps-portal-pour-ps5-selection-de-magasins-via-50eur-sur-carte-de-fidelite-3461736",
-   "data": "2026-11-19T12:57Z",
-   "aprasymas": "199,99€ - Courses U     Bonjour à tous,  Je sais que certains ont du mal à se séparer de leur console surtout en ce jour de sortie de GTA 6, mais rassurez-vous, car je viens av..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "184° - Clementoni - Puzzle de 1500 Piezas para Adultos y niños, ilustración Dragon Ball con póster Incluido",
-   "kaina_eur": 11.19,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/clementoni-puzzle-de-1500-piezas-para-adultos-y-ninos-ilustracion-dragon-ball-con-poster-incluido-2078449",
-   "data": "2026-11-19T12:55Z",
-   "aprasymas": "11,19€ - Amazon     Para los amantes de los mangas : la línea de rompecabezas Special Series ofrece ilustraciones únicas y originales, inspiradas en las tendencias ..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "190° - Dune: Awakening Edición Day 1 para PS5 — Supervivencia y mundo abierto",
-   "kaina_eur": 30.5,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/dune-awakening-edicion-day-1-para-ps5-supervivencia-y-mundo-abierto-2078397",
-   "data": "2026-11-19T12:53Z",
-   "aprasymas": "30,50€ - Amazon      Dune: Awakening  es un juego de supervivencia en mundo abierto ambientado en el universo de Dune, que combina exploración, construcción, crea..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "229° - Bic Cristal Original 8373631 - Caja de 50 Unidades, Bolígrafos Punta Media (1,0 Mm), Color Negro",
-   "kaina_eur": 9.03,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/bic-cristal-original-8373631-caja-de-50-unidades-boligrafos-punta-media-10-mm-color-negro-2076557",
-   "data": "2026-11-19T12:53Z",
-   "aprasymas": "9,03€ - Amazon     Poco que decir, descuentazo que creo que hay que aprovechar. Los bolis de toda la vida a buen precio   Reseñas del producto"
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "180° - Televisor Smart TV Philips Ambilight 65PQS8501/12 de 65\" 4K QLED (Pixel Precise Ultra HD, Titan OS, Dolby Atmos, HDR10+)",
-   "kaina_eur": 437.19,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/televisor-smart-tv-philips-ambilight-65pqs850112-de-65-4k-qled-pixel-precise-ultra-hd-titan-os-dolby-atmos-hdr10-2078291",
-   "data": "2026-11-19T12:51Z",
-   "aprasymas": "437,19€ - Amazon     El espectacular televisor inteligente de gran formato de  Philips , concebido para transformar tu salón en una auténtica sala de cine con su i..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "196° - Monopoly Juegos de Mesa One Piece 2-6 Jugadores Desde 12+ Años",
-   "kaina_eur": 33.92,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/monopoly-juegos-de-mesa-one-piece-2-6-jugadores-desde-12-anos-2078438",
-   "data": "2026-11-19T12:51Z",
-   "aprasymas": "33,92€ - Amazon    Monopoly es un ludo juego de mesa ideal para niños de 12 años y también para jugadores mayores. El juego para 2-8 personas consiste en comprar propiedades, cobr..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "117° - Machine à Café Vertuo Nespresso Krups Next Gris Claire + 52 Capsules Offertes",
-   "kaina_eur": 49.0,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/machine-a-cafe-vertuo-nespresso-krups-next-gris-claire52-capsules-offertes-3461222",
-   "data": "2026-11-19T12:50Z",
-   "aprasymas": "49€ - Amazon       5 tailles de tasse, allant du Ristretto au Mug pour s'adapter à toutes vos envies.    Un assortiment de 52 capsules offert : Sélection de..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "210° - Vinilo Doble Foo Fighters - The Colour And The Shape (2 LP)",
-   "kaina_eur": 19.19,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/vinilo-doble-foo-fighters-the-colour-and-the-shape-2-lp-2078284",
-   "data": "2026-11-19T12:50Z",
-   "aprasymas": "19,19€ - Amazon    Buena oferta en Amazon para el disco de vinilo doble (2 LP) de Foo Fighters, The Colour And The Shape, rebajado a 19,19€ frente a su precio mediano de 31,99€ (-..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "195° - Nike Air Max Fire Sneakers hombres- Tallas- 44, 45, 46",
-   "kaina_eur": 60.0,
-   "parduotuve": "Sports Direct",
-   "nuoroda": "https://www.chollometro.com/ofertas/nike-air-max-fire-sneakers-hombres-tallas-44-45-46-2078188",
-   "data": "2026-11-19T12:49Z",
-   "aprasymas": "60€ - Sports Direct     Renueva cualquier atuendo con las zapatillas Air Max Fire de Nike, una marca conocida por su innovación y calidad. El icónico logo Swoosh proporciona un símb..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "212° - Art Of Nature Lattafa Pride Set Perfume Unisex 100 ml + Miniatura + desodorante 200ml",
-   "kaina_eur": 19.83,
-   "parduotuve": "AliExpress",
-   "nuoroda": "https://www.chollometro.com/ofertas/art-of-nature-lattafa-pride-set-perfume-unisex-eau-de-parfum-100-ml-miniatura-2078146",
-   "data": "2026-11-19T12:45Z",
-   "aprasymas": "19,83€ - AliExpress      Fragancia unisex versátil: Ideal para cualquier ocasión, día o noche, con equilibrio perfecto entre frescura y calidez.   Alta duración garantiza..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "203° - DOUBLE DRAGON REVIVE - EDICIÓN LIMITADA - PS5",
-   "kaina_eur": 19.95,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/double-dragon-revive-edicion-limitada-ps5-2078374",
-   "data": "2026-11-19T12:42Z",
-   "aprasymas": "19,95€ - Amazon       JUEGO BETL-SCROLL: La serie Double Dragon ha definido el género de acción belt-scroll desde que llegó a las salas de juegos en 1987. ¡Ahora regresa c..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "282° - Elden Ring: Shadow Of The Erdtree - PS5",
-   "kaina_eur": 39.59,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/httpswwwamazonesdpb0cw4hzzrcth1-2078375",
-   "data": "2026-11-19T12:40Z",
-   "aprasymas": "39,59€ - Amazon     ELDEN RING, ganador de cientos de premios, incluidos Juego del Año en The Game Awards y Mejor Juego del Año en Golden Joystick Awards, trae una nueva aventur..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "211° - American Tourister Take2Cabin - Wizz Air/Vueling Bolsa de Cabina 30 x 20 x 40 cm, 26,5 l, 0,60 kg, Equipaje de Mano",
-   "kaina_eur": 28.49,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/american-tourister-take2cabin-wizz-airvueling-bolsa-de-cabina-30-x-20-x-40-cm-265-l-060-kg-equipaje-de-mano-2076992",
-   "data": "2026-11-19T12:40Z",
-   "aprasymas": "28,49€ - Amazon     Take2Cabin está de vuelta en la ciudad con un nuevo look y un espíritu más aventurero que nunca. Ideal para todos los aviadores de bajo costo que buscan un p..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "258° - Pluszowa przytulanka Pokémon PKW3723 Charizard 30 cm zabawka – oficjalnie licencjonowana zabawka Pokemon",
-   "kaina_eur": 13.36,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/pluszowa-przytulanka-pokemon-pkw3723-charizard-30-cm-zabawka-oficjalnie-licencjonowana-zabawka-pokemon-1394206",
-   "data": "2026-11-19T12:39Z",
-   "aprasymas": "56,77zł - Amazon.pl     Wysyła i sprzedaje Amazon. Darmowa dostawa z Amazon Prime.  <a href=\"https://allegro.pl/produkt/pluszak-pokemon-charizard-jazwares-pomarancz..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "252° - SONOFF AirGuard TH SNZB-02DR2 Czujnik temperatury i wilgotności Zigbee ,2 sztuki",
-   "kaina_eur": 17.52,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/sonoff-airguard-th-snzb-02dr2-czujnik-temperatury-i-wilgotnosci-zigbee-2-sztuki-1393980",
-   "data": "2026-11-19T12:37Z",
-   "aprasymas": "74,45zł - Amazon.pl    Znalazłem fajna cenę na termometry. Tu akurat w dwupaku. Poniżej szybkie info od AI bo nie mam czasu w pracy samemu robić opisu :P  ️ SONOFF SNZB-02D..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "221° - PlayStation - Auriculares inalámbricos PULSE Elite con micrófono retráctil y cancelación de ruido por IA",
-   "kaina_eur": 69.98,
-   "parduotuve": "Miravia",
-   "nuoroda": "https://www.chollometro.com/ofertas/playstation-auriculares-inalambricos-pulse-elite-con-microfono-retractil-y-cancelacion-de-ruido-por-ia-2078259",
-   "data": "2026-11-19T12:37Z",
-   "aprasymas": "69,98€ - Miravia     Preciazo para los  auriculares inalámbricos PlayStation PULSE Elite  ofrecen una experiencia de sonido envolvente y detallada para disfrutar a..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "193° - SONOFF Sensor de Movimiento Zigbee SNZB-03P,Sensor de Alarma Antirrobo,Rotación 110º, Requiere Hub - Control App",
-   "kaina_eur": 7.84,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/sonoff-sensor-de-movimiento-zigbee-snzb-03psensor-de-alarma-antirroborotacion-110o-requiere-hub-control-app-2078424",
-   "data": "2026-11-19T12:36Z",
-   "aprasymas": "7,84€ - Amazon       【5-Sec Faster Detection】SONOFF Sensor de Movimiento Zigbee Encienda automáticamente las luces inmediatamente cuando pase, y apague la luz después de ..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "257° - Trenażer rowerowy Wahoo KICKR CORE 2 Smart ze Zwift Cog/Click (3 lata gwarancji)",
-   "kaina_eur": 413.88,
-   "parduotuve": "Decathlon",
-   "nuoroda": "https://www.pepper.pl/promocje/trenazer-rowerowy-wahoo-kickr-core-2-smart-ze-zwift-cogclick-1394349",
-   "data": "2026-11-19T12:34Z",
-   "aprasymas": "1 759zł - Decathlon    Świetny trenażer w przyzwoitej cenie. W sam raz na zimę pod dachem :)   *** Dodatkowo Decathlon daje 3 LATA GWARANCJI, co oczywiście podnosi atra..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "117° - Folie Minérale devient Free-to-play sur PC (Dématérialisé - Steam)",
-   "kaina_eur": 7.49,
-   "parduotuve": "Steam",
-   "nuoroda": "https://www.dealabs.com/bons-plans/folie-minerale-sur-pc-devient-free-to-play-dematerialise-3461072",
-   "data": "2026-11-19T12:34Z",
-   "aprasymas": "Steam     Le jeu Folie Minérale (Mineral Madness en Anglais) vient de passer de 7.49€ à Gratuit ! (y)      À propos de ce jeu  Bienvenue dans l’arè..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "198° - LEGO Icons The Lord of the Rings: Minas Tirith 11377",
-   "kaina_eur": 583.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/lego-icons-the-lord-of-the-rings-minas-tirith-11377-2076746",
-   "data": "2026-11-19T12:34Z",
-   "aprasymas": "583,99€ - Amazon     Evoca la grandiosidad de Gondor con el set LEGO® Icons El Señor de los Anillos: Minas Tirith™ (11377): una llamativa pieza de exposición para adultos y fans ..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "256° - [ZESTAWIENIE] Buty do biegania Adidas Adizero EVO SL - różne kolory i rozmiary (ceny do 380zł)",
-   "kaina_eur": 89.41,
-   "parduotuve": "BestSecret",
-   "nuoroda": "https://www.pepper.pl/promocje/zestawienie-buty-do-biegania-adidas-evo-sl-rozne-kolory-i-rozmiary-ceny-do-380zl-1394092",
-   "data": "2026-11-19T12:33Z",
-   "aprasymas": "288,30zł - BestSecret     Adidas Adizero EVO SL w różnych kolorach i rozmiarach, ceny z kodem zaczynają się od 288,30 Obowiązuje kod BFD dający rabat 25%  Dobra okazja na le..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "256° - Książeczka dźwiękowa dla dzieci - \"Słuchaj i oglądaj. Pojazdy. Ponad 50 dźwięków\" za 33,68zł / \"Zoo\" za 20,53zł i inne w opisie @ Amazon.pl",
-   "kaina_eur": 7.92,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/ksiazeczka-dzwiekowa-dla-dzieci-sluchaj-i-ogladaj-pojazdy-ponad-50-dzwiekow-za-3368zl-zoo-za-2053zl-at-amazonpl-1394309",
-   "data": "2026-11-19T12:32Z",
-   "aprasymas": "33,68zł - Amazon.pl      Książeczka dźwiękowa dla dzieci - \"Słuchaj i oglądaj. Pojazdy. Ponad 50 dźwięków\" za 33,68zł.   Dostawa 8,99zł, darmowa z Prime.  <..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "194° - Turtle Beach Rematch Mando para XBOX & PC",
-   "kaina_eur": 16.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/turtle-beach-rematch-mando-para-xbox-pc-2077469",
-   "data": "2026-11-19T12:32Z",
-   "aprasymas": "16,99€ - Amazon    Dimensiones del producto: 12 x 16 x 6,5 cm; 280 g Fecha de lanzamiento: 8 abril 2026 ASIN: B0GTBVX67G Número de modelo del producto: TBC-2001-05<..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "203° - Jordan AIR JORDAN 1 UNISEX. Tallas 36 a 51. Descuento SOLO APLICABLE PARA MIEMBROS PLUS",
-   "kaina_eur": 53.0,
-   "parduotuve": "Zalando",
-   "nuoroda": "https://www.chollometro.com/ofertas/jordan-air-jordan-1-unisex-tallas-36-a-51-descuento-solo-aplicable-para-miembros-plus-2078352",
-   "data": "2026-11-19T12:32Z",
-   "aprasymas": "53€ - Zalando    https://www.zalando.es/jordan-air-jordan-1-zapatillas-midnight-sprucelight-orewood-brownpale-ivory-joc12o006-k19.html https://www.zalando.es/jordan-air-jor..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "217° - Lego Icons El Señor de los Anillos: Barad-dûr 10333",
-   "kaina_eur": 412.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/lego-icons-el-senor-de-los-anillos-barad-dur-10333-2077183",
-   "data": "2026-11-19T12:31Z",
-   "aprasymas": "412,99€ - Amazon       Maqueta LEGO Icons El Señor de los Anillos: Barad-dûr: Crea una réplica meticulosamente detallada de la siniestra fortaleza del universo ESDLA, con e..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "249° - Vinilo Pink Floyd Pink Floyd The Dark Side Of The Moon (50th Anniversary)",
-   "kaina_eur": 22.19,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/vinilo-pink-floyd-pink-floyd-the-dark-side-of-the-moon-50th-anniversary-2077172",
-   "data": "2026-11-19T12:31Z",
-   "aprasymas": "22,19€ - Amazon    Uno de los álbumes más icónicos e influyentes de la historia, The Dark Side Of The Moon de Pink Floyd celebra su 50 aniversario. El álbum se desarrolló en parte..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "263° - Consola Switch 2 BATERIA EXTRAIBLE 256GB + Super Mario Galaxy 1 & 2 + Monopoly Star Wars",
-   "kaina_eur": 469.0,
-   "parduotuve": "Carrefour",
-   "nuoroda": "https://www.chollometro.com/ofertas/consola-switch-2-bateria-extraible-256gb-super-mario-galaxy-1-2-monopoly-star-wars-2076921",
-   "data": "2026-11-19T12:28Z",
-   "aprasymas": "469€ - Carrefour     version v2 de consola con la bateria extraible"
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "135° - Home Trainer Wahoo Kickr Core V2 - avec Zwift Cog & Click",
-   "kaina_eur": 379.99,
-   "parduotuve": "BIKE24",
-   "nuoroda": "https://www.dealabs.com/bons-plans/wahoo-kickr-core-v2-avec-zwift-cog-and-click-3461623",
-   "data": "2026-11-19T12:26Z",
-   "aprasymas": "379,99€ - BIKE24    Le KICKR CORE 2 avec Zwift Cog et Click vous ouvre les portes du Fun en cyclisme Indoor! Avec le Zwift Cog préinstallé, il dispose de tout ce dont vous avez bes..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "144° - Pack Philips Hue TV Camera Sync, Bandeau TV 55-65\" & Lampe à Poser Play",
-   "kaina_eur": 169.99,
-   "parduotuve": "Boulanger",
-   "nuoroda": "https://www.dealabs.com/bons-plans/pack-philips-hue-tv-camera-sync-bandeau-tv-55-65-pouces-lampe-a-poser-play-3461703",
-   "data": "2026-11-19T12:26Z",
-   "aprasymas": "169,99€ - Boulanger    Pour ceux qui veulent se faire un vrai setup gaming ou home cinéma immersif, ce pack est particulièrement intéressant à ce prix !   On retrouve la no..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "216° - Ghost of Tsushima Director's Cut PS5",
-   "kaina_eur": 32.98,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/ghost-of-tsushima-directors-cut-ps5-2078322",
-   "data": "2026-11-19T12:26Z",
-   "aprasymas": "32,98€ - Amazon       LA BELLEZA DE TSUSHIMA: En este mundo abierto de acción y aventura, recorrerás vastos campos y grandes extensiones de terreno en los que encontrarás ..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "120° - TV 43\" TCL 43T6C - QLED, 4K UHD, Fire TV, HDR10+, Dolby Vision & Atmos",
-   "kaina_eur": 208.74,
-   "parduotuve": "Amazon.de",
-   "nuoroda": "https://www.dealabs.com/bons-plans/tv-43-tcl-43t6c-qled-4k-uhd-fire-tv-hdr10-dolby-vision-atmos-3460868",
-   "data": "2026-11-19T12:25Z",
-   "aprasymas": "208,74€ - Amazon.de      Téléviseur TCL 43T6C 43 pouces QLED 4K UHD, Fire TV, Dolby Vision, HDR10+ et Dolby Atmos   Découvrez le TCL 43T6C, un téléviseur QLED de..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "128° - SSD interne NVMe M.2 Netac NV3000 1 To - PCIe 3.0 x4, jusqu'à 3500 Mo/s",
-   "kaina_eur": 107.82,
-   "parduotuve": "AliExpress",
-   "nuoroda": "https://www.dealabs.com/bons-plans/ssd-interne-nvme-m2-netac-nv3000-1-to-pcie-30-x4-jusqua-3500-mos-3461670",
-   "data": "2026-11-19T12:24Z",
-   "aprasymas": "107,82€ - AliExpress     Un SSD NVMe au format M.2 2280 avec dissipateur intégré, adapté pour redonner de la réactivité à un PC portable ou de bureau sans se ruiner.   ➡ </em..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "208° - It Takes Two | Nintendo Switch 2 gkc",
-   "kaina_eur": 22.23,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/it-takes-two-nintendo-switch-2-gkc-2078376",
-   "data": "2026-11-19T12:21Z",
-   "aprasymas": "22,23€ - Amazon     Embárcate en la aventura más loca de tu vida con It Takes Two, un juego de plataformas multigénero creado exclusivamente para jugar en cooperativo  Méte..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "125° - Hachoir manuel Tefal 5 secondes - 900 ml - Lames en acier inoxydable",
-   "kaina_eur": 14.49,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/hachoir-manuel-tefal-5-secondes-900-ml-lames-en-acier-inoxydable-3460260",
-   "data": "2026-11-19T12:17Z",
-   "aprasymas": "14,49€ - Amazon      > Caractéristiques :     Marque: Tefal    Dimensions du produit: 13,7L x 13,7l x 14,4H centimètres    M..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "129° - Lost Soul Aside sur PS5",
-   "kaina_eur": 13.14,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/lost-soul-aside-sur-ps5-3461720",
-   "data": "2026-11-19T12:15Z",
-   "aprasymas": "13,14€ - Amazon     Porté pendant des années par un développeur solo avant de rejoindre les PlayStation Studios, Lost Soul Aside mêle action-RPG nerveux et combos à la vitesse d..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "292° - Telewizor 55 cali QLED Philips 55PUS8450 4K UHD czarny | Black Weeks",
-   "kaina_eur": 329.18,
-   "parduotuve": "Allegro",
-   "nuoroda": "https://www.pepper.pl/promocje/telewizor-55-cali-qled-philips-55pus8450-4k-uhd-czarny-black-weeks-1394347",
-   "data": "2026-11-19T12:12Z",
-   "aprasymas": "1 399zł - Allegro     Okazja będzie dostępna jutro o 09:00 (20.11.26).    Telewizor 55 cali QLED Philips 55PUS8450 4K UHD czarny   ..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "211° - Asmodee 7 Wonders Duel, Juego de Civilizaciones",
-   "kaina_eur": 19.39,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/asmodee-7-wonders-duel-juego-de-civilizaciones-2078165",
-   "data": "2026-11-19T12:11Z",
-   "aprasymas": "19,39€ - Amazon    Asmodee 7 Wonders Duel, Juego de Civilizaciones  El juego de mesa  Asmodee 7 Wonders Duel , disponible en Amazon por  19.39</strong..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "118° - Lego Batman : L'Héritage du Chevalier Noir sur Nintendo Switch 2",
-   "kaina_eur": 35.75,
-   "parduotuve": "E.Leclerc",
-   "nuoroda": "https://www.dealabs.com/bons-plans/lego-batman-lheritage-du-chevalier-noir-sur-nintendo-switch-2-3460936",
-   "data": "2026-11-19T12:09Z",
-   "aprasymas": "35,75€ - E.Leclerc     Quelqu'un cherche un Batman en briques sur Switch 2, avec six coéquipiers jouables en prime ?  LEGO Batman : L'Héritage du Chevalier Noir suit Bruce Way..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "394° - Videojuego Elden Ring Standard Edition para PlayStation 5 (edición física, RPG acción mundo abierto, 4K/60 FPS, DualSense)",
-   "kaina_eur": 16.45,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/elden-ring-standard-edition-ps5-2078360",
-   "data": "2026-11-19T12:07Z",
-   "aprasymas": "16,45€ - Amazon     La aclamada obra maestra de rol y acción en mundo abierto desarrollada por  FromSoftware  y publicada por  Bandai Namco , cread..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "131° - Perceuse-visseuse Bosch 18V GSR 18V-52 - avec 2 batteries 4Ah et 2Ah - chargeur - L-BOX",
-   "kaina_eur": 139.0,
-   "parduotuve": "Cdiscount",
-   "nuoroda": "https://www.dealabs.com/bons-plans/perceuse-visseuse-18v-gsr-18v-52-bosch-avec-2-batteries-4ah-et-2ah-chargeur-l-box-3459608",
-   "data": "2026-11-19T12:06Z",
-   "aprasymas": "139€ - Cdiscount    Bon deal il me semble pour cette bosch pro. Vos avis éclairés ?"
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "365° - Karta pamięci micro SD Express 256 GB SAMSUNG - Nintendo Switch 2",
-   "kaina_eur": 47.97,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/karta-pamieci-micro-sd-express-256-gb-samsung-nintendo-switch-2-1394359",
-   "data": "2026-11-19T12:03Z",
-   "aprasymas": "203,89zł - Amazon.pl     Nintendo Samsung mircoSD EXPRESS Card 256 GB Nintendo  Nintendo Samsung microSD EXPRESS Card 256 GB to zaawansowana karta pamięci dedykowana d..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "129° - Brotato sur Nintendo Switch 1|2 (DLC Abyssal Terrors à -30% - Dématérialisé)",
-   "kaina_eur": 3.49,
-   "parduotuve": "Nintendo",
-   "nuoroda": "https://www.dealabs.com/bons-plans/brotato-sur-nintendo-switch-12-dlc-abyssal-terrors-a-30-dematerialise-3460411",
-   "data": "2026-11-19T12:02Z",
-   "aprasymas": "3,49€ - Nintendo      Version Nintendo Switch 1 ->  <a href=\"https://www.nintendo.com/fr-fr/Jeux/Jeux-a-telecharger-sur-Nintendo-Switch/Brotato-2373736.html\" ta..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "334° - LEGO Super Mario 72046 Game Boy + LEGO Speed Champions 77243 Coche F1 Oracle Red Bull Racing (Cuentas Nuevas)",
-   "kaina_eur": 37.88,
-   "parduotuve": "Cdiscount",
-   "nuoroda": "https://www.chollometro.com/ofertas/lego-super-mario-72046-game-boy-lego-speed-champions-77243-coche-f1-oracle-red-bull-racing-cuentas-nuevas-2078282",
-   "data": "2026-11-19T12:02Z",
-   "aprasymas": "37,88€ - Cdiscount    Hay que añadir este lego <a href=\"https://www.cdiscount.com/juniors/jeux-de-construction/lego-r-speed-champions-77243-voiture-f1-r-oracle/f-12083-lego77243.html..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "280° - Citizen Eco-Drive AW5000-24E",
-   "kaina_eur": 111.55,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/citizen-eco-drive-aw5000-24e-2077988",
-   "data": "2026-11-19T12:00Z",
-   "aprasymas": "111,55€ - Amazon       Movimiento Calibre J810 Eco-Drive: genera energía a partir de luz natural y artificial, sin necesidad de cambiar la batería      L..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "231° - Sennheiser ACCENTUM Plus Wireless Auriculares con Bluetooth - Audio función de Carga rápida, autonomía de 50 Horas y cancelación de Ruido",
-   "kaina_eur": 90.08,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/sennheiser-accentum-plus-wireless-auriculares-con-bluetooth-audio-funcion-de-carga-rapida-autonomia-de-50-horas-y-cancelacion-de-ruido-2078047",
-   "data": "2026-11-19T11:59Z",
-   "aprasymas": "90,08€ - Amazon    Tecnología de carga rápida: Obtén 5 horas de sonido estéreo de la mejor calidad con solo 10 minutos de carga, con una duración total de la batería inigualable d..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "200° - Lacoste Reloj con Movimiento de Cuarzo de Tres Manecillas para Niños Colección LACOSTE.12.12 Kids con Correa de Silicona disponible en verde",
-   "kaina_eur": 39.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/lacoste-reloj-con-movimiento-de-cuarzo-de-tres-manecillas-para-ninos-coleccion-lacoste1212-kids-con-correa-de-silicona-disponible-en-verde-2076183",
-   "data": "2026-11-19T11:59Z",
-   "aprasymas": "39,99€ - Amazon    Lacoste Reloj con Movimiento de Cuarzo de Tres Manecillas para Niños Colección LACOSTE.12.12 Kids con Correa de Silicona  El  reloj Lacoste de la ..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "115° - Enceinte Portable Sonos Play",
-   "kaina_eur": 279.0,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/enceinte-portable-sonos-play-3456996",
-   "data": "2026-11-19T11:58Z",
-   "aprasymas": "279€ - Amazon    La nouvelle Sonos Play passe à 279€ sur Amazon et sur d’autres sites (Darty, Sonos). Elle est disponible en blanc et en noir.  Pour ceux qui hésitaien..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "144° - Jeu de Société Asmodee - Azul Mini",
-   "kaina_eur": 11.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/jzu-de-societe-azul-mini-3461225",
-   "data": "2026-11-19T11:58Z",
-   "aprasymas": "11,99€ - Amazon    La version voyage de ce magnifique jeu ❤️  À propos de ce produit    AZUL EN VERSION VOYAGE COMPACTE : Emportez partout avec vous..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "126° - Shampouineuse injecteur-extracteur Feider - 800 W, aspiration 17 kpa",
-   "kaina_eur": 69.9,
-   "parduotuve": "Brico Dépôt",
-   "nuoroda": "https://www.dealabs.com/bons-plans/shampouineuse-injecteur-extracteur-800-w-aspiration-17-kpa-3409144",
-   "data": "2026-11-19T11:58Z",
-   "aprasymas": "69,90€ - Brico Dépôt    SHAMPOUINEUSE 800W 17 KPA FEIDER  Puissance de 800 W pour un nettoyage efficace et rapide. Aspiration puissante de 17 kPa garantissant une extrac..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "133° - Perceuse sans fil 18V Brushless Bosch Professional GSR 18V-50 -55Nm, 2 batteries 2.0Ah, Chargeur, Sac + Coffret embouts 43 pcs",
-   "kaina_eur": 119.99,
-   "parduotuve": "Cdiscount",
-   "nuoroda": "https://www.dealabs.com/bons-plans/perceuse-sans-fil-18v-brushless-bosch-professional-gsr-18v-50-55nm-2-batteries-20ah-chargeur-sac-coffret-embouts-43-pcs-3459073",
-   "data": "2026-11-19T11:53Z",
-   "aprasymas": "119,99€ - Cdiscount     Excellent prix pour du Bosch Pro  Code  10DES99  à entrer   > Livraison gratuite    Caractéristiques..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "115° - Montre automatique Orient RA-AC0F14L30B",
-   "kaina_eur": 193.49,
-   "parduotuve": "Timeshop24",
-   "nuoroda": "https://www.dealabs.com/bons-plans/montre-automatique-orient-ra-ac0f14l30b-3459348",
-   "data": "2026-11-19T11:50Z",
-   "aprasymas": "193,49€ - Timeshop24     Description Orient RA-AC0F14L30B La montre pour Homme Orient RA-AC0F14L30B est un compagnon élégant de la série de modèles Contemporary Automatique..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "127° - LEGO Star Wars 75382 UCS TIE-Abfangjäger und weitere Star Wars Sets",
-   "kaina_eur": 166.9,
-   "parduotuve": "Proshop",
-   "nuoroda": "https://www.preisjaeger.at/deals/lego-star-wars-75382-ucs-tie-abfangjager-372865",
-   "data": "2026-11-19T11:46Z",
-   "aprasymas": "166,90€ - Proshop     Bei proshop gibt es aktuell das LEGO Star Wars UCS Set 75382 TIE-Abfangjäger für 166.90 inklusive Versand  UCS Todesstern 75419 für 739€ inklusive Versa..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "113° - Pack de 3 Lumière Philips Hue Spots GU10 - White and Color Ambiance, LED intel, 400 lm, 4,2 W",
-   "kaina_eur": 99.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/philips-hue-spots-gu10-pack-de-3-lumiere-white-and-color-ambiance-led-intel-400-lm-42-w-3457386",
-   "data": "2026-11-19T11:44Z",
-   "aprasymas": "99,99€ - Amazon      ÉCLAIRAGE DE SPOT CONNECTÉ - Spot LED GU10 conçu pour un éclairage directionnel ; convient aux installations d'éclairage d'accentuation et à l'éclairage..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "161° - Texas Instruments TI-Nspire CX II-T Grafikrechner ohne CAS",
-   "kaina_eur": 57.9,
-   "parduotuve": "iBOOD",
-   "nuoroda": "https://www.preisjaeger.at/deals/texas-instruments-ti-nspire-cx-ii-t-grafikrechner-ohne-cas-372876",
-   "data": "2026-11-19T11:42Z",
-   "aprasymas": "57,90€ - iBOOD     Hallo Leute,  Bei iBood erhaltet ihr derzeit den Texas Instruments TI-Nspire CX II-T Grafikrechner ohne CAS um 57,90€ inklusive Versand.  Der Preis..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "143° - Barbie Dream Camper mit Camping-Zubehör",
-   "kaina_eur": 52.81,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/barbie-dream-camper-mit-camping-zubehor-372883",
-   "data": "2026-11-19T11:42Z",
-   "aprasymas": "52,81€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit das Barbie Dream Camper mit Camping-Zubehör um 52,81€.  Der Preisvergleich beginnt bei <a href=\"https..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "176° - Clair Obscur : Expedition 33 & Elden Ring sur PS5",
-   "kaina_eur": 51.51,
-   "parduotuve": "Amazon.es",
-   "nuoroda": "https://www.dealabs.com/bons-plans/pack-clair-obscur-expedition-33-elden-ring-sur-ps5-3461485",
-   "data": "2026-11-19T11:42Z",
-   "aprasymas": "51,51€ - Amazon.es     GOTY 2025 + GOTY 2022 pour 25€ chacun et en version physique (y)  vendu et expédié par  Amazon.es   <s..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "121° - Miele Waschmaschine WEG895 WPS PowerWash & TwinDos & Steam PRODUKT-NR.: 656775196",
-   "kaina_eur": 999.0,
-   "parduotuve": "0815.at",
-   "nuoroda": "https://www.preisjaeger.at/deals/miele-waschmaschine-weg895-wps-powerwashtwindossteam-produkt-nr-656775196-372813",
-   "data": "2026-11-19T11:40Z",
-   "aprasymas": "999€ - 0815.at     Die  Miele  W1 Excellence WEG895WPS PowerWash & TwinDos & Steam Frontlader  kann man bei  0815  zum Bestpreis von ..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "187° - Grand Theft Auto VI (GTA 6) sur PS5 (Code In The Box) - Maurepas (78)",
-   "kaina_eur": 60.0,
-   "parduotuve": "Auchan",
-   "nuoroda": "https://www.dealabs.com/bons-plans/gta-6-pour-ps5-auchan-maurepas-3461700",
-   "data": "2026-11-19T11:40Z",
-   "aprasymas": "60€ - Auchan    Gta 6 pour PS5 chez Auchan Maurepas 78 Peut etre national"
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "152° - Ecran PC 27\" TCL 27P2A - Mini-LED, QHD 2560x1440, 200Hz, 1ms, HDR 600, FreeSync Premium, Pied réglable",
-   "kaina_eur": 189.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/ecran-pc-27-tcl-27p2a-mini-led-qhd-2560x1440-200hz-1ms-hdr-600-freesync-premium-pied-reglable-3461513",
-   "data": "2026-11-19T11:39Z",
-   "aprasymas": "189,99€ - Amazon     Prix sympa pour cet Ecran PC 27\" TCL 27P2A - Mini-LED, QHD (2560x1440), 200Hz, 1ms, HDR 600, FreeSync Premium, Pied réglable . (y)    ..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "114° - Fiskars PowerGear X Bypass-Astschere LX98-L, 80 cm",
-   "kaina_eur": 57.85,
-   "parduotuve": "Geizhals",
-   "nuoroda": "https://www.preisjaeger.at/deals/fiskars-powergear-x-bypass-astschere-lx98-l-80-cm-372826",
-   "data": "2026-11-19T11:38Z",
-   "aprasymas": "57,85€ - Geizhals     Hallo Leute,  Bei Amazon erhaltet ihr derzeit die Fiskars PowerGear X Bypass-Astschere LX98-L, 80 cm um 57,85€.  Der Preisvergleich beginnt bei <a ..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "101° - Play-Doh Kitchen Creations Pizzabäckerei, 4 x 57g Dosen und 2 x 28g Dosen Knetmasse, Bastel-Set mit Küche und Werkzeuge zum Backen",
-   "kaina_eur": 13.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/play-doh-kitchen-creations-pizzabackerei-4-x-57g-dosen-und-2-x-28g-dosen-knetmasse-bastel-set-mit-kuche-und-werkzeuge-zum-backen-372828",
-   "data": "2026-11-19T11:38Z",
-   "aprasymas": "13,99€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit das Play-Doh Kitchen Creations Pizzabäckerei Set um 13,99€.  Der Preisvergleich beginnt bei <a href=\"..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "101° - s.Oliver: 25% Rabatt auf alles inklusive Sale für Member z.b. Winterjacke um 45€",
-   "kaina_eur": 45.0,
-   "parduotuve": "s.Oliver",
-   "nuoroda": "https://www.preisjaeger.at/gutschein/soliver-22-rabatt-auf-alles-inklusive-sale-fur-member-zb-winterjacke-um-45eur-372874",
-   "data": "2026-11-19T11:38Z",
-   "aprasymas": "s.Oliver    Hallo Leute,   Bei s.Oliver erhaltet ihr aktuell 25% Rabatt auf alles inklusive Sale. Die Aktion gilt nur für Member. Solltet ihr noch ..."
-  },
-  {
-   "salis": "FR",
-   "pavadinimas": "137° - Figurine Spiderman JADA métal",
-   "kaina_eur": 8.26,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.dealabs.com/bons-plans/figurine-spiderman-jada-metal-3460454",
-   "data": "2026-11-19T11:36Z",
-   "aprasymas": "8,26€ - Amazon    Figurine sympathique et de qualité ! Il y a également en promo Hulk à 6€60 https://amzn.eu/d/0aqDeQ9t  À propos de ce produit <br ..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "241° - Smartfon Apple iPhone 17 Pro 256GB Pomarańczowy",
-   "kaina_eur": 1008.24,
-   "parduotuve": "Kaufland",
-   "nuoroda": "https://www.pepper.pl/promocje/smartfon-apple-iphone-17-pro-256gb-pomaranczowy-1394128",
-   "data": "2026-11-19T11:34Z",
-   "aprasymas": "4 285zł - Kaufland    Informacje o sprzedawcy:  NB MOBILE S.R.L. Bulevardul Mihail Kogălniceanu 12 Corp C4, Camera 1, Etaj 1 Sector 5 050101 București<b..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "410° - LEGO Icons 11377 Władca pierścieni: Minas Tirith | w opisie 77082, 75382, 75442, 21330, 10356, 75397, 75367, 75419 | 75394 Amazon.pl",
-   "kaina_eur": 588.0,
-   "parduotuve": "Proshop",
-   "nuoroda": "https://www.pepper.pl/promocje/lego-icons-11377-wladca-pierscieni-minas-tirith-w-opisie-77082-75394-75382-75442-21330-10356-75397-75367-75419-1394046",
-   "data": "2026-11-19T11:31Z",
-   "aprasymas": "2 499zł - Proshop       LEGO Icons 11377 Władca pierś..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "113° - ORAL-B iO Series 6 mit Reiseetui Elektrische Zahnbürste",
-   "kaina_eur": 88.0,
-   "parduotuve": "MediaMarkt",
-   "nuoroda": "https://www.preisjaeger.at/deals/oral-b-io-series-6-mit-reiseetui-elektrische-zahnburste-372869",
-   "data": "2026-11-19T11:21Z",
-   "aprasymas": "88€ - MediaMarkt     Erhältlich in den Farben Black Lava, White, Grey Opal, Pink Sand.  Ladestation, Reiseetui, Bürstenaufbewahrungsbox und zwei unterschiedliche Aufste..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "150° - Philips Sonicare Next-Generation DiamondClean 9900 Prestige Schallzahnbürste HX9813/92 (Quarzschwarz, Touch-Display, SenseIQ)",
-   "kaina_eur": 282.34,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/philips-sonicare-next-generation-diamondclean-9900-prestige-schallzahnburste-hx981392-quarzschwarz-touch-display-senseiq-372870",
-   "data": "2026-11-19T11:21Z",
-   "aprasymas": "282,34€ - Amazon     Philips’ Top-Modell zum deutlich reduzierten Preis: Die neue Sonicare DiamondClean 9900 Prestige hat ein Touch-Display, Echtzeit-Feedback zur Putzabdeckung u..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "157° - BRIO World Holzeisenbahn Sammeldeal: BRIO Adventskalender, Großes Bahn Reisezug Set, Batterie-Dampflok, Dinosaurier Deluxe Set, und mehr",
-   "kaina_eur": 24.41,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/brio-world-holzeisenbahn-sammeldeal-brio-adventskalender-grosses-bahn-reisezug-set-batterie-dampflok-dinosaurier-deluxe-set-und-mehr-372880",
-   "data": "2026-11-19T11:20Z",
-   "aprasymas": "24,41€ - Amazon     Liebe Preisjäger,  wenn ihr die Kinderaugen unter dem Weihnachtsbaum zum leuchten bringen wollt, sind die Zugsets von BRIO World immer eine gute Wahl. M..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "112° - Smoby - Tefal Evo Küche – mitwachsende Kinderküche mit Spüle, Herd, Essecke, viel Zubehör, Wasserhahn, magischer Pancake-Pfanne",
-   "kaina_eur": 80.04,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/smoby-tefal-evo-kuche-mitwachsende-kinderkuche-mit-spule-herd-essecke-viel-zubehor-wasserhahn-magischer-pancake-pfanne-372811",
-   "data": "2026-11-19T11:19Z",
-   "aprasymas": "80,04€ - Amazon     Preisvergleich ab  93,32€   ..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "206° - (Sammel-Thread) GTA VI ist da und ihr könnt es günstiger abstauben - Alle Infos und Deals zum Game des Jahrhunderts",
-   "kaina_eur": 68.76,
-   "parduotuve": "",
-   "nuoroda": "https://www.preisjaeger.at/deals/sammel-thread-gta-vi-ist-da-und-ihr-konnt-es-gunstiger-abstauben-alle-infos-und-deals-zum-game-des-jahrhunderts-372878",
-   "data": "2026-11-19T11:13Z",
-   "aprasymas": "68,76€     Wer sich gestern nicht nach Neuseeland gebeamt hat, der konnte aber Mitternacht GTA VI spielen und viele haben das genützt um gleich in die Welt von Leonida ..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "159° - emma & noah Baby Schlafsack mit Füßen 2.5 TOG oder 1.0 TOG, Bio-Baumwolle ab 15,06€ mit Babywunschliste",
-   "kaina_eur": 15.06,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/emma-noah-baby-schlafsack-mit-fussen-25-tog-bio-baumwolle-ab-1506eur-mit-babywunschliste-372872",
-   "data": "2026-11-19T11:12Z",
-   "aprasymas": "17,30€ - Amazon     Liebe Mamas & Papas,  da die Nächte langsam wieder etwas kälter werden, kommt das Angebot für einen wärmeren Schlafsack doch wirklich gelegen. <p..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "429° - SONOFF Termometr Higrometr Zigbee SNZB-02UL Zigbee z wyświetlaczem E-Ink 2,9\"",
-   "kaina_eur": 20.66,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/sonoff-termometr-higrometr-zigbee-snzb-02ul-zigbee-z-wyswietlaczem-e-ink-29-1394091",
-   "data": "2026-11-19T10:55Z",
-   "aprasymas": "87,80zł - Amazon.pl    Sonoff SNZB-02UL e-ink – bezprzewodowy czujnik temperatury i wilgotności Zigbee 3.0. Kompaktowy, energooszczędny, współpracuje z Zigbee2MQTT i Home Assistant. I..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "113° - Fiskars Spaltaxt X27-XXL (96 cm) um 59,86 € statt 121,93 € (−51 %)",
-   "kaina_eur": 59.86,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/fiskars-spaltaxt-x27-xxl-96-cm-um-5986-eur-statt-12193-eur-51-372860",
-   "data": "2026-11-19T10:47Z",
-   "aprasymas": "59,86€ - Amazon     Die große Fiskars Spaltaxt X27 gibt's bei Amazon gerade um 57,46 €. Mit den 2,40 € Paketsteuer zahlt ihr 59,86 €. Der nächstbillige Shop ist Konzano. Mi..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "332° - Apple iPhone 18 Pro 256GB błękit lodowca",
-   "kaina_eur": 1437.65,
-   "parduotuve": "Allegro",
-   "nuoroda": "https://www.pepper.pl/promocje/apple-iphone-18-pro-256gb-blekit-lodowca-1393725",
-   "data": "2026-11-19T10:35Z",
-   "aprasymas": "6 110,03zł - Allegro     Dobra cena na  iPhone'a 18 Pro  w wersji  256 GB  (kolor niebieski). W innych sklepach trzeba dać za niego 6299 zł, więc wychod..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "355° - [3 sztuki] SodaStream Cylinder z Gazem Co2, 60l CQC, Różowy, 3011084 [69,66 zł/szt przy zakupie 3]",
-   "kaina_eur": 16.39,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/3-sztuki-sodastream-cylinder-z-gazem-co2-60l-cqc-rozowy-3011084-6966-zlszt-przy-zakupie-3-1393795",
-   "data": "2026-11-19T10:34Z",
-   "aprasymas": "208,99zł - Amazon.pl     [3 sztuki] SodaStream Cylinder z Gazem Co2, 60l CQC, Różowy, 3011084 [69,66 zł/szt przy zakupie 3].  Dodajemy do koszyka 3 sztuki i używamy kodu BFW2026..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "394° - Ładowarka sieciowa Sanicata GaN 180W 6 portów USB-C USB-A szybkie ładowanie LCD czarna",
-   "kaina_eur": 18.89,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/ladowarka-sieciowa-sanicata-gan-180w-6-portow-usb-c-usb-a-szybkie-ladowanie-lcd-czarna-1393877",
-   "data": "2026-11-19T10:33Z",
-   "aprasymas": "80,29zł - Amazon.pl     Wielofunkcyjna ładowarka sieciowa Sanicata o łącznej mocy 180 W, wyposażona w 6 portów USB, w tym 3 USB-C i 3 USB-A. Umożliwia jednoczesne ładowanie laptopów..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "360° - KICHLY żeliwny garnek Dutch Oven 2 w 1 z pokrywką grillową – 4,7 l (5 QT) | Bestseller Amazon",
-   "kaina_eur": 18.1,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/kichly-zeliwny-garnek-dutch-oven-2-w-1-z-pokrywka-grillowa-47-l-5-qt-bestseller-amazon-1393894",
-   "data": "2026-11-19T10:32Z",
-   "aprasymas": "76,94zł - Amazon.pl    óry łączy funkcje tradycyjnego garnka do duszenia i pieczenia oraz patelni grillowej. To praktyczne rozwiązanie dla miłośników domowego gotowania, pieczenia chl..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "451° - Podkładka pod mysz XXL 900 x 400 mm, wodoodporna, obszyte krawędzie II różowa w opisie",
-   "kaina_eur": 4.06,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/podkladka-pod-mysz-xxl-900-x-400-mm-wodoodporna-obszyte-krawedzie-1394054",
-   "data": "2026-11-19T10:29Z",
-   "aprasymas": "17,25zł - Amazon.pl     Darmowa dostawa Prime.    Podkładka pod mysz dla graczy, duża, 900 x 400 różowa 19,54 zł  https://www.amazon.pl/dp..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "190° - PSN Store Guthaben -14% = GTA VI um 68,76€",
-   "kaina_eur": 68.76,
-   "parduotuve": "Instant Gaming",
-   "nuoroda": "https://www.preisjaeger.at/deals/psn-store-guthaben-14-gta-vi-um-6876eur-372873",
-   "data": "2026-11-19T10:27Z",
-   "aprasymas": "68,76€ - Instant Gaming     Derzeit gibt es bei Instant Gaming -14% auf PSN Store Guthaben.  Wer es auf GTA VI abgesehen hat, bekommt das Spiel also für 68,76€ effektiv (4 x 20€ Gu..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "289° - [WHD] Apple AirPods Max USB‑C Północ",
-   "kaina_eur": 323.55,
-   "parduotuve": "Amazon.de",
-   "nuoroda": "https://www.pepper.pl/promocje/whd-apple-airpods-max-polnoc-w-opisie-apple-airpods-max-2-w-kolorze-polnoc-lub-ksiezycowa-poswiata-1386501",
-   "data": "2026-11-19T10:20Z",
-   "aprasymas": "1 375,09zł - Amazon.de     Amazon Warehouse — produkt z outletu/zwrotów, sprzedaje i wysyła Amazon.  Darmowa dostawa  do InPost Paczkomat. Stan:  Used -..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "319° - ALPIDEX Koszulka Sportowa Męska 5-Pak Krótki Rękaw Oddychająca Basic S-5XL, 2 wzory",
-   "kaina_eur": 16.0,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/alpidex-koszulka-sportowa-meska-5-pak-krotki-rekaw-oddychajaca-basic-s-5xl-2-wzory-1393860",
-   "data": "2026-11-19T10:12Z",
-   "aprasymas": "67,99zł - Amazon.pl     https://www.amazon.pl/ALPIDEX-Koszulka-Funkcyjne-Szybkoschn%C4%85ca-Poliester/dp/B0GFX1SLM8? -Dynamic 67.99zł  KOMFORT: lekki i oddychajacy material wyk..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "137° - LEGO Icons 11370 Stranger Things: The Creel House",
-   "kaina_eur": 209.9,
-   "parduotuve": "Proshop",
-   "nuoroda": "https://www.preisjaeger.at/deals/lego-icons-11370-stranger-things-the-creel-house-372864",
-   "data": "2026-11-19T10:11Z",
-   "aprasymas": "209,90€ - Proshop     Bei proshop gibt es aktuell das LEGO Icons Set 11370 Stranger Things: The Creel House für 209.90 und gratis Versand  LEGO® Icons Stranger Things: The Cr..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "313° - Zakrętarka udarowa Milwaukee M18 FID3-0",
-   "kaina_eur": 134.12,
-   "parduotuve": "DOMiTECH",
-   "nuoroda": "https://www.pepper.pl/promocje/zakretarka-udarowa-milwaukee-m18-fid3-0-1393615",
-   "data": "2026-11-19T10:04Z",
-   "aprasymas": "570zł - DOMiTECH    •\tNr Domitech: 50185 •\tNr producenta: 4933498061 •\tEAN: 4058546512217"
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "839° - SONOFF S61s Inteligentne Gniazdko WiFi 16A/3840W Zdalne Sterowanie",
-   "kaina_eur": 26.6,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/sonoff-s61s-inteligentne-gniazdko-wifi-16a3840w-zdalne-sterowanie-1385565",
-   "data": "2026-11-19T10:02Z",
-   "aprasymas": "113,05zł - Amazon.pl      SONOFF S61s – zestaw 4 inteligentnych gniazdek WiFi z Matter   Zestaw 4 smart gniazdek z obsługą Matter i maksymalnym obciążeniem 16 A (..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "186° - Russell Hobbs SatisFry Air XXL 8.3l",
-   "kaina_eur": 55.63,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/russell-hobbs-satisfry-air-xxl-83l-372866",
-   "data": "2026-11-19T10:00Z",
-   "aprasymas": "55,63€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit den Russell Hobbs SatisFry Air XXL 8.3l um 55,63€.  Der Preisvergleich beginnt bei <a href=\"https://g..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "369° - Termorobot Silvercrest MC Smart z Wi-Fi, 1200W, czarny stacjonarnie, na Black Friday, online @Lidl",
-   "kaina_eur": 352.71,
-   "parduotuve": "Lidl",
-   "nuoroda": "https://www.pepper.pl/promocje/termorobot-silvercrest-mc-smart-z-wi-fi-1200w-czarny-stacjonarnie-online-at-lidl-1388877",
-   "data": "2026-11-19T09:59Z",
-   "aprasymas": "1 499zł - Lidl    Termorobot Silvercrest MC Smart z Wi-Fi, 1200W, czarny stacjonarnie, online @Lidl (y)"
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "180° - Monopoly Deal: Harry Potter Kartenspiel (Deutsche Fassung, 2-5 Spieler ab 8 Jahren)",
-   "kaina_eur": 8.44,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/monopoly-deal-harry-potter-kartenspiel-deutsche-fassung-2-5-spieler-ab-8-jahren-372867",
-   "data": "2026-11-19T09:57Z",
-   "aprasymas": "8,44€ - Amazon     Magischer Spielspaß für die Hosentasche: Das Kartenspiel Monopoly Deal in der Harry-Potter-Edition gibt es bei Amazon gerade um 6,04 €. Inklusive 2,40 € Pake..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "443° - Chusteczki WaterWipes Sensitive+ Newborn & Baby Wipes, 99,9% wody, 18 opak.",
-   "kaina_eur": 35.29,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/chusteczki-waterwipes-1394100",
-   "data": "2026-11-19T09:56Z",
-   "aprasymas": "149,99zł - Amazon.pl    Chusteczki Waterwipes  0,14 zł za sztukę Plus działa kod na -50 zł przy zakupie dwóch opakowań  Chusteczki WaterWipes dostępne na Amazon za 149..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "457° - adidas TERREX Buty trekkingowe TECHNICAL HIKING z podeszwą continental (39 1/3-49 1/3) | bestsecret",
-   "kaina_eur": 42.25,
-   "parduotuve": "BestSecret",
-   "nuoroda": "https://www.pepper.pl/promocje/adidas-terrex-buty-trekkingowe-technical-hiking-z-podeszwa-continental-39-13-49-13-bestsecret-1394057",
-   "data": "2026-11-19T09:54Z",
-   "aprasymas": "179,55zł - BestSecret     bestsecre..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "229° - Oppo Find X9 direkt bei Oppo um 699 Euro + weitere Codes!",
-   "kaina_eur": 699.0,
-   "parduotuve": "OPPO",
-   "nuoroda": "https://www.preisjaeger.at/deals/oppo-find-x9-direkt-bei-oppo-um-699-euro-372871",
-   "data": "2026-11-19T09:53Z",
-   "aprasymas": "699€ - OPPO     Das  Oppo Find X9  gibt es aktuell wieder um 699 Euro bei Oppo direkt. Nutzt dazu den Code  BFOPPOX9100.  <a href=\"https://geiz..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "335° - ARCTIC M2 Pro radiator do dysków SSD M.2 2280 z podkładkami termicznymi ARCTIC TP-3, kompatybilny z PC i PS5, do dwu- i jednostronnych",
-   "kaina_eur": 3.26,
-   "parduotuve": "Amazon.pl",
-   "nuoroda": "https://www.pepper.pl/promocje/arctic-m2-pro-radiator-do-dyskow-ssd-m2-2280-z-podkladkami-termicznymi-arctic-tp-3-kompatybilny-z-pc-i-ps5-do-dwu-i-jednostronnych-1393881",
-   "data": "2026-11-19T09:46Z",
-   "aprasymas": "13,87zł - Amazon.pl    Wydajne rozpraszanie ciepła: niższa temperatura SSD i szybsze chłodzenie. Dzięki dodatkowej masie, ARCTIC M2 Pro skutecznie rozprasza ciepło i przekazuje je do ..."
-  },
-  {
-   "salis": "PL",
-   "pavadinimas": "325° - Lody jak dawniej Bracia Koral 900ml + inne lody na przecenie w opisie - Lidl",
-   "kaina_eur": 1.17,
-   "parduotuve": "Lidl",
-   "nuoroda": "https://www.pepper.pl/promocje/lody-jak-dawniej-bracia-koral-900ml-lidl-1393926",
-   "data": "2026-11-19T09:45Z",
-   "aprasymas": "4,99zł - Lidl    W Lidlu w śŵietnej cenie lody jak dawniej - Bracia Koral  900. W promocji tylko ten 1 rodzaj widoczny na fotce czyli smak tarta cytrynowa. Data ważności partii ..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "199° - Aqara Smart Lock U200 Lite, Matter over Thread",
-   "kaina_eur": 72.98,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/aqara-smart-lock-u200-lite-matter-over-thread-372840",
-   "data": "2026-11-19T09:33Z",
-   "aprasymas": "72,98€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit das Aqara Smart Lock U200 Lite, Matter over Thread um 72,98€.  Der Preisvergleich beginnt bei <a href..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "173° - Logitech G Driving Force Schalthebel, SIM-Racing-Zubehör",
-   "kaina_eur": 27.6,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/logitech-g-driving-force-schalthebel-sim-racing-zubehor-372857",
-   "data": "2026-11-19T09:32Z",
-   "aprasymas": "27,60€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit den Logitech G Driving Force Schalthebel um 27,60€.  Der Preisvergleich beginnt bei <a href=\"https://..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "364° - Siemens EQ6 plus s300 TE653501DE Kaffeevollautomat",
-   "kaina_eur": 404.75,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/siemens-eq6-plus-s300-te653501de-kaffeevollautomat-372640",
-   "data": "2026-11-19T09:31Z",
-   "aprasymas": "404,75€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit den Siemens EQ6 plus s300 TE653501DE Kaffeevollautomat  um 404,75€ inklusive Paketsteuer.  Der Preisv..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "194° - LEGO Icons 10356 Star Trek - U.S.S. Enterprise NCC-1701-D",
-   "kaina_eur": 278.9,
-   "parduotuve": "Proshop",
-   "nuoroda": "https://www.preisjaeger.at/deals/lego-icons-10356-star-trek-uss-enterprise-ncc-1701-d-372863",
-   "data": "2026-11-19T09:26Z",
-   "aprasymas": "278,90€ - Proshop     Bei proshop gibt es aktuell das  Icons Set Star Trek - U.S.S. Enterprise NCC-1701-D9 für 278.90 und gratis Versand   Produktdetails:</s..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "211° - Mattel Fisher-Price Schlummer-Otter Spieluhr",
-   "kaina_eur": 20.54,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/mattel-fisher-price-schlummer-otter-spieluhr-372851",
-   "data": "2026-11-19T09:22Z",
-   "aprasymas": "20,54€ - Amazon     Hallo Leute,  Bei Amazon erhaltet ihr derzeit den Mattel Fisher-Price Schlummer-Otter Spieluhr um 20,54€.  Der Preisvergleich beginnt be <a href=\"h..."
-  },
-  {
-   "salis": "ES",
-   "pavadinimas": "206° - UGREEN MagFlow Qi2 25W Cargador Inalámbrico 2 en 1 Flexible MagSafe",
-   "kaina_eur": 29.99,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.chollometro.com/ofertas/ugreen-magflow-qi2-25w-cargador-inalambrico-2-en-1-flexible-magsafe-2054635",
-   "data": "2026-11-19T06:40Z",
-   "aprasymas": "29,99€ - Amazon     El  UGREEN MagFlow Qi2 25W  es un  cargador magnético 2 en 1 compatible con MagSafe : carga  simultáneamente iPhone y Ai..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "116° - Kyocera Ecosys PA2101cwx, Laser, mehrfarbig",
-   "kaina_eur": 180.68,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/kyocera-ecosys-pa2101cwx-laser-mehrfarbig-372816",
-   "data": "2026-11-19T06:39Z",
-   "aprasymas": "180,68€ - Amazon     Preisvergleich ab  220,45€   B..."
-  },
-  {
-   "salis": "AT",
-   "pavadinimas": "109° - Xbox Wireless Controller – Carbon Black Series",
-   "kaina_eur": 44.21,
-   "parduotuve": "Amazon",
-   "nuoroda": "https://www.preisjaeger.at/deals/xbox-wireless-controller-carbon-black-series-372817",
-   "data": "2026-11-19T06:39Z",
-   "aprasymas": "44,21€ - Amazon     Preis mit Versand ohne Eile. Preisvergleich ab <a href=\"https://geizhals.at/microsoft-xbox-series-x-wireless-controller-carbon-black-xbox-sx-xbox-one-pc-ep2-..."
   }
  ]
 }

@@ -1,21 +1,37 @@
 {
- "atnaujinta": "2026-11-19T07:30Z",
- "pastaba": "Peržiūrėta ~300 ES akcijų (11-14–11-19). Proxy neveikia (401), akcijos renkamos tiesiogiai: AT, PL, FR, ES (be mydealz DE). Siuntimo kainos – prielaidos, kol nepatikrintos krepšelyje. Pirmadienio Turtle Beach ir Bose išimti kaip pasenę.",
+ "atnaujinta": "2026-11-23T07:10Z",
+ "pastaba": "11-23: peržiūrėta ~300 ES akcijų (11-20–11-22). Patikrinti ir atmesti dėl per mažos maržos (Black Friday LT kainos irgi krito): AirPods Pro 3 193 € vs varle 229 €; Garmin Instinct E 158 € vs Elesen 170 €; Logitech G Pro X Superlight 2 70 € vs varle 100 €. Proxy neveikia (401), mydealz DE nerenkamas.",
  "progos": [
   {
    "preke": "Beats Solo 4 belaidės ausinės (naujos)",
    "busena": "tikrinti",
    "balas": 7,
-   "pirkimas": {"parduotuve": "Amazon.es (per chollometro)", "salis": "ES", "kaina": 99, "siuntimas_lt": 8, "siuntimas_pastaba": "prielaida ~8 €; akcija iš 11-17 – patikrink, ar dar galioja ir ar Amazon.es siunčia į LT", "nuoroda": "https://www.chollometro.com/ofertas/beats-solo-4-auriculares-wireless-bluetooth-2071751", "kaina_orig": ""},
+   "pirkimas": {
+    "parduotuve": "Amazon.es (per chollometro)",
+    "salis": "ES",
+    "kaina": 99,
+    "siuntimas_lt": 8,
+    "siuntimas_pastaba": "prielaida ~8 €; akcija iš 11-17 – patikrink, ar dar galioja ir ar Amazon.es siunčia į LT",
+    "nuoroda": "https://www.chollometro.com/ofertas/beats-solo-4-auriculares-wireless-bluetooth-2071751",
+    "kaina_orig": ""
+   },
    "lt": [
-    {"saltinis": "Varle.lt – Solo 4 (rožinės)", "kaina": 190.18, "nuoroda": "https://www.varle.lt/beats-solo-4/"},
-    {"saltinis": "Varle.lt – Solo 4 (juodos)", "kaina": 199.99, "nuoroda": "https://www.varle.lt/beats-solo-4/"}
+    {
+     "saltinis": "Varle.lt – Solo 4 (rožinės)",
+     "kaina": 190.18,
+     "nuoroda": "https://www.varle.lt/beats-solo-4/"
+    },
+    {
+     "saltinis": "Varle.lt – Solo 4 (juodos)",
+     "kaina": 199.99,
+     "nuoroda": "https://www.varle.lt/beats-solo-4/"
+    }
    ],
    "pardavimo_kaina": 161,
    "pelnas": 46,
    "roi": 43,
    "kodel": "Pigiausia LT parduotuvėje 190 €, todėl naujas Vinted parsiduotų ~160 €. Žinomas prekės ženklas, greitai parduodamas.",
-   "rizika": "Akcija gali būti pasibaigusi; Amazon.es siuntimas į LT nepatvirtintas; spalva gali skirtis nuo pigiausios LT."
+   "rizika": "LT kaina tikrinta 11-19 (prieš Black Friday). Akcija iš 11-17 – gali būti pasibaigusi; Amazon.es siuntimas į LT nepatvirtintas."
   }
  ],
  "asmeniniai": [
@@ -23,8 +39,12 @@
    "preke": "Yamaha XJ6 Naked vėjo stiklas (skaidrus/tamsintas)",
    "riba": "≤ 50 € su siuntimu (iki 60 € – derėtis)",
    "busena": "Nerasta",
-   "geriausias": {"aprasymas": "Motorcyclescreens.eu touring stiklas XJ6 N 2009–2017", "kaina": 131.70, "nuoroda": "https://motorcyclescreens.eu/motorcycle-windshields-for-yamaha/332-yamaha-xj6-n-na-2009-2017-touring-windscreen-windshield"},
-   "pastaba": "11-19: naujų pigesnių radinių nėra (eBay.de 35 cm touring – 184 €). Tikrinama pirmadieniais ir ketvirtadieniais."
+   "geriausias": {
+    "aprasymas": "Motorcyclescreens.eu touring stiklas XJ6 N 2009–2017",
+    "kaina": 131.7,
+    "nuoroda": "https://motorcyclescreens.eu/motorcycle-windshields-for-yamaha/332-yamaha-xj6-n-na-2009-2017-touring-windscreen-windshield"
+   },
+   "pastaba": "11-23: naujų radinių ≤50 € nėra (eBay.de skelbimai neatsidaro patikrai). Tikrinama pirmadieniais ir ketvirtadieniais."
   }
  ]
 }

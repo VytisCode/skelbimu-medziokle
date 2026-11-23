@@ -1,0 +1,224 @@
+{
+ "AirPods Pro 3": {
+  "laikas": "2026-11-23T06:40Z",
+  "saltiniai": {
+   "kainos.lt": {
+    "url": "https://www.kainos.lt/paieska?q=AirPods+Pro+3",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "varle.lt": {
+    "url": "https://www.varle.lt/search/?q=AirPods+Pro+3",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "pigu.lt": {
+    "url": "https://pigu.lt/lt/search?q=AirPods+Pro+3",
+    "kodas": 403,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "vinted.lt (nauji)": {
+    "url": "https://www.vinted.lt/catalog?search_text=AirPods+Pro+3&status_ids[]=6&status_ids[]=1&order=price_low_to_high",
+    "kodas": 200,
+    "kainos": [
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0
+    ],
+    "min": 1.0,
+    "mediana": 1.75
+   }
+  }
+ },
+ "Logitech G Pro X Superlight 2": {
+  "laikas": "2026-11-23T06:40Z",
+  "saltiniai": {
+   "kainos.lt": {
+    "url": "https://www.kainos.lt/paieska?q=Logitech+G+Pro+X+Superlight+2",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "varle.lt": {
+    "url": "https://www.varle.lt/search/?q=Logitech+G+Pro+X+Superlight+2",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "pigu.lt": {
+    "url": "https://pigu.lt/lt/search?q=Logitech+G+Pro+X+Superlight+2",
+    "kodas": 403,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "vinted.lt (nauji)": {
+    "url": "https://www.vinted.lt/catalog?search_text=Logitech+G+Pro+X+Superlight+2&status_ids[]=6&status_ids[]=1&order=price_low_to_high",
+    "kodas": 200,
+    "kainos": [
+     9.0,
+     9.0,
+     9.0,
+     10.15,
+     10.15,
+     10.15,
+     10.15,
+     35.0,
+     35.0,
+     35.0,
+     37.45,
+     37.45
+    ],
+    "min": 9.0,
+    "mediana": 71.98
+   }
+  }
+ },
+ "Garmin Instinct E 45mm": {
+  "laikas": "2026-11-23T06:41Z",
+  "saltiniai": {
+   "kainos.lt": {
+    "url": "https://www.kainos.lt/paieska?q=Garmin+Instinct+E+45mm",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "varle.lt": {
+    "url": "https://www.varle.lt/search/?q=Garmin+Instinct+E+45mm",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "pigu.lt": {
+    "url": "https://pigu.lt/lt/search?q=Garmin+Instinct+E+45mm",
+    "kodas": 403,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "vinted.lt (nauji)": {
+    "url": "https://www.vinted.lt/catalog?search_text=Garmin+Instinct+E+45mm&status_ids[]=6&status_ids[]=1&order=price_low_to_high",
+    "kodas": 200,
+    "kainos": [
+     1.15,
+     6.95,
+     10.0,
+     15.0,
+     20.0,
+     500.0,
+     2000.0,
+     2000.0
+    ],
+    "min": 1.15,
+    "mediana": 20.0
+   }
+  }
+ },
+ "Einhell PXC starter kit 2,5Ah": {
+  "laikas": "2026-11-23T06:41Z",
+  "saltiniai": {
+   "kainos.lt": {
+    "url": "https://www.kainos.lt/paieska?q=Einhell+PXC+starter+kit+2%2C5Ah",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "varle.lt": {
+    "url": "https://www.varle.lt/search/?q=Einhell+PXC+starter+kit+2%2C5Ah",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "pigu.lt": {
+    "url": "https://pigu.lt/lt/search?q=Einhell+PXC+starter+kit+2%2C5Ah",
+    "kodas": 403,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "vinted.lt (nauji)": {
+    "url": "https://www.vinted.lt/catalog?search_text=Einhell+PXC+starter+kit+2%2C5Ah&status_ids[]=6&status_ids[]=1&order=price_low_to_high",
+    "kodas": 200,
+    "kainos": [
+     1.15,
+     6.95,
+     10.0,
+     15.0,
+     20.0,
+     500.0,
+     2000.0,
+     2000.0
+    ],
+    "min": 1.15,
+    "mediana": 20.0
+   }
+  }
+ },
+ "Garmin Instinct 3 AMOLED 50mm": {
+  "laikas": "2026-11-23T06:41Z",
+  "saltiniai": {
+   "kainos.lt": {
+    "url": "https://www.kainos.lt/paieska?q=Garmin+Instinct+3+AMOLED+50mm",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "varle.lt": {
+    "url": "https://www.varle.lt/search/?q=Garmin+Instinct+3+AMOLED+50mm",
+    "kodas": -1,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "pigu.lt": {
+    "url": "https://pigu.lt/lt/search?q=Garmin+Instinct+3+AMOLED+50mm",
+    "kodas": 403,
+    "kainos": [],
+    "min": null,
+    "mediana": null
+   },
+   "vinted.lt (nauji)": {
+    "url": "https://www.vinted.lt/catalog?search_text=Garmin+Instinct+3+AMOLED+50mm&status_ids[]=6&status_ids[]=1&order=price_low_to_high",
+    "kodas": 200,
+    "kainos": [
+     1.15,
+     6.95,
+     10.0,
+     15.0,
+     20.0,
+     260.0,
+     260.0,
+     260.0,
+     273.7,
+     273.7,
+     273.7,
+     273.7
+    ],
+    "min": 1.15,
+    "mediana": 385.0
+   }
+  }
+ }
+}

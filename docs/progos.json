@@ -1,50 +1,18 @@
 {
- "atnaujinta": "2026-11-23T07:10Z",
- "pastaba": "11-23: peržiūrėta ~300 ES akcijų (11-20–11-22). Patikrinti ir atmesti dėl per mažos maržos (Black Friday LT kainos irgi krito): AirPods Pro 3 193 € vs varle 229 €; Garmin Instinct E 158 € vs Elesen 170 €; Logitech G Pro X Superlight 2 70 € vs varle 100 €. Proxy neveikia (401), mydealz DE nerenkamas.",
- "progos": [
-  {
-   "preke": "Beats Solo 4 belaidės ausinės (naujos)",
-   "busena": "tikrinti",
-   "balas": 7,
-   "pirkimas": {
-    "parduotuve": "Amazon.es (per chollometro)",
-    "salis": "ES",
-    "kaina": 99,
-    "siuntimas_lt": 8,
-    "siuntimas_pastaba": "prielaida ~8 €; akcija iš 11-17 – patikrink, ar dar galioja ir ar Amazon.es siunčia į LT",
-    "nuoroda": "https://www.chollometro.com/ofertas/beats-solo-4-auriculares-wireless-bluetooth-2071751",
-    "kaina_orig": ""
-   },
-   "lt": [
-    {
-     "saltinis": "Varle.lt – Solo 4 (rožinės)",
-     "kaina": 190.18,
-     "nuoroda": "https://www.varle.lt/beats-solo-4/"
-    },
-    {
-     "saltinis": "Varle.lt – Solo 4 (juodos)",
-     "kaina": 199.99,
-     "nuoroda": "https://www.varle.lt/beats-solo-4/"
-    }
-   ],
-   "pardavimo_kaina": 161,
-   "pelnas": 46,
-   "roi": 43,
-   "kodel": "Pigiausia LT parduotuvėje 190 €, todėl naujas Vinted parsiduotų ~160 €. Žinomas prekės ženklas, greitai parduodamas.",
-   "rizika": "LT kaina tikrinta 11-19 (prieš Black Friday). Akcija iš 11-17 – gali būti pasibaigusi; Amazon.es siuntimas į LT nepatvirtintas."
-  }
- ],
+ "atnaujinta": "2026-11-26T07:05Z",
+ "pastaba": "11-26: peržiūrėta ~300 ES akcijų (11-23–11-25). Atmesta dėl maržos: AirPods Pro 3 180,50 € (Amazon.de) vs varle 229 €; Logitech G502 X Lightspeed 78 € vs varle 91 €; RØDE Wireless ME 68 € vs varle ~99 €; Pocket 3 Creator 344 € – virš kapitalo. Beats Solo 4 (11-17) išimta – pasenusi. Proxy neveikia (401), mydealz DE nerenkamas.",
+ "progos": [],
  "asmeniniai": [
   {
    "preke": "Yamaha XJ6 Naked vėjo stiklas (skaidrus/tamsintas)",
    "riba": "≤ 50 € su siuntimu (iki 60 € – derėtis)",
-   "busena": "Nerasta",
+   "busena": "Tikrinti",
    "geriausias": {
-    "aprasymas": "Motorcyclescreens.eu touring stiklas XJ6 N 2009–2017",
-    "kaina": 131.7,
-    "nuoroda": "https://motorcyclescreens.eu/motorcycle-windshields-for-yamaha/332-yamaha-xj6-n-na-2009-2017-touring-windscreen-windshield"
+    "aprasymas": "Kleinanzeigen (Mainz): „Yamaha XJ6 / FZ8 windschild“, 50 € VB, siunčia – patikrink, ar tinka XJ6 N",
+    "kaina": 50,
+    "nuoroda": "https://www.kleinanzeigen.de/s-anzeige/yamaha-xj6-fz8-windschild/3498934372-306-5326"
    },
-   "pastaba": "11-23: naujų radinių ≤50 € nėra (eBay.de skelbimai neatsidaro patikrai). Tikrinama pirmadieniais ir ketvirtadieniais."
+   "pastaba": "11-26: kandidatas 50 € + siuntimas į LT (~10–15 €) – virš 50 € ribos, derėtis. Skelbimas iš 08-30, tinkamumas XJ6 N nepatvirtintas. Kitas: originalus Yamaha XJ6 (09-) fly screen NAUJAS – 130 €."
   }
  ]
 }
